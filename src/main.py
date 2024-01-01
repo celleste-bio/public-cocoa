@@ -9,10 +9,9 @@ from update_nacode import update_nacodes
 from scrape_ref_links import scrape_ref_links
 from download_ref_tables import download_tables
 
-def main():
-    script_path = os.path.realpath(__file__)
-    project_path = os.path.dirname(os.path.dirname(script_path))
+from combine_tables import extract_table_names, combine_tables
 
+def get_data(project_path):
     data_dir = os.path.join(project_path, "data")
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
@@ -40,6 +39,33 @@ def main():
 
     print("downloading tables")
     download_tables(ref_links_file, tables_dir)
+
+def sort_data(project_path):
+    tables_dir = os.path.join(project_path, "data", "tables")
+    all_tables = os.listdir(tables_dir)
+    categories = extract_table_names(all_tables)
+
+    combined_tables_dir = os.path.join(project_path, "data", "combined_tables")
+    if not os.path.exists(combined_tables_dir):
+        os.makedirs(combined_tables_dir)
+
+    print("combinning tables")
+    for category in categories:
+        file_paths = [os.path.join(tables_dir, table) for table in all_tables if table.endswith(f"{category}.csv")]
+        df = combine_tables(file_paths)
+        new_file_path = os.path.join(combined_tables_dir, f"{category}.csv")
+        df.to_csv(new_file_path, index=False)
+
+
+def main():
+    script_path = os.path.realpath(__file__)
+    project_path = os.path.dirname(os.path.dirname(script_path))
+
+    get_data(project_path)
+
+    sort_data(project_path)
+
+
 
 if __name__ == "__main__":
     main()
