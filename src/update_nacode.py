@@ -8,6 +8,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, parse_qs
+from tqdm import tqdm
 
 def search_nacode(name):
     nacode = ""
@@ -29,7 +30,8 @@ def update_nacodes(collection_file):
     collection = pd.read_csv(collection_file)
     collection["NA Code"] = ''
 
-    for index, name in enumerate(collection["Clone Name"]):
+    # Add a progress bar to the loop
+    for index, name in tqdm(enumerate(collection["Clone Name"]), total=len(collection), desc="Updating NA Codes"):
         nacode = search_nacode(name)
         collection.loc[index, "NA Code"] = nacode
 

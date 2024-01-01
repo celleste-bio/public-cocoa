@@ -4,7 +4,9 @@ beautifulsoup4==4.12.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
 domdf-python-tools==3.8.0.post2
+html5lib==1.1
 idna==3.6
+lxml==5.0.0
 natsort==8.4.0
 numpy==1.26.2
 packaging==23.2
@@ -17,6 +19,8 @@ regex==2023.12.25
 requests==2.31.0
 six==1.16.0
 soupsieve==2.5
+tqdm==4.66.1
 typing_extensions==4.9.0
 tzdata==2023.3
 urllib3==2.1.0
+webencodings==0.5.1
