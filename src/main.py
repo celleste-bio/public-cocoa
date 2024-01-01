@@ -10,6 +10,7 @@ from scrape_ref_links import scrape_ref_links
 from download_ref_tables import download_tables
 
 from combine_tables import extract_table_names, combine_tables
+from build_sqlite import build_database
 
 def get_data(project_path):
     data_dir = os.path.join(project_path, "data")
@@ -65,6 +66,7 @@ def main():
 
     sort_data(project_path)
 
+    build_database(project_path)
 
 
 if __name__ == "__main__":
