@@ -64,7 +64,7 @@ def download_ref_info(ref_links_file, output_dir):
             new_row = {"refcode": refcode, "title": title, "year": year}
             ref_info = ref_info._append(new_row, ignore_index=True)
 
-    output_file = os.path.join(output_dir, "ref_years.csv")
+    output_file = os.path.join(output_dir, "ref_info.csv")
     ref_info.to_csv(output_file, index=False)
          
 # run as a script
