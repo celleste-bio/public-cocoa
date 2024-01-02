@@ -26,6 +26,7 @@ def generate_file_name(url):
     return file_name
 
 def download_tables(ref_links_file, output_dir):
+    data_dir = os.path.dirname(output_dir)
     download_ref_info(ref_links_file, data_dir)
     with open(ref_links_file, 'r') as file:
         ref_links = file.readlines()
