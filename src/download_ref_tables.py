@@ -11,19 +11,22 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def get_refcode(url):
+def get_url_params(url):
     parsed_url = urlparse(url)
-    params = parse_qs(parsed_url.query)
-    refcode = params.get('refcode', [''])[0]
-    return refcode
+    return parse_qs(parsed_url.query)
+
+def get_param_value(params, param_name, default=''):
+    return params.get(param_name, [default])[0]
+
+def get_refcode(url):
+    params = get_url_params(url)
+    return get_param_value(params, 'refcode')
 
 def generate_file_name(url):
-    parsed_url = urlparse(url)
-    params = parse_qs(parsed_url.query)
-    refcode = params.get('refcode', [''])[0]
-    table = params.get('table', [''])[0]
-    file_name = f"{refcode}_{table}.csv"
-    return file_name
+    params = get_url_params(url)
+    refcode = get_param_value(params, 'refcode')
+    table = get_param_value(params, 'table')
+    return f"{refcode}_{table}.csv"
 
 def download_tables(ref_links_file, output_dir):
     data_dir = os.path.dirname(output_dir)
@@ -54,16 +57,19 @@ def download_ref_info(ref_links_file, output_dir):
         ref_links = file.readlines()
 
     ref_info = pd.DataFrame(columns=["refcode", "title", "year"])
+    refcodes = set()
     for link in tqdm(ref_links, desc="Downloading References Info"):
-        response = requests.get(link)
-        if response.status_code == 200:
-            page = BeautifulSoup(response.content, "html.parser")
-            description = page.find("p")
-            refcode = get_refcode(link)
-            title = description.text
-            year = extract_year(title)
-            new_row = {"refcode": refcode, "title": title, "year": year}
-            ref_info = ref_info._append(new_row, ignore_index=True)
+        refcode = get_refcode(link)
+        if refcode not in refcodes:
+            refcodes.update([refcode])
+            response = requests.get(link)
+            if response.status_code == 200:
+                page = BeautifulSoup(response.content, "html.parser")
+                description = page.find("p")
+                title = description.text
+                year = extract_year(title)
+                new_row = {"refcode": refcode, "title": title, "year": year}
+                ref_info = ref_info._append(new_row, ignore_index=True)
 
     output_file = os.path.join(output_dir, "ref_info.csv")
     ref_info.to_csv(output_file, index=False)
