@@ -9,6 +9,6 @@ RUN apt update -y && \
 COPY bash_configs.sh /bash_configs.sh
 RUN cat /bash_configs.sh >> ~/.bashrc
 
-WORKDIR /home
+WORKDIR /home/public-cocoa
 
 CMD ["/bin/bash"]
