@@ -1,6 +1,7 @@
 '''
 Building sqlite database
 '''
+
 # dependencies
 import os
 import sqlite3
@@ -20,6 +21,8 @@ def import_csv_to_sqlite(csv_file, table_name, connection):
 def build_database(project_path):
     database_name = os.path.join(project_path, "data", "ICGD.db")
     connection = sqlite3.connect(database_name)
+    ref_info_file = os.path.join(project_path, "data", "ref_info.csv")
+    import_csv_to_sqlite(ref_info_file, "ref_info", connection)
 
     combined_tables_dir = os.path.join(project_path, "data", "combined_tables")
     combined_tables = os.listdir(combined_tables_dir)

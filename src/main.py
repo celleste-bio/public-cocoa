@@ -9,7 +9,7 @@ from update_nacode import update_nacodes
 from scrape_ref_links import scrape_ref_links
 from download_ref_tables import download_tables
 
-from combine_tables import extract_table_names, combine_tables
+from combine_tables import extract_table_info, add_refcode_column, combine_tables
 from build_sqlite import build_database
 
 def get_data(project_path):
@@ -43,20 +43,27 @@ def get_data(project_path):
 
 def sort_data(project_path):
     tables_dir = os.path.join(project_path, "data", "tables")
-    all_tables = os.listdir(tables_dir)
-    categories = extract_table_names(all_tables)
+    all_files = os.listdir(tables_dir)
 
     combined_tables_dir = os.path.join(project_path, "data", "combined_tables")
     if not os.path.exists(combined_tables_dir):
         os.makedirs(combined_tables_dir)
 
     print("combinning tables")
-    for category in categories:
-        file_paths = [os.path.join(tables_dir, table) for table in all_tables if table.endswith(f"{category}.csv")]
-        df = combine_tables(file_paths)
-        new_file_path = os.path.join(combined_tables_dir, f"{category}.csv")
-        df.to_csv(new_file_path, index=False)
+    tables_by_subject = {}
 
+    for file_name in all_files:
+        refcode, subject = extract_table_info(file_name)
+        file_path = os.path.join(tables_dir, file_name)
+        df = add_refcode_column(file_path, refcode)
+        if subject not in tables_by_subject:
+            tables_by_subject[subject] = []
+        tables_by_subject[subject].append(df)
+
+    for subject, tables in tables_by_subject.items():
+        combined_df = combine_tables(tables)
+        new_file_path = os.path.join(combined_tables_dir, f"{subject}.csv")
+        combined_df.to_csv(new_file_path, index=False)
 
 def main():
     script_path = os.path.realpath(__file__)
