@@ -36,5 +36,5 @@ if __name__ == "__main__":
 
     # Print the ordered clone names
     print("Ordered Clones by Degree Centrality:")
-    for clone_name in ordered_clone_names[1:20]:
+    for clone_name in ordered_clone_names[0:10]:
         print(clone_name)
