@@ -1,5 +1,5 @@
 """
-exploring butter fat related dta
+exploring butter fat related data
 """
 
 # packages
