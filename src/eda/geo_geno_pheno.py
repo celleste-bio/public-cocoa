@@ -9,12 +9,14 @@ connection between:
 import os
 import sqlite3 as sqlite
 import pandas as pd
+import numpy as np
 
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
 
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def go_back_dir(path, number):
@@ -26,8 +28,33 @@ def go_back_dir(path, number):
 def fillna_mode(group):
     return group.fillna(value=group.mode().iloc[0])
     
+def getgeo_groups(connection):
+    query = "SELECT [Clone name], [Country] FROM planting"
+    planting_info = pd.read_sql_query(query, connection)
+    planting_info.dropna(inplace=True)
+    planting_info["Clone name"].unique()
+    planting_info.set_index(["Clone name"], inplace=True)
+    country_continent_dict = {
+        "Cote d'Ivoire": "Africa",
+        "Indonesia": "Asia",
+        "Dominican Republic": "North America",
+        "Ecuador": "South America",
+        "Brazil": "South America",
+        "PAN,CRI,NIC,HND,GTM,BLZ": "North America",
+        "Malaysia": "Asia",
+        "Philippines": "Asia",
+        "Trinidad and Tobago": "North America",
+        "Peru": "South America"
+    }
+
+    planting_info.replace(country_continent_dict, inplace=True)
+    planting_info.rename(columns={'Country': 'Continent'}, inplace=True)
+    return planting_info
+    
+
 def get_geno_groups(connection):
-    ssr_info = pd.read_sql_query("SELECT * FROM ssr", connection)
+    query = "SELECT * FROM ssr"
+    ssr_info = pd.read_sql_query(query, connection)
     ssr_info.drop(columns=["Refcode"], inplace=True)
     ssr_info.set_index(["Clone name"], inplace=True)
     numeric_ssr_info = ssr_info.apply(pd.to_numeric, errors='coerce')
@@ -76,6 +103,30 @@ def get_geno_groups(connection):
     plt.show()
 
     return df_pca["cluster"]
+
+def get_pheno_groups(connection):
+    query = "SELECT [Clone name], [Fat] FROM butterfat"
+    fat_info = pd.read_sql_query(query, connection)
+    fat_info.set_index(["Clone name"], inplace=True)
+    fat_info = fat_info.apply(pd.to_numeric, errors='coerce')
+    fat_info.dropna(inplace=True)
+    fat_info.reset_index(inplace=True)
+    result_df = fat_info.groupby('Clone name').mean()
+
+    num_bins = 5
+    result_df['Fat Group'] = pd.qcut(result_df['Fat'], q=num_bins, labels=False)
+
+    sns.set(style="whitegrid")
+    sns.kdeplot(data=result_df, x="Fat", hue="Fat Group", common_norm=False, fill=True, palette="viridis", linewidth=2.5)
+    plt.title('Density of Fat for Each Group')
+    plt.xlabel('Fat')
+    plt.ylabel('Density')
+    plt.legend(title='Fat Group', loc='upper right', labels=[f'Group {i}' for i in range(result_df['Fat Group'].nunique())])
+    plt.grid(False)
+    plt.show()
+
+    return result_df['Fat Group']
+
 
 def main():
     # context
