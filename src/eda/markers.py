@@ -71,7 +71,8 @@ def main():
 
     #################################################################
 
-    filtered_df = ssr_result[ssr_result.index.str.contains('ICS')]
+    filtered_df = ssr_result.reset_index().set_index("Clone name")
+    filtered_df = filtered_df[filtered_df.index.str.contains('ICS')]
 
     # Calculate distances using pdist
     distances = pdist(filtered_df, metric='euclidean')
@@ -96,13 +97,14 @@ def main():
     plt.title('Hierarchical Clustering Dendrogram')
     plt.xlabel('Clone name')
     plt.ylabel('Distance')
+    plt.grid(False)
     plt.show()
     # plt.savefig("")
 
     # scaler = StandardScaler()
     # scaled_data = scaler.fit_transform(ssr_result)
 
-    num_clusters = 6
+    num_clusters = 7
     # cluster_labels = fcluster(linkage_matrix, t=num_clusters, criterion='maxclust')
 
     kmeans = KMeans(n_clusters=num_clusters, random_state=42)
@@ -119,13 +121,14 @@ def main():
     plt.xlabel('Number of Clusters (k)')
     plt.ylabel('Silhouette Score')
     plt.title('Silhouette Analysis for Optimal k')
+    plt.grid(False)
     plt.show()
 
     pca = PCA(n_components=2)
     df_pca = pd.DataFrame(pca.fit_transform(ssr_result), columns=["pca1", "pca2"])
-    df_pca.index = ssr_result.index
+    df_pca.index = ssr_result.reset_index()["Clone name"]
 
-    plt.scatter(df_pca['pca1'], df_pca['pca2'], c=cluster_labels, alpha=0.7, edgecolors='w', linewidth=0.5)
+    plt.scatter(df_pca['pca1'], df_pca['pca2'], c=cluster_labels, alpha=0.7, cmap='viridis', edgecolors='w', linewidth=0.5)
     plt.title('PCA Scatter Plot')
     plt.xlabel('Principal Component 1 (pca1)')
     plt.ylabel('Principal Component 2 (pca2)')
