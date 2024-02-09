@@ -55,68 +55,47 @@ def combine_groups_ssr(connection):
 
     merged_data = pd.merge(groups_info, ssr, on=['Clone name', 'Refcode'])
 
+    import pandas as pd
+    from sklearn.model_selection import train_test_split
+    from sklearn.tree import DecisionTreeClassifier
+    from sklearn.metrics import accuracy_score
+    import matplotlib.pyplot as plt
+    from sklearn.tree import plot_tree
 
-    # merged_data.set_index(["Clone name"], inplace=True)
-    # numeric_merged_data = merged_data.apply(pd.to_numeric, errors='coerce')
-    # numeric_merged_data = numeric_merged_data[numeric_merged_data['Clone name'] != '-']
-    # numeric_merged_data.reset_index(inplace=True)
-    # groups_ssr_info = numeric_merged_data.groupby(["Clone name"])
-    # merged_filled = groups_ssr_info.apply(fillna_mode)
-    # merged_result = merged_filled.reset_index(drop=True).apply(fillna_mode)
-
-    # k_values = range(2, 11)
-    # silhouette_scores = []
-    # for k in k_values:
-    #     kmeans = KMeans(n_clusters=k, random_state=42)
-    #     cluster_labels = kmeans.fit_predict(merged_result)
-    #     silhouette_scores.append(silhouette_score(merged_result, cluster_labels))
-
-    # plt.plot(k_values, silhouette_scores, marker='o')
-    # plt.xlabel('Number of Clusters (k)')
-    # plt.ylabel('Silhouette Score')
-    # plt.title('Silhouette Analysis for Optimal k')
-    # plt.show()
-
-    # silhouette_scores
-    # min_score_index = silhouette_scores.index(min(silhouette_scores))
-    # optimal_k = min_score_index + k_values[0]
-
-    # key_columns = ['Clone name', 'Refcode']
-
-    # # Select features for clustering (excluding the key columns)
-    # features = ssr.drop(key_columns, axis=1)
-
-    # # Perform KMeans clustering
-    # kmeans = KMeans(n_clusters=5, random_state=42)  # Adjust number of clusters as needed
-    # ssr['Cluster'] = kmeans.fit_predict(features)
-
-    # # Step 2: Merge cluster labels with the 'groups' table
-    # groups_query = "SELECT [Clone name], [Refcode], [Population] FROM groups"
-    # groups = pd.read_sql_query(groups_query, connection)
-
-    # # Merge on key columns
-    # merged_data = pd.merge(groups, ssr[key_columns + ['Cluster']], on=key_columns)
-
-    # # Step 3: Analyze the relationship between clusters and 'Population'
-    # cluster_population_relationship = merged_data.groupby('Cluster')['Population'].value_counts(normalize=True).unstack()
-
-    # kmeans = KMeans(n_clusters=optimal_k, random_state=42)
-    # cluster_labels = kmeans.fit_predict(merged_result)
-
-    # pca = PCA(n_components=2)
-    # df_pca = pd.DataFrame(pca.fit_transform(merged_result), columns=["pca1", "pca2"])
-    # df_pca.index = merged_result.index
-    # df_pca["cluster"] = cluster_labels
-
-    # plt.scatter(df_pca['pca1'], df_pca['pca2'], c=df_pca["cluster"], alpha=0.7, edgecolors='w', linewidth=0.5)
-    # plt.title('PCA Scatter Plot')
-    # plt.xlabel('Principal Component 1 (pca1)')
-    # plt.ylabel('Principal Component 2 (pca2)')
-    # plt.grid(False)
-    # plt.show()
+    # Load your data
+    data = merged_data  # Replace "your_data.csv" with the path to your dataset
+    # Replace '-' with 0
+    data.replace('-', 0, inplace=True)
+    # Impute missing values with the mean
+    # Drop rows with missing values
+    data.dropna(inplace=True)
 
 
+    # Extract features and target variable
+    X = data[['M1 a1', 'M1 a2', 'M6 a1', 'M6 a2', 'M8 a1', 'M8 a2', 'M12 a1', 'M12 a2', 'M15 a1', 'M15 a2', 'M18 a1', 'M18 a2', 'M22 a1', 'M22 a2', 'M24 a1', 'M24 a2', 'M26 a1', 'M26 a2', 'M33 a1', 'M33 a2', 'M37 a1', 'M37 a2', 'M60 a1', 'M60 a2']]
+    y = data["Population_encoded"]  # Target variable
 
+    # Split the data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    print("Number of rows in the dataset:", len(data))
+
+    # Create and train the decision tree model
+    clf = DecisionTreeClassifier()
+    clf.fit(X_train, y_train)
+
+    # Predict using the test set
+    y_pred = clf.predict(X_test)
+
+    # Evaluate the model
+    accuracy = accuracy_score(y_test, y_pred)
+    print("Accuracy:", accuracy)
+    
+
+    # Optionally, visualize the decision tree
+    plt.figure(figsize=(20, 10))  # Adjust the figure size as needed
+    class_names = [str(c) for c in y.unique()]
+    plot_tree(clf, feature_names=X.columns, class_names=class_names, filled=True)
+    plt.show()
 
 
 
@@ -176,7 +155,8 @@ def get_geno_ssr(connection):
     optimal_k = min_score_index + k_values[0]
 
     
-    kmeans = KMeans(n_clusters=optimal_k, random_state=42)
+    #kmeans = KMeans(n_clusters=optimal_k, random_state=42)
+    kmeans = KMeans(n_clusters=10, random_state=42)
     cluster_labels = kmeans.fit_predict(ssr_result)
 
     pca = PCA(n_components=2)
@@ -200,6 +180,7 @@ def get_butterfatTable(connection):
 
 
 def main():
+    #script_path="/home/public-cocoa/src/eda/geo_geno_pheno_dafni.py"
     #create database
     script_path = os.path.realpath(__file__)
     db_path=create_path(script_path)
