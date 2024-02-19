@@ -16,8 +16,15 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import LabelEncoder
 from scipy.stats import norm
 
+
+from sklearn.impute import SimpleImputer
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.pipeline import Pipeline
+
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+from sklearn.preprocessing import StandardScaler
 
 def go_back_dir(path, number):
     result = path
@@ -36,8 +43,13 @@ def flower(connection):
         flower_info = pd.read_sql_query(query, connection)
         query_numerical = "SELECT [Clone name], [Refcode], [Guide line length], [Sepal width], [Sepal length], [Sepal length width], [Ligule length], [Ligule width], [Ligule length width], [Ribbon length], [Ovary width], [Ovary length], [Ovary length width], [Ovule number], [Style length], [Staminode length], [Pedicel length], [Petal length] FROM flower"
         flower_numerical_data = pd.read_sql_query(query_numerical,connection)
+        query_numerical_flower= "SELECT [Clone name], [Refcode], [Guide line length], [Sepal width], [Sepal length], [Sepal length width], [Ligule length], [Ligule width], [Ligule length width], [Ribbon length] FROM flower"
+        flower_numerical_data_split = pd.read_sql_query(query_numerical_flower,connection)
+        flower_numerical_data_split = flower_numerical_data_split.replace('-', float('nan'))
+        flower_numerical_data_split.info()
         flower_numerical_data.info()
         flower_numerical_data = flower_numerical_data.replace('-', float('nan'))
+        flower_numerical_data = flower_numerical_data.fillna()
         # Get the list of all column names except 'Clone name' and 'Refcode'
         columns_to_convert = [col for col in flower_numerical_data.columns if col not in ['Clone name', 'Refcode']]
 
@@ -64,6 +76,67 @@ def flower(connection):
                 p = norm.pdf(x, mu, std)
                 plt.plot(x, p, 'k', linewidth=2)
                 plt.show()
+
+
+# def pipline_fun(connection):
+#     query_numerical_flower= "SELECT [Clone name], [Refcode], [Guide line length], [Sepal width], [Sepal length], [Sepal length width], [Ligule length], [Ligule width], [Ligule length width], [Ribbon length] FROM flower"
+#     flower_numerical_data_split = pd.read_sql_query(query_numerical_flower,connection)
+#     flower_numerical_data.info()
+#     flower_numerical_data = flower_numerical_data.replace('-', float('nan'))
+
+#     # Define a pipeline for preprocessing and classification
+#     pipeline = Pipeline([
+#         ('imputer', SimpleImputer(missing_values=np.nan, strategy='mean')),  # Impute missing values
+#         ('classifier', KNeighborsClassifier())  # KNN classifier
+#         ])
+
+#     # Fit the pipeline to your data
+#     pipeline.fit(X_train, y_train)
+
+#     # Predict using the fitted pipeline
+#     predictions = pipeline.predict(X_test)
+
+
+def Kmeans_func(df):
+    # Concatenate 'Clone name' and 'Refcode' columns with a separator
+    index = df['Clone name'] + '_' + df['Refcode']
+
+    # Set the concatenated series as the index of the DataFrame
+    df.set_index(index, inplace=True)
+
+    # Drop the original 'Clone name' and 'Refcode' columns if needed
+    df.drop(columns=['Clone name', 'Refcode'], inplace=True)
+    df.info()
+    # Drop non-numeric columns and rows with NaN values
+    #df = df.select_dtypes(include=['float64']).dropna()
+
+    # Standardize the data
+    scaler = StandardScaler()
+    scaled_data = scaler.fit_transform(df)
+
+    # Create KMeans model
+    kmeans = KMeans(n_clusters=3)  # Adjust number of clusters as needed
+    kmeans.fit(scaled_data)
+
+    # Add cluster labels to the DataFrame
+    df['Cluster'] = kmeans.labels_
+
+    # Print the number of samples in each cluster
+    print(df['Cluster'].value_counts())
+
+    # Visualize the clusters
+
+    for cluster in df['Cluster'].unique():
+        cluster_data = df[df['Cluster'] == cluster]
+        plt.scatter(cluster_data['Guide line length'], cluster_data['Cluster'], label=f'Cluster {cluster}')
+        plt.xlabel('Guide line length')
+        plt.ylabel('Cluster')
+        plt.title('Clusters')
+        plt.legend()
+        plt.show()
+
+
+
        
 
 def main():
