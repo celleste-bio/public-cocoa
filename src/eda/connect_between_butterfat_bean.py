@@ -8,23 +8,7 @@ left join on the butterfat and bean tables
 import os
 import sqlite3 as sqlite
 import pandas as pd
-import numpy as np
 
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import LabelEncoder
-from scipy.stats import norm
-
-
-from sklearn.impute import SimpleImputer
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.pipeline import Pipeline
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-from sklearn.preprocessing import StandardScaler
 
 def go_back_dir(path, number):
     result = path
@@ -39,18 +23,14 @@ def create_path(script_path):
     return(db_path)
 
 def left_join(connection):
-    query_bean = "SELECT * FROM bean"
-    query_butterfat = "SELECT * From butterfat"
-    bean = pd.read_sql_query(query_bean, connection)
-    butterfat = pd.read_sql_query(query_butterfat)
-    # Define your SQL query with JOIN
+    # Define your SQL query with LEFT JOIN
     query_join_tables = """
     SELECT *
     FROM butterfat
     LEFT JOIN bean ON butterfat.[Clone name] = bean.[Clone name] AND butterfat.[Refcode] = bean.[Refcode]
     WHERE butterfat.fat IS NOT NULL
     """
-    # Use read_sql_query with the connection object 'conn'
+    # Use read_sql_query with the connection 
     result = pd.read_sql_query(query_join_tables, connection)
     result.info()
     result.head()
