@@ -12,6 +12,9 @@ import numpy as np
 from sklearn import linear_model
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
 
 
 def go_back_dir(path, number):
@@ -78,21 +81,72 @@ def cleaning(connection):
     print("Remaining columns after dropping columns with more than 80% missing values:")
     print(result.columns)
 
-def left_join(connection):
-    # Define your SQL query with LEFT JOIN
-    query_join_tables = """
-    SELECT *
-    FROM butterfat
-    LEFT JOIN bean ON butterfat.[Clone name] = bean.[Clone name] AND butterfat.[Refcode] = bean.[Refcode]
-    WHERE butterfat.fat IS NOT NULL
-    """
-    # Use read_sql_query with the connection 
-    result = pd.read_sql_query(query_join_tables, connection)
+    #dealing with missing value
+
+
+    # Load your dataset
     result.info()
+
+
+    # Separate data into two parts: one with missing values and one without
+    # Identify features with missing values
+    features_with_missing = [ 'Sepal length', 'Ligule width', 'Style length', 'Ovule number']  # Adjusted based on your column names
+
+    # Separate data into two parts: one with missing values and one without
+    data_missing = result[result[features_with_missing].isnull().any(axis=1)]
+    data_complete = result.dropna(subset=features_with_missing)
+
+    # Convert object columns to numeric if needed
+    # Convert object columns to categorical variables
+    object_columns = data_complete.select_dtypes(include=['object']).columns
+   # data_complete[object_columns] = data_complete[object_columns].astype('category')
+    data_complete.loc[:, object_columns] = data_complete.loc[:, object_columns].astype('category')
+
+
+    # Perform one-hot encoding for categorical variables
+    data_complete = pd.get_dummies(data_complete)
+
+    # Split the complete data into features and target after encoding
+    X = data_complete.drop(features_with_missing, axis=1)
+    # Check if columns exist before dropping
+    columns_to_drop = [col for col in features_with_missing if col in data_complete.columns]
+    X = data_complete.drop(columns_to_drop, axis=1)
+    # Specify the column order when dropping features for prediction
+    columns_to_drop = [col for col in features_with_missing if col in data_complete.columns]
+    X_missing = data_missing.drop(columns_to_drop, axis=1)[X.columns]
+
+    # Check if columns exist before accessing
+    columns_to_access = [col for col in features_with_missing if col in data_complete.columns]
+    y = data_complete[columns_to_access]
+
+
+    # Split the data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+    # Train a model for each feature with missing values
+    imputed_values = {}
+   # Predict missing values using the trained models
+    imputed_values = {}
+    for feature in features_with_missing:
+        if feature in y_train.columns and feature in y_test.columns:
+            model = RandomForestRegressor()
+            model.fit(X_train, y_train[feature])
+            y_pred = model.predict(X_test)
+            mse = mean_squared_error(y_test[feature], y_pred)
+            print(f"Mean Squared Error for {feature}: {mse}")
+            imputed_values[feature] = model.predict(X_missing)
+        else:
+            print(f"Feature {feature} not found in y_train or y_test.")
+
+
+    # Impute missing values in the original dataset
+    for feature in features_with_missing:
+        result.loc[result[feature].isnull(), feature] = imputed_values[feature]
+    # Now 'result' contains the imputed values
+        
     result.head()
 
-    
-
+  
 
 def main():
     script_path="/home/public-cocoa/src/eda/flower_clean_data.py"
