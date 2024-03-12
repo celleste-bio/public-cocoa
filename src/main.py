@@ -4,6 +4,7 @@ Main script to build database from public data
 
 # dependencies
 import os
+from path_utils import go_back_dir
 from download_icgd_collection import save_collection
 from update_nacode import update_nacodes
 from scrape_ref_links import scrape_ref_links
@@ -67,7 +68,7 @@ def sort_data(project_path):
 
 def main():
     script_path = os.path.realpath(__file__)
-    project_path = os.path.dirname(os.path.dirname(script_path))
+    project_path = go_back_dir(script_path, 2)
 
     get_data(project_path)
 
