@@ -15,6 +15,13 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
+import seaborn as sns
+from scipy.stats import norm,f_oneway
+from sklearn.cluster import KMeans
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import MinMaxScaler
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
+from scipy import stats
 
 
 def go_back_dir(path, number):
@@ -40,6 +47,8 @@ def cleaning(connection):
     result.info()
     result.head()
 
+    #replacing "-" with NaN in both numerical and categorical columns
+    
     numeric_columns=result.select_dtypes(include=['number']).columns
     # List of all columns
     all_columns = result.columns
@@ -50,6 +59,8 @@ def cleaning(connection):
     result[categorical_columns] = result[categorical_columns].replace('-', np.nan)
     # Convert numerical columns to float
     result[numeric_columns] = result[numeric_columns].astype(float)
+
+
     #-----------------------------------------------------
     missing_percentage = result.isnull().mean() * 100
     # Create a DataFrame to display the results
@@ -81,72 +92,111 @@ def cleaning(connection):
     print("Remaining columns after dropping columns with more than 80% missing values:")
     print(result.columns)
 
-    #dealing with missing value
+    #dealing with outliers
+    
+    columns_numbers=["Sepal length", "Ligule width", "Ovule number","Style length"]
+    df = result
+    df[columns_numbers] = df[columns_numbers].astype(float)
+    Q1= df[columns_numbers].quantile(0.25)
+    Q3= df[columns_numbers].quantile(0.75)
+    # Calculate IQR
+    IQR = Q3 - Q1
+    # Define boundaries for outliers
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+    # Replace outliers with median
+    for column in df.columns:
+      if df[column].dtype=='float64' or df[column].dtype=='int64':
+        median = df[column].median()
+        df[column] = np.where((df[column] < lower_bound[column]) | (df[column] > upper_bound[column]), median, df[column])
+        df[column].fillna(median,inplace=True)
 
+    df.boxplot()
+    plt.show()
 
     # Load your dataset
     result.info()
-
-
-    # Separate data into two parts: one with missing values and one without
-    # Identify features with missing values
-    features_with_missing = [ 'Sepal length', 'Ligule width', 'Style length', 'Ovule number']  # Adjusted based on your column names
-
-    # Separate data into two parts: one with missing values and one without
-    data_missing = result[result[features_with_missing].isnull().any(axis=1)]
-    data_complete = result.dropna(subset=features_with_missing)
-
-    # Convert object columns to numeric if needed
-    # Convert object columns to categorical variables
-    object_columns = data_complete.select_dtypes(include=['object']).columns
-   # data_complete[object_columns] = data_complete[object_columns].astype('category')
-    data_complete.loc[:, object_columns] = data_complete.loc[:, object_columns].astype('category')
-
-
-    # Perform one-hot encoding for categorical variables
-    data_complete = pd.get_dummies(data_complete)
-
-    # Split the complete data into features and target after encoding
-    X = data_complete.drop(features_with_missing, axis=1)
-    # Check if columns exist before dropping
-    columns_to_drop = [col for col in features_with_missing if col in data_complete.columns]
-    X = data_complete.drop(columns_to_drop, axis=1)
-    # Specify the column order when dropping features for prediction
-    columns_to_drop = [col for col in features_with_missing if col in data_complete.columns]
-    X_missing = data_missing.drop(columns_to_drop, axis=1)[X.columns]
-
-    # Check if columns exist before accessing
-    columns_to_access = [col for col in features_with_missing if col in data_complete.columns]
-    y = data_complete[columns_to_access]
-
-
-    # Split the data into training and testing sets
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-    # Train a model for each feature with missing values
-    imputed_values = {}
-   # Predict missing values using the trained models
-    imputed_values = {}
-    for feature in features_with_missing:
-        if feature in y_train.columns and feature in y_test.columns:
-            model = RandomForestRegressor()
-            model.fit(X_train, y_train[feature])
-            y_pred = model.predict(X_test)
-            mse = mean_squared_error(y_test[feature], y_pred)
-            print(f"Mean Squared Error for {feature}: {mse}")
-            imputed_values[feature] = model.predict(X_missing)
-        else:
-            print(f"Feature {feature} not found in y_train or y_test.")
-
-
-    # Impute missing values in the original dataset
-    for feature in features_with_missing:
-        result.loc[result[feature].isnull(), feature] = imputed_values[feature]
-    # Now 'result' contains the imputed values
         
     result.head()
+     #understanding the column.
+    for column in columns_numbers:
+        plt.figure(figsize=(8, 6))  # Set the figure size (optional)
+        precent=df[column].value_counts()/df[column].value_counts().sum()
+        precent.plot(kind='bar')
+        for index, value in enumerate(precent):
+            plt.text(index, value, str(round(value, 2)), ha='center', va='bottom')
+        plt.title('Probability Graph for {} based on the number of existing values in the column'.format(column))
+        plt.xlabel(column)
+        plt.ylabel('Frequency')
+        plt.xticks(rotation=45)  # Rotate x-axis labels for better readability
+        plt.tight_layout()  # Adjust layout to prevent clipping of annotations
+        plt.show()
 
-  
+    copy_data_numeric=df.copy()[df.select_dtypes(include='float64').columns]
+    #fill missing values category and floating numbers:
+    for col in copy_data_numeric.columns:
+        mean_val = copy_data_numeric[col].median()
+        copy_data_numeric[col].fillna(mean_val, inplace=True)
+
+    # Step 2: Perform K-means clustering k=10
+    inertia_=[]
+    for k in range(1,11):
+        kmeans = KMeans(n_clusters=k)
+        kmeans.fit(copy_data_numeric)
+        inertia_.append(kmeans.inertia_)
+
+    #step 3 choosing the k
+    plt.plot(range(1,11),inertia_)
+    plt.show()
+
+    float_columns=df.select_dtypes(include='float64').columns
+    category_columns=df.select_dtypes(include='object').columns
+    category_to_replace=category_columns
+    copy_data=df.copy()
+    #fill missing values of floating numbers
+    for col in float_columns:
+        mean_val = copy_data[col].median()
+        copy_data[col].fillna(mean_val, inplace=True)
+  # Fill missing values of categorical columns with most frequent value
+    for col in category_columns:
+        frequent_val = copy_data[col].mode()[0]
+        copy_data[col].fillna(frequent_val, inplace=True)
+    sc_data=MinMaxScaler()
+    sc_data=sc_data.fit_transform(copy_data[float_columns])
+    kmeans = KMeans(n_clusters=k)
+    kmeans.fit(sc_data)
+    clusters= kmeans.labels_
+
+# Step 3: Calculate cluster means
+    cluster_means = []
+    for i in range(k):
+        cluster_data = copy_data[float_columns][clusters == i]
+        cluster_mean = np.mean(cluster_data, axis=0)
+        cluster_means.append(cluster_mean)
+
+ #Calculate frequent values for categorical columns within each cluster
+    cluster_frequent_values_categorical = []
+    for i in range(k):
+        cluster_data = copy_data[category_to_replace][clusters == i]
+        frequent_values = cluster_data.mode().iloc[0]
+        cluster_frequent_values_categorical.append(frequent_values)
+
+
+
+# Step 4: Replace missing values with cluster means
+    for index in copy_data.index:
+        cluster_idx = clusters[index]
+    for column in float_columns:
+        if  pd.isnull(df.loc[index,column]):
+            cluster_mean = cluster_means[cluster_idx]
+            df.loc[index, column] = cluster_mean[column]
+
+    for col in category_to_replace:
+        if df.loc[index, col]=='-':
+            cluster_frequent_val = cluster_frequent_values_categorical[cluster_idx][col]
+            df.loc[index, col] = cluster_frequent_val
+
+
 
 def main():
     script_path="/home/public-cocoa/src/eda/flower_clean_data.py"
