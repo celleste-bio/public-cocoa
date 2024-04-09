@@ -8,19 +8,13 @@ import sqlite3 as sqlite
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from ..path_utils import go_back_dir
 
 from scipy.spatial.distance import pdist, squareform
 from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-
-
-def go_back_dir(path, number):
-    result = path
-    for i in range(number):
-        result = os.path.dirname(result)
-    return result
 
 def fillna_mode(group):
     return group.fillna(value=group.mode().iloc[0])

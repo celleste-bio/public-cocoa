@@ -9,9 +9,27 @@ from download_icgd_collection import save_collection
 from update_nacode import update_nacodes
 from scrape_ref_links import scrape_ref_links
 from download_ref_tables import download_tables
+from transform_flavors import transform_flavors
 
 from combine_tables import extract_table_info, add_refcode_column, combine_tables
 from build_sqlite import build_database
+
+def get_flavors(project_path):
+    data_dir = os.path.join(project_path, "data")
+    if not os.path.exists(data_dir):
+        os.makedirs(data_dir)
+
+    flavors_dir = os.path.join(project_path, "data", "flavors")
+    if not os.path.exists(flavors_dir):
+        os.makedirs(flavors_dir)
+
+    flavors_file = os.path.join(project_path, "cocoa_ratings.tsv")
+    samples, tastes, companies, references = transform_flavors(flavors_file)
+
+    samples.to_csv(os.path.join(flavors_dir, "samples.csv"), index=False)
+    tastes.to_csv(os.path.join(flavors_dir, "tastes.csv"), index=False)
+    companies.to_csv(os.path.join(flavors_dir, "companies.csv"), index=False)
+    references.to_csv(os.path.join(flavors_dir, "references.csv"), index=False)
 
 def get_data(project_path):
     data_dir = os.path.join(project_path, "data")
@@ -68,7 +86,9 @@ def sort_data(project_path):
 
 def main():
     script_path = os.path.realpath(__file__)
-    project_path = go_back_dir(script_path, 2)
+    project_path = go_back_dir(script_path, 1)
+
+    get_flavors(project_path)
 
     get_data(project_path)
 
