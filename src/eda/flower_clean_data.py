@@ -1,7 +1,5 @@
-
 """
 clean flower data
-
 """
 
 # packages
@@ -22,19 +20,8 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import MinMaxScaler
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
 from scipy import stats
+from ..path_utils import go_back_dir
 
-
-def go_back_dir(path, number):
-    result = path
-    for i in range(number):
-        result = os.path.dirname(result)
-    return result
-
-def create_path(script_path):
-    # context
-    project_path = go_back_dir(script_path, 3)
-    db_path = os.path.join(project_path, "data", "ICGD.db")
-    return(db_path)
  
 def cleaning(connection):
 
@@ -199,12 +186,40 @@ def cleaning(connection):
 
 
 def main():
-    script_path="/home/public-cocoa/src/eda/flower_clean_data.py"
+    # script_path="/home/public-cocoa/src/eda/flower_clean_data.py"
     #create database
-    #script_path = os.path.realpath(__file__)
-    db_path=create_path(script_path)
+    script_path = os.path.realpath(__file__)
+    project_path = go_back_dir(script_path, 2)
+    db_path = os.path.join(project_path, "data", "ICGD.db")
     #Create a SQLite database connection
     connection = sqlite.connect(db_path)
+
+    query = f"""
+    SELECT *
+    FROM {table}
+    """
+
+    flower_df = pd.read_sql_query(query, connection)
+    flower_df.replace('-', np.nan, inplace=True)
+
+    numeric_columns=flower_df.select_dtypes(include=['number']).columns
+    flower_df[numeric_columns] = flower_df[numeric_columns].astype(float)
+    
+    missing_percent = (flower_df.isnull().mean() * 100).round(2)
+
+    # Filter out columns with more than 80% missing values
+    columns_to_drop = missing_percent[missing_percent > 80].index
+
+    # Drop the columns with more than 80% missing values
+    flower_df = flower_df.drop(columns=columns_to_drop)
+
+    for col in flower_df:
+        try:
+            flower_df[col] = flower_df[col].astype(float)
+        except:
+            print(f"{col} is nut numerical")
+
+    flower_df.dtypes
 
     connection.close()
 

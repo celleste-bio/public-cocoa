@@ -1,7 +1,6 @@
 
 """
 eda about flower.csv 
-
 """
 
 # packages
@@ -23,14 +22,9 @@ from sklearn.pipeline import Pipeline
 
 import matplotlib.pyplot as plt
 import seaborn as sns
+from ..path_utils import go_back_dir
 
 from sklearn.preprocessing import StandardScaler
-
-def go_back_dir(path, number):
-    result = path
-    for i in range(number):
-        result = os.path.dirname(result)
-    return result
 
 def create_path(script_path):
     # context
