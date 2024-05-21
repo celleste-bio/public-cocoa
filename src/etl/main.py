@@ -4,7 +4,8 @@ Main script to build database from public data
 
 # dependencies
 import os
-from path_utils import go_back_dir
+import sys
+
 from download_icgd_collection import save_collection
 from update_nacode import update_nacodes
 from scrape_ref_links import scrape_ref_links
@@ -13,6 +14,9 @@ from transform_flavors import transform_flavors
 
 from combine_tables import extract_table_info, add_refcode_column, combine_tables
 from build_sqlite import build_database
+
+sys.path.append("/home/public-cocoa/src/")
+from path_utils import go_back_dir
 
 def get_flavors(project_path):
     data_dir = os.path.join(project_path, "data")
@@ -86,7 +90,7 @@ def sort_data(project_path):
 
 def main():
     script_path = os.path.realpath(__file__)
-    project_path = go_back_dir(script_path, 1)
+    project_path = go_back_dir(script_path, 2)
 
     get_flavors(project_path)
 
