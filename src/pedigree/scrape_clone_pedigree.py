@@ -4,6 +4,7 @@ Extracting nacodes for clone name search
 
 # dependencies
 import os
+import sys
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -11,6 +12,9 @@ from tqdm import tqdm
 from urllib.parse import urlparse, parse_qs
 import json
 import re
+
+sys.path.append("/home/public-cocoa/src/")
+from path_utils import go_back_dir
 
 def get_all_links(page):
     links = page.find_all('a')
@@ -79,7 +83,7 @@ def save_as_json(data, output_file):
 # run as a script
 if __name__ == "__main__":
     script_path = os.path.realpath(__file__)
-    project_path = os.path.dirname(os.path.dirname(script_path))
+    project_path = go_back_dir(script_path, 2)
     collection_file = os.path.join(project_path, "data", "cocoa_collection.csv")
     pedigree_result = scrape_info(collection_file)
 
