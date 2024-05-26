@@ -3,9 +3,13 @@ Build and visalise graph from pedigree.json file
 '''
 
 import os
+import sys
 import json
 import networkx as nx
 import matplotlib.pyplot as plt
+
+sys.path.append("/home/public-cocoa/src/")
+from path_utils import go_back_dir
 
 def build_graph(pedigree_file):
     # Load JSON data
@@ -31,7 +35,8 @@ def vis_graph(graph, output_file):
 # run as a script
 if __name__ == "__main__":
     script_path = os.path.realpath(__file__)
-    project_path = os.path.dirname(os.path.dirname(script_path))
+    project_path = go_back_dir(script_path, 2)
+
     pedigree_file = os.path.join(project_path, "data", "pedigree.json")
     graph = build_graph(pedigree_file)
 
