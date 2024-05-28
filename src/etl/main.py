@@ -27,7 +27,7 @@ def get_flavors(project_path):
     if not os.path.exists(flavors_dir):
         os.makedirs(flavors_dir)
 
-    flavors_file = os.path.join(project_path, "cocoa_ratings.tsv")
+    flavors_file = os.path.join(project_path,"data", "cocoa_ratings.tsv")
     samples, tastes, companies, references = transform_flavors(flavors_file)
 
     samples.to_csv(os.path.join(flavors_dir, "samples.csv"), index=False)
