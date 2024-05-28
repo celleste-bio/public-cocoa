@@ -3,9 +3,13 @@ Order clones by centrality measurment
 '''
 
 import os
+import sys
 import pandas as pd
 import networkx as nx
 from build_pedigree_graph import build_graph
+
+sys.path.append("/home/public-cocoa/src/")
+from path_utils import go_back_dir
 
 def order_by_centraliry(graph):
     degree_centrality = nx.degree_centrality(graph)
@@ -25,7 +29,7 @@ def nacodes_to_clonenames(nacodes):
 # run as a script
 if __name__ == "__main__":
     script_path = os.path.realpath(__file__)
-    project_path = os.path.dirname(os.path.dirname(script_path))
+    project_path = go_back_dir(script_path, 2)
     pedigree_file = os.path.join(project_path, "data", "pedigree.json")
     graph = build_graph(pedigree_file)
     ordered_nodes = order_by_centraliry(graph)

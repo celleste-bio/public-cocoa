@@ -7,6 +7,7 @@ connection between:
 
 # packages
 import os
+import sys
 import sqlite3 as sqlite
 import pandas as pd
 import numpy as np
@@ -18,12 +19,8 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
-def go_back_dir(path, number):
-    result = path
-    for i in range(number):
-        result = os.path.dirname(result)
-    return result
+sys.path.append("/home/public-cocoa/src/")
+from path_utils import go_back_dir
 
 def fillna_mode(group):
     return group.fillna(value=group.mode().iloc[0])
