@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 import yaml
 
-sys.path.append("/home/public-cocoa/src/")
+sys.path.append("/home/public-cocoa/src/prep/")
 from path_utils import go_back_dir
 
 def get_configs(script_path):
@@ -64,8 +64,8 @@ def create_data_frame(conn, tables, id_columns):
     merged_df = merged_df.rename(columns=lambda x: col_name_template(x))
     return merged_df
 
-def main():
-    # script_path="/home/public-cocoa/src/eda/clean_data.py"
+def clean_data():
+    # script_path="/home/public-cocoa/src/prep/clean_data.py"
     script_path = os.path.realpath(__file__)
     config = get_configs(script_path)
     connection = sqlite.connect(config["db_path"])
@@ -77,13 +77,13 @@ def main():
 
     target_column = [col for col in df.columns if col_name_template(config["target_column"]) in col][0]
     df = df.dropna(subset=[target_column])
-
+    return df
     # df.info()
-    connection.close()
+    #connection.close()
 
-    project_path = go_back_dir(script_path, 2)
-    output_path = os.path.join(project_path, "data", "cleaned_data.csv")
-    df.to_csv(output_path, index=False)
+    #project_path = go_back_dir(script_path, 2)
+    #output_path = os.path.join(project_path, "data", "cleaned_data.csv")
+    #df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
-    main()
+    clean_data()
