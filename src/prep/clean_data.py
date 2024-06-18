@@ -1,7 +1,6 @@
 """
 clean ICGD data
 """
-
 # packages
 import os
 import sys
@@ -25,7 +24,6 @@ def replace_dash_with_nan(df):
     df = df.replace('-', np.nan)
     return df
 
-
 def filter_high_missing_columns(df, threshold):
     """
     Filters out columns with more than threshold % missing values
@@ -35,48 +33,39 @@ def filter_high_missing_columns(df, threshold):
     df = df.drop(columns=columns_to_drop)
     return df
 
-def add_table_prefix(df, table_name, id_columns):
-    """
-    Adds table name prefix to non id columns
-    """
-    prefixed_columns = {}
-    for col in df.columns:
-        if col not in id_columns:
-            prefixed_columns[col] = f"{table_name}_{col}"
-        else:
-            prefixed_columns[col] = col
-    return df.rename(columns=prefixed_columns)
-    
+def convert_to_float(df):
+        # Identify object columns that might be numeric
+    object_cols = df.select_dtypes(include=['object']).columns
+    numeric_cols = []
+
+    # Attempt to convert to float and see which columns succeed
+    for col in object_cols:
+        try:
+            df[col] = df[col].astype(float)
+            numeric_cols.append(col)
+        except ValueError:
+            continue
+
+    print("Converted columns to float:", numeric_cols)
+
+    # Check the data types of the DataFrame after conversion
+    print(df.dtypes)
+    return df
+
 def col_name_template(col_name):
     return col_name.replace(' ', '_').lower()
 
-def create_data_frame(conn, tables, id_columns):
-    """
-    Aggregates and preppering tables
-    """
-    merged_df = pd.DataFrame(columns=id_columns)
-    for table in tables:
-        df = pd.read_sql_query(f"SELECT * FROM {table}", conn)
-        df = add_table_prefix(df, table, id_columns)
-        merged_df = pd.merge(df, merged_df, on=id_columns, how='left')
-
-    merged_df = merged_df.drop_duplicates(subset=id_columns)
-    merged_df = merged_df.rename(columns=lambda x: col_name_template(x))
-    return merged_df
-
-def clean_data():
+def clean_data(df, config):
     # script_path="/home/public-cocoa/src/prep/clean_data.py"
-    script_path = os.path.realpath(__file__)
-    config = get_configs(script_path)
-    connection = sqlite.connect(config["db_path"])
+    # script_path = os.path.realpath(__file__)
+    # config = get_configs(config_script_path)
 
-    # create dataFrame
-    df = create_data_frame(connection, config["tables"], config["id_columns"])
     df = replace_dash_with_nan(df)
     df = filter_high_missing_columns(df, config["missing_threshold"])
 
     target_column = [col for col in df.columns if col_name_template(config["target_column"]) in col][0]
     df = df.dropna(subset=[target_column])
+    df=convert_to_float(df)
     return df
     # df.info()
     #connection.close()

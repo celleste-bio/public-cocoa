@@ -11,6 +11,10 @@ id_columns:
     - "Clone name"
     - "Refcode"
 
+id_columns_new_name:
+    - "clone_name"
+    - "refcode"
+
 missing_threshold: 70
 
 target_column: "Total wet weight"
