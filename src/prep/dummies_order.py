@@ -20,6 +20,25 @@ def drop_columns_from_df(df, columns_to_drop):
     df = df.drop(columns=columns_to_drop, errors='ignore')
     return df
 
+def convert_to_float(df):
+        # Identify object columns that might be numeric
+    object_cols = df.select_dtypes(include=['object']).columns
+    numeric_cols = []
+
+    # Attempt to convert to float and see which columns succeed
+    for col in object_cols:
+        try:
+            df[col] = df[col].astype(float)
+            numeric_cols.append(col)
+        except ValueError:
+            continue
+
+    print("Converted columns to float:", numeric_cols)
+
+    # Check the data types of the DataFrame after conversion
+    print(df.dtypes)
+    return df
+
 def dummies_order_func():
     # script_path= "/home/public-cocoa/src/prep/dummies_order.py"
     script_path = os.path.realpath(__file__)
@@ -30,53 +49,17 @@ def dummies_order_func():
     # Replace values in columns with meaningful order
     for column, mapping in config['column_mappings'].items():
         df[column] = df[column].replace(mapping)
-    df = df.drop_duplicates(subset=id_columns)
     df = drop_columns_from_df(df, columns_to_drop)
     df = drop_columns_from_df(df, id_columns)
     df.info()
-    
-
+    df = convert_to_float(df)
+    dummies = df.select_dtypes(include=object).columns
     df = pd.get_dummies(df, columns=dummies)
+    df[df.select_dtypes(include=bool).columns] = df[df.select_dtypes(include=bool).columns].astype(int)
+    df.info()
+
+    return df
 
 
-    
-
-
-
-
-
-
-dummies = ['bean_shape', 'flower_ligule_colour', 'fruit_shape', 'fruit_colour', 'fruit_basal_constriction', 'fruit_apex_form', 'fruit_furrow_desc']
-
-
-
-bool_columns = df.select_dtypes(include=bool).columns
-object_columns = df.select_dtypes(include = object).columns
-df[bool_columns] = df[bool_columns].astype(int)
-df[object_columns] = df[object_columns].astype(float)
-
-
-# Assuming 'df' is your DataFrame and 'target_column' is defined
-target_column = "Total wet weight"
-
-# Selecting object columns excluding the target column
-object_columns = df.select_dtypes(include='object').columns
-object_columns = object_columns[object_columns != target_column]
-
-# Now 'object_columns' contains all object-type columns except the target column
-print(object_columns)
-
-
-# Convert all object columns to float
-for col in df.select_dtypes(include=['object']).columns:
-    try:
-        df[col] = pd.to_numeric(df[col], errors='coerce')
-    except ValueError:
-        print(f"Could not convert column {col} to float.")
-df_no_duplicates = df.drop_duplicates(subset=['clone_name', 'refcode'])
-
-# Print the updated DataFrame
-print(df_no_duplicates)
-df_no_duplicates.info()
-print(f"Original DataFrame shape: {df.shape}")
-print(f"DataFrame shape after dropping duplicates: {df_no_duplicates.shape}")
+if __name__ == "__main__":
+    dummies_order_func()
