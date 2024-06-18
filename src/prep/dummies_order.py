@@ -43,14 +43,13 @@ def dummies_order_func():
     # script_path= "/home/public-cocoa/src/prep/dummies_order.py"
     script_path = os.path.realpath(__file__)
     config = get_configs(script_path)
-    id_columns = config['id_columns']
+
     columns_to_drop = [config['columns_to_drop']]
     df = clean_data()
     # Replace values in columns with meaningful order
     for column, mapping in config['column_mappings'].items():
         df[column] = df[column].replace(mapping)
     df = drop_columns_from_df(df, columns_to_drop)
-    df = drop_columns_from_df(df, id_columns)
     df.info()
     df = convert_to_float(df)
     dummies = df.select_dtypes(include=object).columns

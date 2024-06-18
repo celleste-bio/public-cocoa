@@ -8,10 +8,15 @@ import yaml
 
 sys.path.append("/home/public-cocoa/src")
 from path_utils import go_back_dir
-from clean_data import clean_data
+
+sys.path.append("/home/public-cocoa/src/prep")
+from clean_data import clean_data_function
 from Kmeans_missing_value import clustering_and_replace_missing_values
 from Median_and_Frequent_Function import fill_missing_values_median_and_mode
-from Normal_and_Frequent_Function import fill_missing_values_Normal
+from Normal_and_Frequent_Function import fill_missing_values
+from outliers_by_IQR import IQR_outliers
+from hirarcial_tree_column import hirrarcial_tree
+from dummies_order import dummies_order_func
 
 def get_configs(script_path):
     script_dir = go_back_dir(script_path, 0)
@@ -55,24 +60,104 @@ def main():
     config = get_configs(script_path)
     connection = sqlite.connect(config["db_path"])
     df = create_data_frame(connection, config["tables"], config["id_columns"])
+    df.info()
     data = df.copy()
-    data = clean_data(data,config)
+    data.info()
+    cleaned_data=clean_data_function(data,config)
     #the data is clean without duplication and without null in target column
+    cleaned_data.info()
+    # Splitting the DataFrame into train and test sets
+    train_df_75 = cleaned_data.sample(frac=0.75, random_state=42)  # 75% for training
+    test_df_25 = cleaned_data.drop(train_df_75.index)
 
     # Splitting the DataFrame into train and test sets
-    train_df_75 = data.sample(frac=0.75, random_state=42)  # 75% for training
-    test_df_25 = data.drop(train_df_75.index)
-
-    # Splitting the DataFrame into train and test sets
-    train_df_80 = data.sample(frac=0.80, random_state=42)  # 80% for training
-    test_df_20 = data.drop(train_df_80.index)
+    train_df_80 = cleaned_data.sample(frac=0.80, random_state=42)  # 80% for training
+    test_df_20 = cleaned_data.drop(train_df_80.index)
     train_df_80.info()
 
+    df_80_O=IQR_outliers(train_df_80)
+    df_80_WO=train_df_80.copy()
+    df_75_O=IQR_outliers(train_df_75)
+    df_75_WO=train_df_75.copy()
 
     #filling missing values
-    id_columns = config['id_columns_new_name']
-    df_80_KM=clustering_and_replace_missing_values(train_df_80,3,id_columns)
-    df_75_KM=clustering_and_replace_missing_values(train_df_75,3,id_columns)
-    df_80_ME=fill_missing_values_median_and_mode(train_df_80)
-    df_75_ME=fill_missing_values_median_and_mode(train_df_75)
-    df_80_NO=
+    df_80_O_KM=clustering_and_replace_missing_values(df_80_O,3)
+    df_80_WO_KM=clustering_and_replace_missing_values(df_80_WO,3)
+    df_75_O_KM=clustering_and_replace_missing_values(df_75_O,3)
+    df_75_WO_KM=clustering_and_replace_missing_values(df_75_WO,3)
+    df_80_O_ME=fill_missing_values_median_and_mode(df_80_O)
+    df_80_WO_ME=fill_missing_values_median_and_mode(df_80_WO)
+    df_75_O_ME=fill_missing_values_median_and_mode(df_75_O)
+    df_75_WO_ME=fill_missing_values_median_and_mode(df_75_WO)
+    df_80_O_NO=fill_missing_values(df_80_O)
+    df_80_WO_NO=fill_missing_values(df_80_WO)
+    df_75_O_NO=fill_missing_values(df_75_O)
+    df_75_WO_NO=fill_missing_values(df_75_WO)
+
+    #dummies & ordinary
+    
+    df_80_O_KM=dummies_order_func(df_80_O_KM)
+    df_80_WO_KM=dummies_order_func(df_80_WO_KM)
+    df_75_O_KM=dummies_order_func(df_75_O_KM)
+    df_75_WO_KM=dummies_order_func(df_75_WO_KM)
+    df_80_O_ME=dummies_order_func(df_80_O_ME)
+    df_80_WO_ME=dummies_order_func(df_80_WO_ME)
+    df_75_O_ME=dummies_order_func(df_75_O_ME)
+    df_75_WO_ME=dummies_order_func(df_75_WO_ME)
+    df_80_O_NO=dummies_order_func(df_80_O_NO)
+    df_80_WO_NO=dummies_order_func(df_80_WO_NO)
+    df_75_O_NO=dummies_order_func(df_75_O_NO)
+    df_75_WO_NO=dummies_order_func(df_75_WO_NO)
+
+    #hirrarcial tree
+
+    df_80_O_KM_0=df_80_O_KM.copy()
+    df_80_O_KM_2=hirrarcial_tree(df_80_O_KM,2)
+    df_80_O_KM_4=hirrarcial_tree(df_80_O_KM,4)
+    df_80_O_KM_8=hirrarcial_tree(df_80_O_KM,8)
+    df_80_WO_KM_0=df_80_WO_KM.copy()
+    df_80_WO_KM_2=hirrarcial_tree(df_80_WO_KM,2)
+    df_80_WO_KM_4=hirrarcial_tree(df_80_WO_KM,4)
+    df_80_WO_KM_8=hirrarcial_tree(df_80_WO_KM,8)
+    df_75_O_KM_0=df_75_O_KM.copy()
+    df_75_O_KM_2=hirrarcial_tree(df_75_O_KM,2)
+    df_75_O_KM_4=hirrarcial_tree(df_75_O_KM,4)
+    df_75_O_KM_8=hirrarcial_tree(df_75_O_KM,8)
+    df_75_WO_KM_0=df_75_WO_KM.copy()
+    df_75_WO_KM_2=hirrarcial_tree(df_75_WO_KM,2)
+    df_75_WO_KM_4=hirrarcial_tree(df_75_WO_KM,4)
+    df_75_WO_KM_8=hirrarcial_tree(df_75_WO_KM,8)
+
+    df_80_O_ME_0=df_80_O_ME.copy()
+    df_80_O_ME_2=hirrarcial_tree(df_80_O_ME,2)
+    df_80_O_ME_4=hirrarcial_tree(df_80_O_ME,4)
+    df_80_O_ME_8=hirrarcial_tree(df_80_O_ME,8)
+    df_80_WO_ME_0=df_80_WO_ME.copy()
+    df_80_WO_ME_2=hirrarcial_tree(df_80_WO_ME,2)
+    df_80_WO_ME_4=hirrarcial_tree(df_80_WO_ME,4)
+    df_80_WO_ME_8=hirrarcial_tree(df_80_WO_ME,8)
+    df_75_O_ME_0=df_75_O_ME.copy()
+    df_75_O_ME_2=hirrarcial_tree(df_75_O_ME,2)
+    df_75_O_ME_4=hirrarcial_tree(df_75_O_ME,4)
+    df_75_O_ME_8=hirrarcial_tree(df_75_O_ME,8)
+    df_75_WO_ME_0=df_75_WO_ME.copy()
+    df_75_WO_ME_2=hirrarcial_tree(df_75_WO_ME,2)
+    df_75_WO_ME_4=hirrarcial_tree(df_75_WO_ME,4)
+    df_75_WO_ME_8=hirrarcial_tree(df_75_WO_ME,8)
+
+    df_80_O_NO_0=df_80_O_NO.copy()
+    df_80_O_NO_2=hirrarcial_tree(df_80_O_NO,2)
+    df_80_O_NO_4=hirrarcial_tree(df_80_O_NO,4)
+    df_80_O_NO_8=hirrarcial_tree(df_80_O_NO,8)
+    df_80_WO_NO_0=df_80_WO_NO.copy()
+    df_80_WO_NO_2=hirrarcial_tree(df_80_WO_NO,2)
+    df_80_WO_NO_4=hirrarcial_tree(df_80_WO_NO,4)
+    df_80_WO_NO_8=hirrarcial_tree(df_80_WO_NO,8)
+    df_75_O_NO_0=df_75_O_NO.copy()
+    df_75_O_NO_2=hirrarcial_tree(df_75_O_NO,2)
+    df_75_O_NO_4=hirrarcial_tree(df_75_O_NO,4)
+    df_75_O_NO_8=hirrarcial_tree(df_75_O_NO,8)
+    df_75_WO_NO_0=df_75_WO_NO.copy()
+    df_75_WO_NO_2=hirrarcial_tree(df_75_WO_NO,2)
+    df_75_WO_NO_4=hirrarcial_tree(df_75_WO_NO,4)
+    df_75_WO_NO_8=hirrarcial_tree(df_75_WO_NO,8)

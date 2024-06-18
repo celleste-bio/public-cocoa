@@ -18,3 +18,5 @@ id_columns_new_name:
 missing_threshold: 70
 
 target_column: "Total wet weight"
+
+target_column_new_name: "bean_total_wet_weight"

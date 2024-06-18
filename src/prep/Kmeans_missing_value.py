@@ -41,9 +41,8 @@ def choosing_the_K(data):
     #step 3 choosing the k
   plt.plot(range(1,11),inertia_)
 
-def clustering_and_replace_missing_values(df,k,id_columns):
+def clustering_and_replace_missing_values(df,k):
     copy_data=df
-    copy_data = copy_data.drop(id_columns, axis=1)
     float_columns=copy_data.select_dtypes(include='float64').columns
     category_columns=copy_data.select_dtypes(include='object').columns
 

@@ -12,13 +12,6 @@ import yaml
 sys.path.append("/home/public-cocoa/src/prep/")
 from path_utils import go_back_dir
 
-def get_configs(script_path):
-    script_dir = go_back_dir(script_path, 0)
-    config_path = os.path.join(script_dir, "config_cleanning.yaml")
-    with open(config_path, 'r') as file:
-        config = yaml.safe_load(file)
-    return config
-
 def replace_dash_with_nan(df):
     # Replace "-" with NaN in both numerical and categorical columns
     df = df.replace('-', np.nan)
@@ -55,18 +48,26 @@ def convert_to_float(df):
 def col_name_template(col_name):
     return col_name.replace(' ', '_').lower()
 
-def clean_data(df, config):
+def drop_columns_from_df(df, columns_to_drop):
+    df.drop(columns=columns_to_drop, axis=1, inplace=True)
+    return df
+
+def clean_data_function(df_clean, config):
     # script_path="/home/public-cocoa/src/prep/clean_data.py"
     # script_path = os.path.realpath(__file__)
     # config = get_configs(config_script_path)
 
-    df = replace_dash_with_nan(df)
-    df = filter_high_missing_columns(df, config["missing_threshold"])
+    df_clean = replace_dash_with_nan(df_clean)
+    df_clean = filter_high_missing_columns(df_clean, config["missing_threshold"])
 
-    target_column = [col for col in df.columns if col_name_template(config["target_column"]) in col][0]
-    df = df.dropna(subset=[target_column])
-    df=convert_to_float(df)
-    return df
+    target_column = [col for col in df_clean.columns if col_name_template(config["target_column"]) in col][0]
+    df_clean = df_clean.dropna(subset=[target_column])
+    id_columns = config['id_columns_new_name']
+    df_clean.info()
+    df_clean = drop_columns_from_df(df_clean, id_columns)
+    df_clean = drop_columns_from_df(df_clean,target_column)
+    df_clean=convert_to_float(df_clean)
+    return df_clean
     # df.info()
     #connection.close()
 
@@ -75,4 +76,4 @@ def clean_data(df, config):
     #df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
-    clean_data()
+    clean_data_function()
