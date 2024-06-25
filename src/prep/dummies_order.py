@@ -3,16 +3,9 @@ import sys
 import yaml
 import os
 
-
-sys.path.append("/home/public-cocoa/src/prep/")
+sys.path.append("/home/public-cocoa/src/")
 from path_utils import go_back_dir
-
-def get_configs(script_path):
-    script_dir = go_back_dir(script_path, 0)
-    config_path = os.path.join(script_dir, "config_dummies.yaml")
-    with open(config_path, 'r') as file:
-        config = yaml.safe_load(file)
-    return config
+from utils import read_yaml
 
 # Function to drop columns from DataFrame
 def drop_columns_from_df(df, columns_to_drop):
@@ -31,29 +24,22 @@ def convert_to_float(df):
             numeric_cols.append(col)
         except ValueError:
             continue
-
-    print("Converted columns to float:", numeric_cols)
-
-    # Check the data types of the DataFrame after conversion
-    print(df.dtypes)
     return df
 
-def dummies_order_func(df,config_dummie):
-
-    columns_to_drop = [config_dummie['columns_to_drop']]
+def dummies_order(data):
+    script_path = os.path.realpath(__file__)
+    script_dir = go_back_dir(script_path, 0)
+    config_path = os.path.join(script_dir, "config_dummies.yaml")
+    config = read_yaml(config_path)
+    
     # Replace values in columns with meaningful order
-    for column, mapping in config_dummie['column_mappings'].items():
-        df[column] = df[column].replace(mapping)
-    df = drop_columns_from_df(df, columns_to_drop)
-    df.info()
-    df = convert_to_float(df)
-    dummies = df.select_dtypes(include=object).columns
-    df = pd.get_dummies(df, columns=dummies)
-    df[df.select_dtypes(include=bool).columns] = df[df.select_dtypes(include=bool).columns].astype(int)
-    df.info()
-
-    return df
-
+    for column, mapping in config['column_mappings'].items():
+        data[column] = data[column].replace(mapping)
+    data = convert_to_float(data)
+    dummies = data.select_dtypes(include=object).columns
+    data = pd.get_dummies(data, columns=dummies)
+    data[data.select_dtypes(include=bool).columns] = data[data.select_dtypes(include=bool).columns].astype(int)
+    return data
 
 if __name__ == "__main__":
-    dummies_order_func()
+    dummies_order()

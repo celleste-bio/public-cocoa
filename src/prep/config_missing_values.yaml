@@ -1,0 +1,21 @@
+
+methods: 
+  - "KM"
+  - "ME"
+  - "NO"
+
+Outliers:
+  - "WO"
+  - "O"
+
+Hierarchical_tree_clusters: 
+  - 0
+  - 2
+  - 4
+  - 8
+
+columns_cotyledon:
+  - "bean_cotyledon_dry_weight"
+  - "bean_cotyledon_length"
+  - "bean_cotyledon_width"
+

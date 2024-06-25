@@ -1,0 +1,10 @@
+db_path: "/home/public-cocoa/data/ICGD.db"
+
+tables:
+    - "flower"
+    - "fruit"
+    - "bean"
+
+id_columns:
+    - "Clone name"
+    - "Refcode"

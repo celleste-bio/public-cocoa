@@ -9,8 +9,9 @@ import pandas as pd
 import numpy as np
 import yaml
 
-sys.path.append("/home/public-cocoa/src/prep/")
+sys.path.append("/home/public-cocoa/src/")
 from path_utils import go_back_dir
+from utils import read_yaml
 
 def replace_dash_with_nan(df):
     # Replace "-" with NaN in both numerical and categorical columns
@@ -39,10 +40,6 @@ def convert_to_float(df):
         except ValueError:
             continue
 
-    print("Converted columns to float:", numeric_cols)
-
-    # Check the data types of the DataFrame after conversion
-    print(df.dtypes)
     return df
 
 def col_name_template(col_name):
@@ -52,22 +49,23 @@ def drop_columns_from_df(df, columns_to_drop):
     df.drop(columns=columns_to_drop, axis=1, inplace=True)
     return df
 
-def clean_data_function(df_clean, config):
+def clean_data(data):
     # script_path="/home/public-cocoa/src/prep/clean_data.py"
-    # script_path = os.path.realpath(__file__)
-    # config = get_configs(config_script_path)
+    script_path = os.path.realpath(__file__)
+    script_dir = go_back_dir(script_path, 0)
+    config_path = os.path.join(script_dir, "config_cleanning.yaml")
+    config = read_yaml(config_path)
 
-    df_clean = replace_dash_with_nan(df_clean)
-    df_clean = filter_high_missing_columns(df_clean, config["missing_threshold"])
+    data = replace_dash_with_nan(data)
+    data = filter_high_missing_columns(data, config["missing_threshold"])
 
-    target_column = [col for col in df_clean.columns if col_name_template(config["target_column"]) in col][0]
-    df_clean = df_clean.dropna(subset=[target_column])
+    target_column = [col for col in data.columns if col_name_template(config["target_column"]) in col][0]
+    data = data.dropna(subset=[target_column])
     id_columns = config['id_columns_new_name']
-    df_clean.info()
-    df_clean = drop_columns_from_df(df_clean, id_columns)
-    df_clean = drop_columns_from_df(df_clean,target_column)
-    df_clean=convert_to_float(df_clean)
-    return df_clean
+    data = drop_columns_from_df(data, id_columns)
+    data = drop_columns_from_df(data,target_column)
+    data=convert_to_float(data)
+    return data
     # df.info()
     #connection.close()
 
@@ -76,7 +74,7 @@ def clean_data_function(df_clean, config):
     #df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
-    clean_data_function()
+    clean_data()
 
 
 

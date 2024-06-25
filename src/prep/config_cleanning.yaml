@@ -1,16 +1,5 @@
 # data clean_up configurations as prep for the models
 
-db_path: "/home/public-cocoa/data/ICGD.db"
-
-tables:
-    - "flower"
-    - "fruit"
-    - "bean"
-
-id_columns:
-    - "Clone name"
-    - "Refcode"
-
 id_columns_new_name:
     - "clone_name"
     - "refcode"
@@ -21,44 +10,4 @@ target_column: "Total wet weight"
 
 target_column_new_name: "bean_total_wet_weight"
 
-column_mappings: 
-  bean_colour: 
-    light purple: 1
-    purple: 2
-    dark purple: 3
-  flower_stamen_colour: 
-    anthocyanin absent: 1
-    slight anthocyanin: 2
-    moderate anthocyanin: 3
-    intense anthocyanin: 4
-  fruit_rugosity: 
-    smooth: 1
-    slight: 2
-    moderate: 3
-    intense: 4
-  fruit_hardness: 
-    soft: 1
-    moderate: 2
-    hard: 3
-
 columns_to_drop: "fruit_info"
-
-methods: 
-  - "KM"
-  - "ME"
-  - "NO"
-
-Outliers:
-  - "WO"
-  - "O"
-
-Hierarchical_tree_clusters: 
-  - 0
-  - 2
-  - 4
-  - 8
-
-columns_cotyledon:
-  - "bean_cotyledon_dry_weight"
-  - "bean_cotyledon_length"
-  - "bean_cotyledon_width"
