@@ -1,5 +1,5 @@
 db_path: "/home/public-cocoa/data/ICGD.db"
-
+save_praped_data: "/home/public-cocoa/data/data_prep"
 tables:
     - "flower"
     - "fruit"
