@@ -1,6 +1,9 @@
+# packages
 import os
+import sys
 import sqlite3 as sqlite
 import pandas as pd
+import numpy as np
 import yaml
 
 sys.path.append("/home/public-cocoa/src")
@@ -16,94 +19,64 @@ from hirarcial_tree_column import hirrarcial_tree
 from dummies_order import dummies_order_func
 
 def get_configs(script_path):
-    config_path = os.path.join(os.path.dirname(script_path), 'config.yaml')
+    script_dir = go_back_dir(script_path, 0)
+    config_path = os.path.join(script_dir, "config_cleanning.yaml")
     with open(config_path, 'r') as file:
-        return yaml.safe_load(file)
+        config = yaml.safe_load(file)
+    return config
 
-def create_data_frame(connection, tables, id_columns):
-    query = f"SELECT {', '.join(id_columns)} FROM {', '.join(tables)}"
-    return pd.read_sql_query(query, connection)
+def add_table_prefix(df, table_name, id_columns):
+    """
+    Adds table name prefix to non id columns
+    """
+    prefixed_columns = {}
+    for col in df.columns:
+        if col not in id_columns:
+            prefixed_columns[col] = f"{table_name}_{col}"
+        else:
+            prefixed_columns[col] = col
+    return df.rename(columns=prefixed_columns)
 
-def clean_data_function(data, config):
-    data=clean_data_function(data,config)
-    return data
+def col_name_template(col_name):
+    return col_name.replace(' ', '_').lower()
 
-def split_data(data, frac, random_state):
-    train_df = data.sample(frac=frac, random_state=random_state)
-    test_df = data.drop(train_df.index)
-    return train_df, test_df
+def create_data_frame(conn, tables, id_columns):
+    """
+    Aggregates and preppering tables
+    """
+    merged_df = pd.DataFrame(columns=id_columns)
+    for table in tables:
+        df = pd.read_sql_query(f"SELECT * FROM {table}", conn)
+        df = add_table_prefix(df, table, id_columns)
+        merged_df = pd.merge(df, merged_df, on=id_columns, how='left')
 
-def handle_outliers(df):
-    df=IQR_outliers(df)
+    merged_df = merged_df.drop_duplicates(subset=id_columns)
+    merged_df = merged_df.rename(columns=lambda x: col_name_template(x))
+    return merged_df
+
+def drop_columns_from_df(df, columns_to_drop):
+    df.drop(columns=columns_to_drop, axis=1, inplace=True)
     return df
 
-def fill_missing_values_method(df, method):
-    if method == 'KM':
-        df = clustering_and_replace_missing_values(df,k=3)
-    if method == 'ME':
-        df = fill_missing_values_median_and_mode(df)
-    if method == 'NO':
-        df = fill_missing_values(df)
-    return df
-
-def dummies_order_func(df, config):
-    # Implement your dummy variable creation logic here
-    return df
-
-def hirrarcial_tree(df, num_clusters):
-    # Implement your hierarchical tree logic here
-    return df
-
-# Main script
 def main():
-    #script_path="/home/public-cocoa/src/prep/main_new.py"
+    # script_path="/home/public-cocoa/src/prep/main.py"
     script_path = os.path.realpath(__file__)
     config = get_configs(script_path)
-
     connection = sqlite.connect(config["db_path"])
     df = create_data_frame(connection, config["tables"], config["id_columns"])
     df.info()
-
     data = df.copy()
     data.info()
-
-    cleaned_data = clean_data_function(data, config)
+    cleaned_data=clean_data_function(data,config)
+    #the data is clean without duplication and without null in target column
     cleaned_data.info()
+    # Splitting the DataFrame into train and test sets
+    train_df_75 = cleaned_data.sample(frac=0.75, random_state=42)  # 75% for training
+    test_df_25 = cleaned_data.drop(train_df_75.index)
 
     # Splitting the DataFrame into train and test sets
-    train_df_75, test_df_25 = split_data(cleaned_data, 0.75, 42)
-    train_df_80, test_df_20 = split_data(cleaned_data, 0.80, 42)
+    train_df_80 = cleaned_data.sample(frac=0.80, random_state=42)  # 80% for training
+    test_df_20 = cleaned_data.drop(train_df_80.index)
+    train_df_80.info()
 
-    # Handling outliers
-    df_75_O = handle_outliers(train_df_75)
-    df_75_WO = train_df_75.copy()
-    df_80_O = handle_outliers(train_df_80)
-    df_80_WO = train_df_80.copy()
-
-    # Filling missing values
-    methods = ['KM', 'ME', 'NO']
-    dfs_75 = {'O': df_75_O, 'WO': df_75_WO}
-    dfs_80 = {'O': df_80_O, 'WO': df_80_WO}
-
-    for method in methods:
-        for key in dfs_75:
-            dfs_75[key + '_' + method] = fill_missing_values_method(dfs_75[key], method)
-        for key in dfs_80:
-            dfs_80[key + '_' + method] = fill_missing_values_method(dfs_80[key], method)
-
-    # Creating dummies & ordinary
-    for method in methods:
-        for key in dfs_75:
-            dfs_75[key + '_' + method] = dummies_order_func(dfs_75[key + '_' + method], config)
-        for key in dfs_80:
-            dfs_80[key + '_' + method] = dummies_order_func(dfs_80[key + '_' + method], config)
-
-    # Hierarchical tree
-    clusters = [0, 2, 4, 8]
-    for method in methods:
-        for key in dfs_75:
-            for cluster in clusters:
-                dfs_75[key + '_' + method + '_' + str(cluster)] = hirrarcial_tree(dfs_75[key + '_' + method], cluster)
-        for key in dfs_80:
-            for cluster in clusters:
-                dfs_80[key + '_' + method + '_' + str(cluster)] = hirrarcial_tree(dfs_80[key + '_' + method], cluster)
+    
