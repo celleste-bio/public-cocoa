@@ -54,6 +54,10 @@ def create_data_frame(conn, tables, id_columns):
     merged_df = merged_df.rename(columns=lambda x: col_name_template(x))
     return merged_df
 
+def drop_columns_from_df(df, columns_to_drop):
+    df.drop(columns=columns_to_drop, axis=1, inplace=True)
+    return df
+
 def main():
     # script_path="/home/public-cocoa/src/prep/main.py"
     script_path = os.path.realpath(__file__)
@@ -80,6 +84,9 @@ def main():
     df_75_O=IQR_outliers(train_df_75)
     df_75_WO=train_df_75.copy()
 
+    # Initialize dictionary to store all DataFrames
+    all_dfs = {}
+    
     #filling missing values
     df_80_O_KM=clustering_and_replace_missing_values(df_80_O,3)
     df_80_WO_KM=clustering_and_replace_missing_values(df_80_WO,3)
@@ -96,18 +103,18 @@ def main():
 
     #dummies & ordinary
     
-    df_80_O_KM=dummies_order_func(df_80_O_KM)
-    df_80_WO_KM=dummies_order_func(df_80_WO_KM)
-    df_75_O_KM=dummies_order_func(df_75_O_KM)
-    df_75_WO_KM=dummies_order_func(df_75_WO_KM)
-    df_80_O_ME=dummies_order_func(df_80_O_ME)
-    df_80_WO_ME=dummies_order_func(df_80_WO_ME)
-    df_75_O_ME=dummies_order_func(df_75_O_ME)
-    df_75_WO_ME=dummies_order_func(df_75_WO_ME)
-    df_80_O_NO=dummies_order_func(df_80_O_NO)
-    df_80_WO_NO=dummies_order_func(df_80_WO_NO)
-    df_75_O_NO=dummies_order_func(df_75_O_NO)
-    df_75_WO_NO=dummies_order_func(df_75_WO_NO)
+    df_80_O_KM=dummies_order_func(df_80_O_KM,config)
+    df_80_WO_KM=dummies_order_func(df_80_WO_KM,config)
+    df_75_O_KM=dummies_order_func(df_75_O_KM,config)
+    df_75_WO_KM=dummies_order_func(df_75_WO_KM,config)
+    df_80_O_ME=dummies_order_func(df_80_O_ME,config)
+    df_80_WO_ME=dummies_order_func(df_80_WO_ME,config)
+    df_75_O_ME=dummies_order_func(df_75_O_ME,config)
+    df_75_WO_ME=dummies_order_func(df_75_WO_ME,config)
+    df_80_O_NO=dummies_order_func(df_80_O_NO,config)
+    df_80_WO_NO=dummies_order_func(df_80_WO_NO,config)
+    df_75_O_NO=dummies_order_func(df_75_O_NO,config)
+    df_75_WO_NO=dummies_order_func(df_75_WO_NO,config)
 
     #hirrarcial tree
 
@@ -161,3 +168,120 @@ def main():
     df_75_WO_NO_2=hirrarcial_tree(df_75_WO_NO,2)
     df_75_WO_NO_4=hirrarcial_tree(df_75_WO_NO,4)
     df_75_WO_NO_8=hirrarcial_tree(df_75_WO_NO,8)
+
+    #drop cotyhlidon
+    columns_to_drop = config
+    drop_columns_from_df(df, columns_to_drop)
+
+    #km
+    df_80_O_KM_0_C=df_80_O_KM_0.copy()
+    df_80_O_KM_0_WC=drop_columns_from_df(df_80_O_KM_0,columns_to_drop)
+    df_80_O_KM_2=df_80_O_KM_0.copy()
+    df_80_O_KM_2_WC=drop_columns_from_df(df_80_O_KM_2,columns_to_drop)
+    df_80_O_KM_4_C=df_80_O_KM_4.copy()
+    df_80_O_KM_4_WC=drop_columns_from_df(df_80_O_KM_4,columns_to_drop)
+    df_80_O_KM_8_C=df_80_O_KM_8.copy()
+    df_80_O_KM_8_WC=drop_columns_from_df(df_80_O_KM_8,columns_to_drop)
+
+    df_80_WO_KM_0_C=df_80_WO_KM_0.copy()
+    df_80_WO_KM_0_WC=drop_columns_from_df(df_80_WO_KM_0,columns_to_drop)
+    df_80_WO_KM_2=df_80_WO_KM_0.copy()
+    df_80_WO_KM_2_WC=drop_columns_from_df(df_80_WO_KM_2,columns_to_drop)
+    df_80_WO_KM_4_C=df_80_WO_KM_4.copy()
+    df_80_WO_KM_4_WC=drop_columns_from_df(df_80_WO_KM_4,columns_to_drop)
+    df_80_WO_KM_8_C=df_80_WO_KM_8.copy()
+    df_80_WO_KM_8_WC=drop_columns_from_df(df_80_WO_KM_8,columns_to_drop)
+
+    df_75_O_KM_0_C=df_75_O_KM_0.copy()
+    df_75_O_KM_0_WC=drop_columns_from_df(df_75_O_KM_0,columns_to_drop)
+    df_75_O_KM_2=df_75_O_KM_0.copy()
+    df_75_O_KM_2_WC=drop_columns_from_df(df_75_O_KM_2,columns_to_drop)
+    df_75_O_KM_4_C=df_75_O_KM_4.copy()
+    df_75_O_KM_4_WC=drop_columns_from_df(df_75_O_KM_4,columns_to_drop)
+    df_75_O_KM_8_C=df_75_O_KM_8.copy()
+    df_75_O_KM_8_WC=drop_columns_from_df(df_75_O_KM_8,columns_to_drop)
+
+    df_75_WO_KM_0_C=df_75_WO_KM_0.copy()
+    df_75_WO_KM_0_WC=drop_columns_from_df(df_75_WO_KM_0,columns_to_drop)
+    df_75_WO_KM_2=df_75_WO_KM_0.copy()
+    df_75_WO_KM_2_WC=drop_columns_from_df(df_75_WO_KM_2,columns_to_drop)
+    df_75_WO_KM_4_C=df_75_WO_KM_4.copy()
+    df_75_WO_KM_4_WC=drop_columns_from_df(df_75_WO_KM_4,columns_to_drop)
+    df_75_WO_KM_8_C=df_75_WO_KM_8.copy()
+    df_75_WO_KM_8_WC=drop_columns_from_df(df_75_WO_KM_8,columns_to_drop)
+
+    #ME
+    df_80_O_ME_0_C=df_80_O_ME_0.copy()
+    df_80_O_ME_0_WC=drop_columns_from_df(df_80_O_ME_0,columns_to_drop)
+    df_80_O_ME_2=df_80_O_ME_0.copy()
+    df_80_O_ME_2_WC=drop_columns_from_df(df_80_O_ME_2,columns_to_drop)
+    df_80_O_ME_4_C=df_80_O_ME_4.copy()
+    df_80_O_ME_4_WC=drop_columns_from_df(df_80_O_ME_4,columns_to_drop)
+    df_80_O_ME_8_C=df_80_O_ME_8.copy()
+    df_80_O_ME_8_WC=drop_columns_from_df(df_80_O_ME_8,columns_to_drop)
+
+    df_80_WO_ME_0_C=df_80_WO_ME_0.copy()
+    df_80_WO_ME_0_WC=drop_columns_from_df(df_80_WO_ME_0,columns_to_drop)
+    df_80_WO_ME_2=df_80_WO_ME_0.copy()
+    df_80_WO_ME_2_WC=drop_columns_from_df(df_80_WO_ME_2,columns_to_drop)
+    df_80_WO_ME_4_C=df_80_WO_ME_4.copy()
+    df_80_WO_ME_4_WC=drop_columns_from_df(df_80_WO_ME_4,columns_to_drop)
+    df_80_WO_ME_8_C=df_80_WO_ME_8.copy()
+    df_80_WO_ME_8_WC=drop_columns_from_df(df_80_WO_ME_8,columns_to_drop)
+
+    df_75_O_ME_0_C=df_75_O_ME_0.copy()
+    df_75_O_ME_0_WC=drop_columns_from_df(df_75_O_ME_0,columns_to_drop)
+    df_75_O_ME_2=df_75_O_ME_0.copy()
+    df_75_O_ME_2_WC=drop_columns_from_df(df_75_O_ME_2,columns_to_drop)
+    df_75_O_ME_4_C=df_75_O_ME_4.copy()
+    df_75_O_ME_4_WC=drop_columns_from_df(df_75_O_ME_4,columns_to_drop)
+    df_75_O_ME_8_C=df_75_O_ME_8.copy()
+    df_75_O_ME_8_WC=drop_columns_from_df(df_75_O_ME_8,columns_to_drop)
+
+    df_75_WO_ME_0_C=df_75_WO_ME_0.copy()
+    df_75_WO_ME_0_WC=drop_columns_from_df(df_75_WO_ME_0,columns_to_drop)
+    df_75_WO_ME_2=df_75_WO_ME_0.copy()
+    df_75_WO_ME_2_WC=drop_columns_from_df(df_75_WO_ME_2,columns_to_drop)
+    df_75_WO_ME_4_C=df_75_WO_ME_4.copy()
+    df_75_WO_ME_4_WC=drop_columns_from_df(df_75_WO_ME_4,columns_to_drop)
+    df_75_WO_ME_8_C=df_75_WO_ME_8.copy()
+    df_75_WO_ME_8_WC=drop_columns_from_df(df_75_WO_ME_8,columns_to_drop)
+
+    #NO
+    df_80_O_NO_0_C=df_80_O_NO_0.copy()
+    df_80_O_NO_0_WC=drop_columns_from_df(df_80_O_NO_0,columns_to_drop)
+    df_80_O_NO_2=df_80_O_NO_0.copy()
+    df_80_O_NO_2_WC=drop_columns_from_df(df_80_O_NO_2,columns_to_drop)
+    df_80_O_NO_4_C=df_80_O_NO_4.copy()
+    df_80_O_NO_4_WC=drop_columns_from_df(df_80_O_NO_4,columns_to_drop)
+    df_80_O_NO_8_C=df_80_O_NO_8.copy()
+    df_80_O_NO_8_WC=drop_columns_from_df(df_80_O_NO_8,columns_to_drop)
+
+    df_80_WO_NO_0_C=df_80_WO_NO_0.copy()
+    df_80_WO_NO_0_WC=drop_columns_from_df(df_80_WO_NO_0,columns_to_drop)
+    df_80_WO_NO_2=df_80_WO_NO_0.copy()
+    df_80_WO_NO_2_WC=drop_columns_from_df(df_80_WO_NO_2,columns_to_drop)
+    df_80_WO_NO_4_C=df_80_WO_NO_4.copy()
+    df_80_WO_NO_4_WC=drop_columns_from_df(df_80_WO_NO_4,columns_to_drop)
+    df_80_WO_NO_8_C=df_80_WO_NO_8.copy()
+    df_80_WO_NO_8_WC=drop_columns_from_df(df_80_WO_NO_8,columns_to_drop)
+
+    df_75_O_NO_0_C=df_75_O_NO_0.copy()
+    df_75_O_NO_0_WC=drop_columns_from_df(df_75_O_NO_0,columns_to_drop)
+    df_75_O_NO_2=df_75_O_NO_0.copy()
+    df_75_O_NO_2_WC=drop_columns_from_df(df_75_O_NO_2,columns_to_drop)
+    df_75_O_NO_4_C=df_75_O_NO_4.copy()
+    df_75_O_NO_4_WC=drop_columns_from_df(df_75_O_NO_4,columns_to_drop)
+    df_75_O_NO_8_C=df_75_O_NO_8.copy()
+    df_75_O_NO_8_WC=drop_columns_from_df(df_75_O_NO_8,columns_to_drop)
+
+    df_75_WO_NO_0_C=df_75_WO_NO_0.copy()
+    df_75_WO_NO_0_WC=drop_columns_from_df(df_75_WO_NO_0,columns_to_drop)
+    df_75_WO_NO_2=df_75_WO_NO_0.copy()
+    df_75_WO_NO_2_WC=drop_columns_from_df(df_75_WO_NO_2,columns_to_drop)
+    df_75_WO_NO_4_C=df_75_WO_NO_4.copy()
+    df_75_WO_NO_4_WC=drop_columns_from_df(df_75_WO_NO_4,columns_to_drop)
+    df_75_WO_NO_8_C=df_75_WO_NO_8.copy()
+    df_75_WO_NO_8_WC=drop_columns_from_df(df_75_WO_NO_8,columns_to_drop)
+
+    

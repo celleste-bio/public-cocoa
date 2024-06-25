@@ -3,8 +3,7 @@ import sys
 import yaml
 import os
 
-sys.path.append("/home/public-cocoa/src/")
-from clean_data import clean_data
+
 sys.path.append("/home/public-cocoa/src/prep/")
 from path_utils import go_back_dir
 
@@ -39,15 +38,11 @@ def convert_to_float(df):
     print(df.dtypes)
     return df
 
-def dummies_order_func():
-    # script_path= "/home/public-cocoa/src/prep/dummies_order.py"
-    script_path = os.path.realpath(__file__)
-    config = get_configs(script_path)
+def dummies_order_func(df,config_dummie):
 
-    columns_to_drop = [config['columns_to_drop']]
-    df = clean_data()
+    columns_to_drop = [config_dummie['columns_to_drop']]
     # Replace values in columns with meaningful order
-    for column, mapping in config['column_mappings'].items():
+    for column, mapping in config_dummie['column_mappings'].items():
         df[column] = df[column].replace(mapping)
     df = drop_columns_from_df(df, columns_to_drop)
     df.info()
