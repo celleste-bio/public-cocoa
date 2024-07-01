@@ -1,0 +1,354 @@
+Clone name,Size
+AC T 1 /1 [TTO],medium
+AC T 1 /13 [TTO],medium
+AC T 1 /14 [TTO],medium
+AC T 1 /19 [TTO],large
+AC T 1 /5 [TTO],medium
+AC T 1 /7 [TTO],large
+AC T 1 /8 [TTO],medium
+AC T 1 /9 [TTO],medium
+AC T 2 /1 [TTO],medium
+AC T 2 /10 [TTO],medium
+AC T 2 /11 [TTO],medium
+AC T 2 /12 [TTO],medium
+AC T 2 /13 [TTO],large
+AC T 2 /14 [TTO],large
+AC T 2 /15 [TTO],large
+AC T 2 /17 [TTO],large
+AC T 2 /18 [TTO],large
+AC T 2 /19 [TTO],large
+AC T 2 /3 [TTO],large
+AC T 2 /5 [TTO],small
+AC T 2 /6 [TTO],small
+AC T 2 /8 [TTO],large
+AC T 3 /1 [TTO],large
+AC T 3 /2 [TTO],large
+AC T 3 /4 [TTO],medium
+AC T 3 /6 [TTO],medium
+AC T 4 /1 [TTO],large
+AC T 4 /2 [TTO],large
+AC T 4 /3 [TTO],medium
+AC T 7 /1 [TTO],medium - large
+AC T 7 /2 [TTO],medium - large
+AC T 8 /1 [TTO],large
+AC T 8 /2 [TTO],large
+ALMEIDA [SEM],small
+AM 1 /109 [POU],medium
+AX 122 /10,medium - large
+AX 122 /13,medium - large
+AX 122 /17,medium - large
+AX 122 /173,medium - large
+AX 122 /18,medium - large
+AX 122 /180,medium - large
+AX 122 /198,medium - large
+AX 122 /2,medium - large
+AX 122 /203,medium - large
+AX 122 /207,medium - large
+AX 122 /21,medium - large
+AX 122 /210,medium - large
+AX 122 /24,medium - large
+AX 122 /28,medium - large
+AX 122 /32,medium - large
+AX 122 /41,medium - large
+AX 122 /45,medium - large
+AX 122 /53,medium - large
+AX 122 /57,medium - large
+AX 122 /59,medium - large
+AX 122 /61,medium - large
+AX 122 /72,medium - large
+AX 122 /75,medium - large
+AX 122 /78,medium - large
+AX 122 /79,medium - large
+AX 122 /80,medium - large
+AX 122 /81,medium - large
+AX 122 /84,medium - large
+AX 122 /85,medium - large
+AX 122 /90,medium - large
+AX 122 /91,medium - large
+AX 122 /97,medium - large
+AX 122 /99,medium - large
+AX 139 /53,large
+AX 139 /55,large
+AX 3 /32,medium
+AX 3 /7,medium
+AX 40 /20,large
+C 151 /112 [TRI],medium
+C 151 /36 [TRI],large
+C 151 /4 [TRI],medium
+C 151 /44 [TRI],medium
+C 151 /50 [TRI],medium
+C 151 /60 [TRI],large
+C 151 /61 [TRI],medium
+C 151 /69 [TRI],large
+C 151 /78 [TRI],medium
+C 3 /15 [TRI],medium
+C 3 /23 [TRI],large
+C 3 /28 [TRI],large
+C 3 /29 [TRI],small
+C 34 /37 [TRI],medium - large
+C 4 /258 [TRI],large
+C 7 /2 [TRI],large
+C 7 /27 [TRI],medium
+C 7 /32 [TRI],medium
+C 7 /42 [TRI],medium
+C 83 /109 [TRI],medium
+C 83 /28 [TRI],medium
+C 83 /3 [TRI],medium
+C 87 /56 [TRI],large
+C 90 /10 [TRI],medium
+C 90 /18 [TRI],medium
+C 90 /20 [TRI],medium
+C 90 /43 [TRI],medium
+C 90 /50 [TRI],medium
+C 90 /56 [TRI],medium
+C 92 /17 [TRI],large
+C 92 /18 [TRI],medium
+C 92 /26 [TRI],medium
+C 92 /9 [TRI],medium
+C 93 /15 [TRI],large
+C 93 /27 [TRI],medium
+C 93 /30 [TRI],medium
+C 93 /34 [TRI],medium
+C 93 /37 [TRI],medium
+C 93 /44 [TRI],medium
+C 93 /46 [TRI],medium
+C 93 /47 [TRI],medium
+C 94 /25 [TRI],large
+C 96 /63 [TRI],large
+C 98 /14 [TRI],medium
+CATONGO,medium
+E 34 [ECU],medium
+ECNR,large
+EET 397 [ECU],medium
+EET 400 [ECU],large
+EET 95 [ECU],medium
+GS 10,large
+GS 36,large
+ICS 1,large
+ICS 100,large
+ICS 11,large
+ICS 111,large
+ICS 16,large
+ICS 22,large
+ICS 32,medium
+ICS 36,medium
+ICS 38,large
+ICS 39,large
+ICS 4,large
+ICS 40,large
+ICS 41,large
+ICS 42,large
+ICS 43,large
+ICS 44,medium
+ICS 45,medium
+ICS 46,large
+ICS 47,large
+ICS 5,large
+ICS 51,medium
+ICS 55,medium
+ICS 6,large
+ICS 60,large
+ICS 61,large
+ICS 62,medium
+ICS 65,medium
+ICS 7,large
+ICS 70,medium
+ICS 73,medium
+ICS 75,large
+ICS 8,large
+ICS 84,medium
+ICS 88,large
+ICS 89,medium
+ICS 9,large
+ICS 91,large
+ICS 95,large
+ICS 98,large
+IMC 10,large
+IMC 103,large
+IMC 104,large
+IMC 105,large
+IMC 107,large
+IMC 11,large
+IMC 13,large
+IMC 14,medium
+IMC 16,large
+IMC 18,large
+IMC 2,medium
+IMC 20,large
+IMC 22,large
+IMC 23,large
+IMC 27,large
+IMC 3,large
+IMC 31,large
+IMC 36,large
+IMC 38,large
+IMC 39,large
+IMC 41,large
+IMC 42,large
+IMC 44,large
+IMC 45,large
+IMC 47,large
+IMC 48,large
+IMC 49,large
+IMC 5,large
+IMC 51,large
+IMC 53,large
+IMC 54,large
+IMC 55,large
+IMC 56,large
+IMC 57,medium
+IMC 58,large
+IMC 6,large
+IMC 60,large
+IMC 66,large
+IMC 67,large
+IMC 68,large
+IMC 71,large
+IMC 76,large
+IMC 77,large
+IMC 83,large
+IMC 85,large
+IMC 94,large
+IMC 96,large
+IMC 97,large
+IMC 98,large
+JA 4 /22 [POU],medium
+LAFI 7,large
+M 120 [ICT],medium
+M 121 [ICT],medium
+M 137 [ICT],small
+M 2 [ICT],small
+M 252 [ICT],small
+M 253 [ICT],small
+M 8 [SUR],medium
+MATINA 2 /14,medium
+MO 123,medium
+MO 126,medium
+MO 81,medium
+MO 90,medium
+MOQ 1 /22,large
+MOQ 2 /16,large
+MOQ 4 /13,large
+MOQ 4 /17,large
+MX 16 /18 [TTO],large
+MX 16 /2 [TTO],large
+MX 16 /41 [TTO],large
+MX 16 /47 [TTO],large
+MX 16 /48 [TTO],large
+MX 16 /49 [TTO],large
+MX 16 /52 [TTO],large
+MX 16 /58 [TTO],large
+MX 43 /9 [TTO],medium
+MX 58 /35 [TTO],medium
+MX 61 /17 [TTO],medium
+MX 69 /24 [TTO],medium
+MX 70 /26 [TTO],medium
+MX 70 /28 [TTO],large
+MX 70 /30 [TTO],medium
+MX 75 /3 [TTO],large
+MX 75 /40 [TTO],large
+MX 81 /4 [TTO],medium
+MXC 67,medium
+NA 254,medium
+NA 277,small
+NA 32,large
+NA 33,medium
+NA 34,medium
+NA 387,small
+PA 120 [PER],large
+PA 195 [PER],large
+PA 30 [PER],large
+PA 303 [PER],large
+PA 4 [PER],large
+PA 71 [PER],large
+PLAYA ALTA 1 [VEN],large
+PLAYA ALTA 2 [VEN],large
+PLAYA ALTA 4 [VEN],large
+POUND 1,small - medium
+POUND 10,small
+POUND 12,large
+POUND 13,small
+POUND 14,small
+POUND 15,medium
+POUND 16,medium
+POUND 18,large
+POUND 19,medium
+POUND 2,small - medium
+POUND 21,medium
+POUND 26,medium
+POUND 31,medium
+POUND 32,medium
+POUND 4,large
+POUND 7,large
+POUND 8,small
+POUND 9,small
+REDAMEL 1 /27,medium
+REDAMEL 1 /31,medium
+RUY,small
+SCA 10,medium
+SCA 11,medium
+SCA 12,medium
+SCA 17,medium
+SCA 19,medium
+SCA 23,medium
+SCA 24,medium
+SCA 27,medium
+SCA 3,medium
+SCA 5,medium
+SCA 6,medium
+SCA 7,medium
+SCA 8,medium
+SCA 9,medium
+SIC 28,medium
+SPEC 137 /6,medium
+SPEC 138 /10,medium
+SPEC 138 /11,medium
+SPEC 138 /13,medium
+SPEC 138 /15,large
+SPEC 138 /17,large
+SPEC 138 /21,medium
+SPEC 138 /3,medium
+SPEC 138 /8,medium
+SPEC 160 /6,medium
+SPEC 160 /9,medium
+SPEC 161 /3,medium
+SPEC 161 /6,medium
+SPEC 161 /7,medium
+SPEC 184 /2,large
+SPEC 189 /2,medium
+SPEC 194 /109,medium
+SPEC 194 /12,medium
+SPEC 194 /16,medium
+SPEC 194 /27,medium
+SPEC 194 /39,medium
+SPEC 194 /44,medium
+SPEC 194 /47,medium
+SPEC 194 /59,medium
+SPEC 194 /7,large
+SPEC 194 /71,medium
+SPEC 194 /75,medium
+SPEC 194 /80,medium
+SPEC 194 /84,medium
+SPEC 194 /97,medium
+SPEC 195 /7,medium
+SPEC 41 /11,medium
+SPEC 41 /2,medium
+SPEC 41 /6,medium
+SPEC 41 /9,medium
+SPEC 54 /1,medium
+SPEC 54 /2,medium
+STAHEL,large
+TSA 644,medium
+UF 11,large
+UF 12,large
+UF 168,large
+UF 221,medium
+UF 29,medium
+UF 650,large
+UF 654,large
+VEN A 86 [ICT],small
+VEN B 16 [ICT],medium
+VEN B 19 [ICT],medium
+VEN B 21 [ICT],small - medium
+VEN B 53 [ICT],small
+VEN B 56 [ICT],small

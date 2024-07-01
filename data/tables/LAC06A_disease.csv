@@ -1,0 +1,23 @@
+Clone name,Pathogen,Reaction,Part,Notes
+GU 114 /P,Witches' Broom,moderate resistance,Pod (Field Reaction),Population TAN
+GU 114 /P,Witches' Broom,resistant,Lab Test,Population TAN
+GU 125 /C,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 6
+GU 168 /H,Witches' Broom,susceptible,Shoot (Field Reaction),Population CAM 9
+GU 171 /C,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 9
+GU 207 /H,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 12
+GU 219 /F,Witches' Broom,moderate resistance,Lab Test,Population CAM 3
+GU 219 /F,Witches' Broom,resistant,Pod (Field Reaction),Population CAM 3
+GU 219 /F,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 3
+GU 221 /C,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 3
+GU 241 /P,Witches' Broom,resistant,Pod (Field Reaction),Population CAM 3
+GU 241 /P,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 3
+GU 259 /C,Witches' Broom,susceptible,Shoot (Field Reaction),Population CAM 1
+GU 261 /P,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 1
+GU 265 /P,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 1
+GU 277 /G,Witches' Broom,resistant,Lab Test,Population CAM 1
+GU 277 /G,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 1
+GU 296 /H,Witches' Broom,susceptible,Shoot (Field Reaction),Population CAM 13
+GU 307 /F,Witches' Broom,resistant,Pod (Field Reaction),Population CAM 9
+GU 307 /F,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 9
+GU 310 /P,Witches' Broom,resistant,Pod (Field Reaction),Population CAM 9
+GU 310 /P,Witches' Broom,resistant,Shoot (Field Reaction),Population CAM 9

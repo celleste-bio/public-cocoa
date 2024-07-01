@@ -1,0 +1,37 @@
+Clone name,Pathogen,Reaction,Info,Part
+AMAZ 15 /15,Ceratosystis,susceptible,Based on perithecium development,Branch
+AMAZ 15 /15,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+BE 10,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+CATIE 1000 /B,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x2),Branch
+EET 59 [ECU],Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+GU 175 /P,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+GU 255 /P,Ceratosystis,susceptible,Based on mycelium and perithecium development,Branch
+ICS 1,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x2),Branch
+ICS 43,Ceratosystis,susceptible,Based on perithecium development,Branch
+ICS 43,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+IMC 67,Ceratosystis,moderate resistance,Based on mycelium (x1) and perithecium (x2) development,Branch
+IMC 67,Ceratosystis,susceptible,Based on mycelium (x1) development,Branch
+IMC 47,Ceratosystis,moderate resistance,Based on mycelium (x2) and perithecium (x1) development,Branch
+IMC 47,Ceratosystis,resistant,Based on perithecium (x1) development,Branch
+LF 1,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x2),Branch
+LCT EEN 371,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x2),Branch
+LCT EEN 46,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+MAN 15 /2 [BRA],Ceratosystis,susceptible,Based on perithecium development,Branch
+MAN 15 /2 [BRA],Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+MXC 67,Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+PA 107 [PER],Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x2),Branch
+PA 120 [PER],Ceratosystis,susceptible,Based on perithecium development,Branch
+PA 120 [PER],Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+PLAYA ALTA 2 [VEN],Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+SCA 24,Ceratosystis,susceptible,Based on perithecium development,Branch
+SCA 24,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+SCA 6,Ceratosystis,susceptible,Based on perithecium development,Branch
+SCA 6,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+SPEC 54 /1,Ceratosystis,susceptible,Based on perithecium development,Branch
+SPEC 54 /1,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+UF 676,Ceratosystis,susceptible,Based on perithecium development,Branch
+UF 676,Ceratosystis,moderately susceptible,Based on mycelium development,Branch
+VENC 22 /6 [FRA],Ceratosystis,moderately susceptible,Based on mycelium and perithecium development,Branch
+VENC 4 /4 [FRA],Ceratosystis,moderate resistance,Based on mycelium (x1) development,Branch
+VENC 4 /4 [FRA],Ceratosystis,resistant,Based on perithecium (x1) development,Branch
+VENC 4 /4 [FRA],Ceratosystis,moderately susceptible,Based on mycelium and perithecium development (x1),Branch

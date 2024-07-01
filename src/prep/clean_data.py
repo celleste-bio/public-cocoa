@@ -63,7 +63,7 @@ def clean_data(data):
     data = data.dropna(subset=[target_column])
     id_columns = config['id_columns_new_name']
     data = drop_columns_from_df(data, id_columns)
-    data = drop_columns_from_df(data,target_column)
+    #data = drop_columns_from_df(data,target_column)
     data=convert_to_float(data)
     return data
     # df.info()

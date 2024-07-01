@@ -1,0 +1,336 @@
+Clone name,Colour dark purple,Colour purple,Colour light purple,Colour white,Size
+AC T 1 /1 [TTO],-,-,-,-,medium
+AC T 1 /13 [TTO],-,-,-,-,medium
+AC T 1 /14 [TTO],-,-,-,-,medium
+AC T 1 /5 [TTO],-,-,-,-,small
+AC T 1 /7 [TTO],-,-,-,-,medium
+AC T 1 /8 [TTO],-,-,-,-,medium
+AC T 1 /9 [TTO],-,-,-,-,small
+AC T 2 /1 [TTO],-,-,-,-,small
+AC T 2 /10 [TTO],-,-,-,-,medium
+AC T 2 /11 [TTO],-,-,-,-,medium
+AC T 2 /12 [TTO],-,-,-,-,medium
+AC T 2 /13 [TTO],-,-,-,-,medium - large
+AC T 2 /14 [TTO],-,-,-,-,medium
+AC T 2 /15 [TTO],-,-,-,-,medium
+AC T 2 /3 [TTO],-,-,-,-,medium
+AC T 2 /5 [TTO],-,-,-,-,small
+AC T 2 /6 [TTO],-,-,-,-,small
+AC T 2 /8 [TTO],-,-,-,-,medium
+AC T 3 /1 [TTO],-,-,-,-,large
+AC T 3 /2 [TTO],-,-,-,-,medium
+AC T 3 /4 [TTO],-,-,-,-,medium
+AC T 3 /6 [TTO],-,-,-,-,medium
+AC T 4 /1 [TTO],-,-,-,-,medium
+AC T 4 /2 [TTO],-,-,-,-,medium
+AC T 4 /3 [TTO],-,-,-,-,medium
+ALMEIDA [SEM],-,-,-,+,medium
+AX 122 /10,-,-,-,-,medium
+AX 122 /13,-,-,-,-,medium
+AX 122 /17,-,-,-,-,medium
+AX 122 /173,-,-,-,-,medium
+AX 122 /18,-,-,-,-,medium
+AX 122 /180,-,-,-,-,medium
+AX 122 /198,-,-,-,-,medium
+AX 122 /2,-,-,-,-,medium
+AX 122 /203,-,-,-,-,medium
+AX 122 /207,-,-,-,-,medium
+AX 122 /21,-,-,-,-,medium
+AX 122 /210,-,-,-,-,medium
+AX 122 /24,-,-,-,-,medium
+AX 122 /28,-,-,-,-,medium
+AX 122 /32,-,-,-,-,medium
+AX 122 /41,-,-,-,-,medium
+AX 122 /45,-,-,-,-,medium
+AX 122 /53,-,-,-,-,medium
+AX 122 /57,-,-,-,-,medium
+AX 122 /59,-,-,-,-,medium
+AX 122 /61,-,-,-,-,medium
+AX 122 /72,-,-,-,-,medium
+AX 122 /75,-,-,-,-,medium
+AX 122 /78,-,-,-,-,medium
+AX 122 /79,-,-,-,-,medium
+AX 122 /80,-,-,-,-,medium
+AX 122 /81,-,-,-,-,medium
+AX 122 /84,-,-,-,-,medium
+AX 122 /85,-,-,-,-,medium
+AX 122 /90,-,-,-,-,medium
+AX 122 /91,-,-,-,-,medium
+AX 122 /97,-,-,-,-,medium
+AX 122 /99,-,-,-,-,medium
+AX 128 /22,-,-,-,-,large
+AX 139 /53,-,-,-,-,large
+AX 139 /55,-,-,-,-,large
+AX 3 /32,-,-,-,-,large
+AX 3 /7,-,-,-,-,medium
+C 151 /112 [TRI],-,-,-,-,medium
+C 151 /36 [TRI],-,-,-,-,large
+C 151 /44 [TRI],-,-,-,-,medium
+C 151 /50 [TRI],-,-,-,-,medium
+C 151 /60 [TRI],-,-,-,-,medium
+C 151 /61 [TRI],-,-,-,-,medium
+C 151 /69 [TRI],-,-,-,-,medium
+C 151 /78 [TRI],-,-,-,-,medium
+C 3 /15 [TRI],-,-,-,-,medium
+C 3 /23 [TRI],-,-,-,-,large
+C 3 /28 [TRI],-,-,-,-,large
+C 34 /37 [TRI],-,-,-,-,medium
+C 7 /11 [TRI],-,-,-,+,-
+C 7 /2 [TRI],-,-,-,+,-
+C 7 /27 [TRI],-,-,-,+,-
+C 7 /32 [TRI],-,-,-,+,-
+C 7 /42 [TRI],-,-,-,+,-
+C 83 /109 [TRI],-,-,-,-,large
+C 83 /28 [TRI],-,-,-,-,medium - large
+C 87 /56 [TRI],-,-,-,-,large
+C 90 /10 [TRI],-,-,-,-,small
+C 90 /18 [TRI],-,-,-,-,small
+C 90 /20 [TRI],-,-,-,-,large
+C 90 /43 [TRI],-,-,-,-,medium
+C 90 /50 [TRI],-,-,-,-,small
+C 90 /56 [TRI],-,-,-,-,small
+C 92 /17 [TRI],-,-,-,-,medium - large
+C 92 /18 [TRI],-,-,-,-,small
+C 92 /26 [TRI],-,-,-,-,medium
+C 92 /9 [TRI],-,-,-,-,small
+C 93 /15 [TRI],-,-,-,-,medium - large
+C 93 /27 [TRI],-,-,-,-,large
+C 93 /30 [TRI],-,-,-,-,small
+C 93 /34 [TRI],-,-,-,-,large
+C 93 /37 [TRI],-,-,-,-,medium
+C 93 /44 [TRI],-,-,-,-,medium
+C 93 /46 [TRI],-,-,-,-,large
+C 93 /47 [TRI],-,-,-,-,medium
+C 94 /25 [TRI],-,-,-,-,large
+C 96 /63 [TRI],-,-,-,-,large
+C 98 /14 [TRI],-,-,-,-,medium
+CATONGO,-,-,-,+,medium
+DR 1,-,-,+,-,-
+DR 2,-,-,-,+,-
+E 34 [ECU],-,-,-,-,small
+ECNR,-,-,-,-,medium
+EET 95 [ECU],-,-,-,-,large
+GS 10,-,-,-,-,large
+GS 17,-,-,-,-,medium
+GS 19,-,-,-,-,medium - large
+GS 29,-,-,-,-,large
+GS 32,-,-,-,-,medium
+GS 36,-,-,-,-,medium
+GS 46,-,-,-,-,medium
+GS 48,-,-,-,-,medium
+GS 5,-,-,-,-,medium - large
+GS 50,-,-,-,-,medium
+GS 67,-,-,-,-,medium
+GS 71,-,-,-,-,medium - large
+GS 77,-,-,-,-,medium - large
+ICS 1,-,-,-,-,large
+ICS 100,-,-,-,-,large
+ICS 11,-,-,-,-,large
+ICS 111,+,-,-,-,large
+ICS 12,-,-,-,+,-
+ICS 16,+,+,-,-,medium
+ICS 22,-,-,-,-,large
+ICS 36,+,-,-,-,medium
+ICS 38,-,-,-,+,large
+ICS 39,+,+,-,-,large
+ICS 4,-,-,-,-,large
+ICS 40,+,+,+,+,large
+ICS 41,-,-,-,-,large
+ICS 42,-,-,-,-,large
+ICS 43,-,-,-,-,large
+ICS 44,-,-,-,-,medium
+ICS 45,-,-,-,+,medium
+ICS 46,-,-,-,-,large
+ICS 47,-,-,-,-,large
+ICS 55,+,+,+,-,small
+ICS 6,+,-,-,-,large
+ICS 60,+,+,+,+,large
+ICS 61,-,-,-,-,large
+ICS 62,-,+,+,+,medium
+ICS 65,+,+,-,-,medium
+ICS 7,+,-,-,-,-
+ICS 70,-,-,-,-,medium
+ICS 73,+,+,-,-,medium
+ICS 75,+,+,+,+,large
+ICS 8,+,-,-,-,large
+ICS 84,-,-,-,-,medium
+ICS 88,+,+,-,-,large
+ICS 89,-,+,+,+,medium
+ICS 9,-,-,-,-,large
+ICS 91,-,-,-,-,large
+ICS 95,-,-,-,-,medium
+ICS 98,-,-,-,-,medium
+IMC 10,-,-,-,-,medium
+IMC 103,-,-,-,-,medium
+IMC 104,-,-,-,-,medium
+IMC 105,-,-,-,-,medium
+IMC 11,-,-,-,-,medium
+IMC 13,-,-,-,-,medium
+IMC 14,-,-,-,-,medium
+IMC 16,-,-,-,-,medium
+IMC 18,-,-,-,-,medium
+IMC 2,-,-,-,-,medium
+IMC 20,-,-,-,-,medium
+IMC 22,-,-,-,-,medium
+IMC 23,-,-,-,-,medium
+IMC 27,-,-,-,-,medium
+IMC 3,-,-,-,-,medium
+IMC 31,-,-,-,-,medium
+IMC 36,-,-,-,-,medium
+IMC 38,-,-,-,-,medium
+IMC 39,-,-,-,-,medium
+IMC 41,-,-,-,-,medium
+IMC 42,-,-,-,-,medium
+IMC 44,-,-,-,-,medium
+IMC 45,-,-,-,-,medium
+IMC 47,-,-,-,-,medium
+IMC 48,-,-,-,-,medium
+IMC 49,-,-,-,-,medium
+IMC 5,-,-,-,-,medium
+IMC 51,-,-,-,-,medium
+IMC 53,-,-,-,-,medium
+IMC 54,-,-,-,-,medium
+IMC 55,-,-,-,-,medium
+IMC 56,-,-,-,-,medium
+IMC 57,-,-,-,-,medium
+IMC 58,-,-,-,-,medium
+IMC 6,-,-,-,-,medium
+IMC 60,-,-,-,-,medium
+IMC 66,-,-,-,-,medium
+IMC 67,-,-,-,-,medium
+IMC 68,-,-,-,-,medium
+IMC 71,-,-,-,-,medium
+IMC 76,-,-,-,-,medium
+IMC 77,-,-,-,-,medium
+IMC 83,-,-,-,-,medium
+IMC 85,-,-,-,-,medium
+IMC 94,-,-,-,-,medium
+IMC 96,-,-,-,-,medium
+IMC 97,-,-,-,-,medium
+IMC 98,-,-,-,-,medium
+JA 4 /22 [POU],-,-,-,-,small
+LAFI 7,-,-,-,-,large
+M 120 [ICT],-,-,-,-,small
+M 121 [ICT],-,-,-,-,small
+M 137 [ICT],+,-,-,-,small
+M 2 [ICT],-,-,-,-,medium - large
+M 252 [ICT],+,-,-,-,small
+M 253 [ICT],+,-,-,-,small
+M 8 [SUR],-,+,-,-,medium
+M 89 [ICT],-,-,-,-,medium
+MATINA 2 /14,-,-,-,-,medium
+MO 126,-,-,-,-,small
+MO 81,-,-,-,-,small
+MOQ 1 /22,-,-,-,-,medium
+MOQ 2 /16,-,-,-,-,medium
+MX 16 /18 [TTO],+,-,-,-,large
+MX 16 /2 [TTO],+,-,-,-,large
+MX 16 /41 [TTO],+,-,-,-,large
+MX 16 /47 [TTO],+,-,-,-,large
+MX 16 /48 [TTO],+,-,-,-,large
+MX 16 /49 [TTO],+,-,-,-,large
+MX 16 /52 [TTO],+,-,-,-,large
+MX 16 /58 [TTO],+,-,-,-,large
+MX 43 /9 [TTO],-,-,-,-,large
+MX 58 /35 [TTO],-,-,-,-,large
+MX 61 /17 [TTO],-,-,-,-,medium
+MX 69 /24 [TTO],-,-,-,-,large
+MX 70 /26 [TTO],-,-,-,-,large
+MX 70 /28 [TTO],-,-,-,-,large
+MX 70 /30 [TTO],-,-,-,-,large
+MX 75 /3 [TTO],-,-,-,-,large
+MX 75 /40 [TTO],-,-,-,-,large
+MX 81 /4 [TTO],-,-,-,-,large
+MXC 67,+,-,-,-,medium
+NA 254,-,-,-,-,small
+NA 277,-,-,-,-,medium
+NA 32,-,-,-,-,small
+NA 33,-,-,-,-,small
+NA 34,-,-,-,-,small
+NA 387,-,-,-,-,small
+PA 120 [PER],-,-,-,-,medium
+PA 195 [PER],-,-,-,-,medium
+PA 30 [PER],-,-,-,-,medium
+PA 303 [PER],-,-,-,-,large
+PA 4 [PER],-,-,-,-,medium
+PA 71 [PER],-,-,-,-,large
+PLAYA ALTA 1 [VEN],-,-,-,-,medium - large
+PLAYA ALTA 2 [VEN],-,-,-,-,medium - large
+PLAYA ALTA 4 [VEN],-,-,-,-,medium - large
+POUND 1,-,-,-,-,small
+POUND 10,-,-,-,-,small
+POUND 12,-,-,-,-,medium
+POUND 21,-,-,-,-,small
+POUND 26,-,-,-,-,small
+POUND 29,-,-,-,-,small
+POUND 31,-,-,-,-,small
+POUND 4,-,-,-,-,small
+POUND 7,-,-,-,-,medium
+POUND 9,-,-,-,-,small
+REDAMEL 1 /27,-,-,+,-,small
+REDAMEL 1 /31,-,-,-,-,medium
+SCA 10,-,-,-,-,small
+SCA 11,-,-,-,-,small
+SCA 12,-,-,-,-,small
+SCA 17,-,-,-,-,small
+SCA 19,-,-,-,-,small
+SCA 23,-,-,-,-,small
+SCA 24,-,-,-,-,small
+SCA 27,-,-,-,-,small
+SCA 3,-,-,-,-,small
+SCA 5,-,-,-,-,small
+SCA 6,+,-,-,-,small
+SCA 7,-,-,-,-,small
+SCA 8,-,-,-,-,small
+SCA 9,-,-,-,-,small
+SIC 28,+,-,-,-,medium
+SPEC 137 /6,-,-,-,-,medium
+SPEC 138 /10,-,-,-,-,medium
+SPEC 138 /11,-,-,-,-,medium
+SPEC 138 /13,-,-,-,-,medium - large
+SPEC 138 /15,-,-,-,-,large
+SPEC 138 /17,-,-,-,-,large
+SPEC 138 /21,-,-,-,-,medium
+SPEC 138 /3,-,-,-,-,medium
+SPEC 138 /8,-,-,-,-,large
+SPEC 160 /6,-,-,-,-,medium
+SPEC 160 /9,-,-,-,-,large
+SPEC 161 /3,-,-,-,-,medium - large
+SPEC 161 /6,-,-,-,-,medium
+SPEC 184 /2,-,-,-,-,large
+SPEC 189 /2,-,-,-,-,small
+SPEC 194 /109,-,-,-,-,large
+SPEC 194 /12,-,-,-,-,small
+SPEC 194 /16,-,-,-,-,medium - large
+SPEC 194 /27,-,-,-,-,medium
+SPEC 194 /39,-,-,-,-,medium - large
+SPEC 194 /44,-,-,-,-,large
+SPEC 194 /47,-,-,-,-,medium
+SPEC 194 /59,-,-,-,-,medium
+SPEC 194 /7,-,-,-,-,large
+SPEC 194 /71,-,-,-,-,medium
+SPEC 194 /75,+,+,+,-,large
+SPEC 194 /80,-,-,-,-,medium
+SPEC 194 /84,-,-,-,-,medium
+SPEC 194 /97,-,-,-,-,medium
+SPEC 195 /7,-,-,-,-,small
+SPEC 41 /11,+,-,-,-,medium
+SPEC 41 /2,+,-,-,-,medium
+SPEC 41 /6,+,-,-,-,medium
+SPEC 41 /9,+,-,-,-,medium
+SPEC 54 /1,-,+,-,-,medium
+SPEC 54 /2,-,+,-,-,medium
+TSA 644,-,-,-,-,medium
+UF 11,-,-,-,-,large
+UF 12,-,-,-,-,large
+UF 29,+,-,-,-,medium - large
+VEN A 1 [ICT],-,-,-,-,small
+VEN A 86 [ICT],-,-,-,-,small
+VEN B 16 [ICT],-,-,-,-,medium
+VEN B 19 [ICT],-,-,-,-,medium
+VEN B 21 [ICT],-,-,-,-,small
+VEN B 53 [ICT],-,-,-,-,small
+VEN B 56 [ICT],-,-,-,-,small
+VEN B 87 [ICT],-,+,-,-,small
+VEN B 93 [ICT],-,-,+,-,small
+VEN B 99 [ICT],-,-,-,-,small

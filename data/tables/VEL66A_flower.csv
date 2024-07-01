@@ -1,0 +1,22 @@
+Clone name,Ligule colour,Stamen colour,Sepal shape,Ligule shape,Info
+BE 2,yellow,anthocyanin present,long,rhomboid,expedition data
+BE 5,yellow,anthocyanin absent,long,rhomboid,expedition data
+BE 7,yellow,anthocyanin absent,long,rhomboid,expedition data
+CS 25,yellow - red,anthocyanin absent,wide,rhomboid,expedition data
+MA 11 [BRA],yellow,anthocyanin absent,long,rhomboid,expedition data
+MA 12 [BRA],yellow,anthocyanin absent,long,rhomboid,expedition data
+MA 13 [BRA],yellow,anthocyanin absent,wide,rhomboid,expedition data
+MA 14 [BRA],yellow,anthocyanin absent,wide,rhomboid,expedition data
+MA 15 [BRA],yellow,anthocyanin present,wide,rhomboid,expedition data
+MA 16 [BRA],yellow,-,wide,rhomboid,expedition data
+OB 52 [BRA],yellow,-,long,lanceolate,expedition data
+OB 53 [BRA],-,-,long,-,expedition data
+OB 54 [BRA],-,-,long,-,expedition data
+RB 32 [BRA],light yellow,anthocyanin absent,wide,rhomboid,expedition data
+RB 35 [BRA],red,anthocyanin absent,wide,rhomboid,expedition data
+RB 38 [BRA],red,anthocyanin present,-,rhomboid,expedition data
+RB 46 [BRA],yellow,anthocyanin absent,-,-,expedition data
+RB 47 [BRA],yellow,anthocyanin present,long,truncated rhomboid,expedition data
+RB 48 [BRA],-,anthocyanin present,-,rhomboid,expedition data
+RB 49 [BRA],yellow,-,-,truncated rhomboid,expedition data
+RB 50 [BRA],yellow,anthocyanin present,long,truncated rhomboid,expedition data

@@ -1,0 +1,71 @@
+Clone name,Pathogen,Species,Reaction,Part
+A 13 /D-56 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+A 13 /G-25 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+A1 180 /2 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+A1 214 /9 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+ACU 85,Phytophthora,P. palmivora,intermediate,Pod
+B 12 /B-263 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+B 9 /5 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+B 9 /8 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+GS 29,Phytophthora,P. palmivora,susceptible,Pod
+GS 36,Phytophthora,P. palmivora,intermediate,Pod
+GW 1,Phytophthora,P. palmivora,susceptible,Pod
+ICS 100,Phytophthora,P. palmivora,susceptible,Pod
+ICS 39,Phytophthora,P. palmivora,intermediate,Pod
+ICS 84,Phytophthora,P. palmivora,tolerant,Pod
+ICS 89,Phytophthora,P. palmivora,intermediate,Pod
+ICS 95,Phytophthora,P. palmivora,intermediate,Pod
+IFC 10 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IFC 1025 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 1027 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 13 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IFC 15 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 16 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IFC 18 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 2 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 23 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IFC 26 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IFC 27 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 317 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 413 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 413 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 414 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 5 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 6 [CIV],Phytophthora,P. palmivora,intermediate,Pod
+IFC 742 [CIV],Phytophthora,P. palmivora,tolerant,Pod
+IFC 8 [CIV],Phytophthora,P. palmivora,susceptible,Pod
+IMC 31,Phytophthora,P. palmivora,intermediate,Pod
+IMC 5,Phytophthora,P. palmivora,intermediate,Pod
+IMC 57,Phytophthora,P. palmivora,intermediate,Pod
+IMC 6,Phytophthora,P. palmivora,intermediate,Pod
+MO 81,Phytophthora,P. palmivora,intermediate,Pod
+MO 9,Phytophthora,P. palmivora,intermediate,Pod
+MOQ 4 /13,Phytophthora,P. palmivora,tolerant,Pod
+MOQ 6 /47,Phytophthora,P. palmivora,intermediate,Pod
+NA 32,Phytophthora,P. palmivora,susceptible,Pod
+PA 121 [PER],Phytophthora,P. palmivora,intermediate,Pod
+PA 13 [PER],Phytophthora,P. palmivora,intermediate,Pod
+PA 150 [PER],Phytophthora,P. palmivora,intermediate,Pod
+PA 35 [PER],Phytophthora,P. palmivora,susceptible,Pod
+PA 4 [PER],Phytophthora,P. palmivora,intermediate,Pod
+POUND 13 /B,Phytophthora,P. palmivora,susceptible,Pod
+POUND 19 /A,Phytophthora,P. palmivora,tolerant,Pod
+POUND 32 /A,Phytophthora,P. palmivora,susceptible,Pod
+POUND 7,Phytophthora,P. palmivora,intermediate,Pod
+SCA 6,Phytophthora,P. palmivora,intermediate,Pod
+SF 13,Phytophthora,P. palmivora,tolerant,Pod
+SNK 109,Phytophthora,P. palmivora,susceptible,Pod
+SNK 12,Phytophthora,P. palmivora,susceptible,Pod
+T 60 /887 [POS],Phytophthora,P. palmivora,intermediate,Pod
+T 63 /967 [POS],Phytophthora,P. palmivora,susceptible,Pod
+T 79 /501 [POS],Phytophthora,P. palmivora,tolerant,Pod
+UF 667,Phytophthora,P. palmivora,intermediate,Pod
+UF 676,Phytophthora,P. palmivora,susceptible,Pod
+UPA 401,Phytophthora,P. palmivora,intermediate,Pod
+UPA 402,Phytophthora,P. palmivora,intermediate,Pod
+UPA 413,Phytophthora,P. palmivora,intermediate,Pod
+UPA 610,Phytophthora,P. palmivora,tolerant,Pod
+UPA 620,Phytophthora,P. palmivora,susceptible,Pod
+UPA 717,Phytophthora,P. palmivora,susceptible,Pod
+W 41 [POS],Phytophthora,P. palmivora,susceptible,Pod
+WA 40 [DR],Phytophthora,P. palmivora,intermediate,Pod

@@ -35,9 +35,16 @@ def dummies_order(data):
     # Replace values in columns with meaningful order
     for column, mapping in config['column_mappings'].items():
         data[column] = data[column].replace(mapping)
+
+    # Convert data to float (assuming convert_to_float function works as intended)
     data = convert_to_float(data)
-    dummies = data.select_dtypes(include=object).columns
-    data = pd.get_dummies(data, columns=dummies)
+    data.head()
+    # Create dummy variables for categorical columns not in column_mappings
+    categorical_columns = data.select_dtypes(include='object').columns
+    for column in categorical_columns:
+        if column not in config['column_mappings']:
+            data = pd.get_dummies(data, columns=[column])
+
     data[data.select_dtypes(include=bool).columns] = data[data.select_dtypes(include=bool).columns].astype(int)
     return data
 

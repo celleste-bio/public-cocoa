@@ -1,0 +1,89 @@
+Clone name,Pathogen,Reaction
+BAL 209,Phytophthora,susceptible
+BAL 209,Vascular Streak Dieback,moderate resistance
+BAL 209,Pink Disease,susceptible
+BR 25,Phytophthora,moderate resistance
+BR 25,Vascular Streak Dieback,intermediate
+KKM 1,Vascular Streak Dieback,intermediate
+KKM 2,Vascular Streak Dieback,intermediate
+KKM 22,Vascular Streak Dieback,intermediate
+KKM 28,Vascular Streak Dieback,intermediate
+KKM 5,Vascular Streak Dieback,intermediate
+KKM 6,Vascular Streak Dieback,intermediate
+PBC 112,Phytophthora,intermediate
+PBC 112,Vascular Streak Dieback,moderate resistance
+PBC 113,Phytophthora,intermediate
+PBC 113,Vascular Streak Dieback,intermediate
+PBC 123,Phytophthora,intermediate
+PBC 123,Vascular Streak Dieback,moderate resistance
+PBC 130,Phytophthora,susceptible
+PBC 130,Vascular Streak Dieback,susceptible
+PBC 131,Phytophthora,moderate resistance
+PBC 131,Vascular Streak Dieback,intermediate
+PBC 140,Phytophthora,intermediate
+PBC 140,Vascular Streak Dieback,susceptible
+PBC 159,Phytophthora,intermediate
+PBC 159,Vascular Streak Dieback,intermediate
+PBC 179,Phytophthora,intermediate
+PBC 179,Vascular Streak Dieback,intermediate
+QH 1003,Vascular Streak Dieback,moderate resistance
+QH 1176,Vascular Streak Dieback,intermediate
+QH 12,Vascular Streak Dieback,intermediate
+QH 1213,Vascular Streak Dieback,intermediate
+QH 186,Vascular Streak Dieback,intermediate
+QH 22,Vascular Streak Dieback,moderate resistance
+QH 240,Vascular Streak Dieback,intermediate
+QH 37,Vascular Streak Dieback,intermediate
+QH 441,Vascular Streak Dieback,intermediate
+QH 670,Vascular Streak Dieback,intermediate
+SDS 11,Vascular Streak Dieback,intermediate
+SDS 11,Phytophthora,intermediate
+SDS 18,Vascular Streak Dieback,intermediate
+SDS 18,Phytophthora,intermediate
+SDS 20,Vascular Streak Dieback,intermediate
+SDS 20,Phytophthora,intermediate
+SDS 21,Vascular Streak Dieback,intermediate
+SDS 21,Phytophthora,intermediate
+SDS 36,Vascular Streak Dieback,intermediate
+SDS 36,Phytophthora,intermediate
+SDS 4,Phytophthora,intermediate
+SDS 4,Vascular Streak Dieback,intermediate
+SDS 41,Vascular Streak Dieback,intermediate
+SDS 41,Phytophthora,intermediate
+SDS 46,Vascular Streak Dieback,intermediate
+SDS 46,Phytophthora,intermediate
+SDS 52,Vascular Streak Dieback,intermediate
+SDS 52,Phytophthora,intermediate
+SDS 54,Vascular Streak Dieback,intermediate
+SDS 54,Phytophthora,intermediate
+SDS 58,Vascular Streak Dieback,intermediate
+SDS 58,Phytophthora,intermediate
+SDS 6,Phytophthora,intermediate
+SDS 6,Vascular Streak Dieback,intermediate
+SDS 74,Vascular Streak Dieback,intermediate
+SDS 74,Phytophthora,intermediate
+SDS 8,Phytophthora,intermediate
+SDS 8,Vascular Streak Dieback,intermediate
+SDS 84,Vascular Streak Dieback,intermediate
+SDS 84,Phytophthora,intermediate
+TG 135,Vascular Streak Dieback,intermediate
+TG 137 /A,Vascular Streak Dieback,intermediate
+TG 137 /B,Vascular Streak Dieback,intermediate
+TG 148,Vascular Streak Dieback,intermediate
+TG 148,Phytophthora,intermediate
+TG 157,Vascular Streak Dieback,intermediate
+TG 240,Vascular Streak Dieback,intermediate
+TG 240,Phytophthora,intermediate
+TG 250,Vascular Streak Dieback,intermediate
+TG 266,Vascular Streak Dieback,intermediate
+TG 266,Phytophthora,intermediate
+TG 446,Vascular Streak Dieback,intermediate
+TG 446,Phytophthora,intermediate
+TG 78,Vascular Streak Dieback,intermediate
+TG 78,Phytophthora,intermediate
+TGC,Vascular Streak Dieback,moderate resistance
+TGC,Phytophthora,intermediate
+UPC 41,Vascular Streak Dieback,moderate resistance
+UPC 41,Phytophthora,moderate resistance
+UPC 50,Vascular Streak Dieback,intermediate
+UPC 50,Phytophthora,intermediate

@@ -1,0 +1,36 @@
+data_directory: '/home/public-cocoa/data/data_prep/80_WO_KM_8_WC.csv'
+
+target: "bean_total_wet_weight"
+
+RandomForestRegressor:
+  bootstrap: False
+  max_depth: null
+  max_features: sqrt
+  min_samples_leaf: 1
+  min_samples_split: 2
+  n_estimators: 200
+
+KNeighborsRegressor:
+  algorithm: auto
+  leaf_size: 20
+  n_neighbors: 9
+  p: 1
+  weights: distance
+
+HuberRegressor:
+  alpha: 0.1
+  epsilon: 1.35
+  max_iter: 500
+
+MLPRegressor:
+  activation: relu
+  alpha: 0.01
+  hidden_layer_sizes: [100, 50]
+  learning_rate: invscaling
+  solver: adam
+
+VotingRegressor:
+  estimators:
+    - rf
+    - knn
+    - huber

@@ -1,0 +1,32 @@
+Clone name,Shape,Rugosity,Husk thickness,Length,Breadth,Colour,Weight,Husk weight,Length breadth ratio
+RIM 10 [MEX],cundeamor,intense,14 mm (11 - 17),219.0,83.0,yellow,595.0,469.3,2.63
+RIM 100 [MEX],angoleta,moderate,14 mm (12 - 16),206.0,84.0,yellow,525.3,407.4,2.45
+RIM 101 [MEX],cundeamor,intense,14.5 mm (12 - 17),196.0,94.0,yellow,630.2,506.1,2.08
+RIM 105 [MEX],angoleta,moderate,14.5 mm (12 - 17),172.0,82.0,yellow,597.8,487.5,2.09
+RIM 106 [MEX],angoleta,moderate,15 mm (12 - 18),180.0,82.0,yellow,596.8,484.6,2.19
+RIM 113 [MEX],cundeamor,intense,14.5 mm (12 - 17),207.0,89.0,yellow,653.4,520.3,2.32
+RIM 117 [MEX],angoleta,intense,15.5 mm (13 - 18),195.0,84.0,red and yellow,701.9,553.2,2.32
+RIM 13 [MEX],cundeamor,moderate,13.5 mm (11 - 16),245.0,89.0,yellow,595.0,468.8,2.75
+RIM 15 [MEX],cundeamor,intense,13.5 mm (11 - 16),222.0,88.0,yellow,531.3,406.9,2.52
+RIM 19 [MEX],cundeamor,intense,13 mm (11 - 15),210.0,87.0,yellow,552.2,422.0,2.41
+RIM 2 [MEX],angoleta,intense,12.5 mm (10 - 15),218.0,82.0,yellow,493.3,376.3,2.65
+RIM 23 [MEX],cundeamor,moderate,12.5 mm (10 - 15),216.0,86.0,red and yellow,501.5,384.6,2.51
+RIM 24 [MEX],cundeamor,moderate,12.5 mm (10 - 15),207.0,86.0,yellow,496.7,382.4,2.4
+RIM 26 [MEX],angoleta,intense,14 mm (11 - 17),203.0,91.0,red and yellow,556.7,444.0,2.23
+RIM 30 [MEX],cundeamor,moderate,14 mm (12 - 16),207.0,87.0,yellow,595.9,467.0,2.37
+RIM 34 [MEX],angoleta,moderate,14 mm (12 - 16),202.0,83.0,yellow,536.8,417.2,2.43
+RIM 39 [MEX],cundeamor,intense,14 mm (11 - 17),229.0,85.0,red and yellow,592.6,465.1,2.69
+RIM 41 [MEX],cundeamor,moderate,14 mm (11 - 17),232.0,88.0,yellow,560.0,448.3,2.63
+RIM 44 [MEX],angoleta,moderate,15 mm (12 - 18),199.0,89.0,yellow,619.0,502.1,2.23
+RIM 48 [MEX],angoleta,moderate,14 mm (12 - 16),206.0,85.0,red and yellow,600.1,480.1,2.42
+RIM 52 [MEX],angoleta,moderate,15.5 mm (13 - 18),206.0,89.0,red and yellow,653.4,521.0,2.31
+RIM 56 [MEX],cundeamor,moderate,13.5 mm (12 - 15),201.0,86.0,yellow,557.7,428.2,2.33
+RIM 6 [MEX],angoleta,intense,13.5 mm (11 - 16),194.0,85.0,red and yellow,522.7,412.2,2.28
+RIM 68 [MEX],pentagona,intense,13.5 mm (11 - 16),245.0,82.0,red,663.7,538.7,2.98
+RIM 71 [MEX],angoleta,intense,13.5 mm (11 - 16),207.0,81.0,red and yellow,518.8,405.8,2.55
+RIM 75 [MEX],cundeamor,moderate,12.5 mm (10 - 15),224.0,85.0,yellow,505.9,380.1,2.63
+RIM 76 [MEX],angoleta,moderate,13 mm (11 - 15),207.0,90.0,yellow,594.4,456.3,2.3
+RIM 76 [MEX],angoleta,smooth,14.5 mm (12 - 17),224.0,93.0,yellow,621.8,499.9,2.4
+RIM 78 [MEX],angoleta,intense,12.5 mm (10 - 15),200.0,91.0,yellow,566.7,444.0,2.19
+RIM 8 [MEX],cundeamor,intense,12.5 mm (10 - 15),206.0,91.0,red and yellow,524.8,390.0,2.26
+RIM 88 [MEX],cundeamor,moderate,13.5 mm (11 - 16),233.0,86.0,red and yellow,593.8,459.2,2.7

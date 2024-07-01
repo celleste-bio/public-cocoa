@@ -1,0 +1,92 @@
+Clone name,Pathogen,Reaction
+C 4 /11 [TRI],Witches' Broom,resistant
+CC 10,Phytophthora,resistant
+CC 41,Phytophthora,intermediate
+CC 9,Phytophthora,intermediate
+EET 103 [ECU],Ceratosystis,susceptible
+EET 103 [ECU],Witches' Broom,resistant
+EET 162 [ECU],Witches' Broom,resistant
+EET 19 [ECU],Ceratosystis,resistant
+EET 19 [ECU],Frosty Pod,intermediate
+EET 19 [ECU],Witches' Broom,resistant
+EET 238 [ECU],Witches' Broom,resistant
+EET 433 [ECU],Witches' Broom,susceptible
+EET 433 [ECU],Witches' Broom,resistant
+EET 48 [ECU],Ceratosystis,intermediate
+EET 48 [ECU],Frosty Pod,resistant
+EET 48 [ECU],Witches' Broom,resistant
+EET 62 [ECU],Ceratosystis,intermediate
+EET 62 [ECU],Witches' Broom,resistant
+EET 95 [ECU],Ceratosystis,intermediate
+EET 95 [ECU],Witches' Broom,resistant
+EET 96 [ECU],Ceratosystis,intermediate
+EET 96 [ECU],Witches' Broom,resistant
+GS 29,Witches' Broom,resistant
+GS 36,Witches' Broom,resistant
+ICS 1,Witches' Broom,intermediate
+ICS 100,Witches' Broom,resistant
+ICS 16,Ceratosystis,intermediate
+ICS 16,Witches' Broom,resistant
+ICS 55,Ceratosystis,intermediate
+ICS 55,Witches' Broom,intermediate
+ICS 6,Ceratosystis,intermediate
+ICS 6,Witches' Broom,intermediate
+ICS 75,Witches' Broom,intermediate
+ICS 8,Ceratosystis,intermediate
+ICS 8,Witches' Broom,resistant
+ICS 89,Witches' Broom,resistant
+ICS 95,Ceratosystis,resistant
+ICS 95,Witches' Broom,intermediate
+ICS 98,Ceratosystis,intermediate
+ICS 98,Witches' Broom,intermediate
+IMC 67,Ceratosystis,susceptible
+IMC 67,Witches' Broom,susceptible
+OC 61 [VEN],Ceratosystis,resistant
+OC 61 [VEN],Phytophthora,resistant
+OC 61 [VEN],Witches' Broom,resistant
+OC 77 [VEN],Witches' Broom,resistant
+OC 77 [VEN],Ceratosystis,resistant
+OC 77 [VEN],Phytophthora,resistant
+PA 121 [PER],Ceratosystis,susceptible
+POUND 12,Ceratosystis,susceptible
+POUND 12,Witches' Broom,resistant
+POUND 7,Ceratosystis,susceptible
+POUND 7,Witches' Broom,resistant
+PQTO 87 [VEN],Ceratosystis,intermediate
+PQTO 87 [VEN],Phytophthora,intermediate
+PQTO 87 [VEN],Witches' Broom,intermediate
+RIM 10 [MEX],Ceratosystis,resistant
+RIM 10 [MEX],Phytophthora,resistant
+RIM 13 [MEX],Ceratosystis,resistant
+RIM 13 [MEX],Phytophthora,resistant
+RIM 30 [MEX],Ceratosystis,resistant
+RIM 30 [MEX],Phytophthora,resistant
+RIM 48 [MEX],Ceratosystis,resistant
+RIM 48 [MEX],Phytophthora,resistant
+SC 10 [VEN],Ceratosystis,intermediate
+SC 10 [VEN],Phytophthora,intermediate
+SC 10 [VEN],Witches' Broom,intermediate
+SCA 12,Ceratosystis,intermediate
+SCA 12,Witches' Broom,susceptible
+SCA 6,Ceratosystis,intermediate
+SCA 6,Witches' Broom,susceptible
+SILECIA 1 [ECU],Witches' Broom,susceptible
+SILECIA 1 [ECU],Witches' Broom,susceptible
+SILECIA 5 [ECU],Witches' Broom,intermediate
+SILECIA 5 [ECU],Witches' Broom,intermediate
+SPA 9 [COL],Ceratosystis,susceptible
+TRONCO 1800,Witches' Broom,intermediate
+TRONCO 2270,Witches' Broom,susceptible
+TSA 644,Ceratosystis,resistant
+TSA 644,Witches' Broom,susceptible
+TSA 654,Ceratosystis,susceptible
+TSA 654,Witches' Broom,susceptible
+TSAN 792,Witches' Broom,susceptible
+TSAN 792,Ceratosystis,resistant
+TSH 565,Ceratosystis,resistant
+TSH 565,Witches' Broom,susceptible
+UF 221,Phytophthora,resistant
+UF 613,Ceratosystis,resistant
+UF 613,Phytophthora,susceptible
+UF 650,Ceratosystis,resistant
+UF 650,Phytophthora,resistant

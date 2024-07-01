@@ -1,0 +1,249 @@
+Clone name,Pathogen,Species,Reaction,Part
+AC T 1 /5 [TTO],Ceratosystis,,tolerant,
+AC T 1 /9 [TTO],Ceratosystis,,tolerant,
+ACU 85,Phytophthora,P. palmivora,tolerant,Pod
+AX 3 /25,Ceratosystis,,tolerant,
+B 12 [POU],Phytophthora,P. palmivora,tolerant,Pod
+C 176 /P-176 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 23 [TRI],Swollen Shoot,,tolerant,
+C 25 /P-25 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 26 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 34 /P-10 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 45 /P-45 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 50 /P-50 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 73 [TRI],Phytophthora,P. palmivora,tolerant,Pod
+C 77 [TRI],Swollen Shoot,,tolerant,
+C 83 /P-105 [TRI],Ceratosystis,,tolerant,
+C 87 /137 [TRI],Ceratosystis,,tolerant,
+C 87 /P-146 [TRI],Ceratosystis,,tolerant,
+C 88 /P-111 [TRI],Ceratosystis,,tolerant,
+C 90 /P-62 [TRI],Ceratosystis,,tolerant,
+C 91 /P-64 [TRI],Ceratosystis,,tolerant,
+C 91 /P-64 [TRI],Ceratosystis,,tolerant,
+C 94 /P-25 [TRI],Ceratosystis,,tolerant,
+C 94 /P-35 [TRI],Ceratosystis,,tolerant,
+C 94 /P-48 [TRI],Ceratosystis,,tolerant,
+CAS 1,Phytophthora,P. palmivora,tolerant,Pod
+CAS 2,Phytophthora,P. palmivora,tolerant,Pod
+CATONGO,Phytophthora,P. palmivora,tolerant,Pod
+CC 3,Phytophthora,P. palmivora,tolerant,Pod
+CC 38,Phytophthora,P. palmivora,tolerant,Pod
+CC 41,Phytophthora,P. palmivora,tolerant,Pod
+CC 42,Phytophthora,P. palmivora,tolerant,Pod
+CF 176,Phytophthora,P. palmivora,tolerant,Pod
+CHICO,Phytophthora,P. palmivora,tolerant,Pod
+CLP 170 [VEN],Witches' Broom,,tolerant,
+CLP 63 [VEN],Witches' Broom,,tolerant,
+COMUM TIPICO,Phytophthora,P. palmivora,tolerant,Pod
+CUI 38 [VEN],Witches' Broom,,tolerant,
+D 70 [POS],Phytophthora,P. palmivora,tolerant,Pod
+DE 52 /B,Ceratosystis,,tolerant,
+EEG 8,Phytophthora,P. palmivora,tolerant,Pod
+EET 121 [ECU],Ceratosystis,,tolerant,
+EET 129 [ECU],Ceratosystis,,tolerant,
+EET 272 [ECU],Ceratosystis,,tolerant,
+EET 376 [ECU],Phytophthora,P. palmivora,tolerant,Pod
+EET 377 [ECU],Witches' Broom,,tolerant,
+EET 381 [ECU],Witches' Broom,,tolerant,
+EET 392 [ECU],Witches' Broom,,tolerant,
+EET 399 [ECU],Witches' Broom,,tolerant,
+EET 399 [ECU],Ceratosystis,,tolerant,
+EET 400 [ECU],Witches' Broom,,tolerant,
+EET 400 [ECU],Ceratosystis,,tolerant,
+EET 404 [ECU],Witches' Broom,,tolerant,
+EET 407 [ECU],Ceratosystis,,tolerant,
+EET 409 [ECU],Ceratosystis,,tolerant,
+EET 48 [ECU],Ceratosystis,,tolerant,
+EET 58 [ECU],Ceratosystis,,tolerant,
+EET 59 [ECU],Phytophthora,P. palmivora,tolerant,Pod
+EET 61 [ECU],Ceratosystis,,tolerant,
+EET 96 [ECU],Ceratosystis,,tolerant,
+F 85 [CIV],Swollen Shoot,,tolerant,
+GA 11 [HAI],Phytophthora,P. palmivora,tolerant,Pod
+GS 50,Phytophthora,P. palmivora,tolerant,Pod
+ICS 1,Phytophthora,P. palmivora,tolerant,Pod
+ICS 1,Witches' Broom,,tolerant,
+ICS 38,Witches' Broom,,tolerant,
+ICS 43,Phytophthora,P. palmivora,tolerant,Pod
+ICS 44,Witches' Broom,,tolerant,
+ICS 45,Witches' Broom,,tolerant,
+ICS 46,Phytophthora,P. palmivora,tolerant,Pod
+ICS 5,Phytophthora,P. palmivora,tolerant,Pod
+ICS 51,Phytophthora,P. palmivora,tolerant,Pod
+ICS 6,Phytophthora,P. palmivora,tolerant,Pod
+ICS 6,Witches' Broom,,tolerant,
+ICS 6,Ceratosystis,,tolerant,
+ICS 63,Phytophthora,P. palmivora,tolerant,Pod
+ICS 81,Phytophthora,P. palmivora,tolerant,Pod
+ICS 91,Witches' Broom,,tolerant,
+ICS 95,Witches' Broom,,tolerant,
+ICS 98,Witches' Broom,,tolerant,
+IMC 11,Ceratosystis,,tolerant,
+IMC 27,Ceratosystis,,tolerant,
+IMC 31,Ceratosystis,,tolerant,
+IMC 53,Ceratosystis,,tolerant,
+IMC 57,Ceratosystis,,tolerant,
+IMC 60,Ceratosystis,,tolerant,
+IMC 67,Phytophthora,P. palmivora,tolerant,Pod
+IMC 67,Ceratosystis,,tolerant,
+IMC 67,Ceratosystis,,tolerant,
+IMC 76,Swollen Shoot,,tolerant,
+INE 76 /122,Swollen Shoot,,tolerant,
+IQ 85 /D [UNK],Swollen Shoot,,tolerant,
+K 5 [POS],Phytophthora,P. palmivora,tolerant,Pod
+K 51 [POS],Phytophthora,P. palmivora,tolerant,Pod
+K 6 [POS],Phytophthora,P. palmivora,tolerant,Pod
+K 6 [POS],Phytophthora,P. palmivora,tolerant,Pod
+LAFI 7,Phytophthora,P. palmivora,tolerant,Pod
+LC 168 [VEN],Witches' Broom,,tolerant,
+LM 169 [VEN],Witches' Broom,,tolerant,
+MARACUJA,Phytophthora,P. palmivora,tolerant,Pod
+MM 50 [VEN],Witches' Broom,,tolerant,
+MONASTERIO 11,Ceratosystis,,tolerant,
+MONASTERIO 44,Ceratosystis,,tolerant,
+MONASTERIO 5,Ceratosystis,,tolerant,
+MONASTERIO 65,Ceratosystis,,tolerant,
+MX 68 /24 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 68 /32 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 69 /21 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 70 /29 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 73 /38 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 75 /12 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 75 /2 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 78 /25 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 79 /2 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 82 /62 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 97 /10 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 97 /17 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 97 /3 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+MX 97 /7 [TTO],Phytophthora,P. palmivora,tolerant,Pod
+NA 32,Phytophthora,P. palmivora,tolerant,Pod
+NA 32,Swollen Shoot,,tolerant,
+NA 33,Swollen Shoot,,tolerant,
+NA 34,Swollen Shoot,,tolerant,
+OC 61 [VEN],Witches' Broom,,tolerant,
+OC 61 [VEN],Ceratosystis,,tolerant,
+OC 71 [VEN],Ceratosystis,,tolerant,
+P 30 [POS],Phytophthora,P. palmivora,tolerant,Pod
+PA 12 [PER],Ceratosystis,,tolerant,
+PA 24 [PER],Phytophthora,P. palmivora,tolerant,Pod
+PA 30 [PER],Phytophthora,P. palmivora,tolerant,Pod
+PA 303 [PER],Ceratosystis,,tolerant,
+PA 35 [PER],Phytophthora,P. palmivora,tolerant,Pod
+PA 7 [PER],Phytophthora,P. palmivora,tolerant,Pod
+PLAYA ALTA 1 [VEN],Witches' Broom,,tolerant,
+PLAYA ALTA 2 [VEN],Witches' Broom,,tolerant,
+PLAYA ALTA 4 [VEN],Witches' Broom,,tolerant,
+PLAYA ALTA 5 [VEN],Witches' Broom,,tolerant,
+POUND 11 /A,Ceratosystis,,tolerant,
+POUND 12,Ceratosystis,,tolerant,
+POUND 12,Ceratosystis,,tolerant,
+POUND 12 /A,Ceratosystis,,tolerant,
+POUND 12 /B,Ceratosystis,,tolerant,
+POUND 14 /A,Ceratosystis,,tolerant,
+POUND 16 /A,Ceratosystis,,tolerant,
+POUND 16 /B,Ceratosystis,,tolerant,
+POUND 18 /A,Ceratosystis,,tolerant,
+POUND 18 /B,Ceratosystis,,tolerant,
+POUND 19 /A,Ceratosystis,,tolerant,
+POUND 19 /B,Ceratosystis,,tolerant,
+POUND 24 /B,Ceratosystis,,tolerant,
+POUND 25 /A,Ceratosystis,,tolerant,
+POUND 30 /B,Ceratosystis,,tolerant,
+POUND 7,Phytophthora,P. palmivora,tolerant,Pod
+POUND 7,Phytophthora,P. palmivora,tolerant,Pod
+PQTO 87 [VEN],Witches' Broom,,tolerant,
+PQTO 87 [VEN],Ceratosystis,,tolerant,
+S 27 [TAF],Phytophthora,P. palmivora,tolerant,Pod
+SC 10 [COL],Witches' Broom,,tolerant,
+SC 10 [VEN],Witches' Broom,,tolerant,
+SC 6 [VEN],Witches' Broom,,tolerant,
+SCA 12,Phytophthora,P. palmivora,tolerant,Pod
+SCA 12,Witches' Broom,,tolerant,
+SCA 12,Swollen Shoot,,tolerant,
+SCA 12,Ceratosystis,,tolerant,
+SCA 24,Witches' Broom,,tolerant,
+SCA 3,Witches' Broom,,tolerant,
+SCA 5,Witches' Broom,,tolerant,
+SCA 6,Phytophthora,P. palmivora,tolerant,Pod
+SCA 6,Witches' Broom,,tolerant,
+SIC 28,Phytophthora,P. palmivora,tolerant,Pod
+SIC 801,Phytophthora,P. palmivora,tolerant,Pod
+SIC 802,Phytophthora,P. palmivora,tolerant,Pod
+SIC 806,Phytophthora,P. palmivora,tolerant,Pod
+SIC 823,Phytophthora,P. palmivora,tolerant,Pod
+SIC 831,Phytophthora,P. palmivora,tolerant,Pod
+SIC 848,Phytophthora,P. palmivora,tolerant,Pod
+SIC 864,Phytophthora,P. palmivora,tolerant,Pod
+SILECIA 1 [ECU],Witches' Broom,,tolerant,
+SILECIA 5 [ECU],Witches' Broom,,tolerant,
+SNK 12,Phytophthora,P. palmivora,tolerant,Pod
+SNK 13,Phytophthora,P. palmivora,tolerant,Pod
+SNK 16,Phytophthora,P. palmivora,tolerant,Pod
+SNK 30,Phytophthora,P. palmivora,tolerant,Pod
+SNK 416,Phytophthora,P. palmivora,tolerant,Pod
+SNK 64,Phytophthora,P. palmivora,tolerant,Pod
+SPA 9 [COL],Ceratosystis,,tolerant,
+STANDAR 537,Swollen Shoot,,tolerant,
+T 101 /1950 [POS],Swollen Shoot,,tolerant,
+T 101 /2540 [POS],Swollen Shoot,,tolerant,
+T 101 /42 [POS],Swollen Shoot,,tolerant,
+T 101 /5 [POS],Swollen Shoot,,tolerant,
+T 12 /11 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 12 /113 [POS],Swollen Shoot,,tolerant,
+T 12 /150 [POS],Swollen Shoot,,tolerant,
+T 12 /151 [POS],Swollen Shoot,,tolerant,
+T 12 /26 [POS],Swollen Shoot,,tolerant,
+T 17 /359 [POS],Swollen Shoot,,tolerant,
+T 17 /433 [POS],Swollen Shoot,,tolerant,
+T 17 /521 [POS],Swollen Shoot,,tolerant,
+T 17 /524 [POS],Swollen Shoot,,tolerant,
+T 19 /9 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 2 /21 [POS],Swollen Shoot,,tolerant,
+T 24 /12 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 50 /32 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 60 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 60 /1887 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 60 /877 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 60 /887 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 61 [POS],Swollen Shoot,,tolerant,
+T 61 /1313 [POS],Swollen Shoot,,tolerant,
+T 62 [POS],Swollen Shoot,,tolerant,
+T 62 /799 [POS],Swollen Shoot,,tolerant,
+T 62 /891 [POS],Swollen Shoot,,tolerant,
+T 62 /958 [POS],Swollen Shoot,,tolerant,
+T 62 /977 [POS],Swollen Shoot,,tolerant,
+T 65 /10 [POS],Swollen Shoot,,tolerant,
+T 65 /7 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 72 /20 [POS],Swollen Shoot,,tolerant,
+T 73 /55 [POS],Swollen Shoot,,tolerant,
+T 79 /501 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 81 /1792 [POS],Swollen Shoot,,tolerant,
+T 81 /1880 [POS],Swollen Shoot,,tolerant,
+T 85 /799 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 85 /799 [POS],Swollen Shoot,,tolerant,
+T 86 /2 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 87 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 9 /15 [POS],Phytophthora,P. palmivora,tolerant,Pod
+T 9 /15 [POS],Swollen Shoot,,tolerant,
+T 9 /21 [POS],Swollen Shoot,,tolerant,
+T 90 /1345 [POS],Swollen Shoot,,tolerant,
+TSA 644,Witches' Broom,,tolerant,
+TSA 654,Witches' Broom,,tolerant,
+TSAN 792,Phytophthora,P. palmivora,tolerant,Pod
+TSAN 792,Witches' Broom,,tolerant,
+TSH 516,Phytophthora,P. palmivora,tolerant,Pod
+TSH 565,Phytophthora,P. palmivora,tolerant,Pod
+TSH 566,Witches' Broom,,tolerant,
+TSH 774,Phytophthora,P. palmivora,tolerant,Pod
+U 6 [POS],Phytophthora,P. palmivora,tolerant,Pod
+UF 11,Phytophthora,P. palmivora,tolerant,Pod
+UF 12,Phytophthora,P. palmivora,tolerant,Pod
+UF 221,Ceratosystis,,tolerant,
+UF 29,Phytophthora,P. palmivora,tolerant,Pod
+UF 29,Ceratosystis,,tolerant,
+UF 613,Phytophthora,P. palmivora,tolerant,Pod
+W 41 [POS],Swollen Shoot,,tolerant,
+WACRI 9,Phytophthora,P. palmivora,tolerant,Pod
+X 23 [GHA],Phytophthora,P. palmivora,tolerant,Pod
+Y 44 [POS],Phytophthora,P. palmivora,tolerant,Pod

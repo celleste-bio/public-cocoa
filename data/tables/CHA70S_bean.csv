@@ -1,0 +1,111 @@
+Clone name,Colour dark purple,Colour light purple,Colour white,Colour mottled,Number,Length,Width,Thickness,Wet weight,Cotyledon wet weight,Info,Notes
+AGU 21 [CHA],-,+,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 22 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 23 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 25 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 28 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 3010 [CHA],-,-,+,-,-,24.6,11.8,10.5,5.78,1.78,expedition data,expedition code 68CH
+AGU 3012 [CHA],-,-,+,-,12.0,26.8,14.6,10.7,5.29,2.47,expedition data,expedition code 68CH
+AGU 3014 [CHA],-,-,+,-,33.0,25.2,13.6,11.4,5.87,2.25,expedition data,expedition code 68CH
+AGU 3057 [CHA],-,-,-,-,-,26.1,14.2,9.1,6.50,2.33,expedition data,expedition code 68CH
+AGU 3059 [CHA],-,-,-,-,-,26.9,14.2,10.7,5.95,1.67,expedition data,expedition code 68CH
+AGU 31 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+AGU 3300 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+AGU 3301 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+AGU 3327 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+AGU 3338 [CHA],-,-,-,-,-,25.6,13.7,9.6,6.42,2.09,expedition data,expedition code 70CH
+AGU 3339 [CHA],-,-,-,-,-,24.2,13.8,9.9,-,-,expedition data,expedition code 70CH
+AGU 3342 [CHA],-,-,-,-,-,24.7,14.6,9.8,-,1.70,expedition data,expedition code 70CH
+AMAZ 1,+,-,-,-,23.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 1 /5,+,-,-,-,18.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 10,+,+,-,-,49.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 11,-,+,-,-,47.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 12,-,-,-,-,19.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 16,+,-,-,-,13.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 2,+,-,-,-,25.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 3,+,-,-,-,22.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 5,+,-,-,-,21.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 6,+,-,-,-,40.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 7,+,-,-,-,41.0,-,-,-,-,-,expedition data,expedition code 73CH
+AMAZ 8,+,-,-,-,14.0,-,-,-,-,-,expedition data,expedition code 73CH
+COCA 10 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+COCA 3015 [CHA],-,-,+,+,15.0,23.0,12.4,9.5,5.89,2.35,expedition data,expedition code 68CH
+COCA 3017 [CHA],-,-,+,-,6.0,26.0,14.7,8.5,4.53,1.94,expedition data,expedition code 68CH
+COCA 3018 [CHA],-,+,+,-,15.0,-,-,-,-,-,expedition data,expedition code 68CH
+COCA 3023 [CHA],-,-,+,+,-,22.8,13.0,9.4,4.56,1.51,expedition data,expedition code 68CH
+COCA 3035 [CHA],-,-,-,-,-,20.0,11.2,7.4,3.86,0.75,expedition data,expedition code 68CH
+COCA 3302 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+COCA 3303 [CHA],-,-,-,-,-,25.2,12.5,9.5,5.01,1.60,expedition data,expedition code 69CH
+COCA 3304 [CHA],-,+,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+COCA 3305 [CHA],-,-,+,-,-,-,-,-,3.02,1.58,expedition data,expedition code 69CH
+Unknown,-,-,-,-,-,-,-,-,3.36,1.06,expedition data,expedition code 69CH
+Unknown,-,+,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+Unknown,-,-,-,-,-,-,-,-,3.96,1.00,expedition data,expedition code 69CH
+COCA 3309 [CHA],-,+,+,-,-,23.2,12.4,9.5,5.74,1.29,expedition data,expedition code 69CH
+COCA 3310 [CHA],-,-,+,-,-,21.5,12.6,9.6,4.21,1.57,expedition data,expedition code 69CH
+COCA 3311 [CHA],-,-,+,-,-,21.6,11.5,8.6,3.88,1.31,expedition data,expedition code 69CH
+COCA 3313 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 69CH
+COCA 3314 [CHA],-,-,-,-,-,25.1,13.0,10.6,5.55,2.11,expedition data,expedition code 69CH
+COCA 3315 [CHA],-,+,+,-,-,22.7,12.8,9.1,3.77,1.45,expedition data,expedition code 69CH
+COCA 3316 [CHA],-,-,-,-,-,24.1,13.4,9.9,-,-,expedition data,expedition code 69CH
+COCA 3317 [CHA],-,-,-,-,-,24.3,12.0,10.0,5.09,1.40,expedition data,expedition code 69CH
+COCA 3319 [CHA],-,-,-,-,-,24.9,13.3,9.5,4.56,2.21,expedition data,expedition code 69CH
+COCA 3328 [CHA],-,-,+,-,-,26.6,14.1,9.1,5.54,2.03,expedition data,expedition code 70CH
+COCA 3333 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 70CH
+COCA 3334 [CHA],-,-,-,-,-,23.1,12.0,6.6,3.89,1.17,expedition data,expedition code 70CH
+COCA 3335 [CHA],-,-,+,-,-,24.6,12.9,9.4,4.59,1.53,expedition data,expedition code 70CH
+COCA 3336 [CHA],-,-,-,-,-,-,-,-,1.80,0.65,expedition data,expedition code 70CH
+COCA 3343 [CHA],-,-,+,-,-,24.3,12.3,9.9,5.77,1.99,expedition data,expedition code 70CH
+COCA 3344 [CHA],-,+,+,-,-,-,-,-,-,-,expedition data,expedition code 70CH
+COCA 3346 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 70CH
+COCA 3347 [CHA],-,-,-,-,-,28.9,13.3,9.5,4.48,2.25,expedition data,expedition code 70CH
+COCA 3348 [CHA],+,+,+,-,-,25.1,13.8,10.5,6.58,2.37,expedition data,expedition code 70CH
+COCA 3352 [CHA],-,-,-,-,-,23.4,12.5,9.7,4.99,1.87,expedition data,expedition code 70CH
+COCA 3353 [CHA],-,-,-,-,-,24.6,14.8,11.0,5.22,2.00,expedition data,expedition code 70CH
+COCA 3354 [CHA],-,-,-,-,-,24.1,13.6,9.9,5.58,2.66,expedition data,expedition code 70CH
+COCA 3356 [CHA],-,-,-,-,-,24.3,13.5,9.0,3.48,1.95,expedition data,expedition code 70CH
+NAPO 13 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 14 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 15 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 17 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 19 [CHA],+,+,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 20 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 22 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 23 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 29 [CHA],-,-,-,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 30 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 34 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 37 [CHA],-,-,+,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 40 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+NAPO 41 [CHA],-,-,+,+,-,-,-,-,-,-,expedition data,expedition code 73CH
+PAYAMINO /T [CHA],-,-,-,-,-,25.1,12.9,8.1,4.80,1.88,expedition data,expedition code 70CH
+PAYAMINO /U [CHA],-,-,-,-,-,25.3,13.0,9.9,4.20,1.91,expedition data,expedition code 70CH
+PAYAMINO /V [CHA],-,-,-,-,-,26.8,12.7,8.5,3.72,1.63,expedition data,expedition code 70CH
+PAYAMINO /W [CHA],-,-,-,-,-,24.3,13.0,7.0,4.11,1.20,expedition data,expedition code 70CH
+SAN MIGUEL 3073 [CHA],-,-,-,-,-,25.4,12.0,8.8,5.38,1.71,expedition data,expedition code 68CH
+SAN MIGUEL 3082 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 68CH
+SAN MIGUEL 3087 [CHA],-,-,-,-,-,24.1,11.3,8.1,3.53,1.50,expedition data,expedition code 68CH
+SAN MIGUEL 3115 [CHA],-,-,-,-,-,25.6,11.4,6.2,-,-,expedition data,expedition code 68CH
+SAN MIGUEL 3147 [CHA],-,-,-,-,-,20.7,11.8,8.8,4.59,1.50,expedition data,expedition code 68CH
+SAN MIGUEL 3153 [CHA],-,-,-,-,-,29.0,14.1,8.7,7.16,2.25,expedition data,expedition code 68CH
+SAN MIGUEL 3160 [CHA],-,-,-,-,-,26.3,12.8,7.6,5.46,1.64,expedition data,expedition code 68CH
+SAN MIGUEL 3161 [CHA],-,-,-,-,-,24.1,10.8,9.0,4.54,1.31,expedition data,expedition code 68CH
+SAN MIGUEL 3162 [CHA],-,-,-,-,-,23.9,10.9,7.7,3.42,1.16,expedition data,expedition code 68CH
+SAN MIGUEL 3358 [CHA],-,-,-,-,-,27.9,13.6,10.5,5.12,2.68,expedition data,expedition code 70CH
+SAN MIGUEL 3360 [CHA],-,-,-,-,-,25.6,10.6,7.1,4.29,1.41,expedition data,expedition code 70CH
+SAN MIGUEL 3364 [CHA],-,-,-,-,-,25.0,13.7,5.8,4.27,1.58,expedition data,expedition code 70CH
+TAP 1 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 10 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 11 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 12 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 13 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 14 [CHA],+,+,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 15 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 2 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 3 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 4 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 5 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 6 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 7 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 8 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH
+TAP 9 [CHA],+,-,-,-,-,-,-,-,-,-,expedition data,expedition code 73CH

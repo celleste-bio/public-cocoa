@@ -1,0 +1,14 @@
+Clone name,Pathogen,Reaction
+CC 246,Frosty Pod,resistant
+CC 252,Frosty Pod,resistant
+EET 183 [ECU],Frosty Pod,resistant
+EET 400 [ECU],Ceratosystis,resistant
+EET 67 [ECU],Frosty Pod,resistant
+EET 75 [ECU],Frosty Pod,resistant
+IMC 67,Ceratosystis,resistant
+PA 121 [PER],Ceratosystis,resistant
+POUND 12,Ceratosystis,resistant
+SPA 9 [COL],Ceratosystis,resistant
+UF 273,Frosty Pod,resistant
+UF 296,Frosty Pod,resistant
+UF 613,Ceratosystis,resistant

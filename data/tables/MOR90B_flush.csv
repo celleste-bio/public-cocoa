@@ -1,0 +1,69 @@
+Clone name,Colour
+C 4 /11 [TRI],green
+CC 10,yellow
+CC 41,yellow
+CC 9,yellow
+EET 103 [ECU],green
+EET 156 [ECU],yellow
+EET 162 [ECU],green
+EET 19 [ECU],green
+EET 238 [ECU],green and white
+EET 433 [ECU],green
+EET 433 [ECU],green
+EET 48 [ECU],green
+EET 62 [ECU],green
+EET 95 [ECU],green
+EET 96 [ECU],green
+GS 29,yellow
+GS 36,white
+ICS 1,yellow
+ICS 100,yellow
+ICS 16,yellow
+ICS 55,yellow
+ICS 6,green and white
+ICS 75,green
+ICS 8,yellow
+ICS 89,yellow
+ICS 95,yellow
+ICS 98,yellow
+IMC 67,green
+OC 61 [VEN],green
+OC 77 [VEN],green
+PA 121 [PER],green
+POUND 12,green
+POUND 18,white
+POUND 7,white
+PQTO 87 [VEN],yellow
+RIM 10 [MEX],green
+RIM 13 [MEX],green
+RIM 30 [MEX],yellow
+RIM 48 [MEX],yellow
+SC 10 [VEN],yellow
+SC 5 [COL],yellow
+SC 6 [COL],yellow
+SCA 12,green
+SCA 6,green
+SIAL 163,white
+SIAL 325,white
+SIAL 70,white
+SIAL 88,green
+SIC 801,white
+SIC 802,white
+SIC 812,white
+SIC 823,white
+SIC 831,white
+SILECIA 1 [ECU],white
+SILECIA 1 [ECU],white
+SILECIA 5 [ECU],white
+SILECIA 5 [ECU],white
+SPA 9 [COL],green
+TRONCO 1800,green and white
+TRONCO 2270,green
+TSA 644,green
+TSA 654,green
+TSAN 792,green
+TSH 565,green
+UF 221,yellow
+UF 29,green and white
+UF 613,yellow
+UF 650,yellow

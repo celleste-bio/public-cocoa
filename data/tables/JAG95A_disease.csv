@@ -1,0 +1,17 @@
+Clone name,Pathogen,Infection,Info,Part,Notes
+AML [MAL] x PA 137 [PER],Phytophthora,16.0,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = AB
+AML [MAL] x SCA 9,Phytophthora,15.4,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = AB
+AML [MAL] x IMC 67,Phytophthora,17.7,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = ABC
+AML [MAL] x PA 76 [PER],Phytophthora,18.2,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = ABC
+AML [MAL] x PA 156 [PER],Phytophthora,15.2,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = A
+NA 32 x AML [MAL],Phytophthora,35.9,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = E
+NA 33 x AML [MAL],Phytophthora,26.6,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = DE
+NA 34 x AML [MAL],Phytophthora,25.8,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = CDE
+T 71 /416 [POS] x E 1 [ECU],Phytophthora,28.7,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = DE
+UIT 1 x AML [MAL],Phytophthora,25.5,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = CDE
+UIT 2 x AML [MAL],Phytophthora,30.4,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = DE
+UPA 402 x UF 676,Phytophthora,22.7,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = BCD
+UPA 409 x IFC 1 [CIV],Phytophthora,26.8,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = DE
+UPA 419 x IFC 1 [CIV],Phytophthora,31.9,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = E
+UPA 603 x UF 667,Phytophthora,32.9,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = E
+UPA 608 x IFC 412 [CIV],Phytophthora,25.2,percentage of infected pods,Pod,Rank calculated using Newman-Keuls test at 5% = CDE

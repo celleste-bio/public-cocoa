@@ -62,7 +62,17 @@ def fill_missing_values(df):
     
     for name, df in all_dfs.items():
         df_dummies = dummies_order(df)
+        df_dummies.columns = df_dummies.columns.str.replace('<=', 'lte', regex=False)
+        df_dummies.columns = df_dummies.columns.str.replace('>', 'gt', regex=False)
         all_dfs[name] = df_dummies
+
+
+    all_dfs["75_WO_NO"].info()
+
+    object_columns = all_dfs["75_WO_NO"].select_dtypes(include=['object']).columns
+    for col in object_columns:
+        unique_values = df[col].unique()
+        print(f"Unique values in '{col}': {unique_values}")
 
     all_dfs_new={}
     # Hierarchical Clustering
@@ -79,6 +89,6 @@ def fill_missing_values(df):
         all_dfs_new_final[f"{key}_WC"] = drop_columns_from_df(all_dfs_new[key], config_missing_value["columns_cotyledon"])
     
 
-    all_dfs_new_final[f"{25}_{"test"}"] = dummies_order(test_df_25)
-    all_dfs_new_final[f"{20}_{"test"}"] = dummies_order(test_df_20)
+    all_dfs_new_final[f"{25}_{"test"}"] = test_df_25
+    all_dfs_new_final[f"{20}_{"test"}"] = test_df_20
     return all_dfs_new_final

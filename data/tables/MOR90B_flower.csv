@@ -1,0 +1,69 @@
+Clone name,Bud colour,Ligule colour,Stamen colour,Guide line length,Sepal colour,Sepal width,Sepal length,Ligule length,Ligule width,Ribbon length,Ribbon colour,Ovary width,Ovary length,Ovule number,Style colour,Style length,Staminode colour,Staminode length,Pedicel length,Hairs,Pigmented glands,Horns,Notes
+C 4 /11 [TRI],green,green,anthocyanin absent,4.0,green,2.4,9.0,3.2,2.3,4.7,yellow,1.2,1.6,50,white (ap):white (ba),2.1,yellow,8.0,13.4,present,present,absent,Accession 19
+CC 10,yellow,green,negligible anthocyanin,4.0,green,2.6,9.5,4.4,3.3,4.1,green,1.3,1.7,46,white (ap):white (ba),2.2,yellow,8.9,19.7,present,present,absent,Accession 58
+CC 41,green,green,moderate anthocyanin,3.6,green,2.5,9.2,4.4,2.6,4.2,green,1.3,2.2,45,white (ap):white (ba),2.0,yellow,8.9,18.8,present,present,absent,Accession 59
+CC 9,yellow,green,slight anthocyanin,2.7,yellow,2.3,8.6,4.4,2.5,3.4,green,1.2,1.8,42,green (ap):white (ba),2.4,yellow,7.8,15.3,present,present,absent,Accession 57
+EET 103 [ECU],green,green,slight anthocyanin,3.1,green,2.5,8.3,3.3,2.8,3.7,green,1.2,1.7,53,white (ap):white (ba),2.7,yellow,7.1,17.9,present,present,absent,Accession 28
+EET 156 [ECU],green,white,negligible anthocyanin,3.6,green,2.5,7.8,2.5,3.0,3.2,white,1.2,1.5,55,green (ap):white (ba),3.2,yellow,7.2,16.3,present,present,present,Accession 65
+EET 162 [ECU],green,green,moderate anthocyanin,3.1,green,2.3,7.9,3.1,2.8,3.3,white,1.2,1.7,50,white (ap):white (ba),2.9,yellow,6.3,15.6,present,present,absent,Accession 29
+EET 19 [ECU],green,green,slight anthocyanin,3.9,green,2.5,7.7,3.5,3.2,3.5,white,1.4,1.8,47,white (ap):white (ba),2.5,green,7.3,17.5,present,present,absent,Accession 23
+EET 238 [ECU],green,green,negligible anthocyanin,3.4,green,2.5,9.1,3.6,3.2,4.1,green,1.2,1.8,50,white (ap):white (ba),2.8,yellow,7.4,17.8,present,present,absent,Accession 30
+EET 433 [ECU],white,white,negligible anthocyanin,3.7,white,2.7,8.6,3.5,2.7,2.8,white,1.3,1.9,44,white (ap):white (ba),2.2,yellow,7.4,17.3,present,present,absent,Accession 33
+EET 433 [ECU],white,white,negligible anthocyanin,3.5,white,2.5,7.9,3.6,2.2,2.7,white,1.2,1.7,52,white (ap):white (ba),2.5,yellow,7.0,17.1,present,present,absent,Accession 34
+EET 48 [ECU],green,white,moderate anthocyanin,3.4,green,2.5,8.9,3.6,3.0,3.7,green,1.3,1.7,51,white (ap):white (ba),2.9,yellow,7.6,19.9,present,present,absent,Accession 24
+EET 62 [ECU],green,green,negligible anthocyanin,3.2,green,2.4,8.9,3.5,2.8,3.4,green,1.2,1.6,50,white (ap):white (ba),2.8,green,6.9,16.1,present,present,absent,Accession 25
+EET 95 [ECU],green,green - white,moderate anthocyanin,3.1,white,2.6,8.7,3.7,3.0,3.9,white,1.4,1.9,51,white (ap):white (ba),2.9,yellow,7.5,20.1,present,present,absent,Accession 26
+EET 96 [ECU],green,green,slight anthocyanin,3.1,green,2.6,8.6,3.4,2.8,3.6,white,1.3,1.7,50,white (ap):white (ba),3.1,yellow,6.8,16.4,present,present,absent,Accession 27
+GS 29,yellow,white,anthocyanin absent,3.1,yellow,2.4,8.1,3.2,2.7,3.8,white,1.0,1.5,40,yellow (ap):green (ba),2.2,yellow,7.3,18.0,present,present,present,Accession 17
+GS 36,green,white,anthocyanin absent,3.3,green - white,2.4,8.4,2.7,2.7,3.8,white,1.1,1.5,40,green (ap):green (ba),2.3,yellow,8.0,17.2,present,present,absent,Accession 18
+ICS 1,green - white,white,anthocyanin absent,3.4,yellow,2.3,7.4,2.9,2.2,4.4,green,1.0,1.3,50,yellow (ap):white (ba),2.0,yellow,6.0,14.0,absent,present,present,Accession 1
+ICS 100,green,green,anthocyanin absent,3.1,green,2.0,7.6,2.7,2.1,3.0,yellow,1.0,1.0,44,white (ap):white (ba),2.0,yellow,6.0,10.0,present,present,absent,Accession 10
+ICS 16,green,white,anthocyanin absent,3.1,green - white,2.4,8.9,3.4,2.5,3.3,green,1.2,1.5,49,yellow (ap):white (ba),2.0,yellow,7.5,15.0,present,present,absent,Accession 4
+ICS 55,yellow,white,anthocyanin absent,2.9,yellow,2.1,6.9,2.4,2.1,3.3,white,1.0,1.2,41,yellow (ap):white (ba),1.5,yellow,6.5,11.0,present,present,present,Accession 5
+ICS 6,white,green,anthocyanin absent,3.1,green,2.3,9.3,3.4,2.3,4.0,green,1.0,1.5,51,white (ap):white (ba),2.0,yellow,7.5,11.0,present,present,absent,Accession 2
+ICS 75,green,white,anthocyanin absent,3.2,green,2.1,7.6,2.7,2.7,3.8,white,1.0,1.3,45,white (ap):white (ba),2.0,yellow,7.3,11.0,present,present,present,Accession 6
+ICS 8,green,green,negligible anthocyanin,2.7,green,2.1,7.6,2.4,2.2,3.4,green,1.0,1.4,48,white (ap):white (ba),1.9,yellow,7.3,13.0,present,present,absent,Accession 3
+ICS 89,green,white,anthocyanin absent,2.9,green,1.9,6.6,2.4,1.9,2.8,white,1.0,1.3,40,white (ap):white (ba),1.5,yellow,6.5,8.0,present,present,present,Accession 7
+ICS 95,green,white,anthocyanin absent,3.0,green - white,2.2,7.9,2.7,2.4,3.5,green - white,1.0,1.1,44,green - white (ap):green - white (ba),2.1,yellow,6.7,15.0,present,present,present,Accession 8
+ICS 98,green,white,anthocyanin absent,2.7,green,1.8,7.0,1.9,1.8,3.0,green,1.0,1.1,38,green (ap):green (ba),1.5,yellow,5.5,9.0,present,present,absent,Accession 9
+IMC 67,green,yellow,negligible anthocyanin,3.3,green,2.4,7.3,2.6,2.4,2.8,green,1.1,1.5,63,white (ap):white (ba),2.1,yellow,6.9,13.0,absent,present,absent,Accession 13
+OC 61 [VEN],green,white,anthocyanin absent,3.5,green,2.4,7.6,3.4,2.7,3.9,white,1.1,1.6,39,white (ap):white (ba),2.3,yellow,7.4,17.1,present,present,absent,Accession 48
+OC 77 [VEN],green,white,anthocyanin absent,4.0,green,2.4,8.2,3.8,2.2,4.2,white,1.1,1.6,41,green (ap):white (ba),2.5,yellow,7.4,12.5,present,present,present,Accession 49
+PA 121 [PER],green,white,anthocyanin absent,3.7,green,2.4,7.5,3.4,2.2,3.2,white,1.3,1.8,39,white (ap):white (ba),2.1,yellow,8.6,17.0,present,present,absent,Accession 51
+POUND 12,white,green,negligible anthocyanin,2.6,white,1.7,7.2,2.3,1.7,2.1,green,1.0,1.0,55,white (ap):white (ba),2.0,yellow,6.1,11.8,present,present,absent,Accession 15
+POUND 18,green,yellow,negligible anthocyanin,3.5,green,2.4,7.8,2.5,2.3,2.9,yellow,1.2,1.4,74,white (ap):white (ba),1.7,yellow,7.1,12.9,present,present,absent,Accession 64
+POUND 7,green,green - white,slight anthocyanin,3.2,green,2.1,6.9,2.2,2.0,2.1,green,1.0,1.2,60,white (ap):white (ba),1.6,yellow,6.1,11.0,present,present,absent,Accession 14
+PQTO 87 [VEN],green,white,anthocyanin absent,3.2,green,2.6,8.1,3.0,2.4,3.2,green,1.4,2.0,41,green (ap):white (ba),2.1,yellow,7.1,15.3,present,present,absent,Accession 47
+RIM 10 [MEX],green,white,anthocyanin absent,4.0,green,2.6,9.2,4.5,2.8,4.2,white,1.1,1.9,42,white (ap):white (ba),2.1,yellow,8.8,21.4,present,present,absent,Accession 60
+RIM 13 [MEX],green,white,anthocyanin absent,4.4,green,2.9,9.8,4.9,3.4,4.2,white,1.5,2.2,44,white (ap):white (ba),2.0,yellow,9.6,21.7,present,present,absent,Accession 61
+RIM 30 [MEX],green,white,anthocyanin absent,4.5,green,2.7,9.8,5.1,3.4,4.2,white,1.3,2.0,44,green (ap):white (ba),2.0,yellow,9.2,21.8,present,present,absent,Accession 62
+RIM 48 [MEX],green - white,white,anthocyanin absent,3.5,green - white,2.3,9.0,4.4,3.0,3.9,white,1.0,1.5,41,white (ap):white (ba),2.0,yellow,7.9,18.5,present,present,absent,Accession 63
+SC 10 [VEN],green,green,negligible anthocyanin,2.9,green,2.5,8.7,2.4,2.2,3.1,green,1.2,1.7,47,green (ap):white (ba),2.3,yellow,7.0,14.7,present,present,absent,Accession 46
+SC 5 [COL],yellow,white,anthocyanin absent,3.5,yellow,2.2,7.7,3.3,2.7,3.7,green,1.0,1.4,43,green - white (ap):green (ba),1.9,yellow,7.5,14.9,present,present,absent,Accession 35
+SC 6 [COL],green - white,white,anthocyanin absent,3.2,yellow,2.2,8.1,3.1,3.0,3.7,white,1.0,1.3,45,white (ap):white (ba),2.0,yellow,7.5,15.2,present,present,absent,Accession 36
+SCA 12,white,white,anthocyanin absent,3.5,white,2.6,7.2,2.7,2.8,3.5,white,1.0,1.5,53,white (ap):white (ba),2.5,light red - yellow,3.0,14.0,present,present,absent,Accession 12
+SCA 6,white,white,anthocyanin absent,3.2,white,2.3,7.4,2.9,2.4,3.4,white,1.0,1.6,54,white (ap):white (ba),2.1,yellow,6.4,13.0,absent,present,absent,Accession 11
+SIAL 163,green,white,negligible anthocyanin,3.5,white,2.5,9.3,2.7,2.6,4.0,green,1.5,2.3,50,white (ap):white (ba),2.4,yellow,8.9,19.4,present,present,absent,Accession 44
+SIAL 325,green,white,negligible anthocyanin,4.0,white,2.7,9.2,4.0,2.6,3.9,green,1.5,2.4,50,white (ap):white (ba),2.5,yellow,8.4,25.9,present,present,absent,Accession 45
+SIAL 70,green,white,negligible anthocyanin,3.6,white,2.6,9.8,4.4,2.8,4.0,white,1.5,2.5,49,white (ap):white (ba),2.1,yellow,8.6,27.4,present,present,absent,Accession 42
+SIAL 88,green,white,negligible anthocyanin,3.4,white,2.8,8.8,3.7,2.7,3.7,green,1.6,3.4,49,white (ap):white (ba),2.5,yellow,8.4,20.4,present,present,absent,Accession 43
+SIC 801,white,white,anthocyanin absent,3.4,white,2.5,7.4,3.4,2.3,3.7,white,1.4,2.0,54,white (ap):white (ba),2.4,white,7.0,16.0,present,present,absent,Accession 37
+SIC 802,white,white,anthocyanin absent,3.6,white,2.7,7.8,3.6,2.5,3.5,white,1.5,2.4,57,white (ap):white (ba),2.3,white,7.9,17.5,present,present,absent,Accession 38
+SIC 812,white,white,anthocyanin absent,3.7,white,2.5,7.9,3.5,2.3,3.5,white,1.4,2.1,55,white (ap):white (ba),2.0,white,8.1,15.4,present,present,absent,Accession 39
+SIC 823,white,white,anthocyanin absent,3.6,white,2.6,8.1,3.6,2.5,3.7,white,1.5,2.3,56,white (ap):white (ba),2.4,white,8.4,18.4,present,present,absent,Accession 40
+SIC 831,white,white,anthocyanin absent,3.6,white,2.8,8.0,3.6,2.5,3.5,white,1.5,2.3,55,white (ap):white (ba),2.2,white,8.4,17.6,present,present,absent,Accession 41
+SILECIA 1 [ECU],white,white,anthocyanin absent,3.4,white,2.2,7.7,2.9,1.9,2.2,white,1.0,1.3,40,white (ap):white (ba),2.1,yellow,6.7,12.8,present,present,absent,Accession 66
+SILECIA 1 [ECU],white,white,anthocyanin absent,3.4,white,2.2,7.7,2.9,1.9,2.2,white,1.0,1.3,40,white (ap):white (ba),2.1,yellow,6.7,12.8,present,present,absent,Accession 66
+SILECIA 5 [ECU],white,white,anthocyanin absent,3.3,white,2.3,8.4,2.8,2.3,2.0,white,1.1,1.5,42,white (ap):white (ba),2.2,yellow,6.9,15.2,present,present,present,Accession 67
+SILECIA 5 [ECU],white,white,anthocyanin absent,3.3,white,2.3,8.4,2.8,2.3,2.0,white,1.1,1.5,42,white (ap):white (ba),2.2,yellow,6.9,15.2,present,present,present,Accession 67
+SPA 9 [COL],white,green - white,moderate anthocyanin,3.8,white,2.6,7.6,4.2,2.8,3.0,green,1.2,1.7,59,white (ap):white (ba),2.4,yellow,7.0,16.9,present,present,absent,Accession 50
+TRONCO 1800,green,white,negligible anthocyanin,3.6,white,2.6,9.0,4.0,3.1,3.2,white,1.5,2.0,53,white (ap):white (ba),3.0,yellow,8.6,17.0,present,present,absent,Accession 31
+TRONCO 2270,white,white,anthocyanin absent,3.7,white,2.3,7.9,3.1,2.7,3.1,white,1.3,1.7,51,white (ap):white (ba),2.5,yellow,7.8,16.9,present,present,absent,Accession 32
+TSA 644,green,white,negligible anthocyanin,3.7,green,2.3,7.5,2.7,2.6,3.0,white,1.2,1.7,60,white (ap):white (ba),2.2,yellow,6.8,14.0,present,present,absent,Accession 20
+TSA 654,white,green,negligible anthocyanin,3.3,white,2.8,8.3,2.5,3.0,3.6,green,1.3,1.9,60,white (ap):white (ba),2.6,yellow,7.6,19.4,present,present,absent,Accession
+TSAN 792,yellow,green,anthocyanin absent,3.6,yellow,2.2,8.2,2.7,2.2,3.0,green,1.2,1.8,62,yellow (ap):green (ba),2.1,yellow,7.8,13.4,present,present,present,Accession 22
+TSH 565,green,white,anthocyanin absent,3.6,green - white,2.4,8.9,2.7,2.7,3.8,white,1.1,1.6,57,yellow (ap):green (ba),2.1,yellow,7.6,14.2,present,present,present,Accession 21
+UF 221,green,green,anthocyanin absent,4.2,green - white,2.3,9.2,4.0,2.8,3.8,white,1.1,2.1,44,yellow (ap):yellow (ba),1.9,yellow,8.0,17.8,absent,present,present,Accession 53
+UF 29,green,green,moderate anthocyanin,3.5,green,2.1,8.0,3.0,2.5,3.5,white,1.0,1.5,47,white (ap):white (ba),2.5,yellow,6.8,17.6,present,present,absent,Accession 52
+UF 613,green,green,anthocyanin absent,3.6,green - white,2.8,9.3,3.9,2.6,3.5,green,1.0,1.7,46,yellow (ap):green (ba),2.3,yellow,7.9,20.3,present,present,absent,Accession 54
+UF 650,green,green,anthocyanin absent,3.9,green - white,2.8,10.1,3.7,3.1,4.3,white,1.0,1.6,41,yellow (ap):white (ba),2.0,yellow,8.4,19.0,present,present,absent,Accession 55
