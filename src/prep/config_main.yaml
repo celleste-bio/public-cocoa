@@ -8,3 +8,8 @@ tables:
 id_columns:
     - "Clone name"
     - "Refcode"
+
+columns_cotyledon:
+  - "bean_cotyledon_dry_weight"
+  - "bean_cotyledon_length"
+  - "bean_cotyledon_width"

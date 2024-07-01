@@ -1,0 +1,5 @@
+save_praped_data: "/home/public-cocoa/data/model_result"
+data_directory: '/home/public-cocoa/data/data_prep'
+target: "bean_total_wet_weight"
+test_data_20 : "/home/public-cocoa/data/data_prep/20_test.csv"
+test_data_25 : "/home/public-cocoa/data/data_prep/25_test.csv"

@@ -46,8 +46,16 @@ def col_name_template(col_name):
     return col_name.replace(' ', '_').lower()
 
 def drop_columns_from_df(df, columns_to_drop):
-    df.drop(columns=columns_to_drop, axis=1, inplace=True)
+    existing_columns = df.columns.tolist()
+    columns_to_drop_existing = [col for col in columns_to_drop if col in existing_columns]
+    
+    if columns_to_drop_existing:
+        df.drop(columns=columns_to_drop_existing, axis=1, inplace=True)
+    else:
+        print("Columns to drop do not exist in the DataFrame.")
+    
     return df
+
 
 def clean_data(data):
     # script_path="/home/public-cocoa/src/prep/clean_data.py"
