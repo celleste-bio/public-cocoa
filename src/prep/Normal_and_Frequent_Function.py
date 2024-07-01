@@ -47,4 +47,4 @@ def Normal_and_Frequent_Function(df):
 
 
 if __name__ == "__main__":
-    fill_missing_values()
+    Normal_and_Frequent_Function()

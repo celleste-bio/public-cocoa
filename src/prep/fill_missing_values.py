@@ -7,6 +7,7 @@ from Median_and_Frequent_Function import fill_missing_values_median_and_mode
 from Normal_and_Frequent_Function import Normal_and_Frequent_Function
 from outliers_by_IQR import IQR_outliers
 from hirarcial_tree_column import hirrarcial_tree
+from dummies_order import dummies_order
 
 sys.path.append("/home/public-cocoa/src")
 from path_utils import go_back_dir
@@ -56,19 +57,28 @@ def fill_missing_values(df):
             elif method == "ME":
                 filled_df = fill_missing_values_median_and_mode(df)
             elif method == "NO":
-                filled_df = fill_missing_values(df)
+                filled_df = Normal_and_Frequent_Function(df)
             all_dfs[f"{prefix}_{method}"] = filled_df
+    
+    for name, df in all_dfs.items():
+        df_dummies = dummies_order(df)
+        all_dfs[name] = df_dummies
 
-
+    all_dfs_new={}
     # Hierarchical Clustering
     for key in all_dfs:
         for clusters in config_missing_value["Hierarchical_tree_clusters"]:
-            all_dfs[f"{key}_{clusters}"] = hirrarcial_tree(all_dfs[key], clusters)
-          
+            all_dfs_new[f"{key}_{clusters}"] = hirrarcial_tree(all_dfs[key], clusters)
+
+        
+    all_dfs_new_final={}
 
     # Copy DataFrames for 'C' and 'WC' versions
-    for key in list(all_dfs.keys()):
-        all_dfs[f"{key}_C"] = all_dfs[key].copy()
-        all_dfs[f"{key}_WC"] = drop_columns_from_df(all_dfs[key], config_missing_value["columns_cotyledon"])
+    for key in list(all_dfs_new.keys()):
+        all_dfs_new_final[f"{key}_C"] = all_dfs_new[key].copy()
+        all_dfs_new_final[f"{key}_WC"] = drop_columns_from_df(all_dfs_new[key], config_missing_value["columns_cotyledon"])
     
-    return all_dfs
+
+    all_dfs_new_final[f"{25}_{"test"}"] = dummies_order(test_df_25)
+    all_dfs_new_final[f"{20}_{"test"}"] = dummies_order(test_df_20)
+    return all_dfs_new_final

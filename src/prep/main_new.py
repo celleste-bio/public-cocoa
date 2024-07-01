@@ -60,9 +60,9 @@ def main():
     #the data is clean without duplication and without null in target column
 
     all_dfs=fill_missing_values(cleaned_data)
-    for name, df in all_dfs.items():
-        df_dummies = dummies_order(df)
-        all_dfs[name] = df_dummies
+#    for name, df in all_dfs.items():
+#       df_dummies = dummies_order(df)
+#       all_dfs[name] = df_dummies
 
     # Create the output directory if it doesn't exist
     output_dir = config["save_praped_data"]
@@ -73,4 +73,5 @@ def main():
         csv_path = os.path.join(output_dir, f"{name}.csv")
         df.to_csv(csv_path, index=False)
         
-main()
+if __name__ == "__main__":
+    main()
