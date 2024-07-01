@@ -20,7 +20,7 @@ def convert_to_float(df):
     print(df.dtypes)
     return df
 
-def fill_missing_values(df):
+def Normal_and_Frequent_Function(df):
     # Process float64 columns
     df=convert_to_float(df)
     for column in df.select_dtypes(include=['float64']).columns:

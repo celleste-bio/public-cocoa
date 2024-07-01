@@ -7,6 +7,8 @@ from sklearn.metrics import davies_bouldin_score
 from sklearn.metrics import silhouette_score, davies_bouldin_score, calinski_harabasz_score
 
 def hirrarcial_tree(df,cluster_num):
+    if cluster_num == 0:
+        return df
     data = df.copy()
     # Perform hierarchical clustering
     clustering = AgglomerativeClustering(n_clusters=cluster_num, linkage='ward')

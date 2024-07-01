@@ -89,5 +89,6 @@ def clustering_and_replace_missing_values(df,k):
             if copy_data.loc[index, col]=='-' or pd.isnull(copy_data.loc[index,col]) :
                 cluster_frequent_val = cluster_frequent_values_categorical[cluster_idx][col]
                 copy_data.loc[index, col] = cluster_frequent_val
+                
     return df
 

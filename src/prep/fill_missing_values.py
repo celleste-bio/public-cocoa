@@ -4,7 +4,7 @@ import sys
 sys.path.append("/home/public-cocoa/src/prep")
 from Kmeans_missing_value import clustering_and_replace_missing_values
 from Median_and_Frequent_Function import fill_missing_values_median_and_mode
-from Normal_and_Frequent_Function import fill_missing_values
+from Normal_and_Frequent_Function import Normal_and_Frequent_Function
 from outliers_by_IQR import IQR_outliers
 from hirarcial_tree_column import hirrarcial_tree
 
@@ -44,9 +44,13 @@ def fill_missing_values(df):
     df_75_O = train_df_75.copy()
     df_75_WO = IQR_outliers(train_df_75)
 
+  
     # Filling missing values
+    all_dfs = {}
+    dataframes = {'80_O': df_80_O, '80_WO': df_80_WO, '75_O': df_75_O, '75_WO': df_75_WO}
+
     for method in config_missing_value['methods']:
-        for df, prefix in zip([df_80_O, df_80_WO, df_75_O, df_75_WO], ['80_O', '80_WO', '75_O', '75_WO']):
+        for prefix, df in dataframes.items():
             if method == "KM":
                 filled_df = clustering_and_replace_missing_values(df, 3)
             elif method == "ME":
@@ -55,10 +59,12 @@ def fill_missing_values(df):
                 filled_df = fill_missing_values(df)
             all_dfs[f"{prefix}_{method}"] = filled_df
 
+
     # Hierarchical Clustering
     for key in all_dfs:
         for clusters in config_missing_value["Hierarchical_tree_clusters"]:
             all_dfs[f"{key}_{clusters}"] = hirrarcial_tree(all_dfs[key], clusters)
+          
 
     # Copy DataFrames for 'C' and 'WC' versions
     for key in list(all_dfs.keys()):
