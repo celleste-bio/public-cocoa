@@ -1,0 +1,15 @@
+Clone name,Pathogen,Reaction
+AMELONADO [VAR],Vascular Streak Dieback,susceptible
+ICS 39,Vascular Streak Dieback,intermediate
+ICS 60,Vascular Streak Dieback,intermediate
+NA 32,Vascular Streak Dieback,susceptible
+NA 33,Vascular Streak Dieback,tolerant
+PA 138 [PER],Vascular Streak Dieback,tolerant
+PA 156 [PER],Vascular Streak Dieback,tolerant
+PA 20 [PER],Vascular Streak Dieback,tolerant
+PA 7 [PER],Vascular Streak Dieback,susceptible
+PA 76 [PER],Vascular Streak Dieback,tolerant
+SCA 6,Vascular Streak Dieback,tolerant
+SCA 9,Vascular Streak Dieback,tolerant
+UIT 1,Vascular Streak Dieback,intermediate
+UIT 2,Vascular Streak Dieback,intermediate

@@ -1,0 +1,99 @@
+Clone name,Self compatibility
+AC T 4 /2 [TTO],self compatible
+AMAZ 15 /15,self incompatible
+AMAZ 2 /1,self incompatible
+APA 4,self compatible
+BE 10,self compatible
+C 13 /5 [TRI],self incompatible
+C 87 /56 [TRI],self incompatible
+CAS 1,self incompatible
+CATONGO,self incompatible
+CC 10,self compatible
+CC 11,self incompatible
+CC 34,self compatible
+CC 38,self compatible
+CC 41,self compatible
+CC 54,self compatible
+CC 60,self compatible
+CC 67,self compatible
+CCN 10,self incompatible
+COCA 3356 [CHA],self incompatible
+EET 236 [ECU],self compatible
+EET 283 [ECU],self compatible
+EET 308 [ECU],self incompatible
+EET 353 [ECU],self compatible
+EET 399 [ECU],self incompatible
+EET 400 [ECU],self incompatible
+EET 75 [ECU],self compatible
+EQX 16 [EQX],self incompatible
+GA 57 [MAY],self incompatible
+ICS 1,self compatible
+ICS 100,self incompatible
+ICS 16,self incompatible
+ICS 39,self incompatible
+ICS 46,self incompatible
+ICS 6,self compatible
+ICS 60,self incompatible
+ICS 8,self compatible
+ICS 95,self compatible
+ICS 98,self incompatible
+IMC 2,self incompatible
+IMC 23,self incompatible
+IMC 47,self incompatible
+IMC 53,self incompatible
+IMC 58,self compatible
+IMC 67,self incompatible
+IMC 85,self incompatible
+JA 5 /46 [POU],self incompatible
+K 13 [KER],self incompatible
+K 20 [KER],self incompatible
+K 21 [KER],self compatible
+K 24 /106 [KER],self incompatible
+K 82 [KER],self compatible
+KA 2 /101,self compatible
+KA 2 /106,self incompatible
+KA 5 /201,self compatible
+MO 81,self incompatible
+MOQ 4 /17,self compatible
+NA 121,self compatible
+NA 171,self compatible
+NA 180,self incompatible
+NA 227,self incompatible
+NA 32,partial compatibility
+NA 33,partial compatibility
+NA 34,partial compatibility
+NA 77,self compatible
+P 4 /NANAY [UNK],self compatible
+PA 107 [PER],self incompatible
+PA 127 [PER],self incompatible
+PA 13 [PER],self incompatible
+PA 137 [PER],self incompatible
+PA 138 [PER],self incompatible
+PA 149 [PER],self incompatible
+PA 156 [PER],self incompatible
+PA 300 [PER],self incompatible
+PA 35 [PER],self compatible
+PA 7 [PER],self incompatible
+PA 76 [PER],self incompatible
+POUND 12,self incompatible
+POUND 7,self compatible
+REDAMEL 1 /22,self compatible
+RIM 41 [MEX],self incompatible
+SCA 12,self incompatible
+SCA 20 /D,self incompatible
+SCA 6,self incompatible
+SCA 9,self incompatible
+SCR 5,self compatible
+SIAL 93,self incompatible
+SPA 10 [COL],self compatible
+SPEC 185 /4,self incompatible
+TAP 1 /2 [CHA],self incompatible
+UF 11,self incompatible
+UF 168,self incompatible
+UF 221,self incompatible
+UF 29,self compatible
+UF 613,self incompatible
+UF 676,self incompatible
+UIT 1,self incompatible
+UIT 2,self incompatible
+VEN B 47 [ICT],self compatible

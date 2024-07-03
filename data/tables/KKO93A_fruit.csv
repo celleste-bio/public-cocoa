@@ -1,0 +1,38 @@
+Clone name,Shape,Rugosity
+ICS 1,amelonado,-
+ICS 100,angoleta,smooth
+ICS 43,-,intense
+ICS 6,cundeamor,-
+ICS 89,cundeamor,intense
+IFC 1 [CIV],amelonado,smooth
+IFC 5 [CIV],amelonado,smooth
+IMC 60,oval,smooth
+IMC 67,oval,smooth
+NA 32,oval,smooth
+P 30 [POS],amelonado,-
+P 4 /9-J11450 [POS],amelonado,smooth
+POUND 1,oval,smooth
+POUND 7,oval,smooth
+S 72 /J-11-4-49 [TAF],amelonado,smooth
+S 84 /E-10-4-90 [TAF],amelonado,smooth
+SCA 12,oval,intense
+SCA 6,round,smooth
+SILECIA 5 [ECU],amelonado,intense
+SNK 10,calabacillo,smooth
+SNK 12,angoleta,warty
+SNK 48,cundeamor,warty
+SNK 64,cundeamor,intense
+T 12 /5 [POS],oval,intense
+T 60 /887 [POS],oval,intense
+T 63 /967 [POS],oval,smooth
+T 63 /971 [POS],oval,intense
+T 79 /467 [POS],amelonado,-
+T 79 /501 [POS],amelonado,intense
+UF 667,angoleta,intense
+UF 676,angoleta,intense
+UPA 134,oval,smooth
+UPA 143,oval,smooth
+UPA 337,-,smooth
+UPA 402,amelonado,intense
+UPA 405,amelonado,-
+UPA 409,cundeamor,smooth

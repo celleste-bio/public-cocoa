@@ -1,0 +1,24 @@
+Clone name,Pathogen,Reaction,Part
+ICS 1,Mosaic Virus,Occasional,
+ICS 1,Witches' Broom,resistant,Pods
+ICS 1,Witches' Broom,intermediate,Leaves
+ICS 25,Witches' Broom,susceptible,Pods
+ICS 44,Mosaic Virus,Present,
+ICS 44,Witches' Broom,intermediate,Pods
+ICS 45,Mosaic Virus,Occasional,
+ICS 45,Witches' Broom,resistant,Pods
+ICS 45,Witches' Broom,intermediate,Leaves
+ICS 6,Mosaic Virus,Absent,
+ICS 6,Witches' Broom,susceptible,Pods
+ICS 6,Witches' Broom,resistant,Leaves
+ICS 60,Mosaic Virus,Occasional,
+ICS 60,Witches' Broom,intermediate,Pods
+ICS 60,Witches' Broom,susceptible,Leaves
+ICS 8,Mosaic Virus,Occasional,
+ICS 8,Witches' Broom,susceptible,Pods
+ICS 8,Witches' Broom,intermediate,Leaves
+ICS 9,Witches' Broom,resistant,Leaves
+ICS 9,Mosaic Virus,Occasional,
+ICS 9,Witches' Broom,susceptible,Pods
+ICS 95,Mosaic Virus,Abundant,
+ICS 95,Witches' Broom,resistant,Pods

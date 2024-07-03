@@ -1,0 +1,7 @@
+Clone name,Pest,Species,Reaction
+ICS 1,Thrips,-,susceptible
+ICS 6,Capsids,-,intermediate
+ICS 6,Cocoa Beetle,Xyleborus,intermediate
+ICS 8,Thrips,-,intermediate
+ICS 8,Cocoa Beetle,Xyleborus,intermediate
+ICS 89,Thrips,-,intermediate

@@ -1,0 +1,61 @@
+Clone name,Pathogen,Species,Reaction,Infection,Info,Part,Notes
+CATIE-R1,Phytophthora,P. palmivora,-,7.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R1,Phytophthora,P. palmivora,-,6.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R1,Phytophthora,P. palmivora,susceptible,-,Paper disk method.,Pod,-
+CATIE-R1,Frosty Pod,-,-,12.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R1,Frosty Pod,-,-,15.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R1,Frosty Pod,-,moderate resistance,-,Artificial innoculation.,Pod,-
+CATIE-R4,Phytophthora,P. palmivora,-,1.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R4,Phytophthora,P. palmivora,-,1.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R4,Phytophthora,P. palmivora,susceptible,-,Paper disk method.,Pod,-
+CATIE-R4,Frosty Pod,-,-,9.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R4,Frosty Pod,-,-,12.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R4,Frosty Pod,-,resistant,-,Artificial innoculation.,Pod,-
+CATIE-R6,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R6,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R6,Phytophthora,P. palmivora,moderate resistance,-,Paper disk method.,Pod,-
+CATIE-R6,Frosty Pod,-,-,5.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CATIE-R6,Frosty Pod,-,-,4.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CATIE-R6,Frosty Pod,-,resistant,-,Artificial innoculation.,Pod,-
+CC 137,Phytophthora,P. palmivora,-,1.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CC 137,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CC 137,Phytophthora,P. palmivora,moderate resistance,-,Paper disk method.,Pod,-
+CC 137,Frosty Pod,-,-,32.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CC 137,Frosty Pod,-,-,43.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CC 137,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+CCN 51,Phytophthora,P. palmivora,-,4.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CCN 51,Phytophthora,P. palmivora,-,2.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CCN 51,Phytophthora,P. palmivora,susceptible,-,Paper disk method.,Pod,-
+CCN 51,Frosty Pod,-,-,45.00,Natural incidence of the disease over 11 years.,Field reaction,-
+CCN 51,Frosty Pod,-,-,56.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+CCN 51,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+ICS 95,Phytophthora,P. palmivora,-,6.00,Natural incidence of the disease over 11 years.,Field reaction,-
+ICS 95,Phytophthora,P. palmivora,-,4.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+ICS 95,Phytophthora,P. palmivora,moderate resistance,-,Paper disk method.,Pod,-
+ICS 95,Frosty Pod,-,-,26.00,Natural incidence of the disease over 11 years.,Field reaction,-
+ICS 95,Frosty Pod,-,-,32.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+ICS 95,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+PMCT 58,Phytophthora,P. palmivora,-,4.00,Natural incidence of the disease over 11 years.,Field reaction,-
+PMCT 58,Phytophthora,P. palmivora,-,2.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+PMCT 58,Phytophthora,P. palmivora,susceptible,-,Paper disk method.,Pod,Described as Highly Susceptible.
+PMCT 58,Frosty Pod,-,-,26.00,Natural incidence of the disease over 11 years.,Field reaction,-
+PMCT 58,Frosty Pod,-,-,35.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+PMCT 58,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+POUND 7,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over 11 years.,Field reaction,-
+POUND 7,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+POUND 7,Phytophthora,P. palmivora,resistant,-,Paper disk method.,Pod,-
+POUND 7,Frosty Pod,-,-,75.00,Natural incidence of the disease over 11 years.,Field reaction,-
+POUND 7,Frosty Pod,-,-,86.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+POUND 7,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+SCA 6,Phytophthora,P. palmivora,-,2.00,Natural incidence of the disease over 11 years.,Field reaction,-
+SCA 6,Phytophthora,P. palmivora,-,0.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+SCA 6,Phytophthora,P. palmivora,resistant,-,Paper disk method.,Pod,Described as Highly Resistant
+SCA 6,Frosty Pod,-,-,75.00,Natural incidence of the disease over 11 years.,Field reaction,-
+SCA 6,Frosty Pod,-,-,84.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+SCA 6,Frosty Pod,-,moderately susceptible,-,Artificial innoculation.,Pod,-
+UF 273,Phytophthora,P. palmivora,-,4.00,Natural incidence of the disease over 11 years.,Field reaction,-
+UF 273,Phytophthora,P. palmivora,-,3.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+UF 273,Phytophthora,P. palmivora,susceptible,-,Paper disk method.,Pod,Described as Highly Susceptible.
+UF 273,Frosty Pod,-,-,14.00,Natural incidence of the disease over 11 years.,Field reaction,-
+UF 273,Frosty Pod,-,-,16.00,Natural incidence of the disease over last 5 years (6 to 11).,Field reaction,-
+UF 273,Frosty Pod,-,resistant,-,Artificial innoculation.,Pod,-

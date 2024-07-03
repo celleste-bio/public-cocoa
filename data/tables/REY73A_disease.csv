@@ -1,0 +1,156 @@
+Clone name,Pathogen,Reaction,Notes
+CBO 159 [VEN],Phytophthora,resistant,Agallas (S)
+CBO 159 [VEN],Witches' Broom,moderately susceptible,Agallas (S)
+CBO 159 [VEN],Ceratosystis,resistant,Agallas (S)
+CBO 176 [VEN],Phytophthora,susceptible,Agallas (S)
+CBO 176 [VEN],Witches' Broom,moderately susceptible,Agallas (S)
+CBO 176 [VEN],Ceratosystis,moderate resistance,Agallas (S)
+CBO 177 [VEN],Phytophthora,resistant,"P. parasitica (S), P. megasperma (S), P. syringae (S)"
+CBO 177 [VEN],Witches' Broom,resistant,"P. parasitica (S), P. megasperma (S), P. syringae (S)"
+CBO 177 [VEN],Ceratosystis,moderate resistance,"P. parasitica (S), P. megasperma (S), P. syringae (S)"
+CHO 163 [VEN],Phytophthora,resistant,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+CHO 163 [VEN],Witches' Broom,susceptible,
+CHO 163 [VEN],Phytophthora,susceptible,
+CHO 163 [VEN],Witches' Broom,susceptible,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+CHO 163 [VEN],Ceratosystis,resistant,
+CHO 163 [VEN],Ceratosystis,resistant,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+CHO 174 [VEN],Phytophthora,resistant,"Agallas present, P. parasitica (S), P. megasperma (S)"
+CHO 174 [VEN],Witches' Broom,susceptible,"Agallas present, P. parasitica (S), P. megasperma (S)"
+CHO 174 [VEN],Ceratosystis,resistant,"Agallas present, P. parasitica (S), P. megasperma (S)"
+CHO 24 [VEN],Witches' Broom,resistant,Fusarium (S)
+CHO 24 [VEN],Phytophthora,susceptible,Fusarium (S)
+CHO 24 [VEN],Ceratosystis,moderate resistance,Fusarium (S)
+CHO 31 [VEN],Witches' Broom,moderate resistance,"Agallas (MS), Fusarium (S)"
+CHO 31 [VEN],Phytophthora,susceptible,"Agallas (MS), Fusarium (S)"
+CHO 31 [VEN],Ceratosystis,resistant,"Agallas (MS), Fusarium (S)"
+CHO 41 [VEN],Witches' Broom,resistant,Agalla (S)
+CHO 41 [VEN],Phytophthora,susceptible,Agalla (S)
+CHO 41 [VEN],Ceratosystis,moderate resistance,Agalla (S)
+CHU 2 [VEN],Witches' Broom,susceptible,
+CHU 2 [VEN],Phytophthora,resistant,
+CHU 2 [VEN],Ceratosystis,resistant,
+CLP 170 [VEN],Phytophthora,susceptible,Agallas (S)
+CLP 170 [VEN],Witches' Broom,moderately susceptible,Agallas (S)
+CLP 170 [VEN],Ceratosystis,resistant,Agallas (S)
+CUI 32 [VEN],Phytophthora,resistant,"P. parasitica (S), P. megasperma (S), P. syringae (S), Agallas (S)"
+CUI 32 [VEN],Witches' Broom,moderately susceptible,"P. parasitica (S), P. megasperma (S), P. syringae (S), Agallas (S)"
+CUI 32 [VEN],Ceratosystis,resistant,"P. parasitica (S), P. megasperma (S), P. syringae (S), Agallas (S)"
+CUI 33 [VEN],Phytophthora,susceptible,
+CUI 33 [VEN],Witches' Broom,resistant,
+CUI 33 [VEN],Ceratosystis,resistant,
+CUI 38 [VEN],Phytophthora,susceptible,Agallas (R)
+CUI 38 [VEN],Witches' Broom,moderately susceptible,Agallas (R)
+CUI 38 [VEN],Ceratosystis,susceptible,Agallas (R)
+D 11 [VEN],Phytophthora,susceptible,
+D 11 [VEN],Witches' Broom,susceptible,
+D 11 [VEN],Ceratosystis,resistant,
+D 15 [VEN],Phytophthora,susceptible,
+D 15 [VEN],Witches' Broom,susceptible,
+D 15 [VEN],Ceratosystis,resistant,
+D 4 [VEN],Phytophthora,susceptible,
+D 4 [VEN],Witches' Broom,susceptible,
+D 4 [VEN],Ceratosystis,resistant,
+D 5 [VEN],Phytophthora,susceptible,
+D 5 [VEN],Witches' Broom,susceptible,
+D 5 [VEN],Ceratosystis,resistant,
+HAA 4 [VEN],Phytophthora,susceptible,
+HAA 4 [VEN],Witches' Broom,susceptible,
+HAA 4 [VEN],Ceratosystis,susceptible,
+LC 165 [VEN],Phytophthora,susceptible,
+LC 165 [VEN],Witches' Broom,moderately susceptible,
+LC 165 [VEN],Ceratosystis,susceptible,
+LC 168 [VEN],Phytophthora,resistant,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+LC 168 [VEN],Witches' Broom,moderately susceptible,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+LC 168 [VEN],Ceratosystis,resistant,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+LM 169 [VEN],Phytophthora,susceptible,Agallas (R)
+LM 169 [VEN],Witches' Broom,moderately susceptible,Agallas (R)
+LM 169 [VEN],Ceratosystis,moderate resistance,Agallas (R)
+M 1 [VEN],Phytophthora,susceptible,
+M 1 [VEN],Witches' Broom,susceptible,
+M 1 [VEN],Ceratosystis,moderate resistance,
+M 2 [VEN],Phytophthora,susceptible,
+M 2 [VEN],Witches' Broom,susceptible,
+M 2 [VEN],Ceratosystis,moderate resistance,
+O 14 [VE2],Phytophthora,susceptible,
+O 14 [VE2],Witches' Broom,susceptible,
+O 14 [VE2],Ceratosystis,susceptible,
+OC 60 [VEN],Witches' Broom,resistant,"Agalla (S), Fusarium (S)"
+OC 60 [VEN],Phytophthora,susceptible,"Agalla (S), Fusarium (S)"
+OC 60 [VEN],Ceratosystis,moderate resistance,"Agalla (S), Fusarium (S)"
+OC 61 [VEN],Phytophthora,resistant,"Agallas (R), Fusarium (R), Phytophthora megasperma (R)"
+OC 61 [VEN],Witches' Broom,moderately susceptible,"Agallas (R), Fusarium (R), Phytophthora megasperma (R)"
+OC 61 [VEN],Ceratosystis,moderate resistance,"Agallas (R), Fusarium (R), Phytophthora megasperma (R)"
+OC 73 [VEN],Witches' Broom,moderately susceptible,Phytophthora parasitica (R)
+OC 73 [VEN],Phytophthora,resistant,Phytophthora parasitica (R)
+OC 73 [VEN],Ceratosystis,moderate resistance,Phytophthora parasitica (R)
+OC 77 [VEN],Phytophthora,resistant,"Agalla (S), P. megasperma (S)"
+OC 77 [VEN],Ceratosystis,moderate resistance,"Agalla (S), P. megasperma (S)"
+PEN 158 [VEN],Phytophthora,susceptible,Agallas (S)
+PEN 158 [VEN],Witches' Broom,susceptible,Agallas (S)
+PEN 158 [VEN],Ceratosystis,resistant,Agallas (S)
+PLAYA ALTA 1 [VEN],Phytophthora,susceptible,
+PLAYA ALTA 1 [VEN],Witches' Broom,moderately susceptible,
+PLAYA ALTA 1 [VEN],Ceratosystis,moderate resistance,
+PLAYA ALTA 2 [VEN],Phytophthora,susceptible,
+PLAYA ALTA 2 [VEN],Witches' Broom,moderately susceptible,
+PLAYA ALTA 2 [VEN],Ceratosystis,moderate resistance,
+PLAYA ALTA 3 [VEN],Phytophthora,susceptible,Agallao present
+PLAYA ALTA 3 [VEN],Witches' Broom,moderately susceptible,Agallao present
+PLAYA ALTA 3 [VEN],Ceratosystis,moderate resistance,Agallao present
+PLAYA ALTA 4 [VEN],Phytophthora,susceptible,
+PLAYA ALTA 4 [VEN],Witches' Broom,moderately susceptible,
+PLAYA ALTA 4 [VEN],Ceratosystis,susceptible,
+PLAYA ALTA 5 [VEN],Phytophthora,susceptible,
+PLAYA ALTA 5 [VEN],Witches' Broom,moderately susceptible,
+PLAYA ALTA 5 [VEN],Ceratosystis,moderate resistance,
+PORCELANA 1,Witches' Broom,susceptible,"P. parasitica (S), P. megesperma (S)"
+PORCELANA 1,Phytophthora,resistant,"P. parasitica (S), P. megesperma (S)"
+PORCELANA 1,Ceratosystis,resistant,"P. parasitica (S), P. megesperma (S)"
+PORCELANA 10,Witches' Broom,susceptible,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+PORCELANA 10,Phytophthora,resistant,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+PORCELANA 10,Ceratosystis,resistant,"Conopia (S), P. parasitica (S), P. megasperma (S)"
+PORCELANA 11,Witches' Broom,susceptible,"Conopia (s), P. parasitica, P. megasperma"
+PORCELANA 11,Phytophthora,resistant,"Conopia (s), P. parasitica, P. megasperma"
+PORCELANA 11,Ceratosystis,resistant,"Conopia (s), P. parasitica, P. megasperma"
+PORCELANA 12,Witches' Broom,susceptible,"Conopia (S), P. phytophthora (S),P. megasperma (S), Agallas (S)."
+PORCELANA 12,Phytophthora,resistant,"Conopia (S), P. phytophthora (S),P. megasperma (S), Agallas (S)."
+PORCELANA 12,Ceratosystis,resistant,"Conopia (S), P. phytophthora (S),P. megasperma (S), Agallas (S)."
+PORCELANA 13,Witches' Broom,susceptible,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 13,Phytophthora,resistant,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 13,Ceratosystis,resistant,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 14,Witches' Broom,susceptible,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 14,Phytophthora,resistant,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 14,Ceratosystis,resistant,"Agallas, P. parasitica (S), P. megasperma (S)"
+PORCELANA 15,Witches' Broom,susceptible,"P. megasperma (S), P. parasitica (S)"
+PORCELANA 15,Phytophthora,resistant,"P. megasperma (S), P. parasitica (S)"
+PORCELANA 15,Ceratosystis,resistant,"P. megasperma (S), P. parasitica (S)"
+PORCELANA 16,Witches' Broom,susceptible,"Conopia, P. parasitica (S), P. megasperma (S)"
+PORCELANA 16,Phytophthora,resistant,"Conopia, P. parasitica (S), P. megasperma (S)"
+PORCELANA 16,Ceratosystis,resistant,"Conopia, P. parasitica (S), P. megasperma (S)"
+PORCELANA 17,Phytophthora,resistant,"Conopia, P. parasitica (S), P. megasperma (s)"
+PORCELANA 17,Witches' Broom,susceptible,"Conopia, P. parasitica (S), P. megasperma (s)"
+PORCELANA 17,Ceratosystis,resistant,"Conopia, P. parasitica (S), P. megasperma (s)"
+PORCELANA 2,Phytophthora,resistant,"P. megasperma (S), P. parasitica (S)"
+PORCELANA 2,Ceratosystis,resistant,"P. megasperma (S), P. parasitica (S)"
+PORCELANA 3,Phytophthora,resistant,"Conopia (insect) (S), P. parasitica (S), P. megasperma (S)"
+PORCELANA 3,Ceratosystis,resistant,"Conopia (insect) (S), P. parasitica (S), P. megasperma (S)"
+PQTO 72 [VEN],Phytophthora,resistant,"Agallas (S), P. megasperma (R), P. parasitica (S), P. syringae (S)"
+PQTO 72 [VEN],Witches' Broom,susceptible,"Agallas (S), P. megasperma (R), P. parasitica (S), P. syringae (S)"
+PQTO 72 [VEN],Ceratosystis,moderate resistance,"Agallas (S), P. megasperma (R), P. parasitica (S), P. syringae (S)"
+PQTO 87 [VEN],Phytophthora,resistant,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+PQTO 87 [VEN],Witches' Broom,resistant,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+PQTO 87 [VEN],Ceratosystis,moderately susceptible,"P. parasitica (S), P. syringae (S), P. megasperma (S)"
+SC 10 [VEN],Phytophthora,resistant,"Agallas (R), P. megasperma (R), P. parasitica (R)."
+SC 10 [VEN],Witches' Broom,moderately susceptible,"Agallas (R), P. megasperma (R), P. parasitica (R)."
+SC 10 [VEN],Ceratosystis,resistant,"Agallas (R), P. megasperma (R), P. parasitica (R)."
+SC 12 [VEN],Phytophthora,susceptible,Agallas (S)
+SC 12 [VEN],Witches' Broom,moderately susceptible,Agallas (S)
+SC 12 [VEN],Ceratosystis,moderate resistance,Agallas (S)
+SC 20 [VEN],Phytophthora,susceptible,Agallas (S)
+SC 20 [VEN],Witches' Broom,resistant,Agallas (S)
+SC 20 [VEN],Ceratosystis,resistant,Agallas (S)
+SC 9 [VEN],Witches' Broom,resistant,Agallas (S)
+SC 9 [VEN],Ceratosystis,moderate resistance,Agallas (S)
+VILL 185 [VEN],Phytophthora,susceptible,Agallas (R)
+VILL 185 [VEN],Witches' Broom,susceptible,Agallas (R)
+VILL 185 [VEN],Ceratosystis,moderate resistance,Agallas (R)

@@ -1,0 +1,32 @@
+Clone name,Pathogen,Reaction
+AMAZ 12,Phytophthora,susceptible
+AMAZ 15 /15,Phytophthora,resistant
+COCA 3370 /5 [CHA],Phytophthora,resistant
+ELP 37 A,Phytophthora,susceptible
+GU 123 /V,Phytophthora,susceptible
+GU 195 /V,Phytophthora,susceptible
+GU 257 /E,Phytophthora,resistant
+IMC 105,Phytophthora,susceptible
+IMC 31,Phytophthora,susceptible
+IMC 57,Phytophthora,susceptible
+IMC 60,Phytophthora,resistant
+KER 1-L,Phytophthora,resistant
+KER 6,Phytophthora,susceptible
+NA 246,Phytophthora,resistant
+NA 33,Phytophthora,susceptible
+NA 34,Phytophthora,susceptible
+NA 70,Phytophthora,susceptible
+NA 710,Phytophthora,resistant
+NA 807,Phytophthora,susceptible
+NA 916,Phytophthora,resistant
+OYA 2 B,Phytophthora,resistant
+PA 107 [PER],Phytophthora,susceptible
+PA 13 [PER],Phytophthora,resistant
+PA 16 [PER],Phytophthora,resistant
+PA 279 [PER],Phytophthora,resistant
+PA 299 [PER],Phytophthora,susceptible
+PA 71 [PER],Phytophthora,susceptible
+PA 81 [PER],Phytophthora,susceptible
+PINA,Phytophthora,resistant
+POUND 7,Phytophthora,resistant
+SPEC 54 /1,Phytophthora,resistant

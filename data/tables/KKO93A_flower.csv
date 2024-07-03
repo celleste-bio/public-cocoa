@@ -1,0 +1,55 @@
+Clone name,Self compatibility
+ALPH B 36,self compatible
+C 22 [TAF],self incompatible
+C 23 [TAF],self compatible
+C 23 [TAF],self incompatible
+C 26 [TAF],self incompatible
+CF 62,self incompatible
+ICS 1,self incompatible
+ICS 100,self compatible
+ICS 39,self compatible
+ICS 40,self compatible
+ICS 43,self compatible
+ICS 6,self incompatible
+ICS 60,self compatible
+ICS 89,self incompatible
+IFC 1 [CIV],self incompatible
+IFC 5 [CIV],self incompatible
+IMC 60,self compatible
+IMC 67,self compatible
+NA 32,self compatible
+NA 33,self compatible
+P 4 /9-J11450 [POS],self incompatible
+PA 35 [PER],self compatible
+S 72 /J-11-4-49 [TAF],self incompatible
+S 84 /E-10-4-90 [TAF],self incompatible
+SCA 12,self compatible
+SCA 6,self compatible
+SILECIA 5 [ECU],self compatible
+SNK 10,self compatible
+SNK 12,self incompatible
+SNK 48,self incompatible
+SNK 64,self incompatible
+T 12 /113 [POS],self compatible
+T 12 /5 [POS],self compatible
+T 16 /613 [POS],self compatible
+T 60 /1174 [POS],self compatible
+T 60 /887 [POS],self compatible
+T 63 /967 [POS],self compatible
+T 63 /971 [POS],self compatible
+T 65 /7 [POS],self compatible
+T 79 /416 [POS],self compatible
+T 79 /467 [POS],self compatible
+T 79 /501 [POS],self compatible
+T 85 /799 [POS],self compatible
+UF 667,self incompatible
+UF 676,self incompatible
+UPA 134,self compatible
+UPA 143,self compatible
+UPA 402,self compatible
+UPA 405,self compatible
+UPA 409,self compatible
+UPA 413,self compatible
+UPA 603,self compatible
+UPA 710,self compatible
+W 41 [POS],self compatible

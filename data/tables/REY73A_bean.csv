@@ -1,0 +1,60 @@
+Clone name,Colour dark purple,Colour purple,Colour light purple,Colour white,Shape,Size
+AM 1 [VEN],-,+,-,-,oval,medium
+CBO 159 [VEN],-,+,-,-,flat,medium
+CBO 176 [VEN],-,-,+,-,oval,medium
+CBO 177 [VEN],-,-,-,+,oval,medium
+CHO 163 [VEN],-,-,+,-,oval,medium
+CHO 163 [VEN],-,-,+,-,oval,large
+CHO 174 [VEN],+,-,-,-,oval,large
+CHO 24 [VEN],-,-,-,+,oval,large
+CHO 31 [VEN],-,-,+,+,oval,medium
+CHO 41 [VEN],-,-,+,-,oval,small
+CHU 2 [VEN],-,-,+,-,oval,medium
+CLP 170 [VEN],-,-,+,-,oval,medium
+CUI 32 [VEN],-,+,-,-,oval,medium
+CUI 33 [VEN],-,-,+,-,oval,medium
+D 11 [VEN],+,-,-,-,oval,medium
+D 15 [VEN],+,-,-,-,flat,medium
+D 4 [VEN],+,-,-,-,round,medium
+D 5 [VEN],-,-,-,+,oval,medium
+HAA 4 [VEN],+,-,-,-,round,medium
+LC 165 [VEN],+,-,-,-,flat,medium
+LC 168 [VEN],+,-,-,-,cylindrical,medium
+LM 169 [VEN],-,-,+,-,oval,medium
+LMR [VEN],-,-,-,+,oval,medium
+LR 5 [VEN],-,-,-,+,round,medium
+LRR 3 [VEN],-,-,-,+,round,medium
+LRV 1 [VEN],-,-,-,+,round,medium
+LVL 2 [VEN],-,-,+,-,oval,medium
+M 1 [VEN],-,-,+,-,round,medium
+M 2 [VEN],+,-,-,-,flat,medium
+O 14 [VE2],+,-,-,-,round,medium
+OC 60 [VEN],-,-,+,-,oval,medium
+OC 61 [VEN],-,-,+,-,round,large
+OC 73 [VEN],-,-,+,-,oval,medium
+OC 77 [VEN],-,-,+,-,oval,medium
+PEN 158 [VEN],-,-,+,+,oval,medium
+PLAYA ALTA 1 [VEN],-,-,+,+,cylindrical,medium
+PLAYA ALTA 2 [VEN],-,-,+,-,oval,medium
+PLAYA ALTA 3 [VEN],-,-,+,-,oval,medium
+PLAYA ALTA 4 [VEN],-,+,-,-,oval,medium
+PLAYA ALTA 5 [VEN],-,-,-,+,oval,medium
+PORCELANA 1,-,-,-,+,oval,medium
+PORCELANA 10,-,-,+,-,oval,medium
+PORCELANA 11,-,+,-,-,round,medium
+PORCELANA 12,-,+,-,-,round,medium
+PORCELANA 13,-,-,+,-,oval,medium
+PORCELANA 14,-,-,+,-,round,medium
+PORCELANA 15,-,-,+,-,round,medium
+PORCELANA 16,-,-,+,-,oval,medium
+PORCELANA 17,-,-,-,+,oval,large
+PORCELANA 2,-,-,-,+,oval,large
+PORCELANA 21,-,-,-,+,oval,medium
+PORCELANA 3,-,-,-,+,round,medium
+PQTO 72 [VEN],-,-,-,+,flat,medium
+PQTO 87 [VEN],-,-,+,-,flat,medium
+SC 10 [VEN],+,-,-,-,flat,large
+SC 12 [VEN],-,-,+,-,round,large
+SC 20 [VEN],-,+,-,-,oval,small
+SC 9 [VEN],+,-,-,-,flat,medium
+VILL 185 [VEN],-,-,+,-,flat,medium

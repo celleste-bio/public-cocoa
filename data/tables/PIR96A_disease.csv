@@ -1,0 +1,51 @@
+Clone name,Pathogen,Reaction
+C 87 /56 [TRI],Witches' Broom,tolerant
+C SUL 10,Witches' Broom,tolerant
+C SUL 2,Witches' Broom,tolerant
+C SUL 3,Witches' Broom,tolerant
+C SUL 4,Witches' Broom,tolerant
+C SUL 5,Witches' Broom,tolerant
+C SUL 7,Witches' Broom,tolerant
+C SUL 8,Witches' Broom,tolerant
+C SUL 9,Witches' Broom,tolerant
+CAB 4,Witches' Broom,tolerant
+CAB 5003 /23,Witches' Broom,tolerant
+CCN 10,Witches' Broom,tolerant
+CCN 34,Witches' Broom,tolerant
+CEPEC 1015,Witches' Broom,tolerant
+CEPEC 25,Witches' Broom,intermediate
+CEPEC 42,Witches' Broom,tolerant
+CEPEC 504,Witches' Broom,tolerant
+CEPEC 515,Witches' Broom,tolerant
+CEPEC 523,Witches' Broom,tolerant
+CEPEC 541,Witches' Broom,tolerant
+CEPEC 74,Witches' Broom,tolerant
+CEPEC 84,Witches' Broom,tolerant
+CEPEC 86,Witches' Broom,tolerant
+CEPEC 89,Witches' Broom,tolerant
+CEPEC 90,Witches' Broom,tolerant
+CEPEC 91,Witches' Broom,tolerant
+CEPEC 92,Witches' Broom,tolerant
+CEPEC 94,Witches' Broom,tolerant
+CHU 120 [VEN],Witches' Broom,tolerant
+EET 376 [ECU],Witches' Broom,tolerant
+EET 390 [ECU],Witches' Broom,tolerant
+EET 397 [ECU],Witches' Broom,tolerant
+EET 45 [ECU],Witches' Broom,tolerant
+EQX 107 [EQX],Witches' Broom,tolerant
+IAC 1,Witches' Broom,tolerant
+MA 16 [BRA],Witches' Broom,tolerant
+MOQ 2 /16,Witches' Broom,tolerant
+NA 33,Witches' Broom,tolerant
+OC 67 [VEN],Witches' Broom,tolerant
+PENTAGONA,Witches' Broom,tolerant
+POUND 4 /B,Witches' Broom,tolerant
+RB 38 [BRA],Witches' Broom,tolerant
+RB 39 [BRA],Witches' Broom,tolerant
+SGU 26,Witches' Broom,tolerant
+TSA 641,Witches' Broom,susceptible
+TSA 656,Witches' Broom,tolerant
+TSAN 792,Witches' Broom,tolerant
+TSH 516,Witches' Broom,tolerant
+TSH 565,Witches' Broom,tolerant
+TSH 774,Witches' Broom,tolerant

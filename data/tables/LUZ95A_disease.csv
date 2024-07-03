@@ -1,0 +1,28 @@
+Clone name,Pathogen,Species,Reaction,Part
+BE 3,Phytophthora,P. capsici,susceptible,Pod
+BE 3,Phytophthora,P. palmivora,susceptible,Pod
+BE 3,Phytophthora,P. citrophthora,susceptible,Pod
+BE 5,Phytophthora,P. citrophthora,susceptible,Pod
+BE 5,Phytophthora,P. capsici,susceptible,Pod
+BE 5,Phytophthora,P. palmivora,susceptible,Pod
+CAB 94,Phytophthora,P. palmivora,susceptible,Pod
+CAB 94,Phytophthora,P. citrophthora,susceptible,Pod
+CAB 94,Phytophthora,P. capsici,susceptible,Pod
+MA 11 [BRA],Phytophthora,P. palmivora,susceptible,Pod
+MA 11 [BRA],Phytophthora,P. capsici,susceptible,Pod
+MA 11 [BRA],Phytophthora,P. citrophthora,susceptible,Pod
+PA 150 [PER],Phytophthora,P. citrophthora,resistant,Pod
+PA 150 [PER],Phytophthora,P. capsici,resistant,Pod
+PA 150 [PER],Phytophthora,P. palmivora,resistant,Pod
+PA 30 [PER],Phytophthora,P. citrophthora,resistant,Pod
+PA 30 [PER],Phytophthora,P. capsici,resistant,Pod
+PA 30 [PER],Phytophthora,P. palmivora,resistant,Pod
+SIAL 105,Phytophthora,P. citrophthora,tolerant,Pod
+SIAL 105,Phytophthora,P. capsici,tolerant,Pod
+SIAL 105,Phytophthora,P. palmivora,tolerant,Pod
+SIC 23,Phytophthora,P. capsici,susceptible,Pod
+SIC 23,Phytophthora,P. palmivora,susceptible,Pod
+SIC 23,Phytophthora,P. citrophthora,susceptible,Pod
+SIC 864,Phytophthora,P. palmivora,tolerant,Pod
+SIC 864,Phytophthora,P. capsici,tolerant,Pod
+SIC 864,Phytophthora,P. citrophthora,tolerant,Pod

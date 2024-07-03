@@ -1,0 +1,189 @@
+Clone name,Pathogen,Species,Reaction,Part
+ARF 10,Phytophthora,P. palmivora,moderate resistance,Pod
+ARF 14,Phytophthora,P. palmivora,resistant,Pod
+ARF 18,Phytophthora,P. palmivora,moderate resistance,Pod
+ARF 21,Phytophthora,P. palmivora,moderate resistance,Pod
+ARF 27,Phytophthora,P. palmivora,moderately susceptible,Pod
+ARF 31,Phytophthora,P. palmivora,resistant,Pod
+ARF 37,Phytophthora,P. palmivora,moderate resistance,Pod
+ARF 4,Phytophthora,P. palmivora,resistant,Pod
+ARF 4,Phytophthora,P. palmivora,moderate resistance,Pod
+ARF 41,Phytophthora,P. palmivora,moderately susceptible,Pod
+ARF 42,Phytophthora,P. palmivora,moderate resistance,Pod
+B 2 [POU],Phytophthora,P. palmivora,susceptible,Pod
+BE 10,Phytophthora,P. palmivora,susceptible,Pod
+BE 5,Phytophthora,P. palmivora,susceptible,Pod
+CAS 3,Phytophthora,P. palmivora,moderately susceptible,Pod
+CATIE 1000,Phytophthora,P. palmivora,resistant,Pod
+CATONGO,Phytophthora,P. palmivora,susceptible,Pod
+CC 100,Phytophthora,P. palmivora,susceptible,Pod
+CC 103,Phytophthora,P. palmivora,susceptible,Pod
+CC 124,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 138,Phytophthora,P. palmivora,susceptible,Pod
+CC 139,Phytophthora,P. palmivora,susceptible,Pod
+CC 143,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 158,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 17,Phytophthora,P. palmivora,susceptible,Pod
+CC 200,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 201,Phytophthora,P. palmivora,susceptible,Pod
+CC 210,Phytophthora,P. palmivora,susceptible,Pod
+CC 213,Phytophthora,P. palmivora,susceptible,Pod
+CC 215,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 221,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 224,Phytophthora,P. palmivora,susceptible,Pod
+CC 231,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 235,Phytophthora,P. palmivora,susceptible,Pod
+CC 236,Phytophthora,P. palmivora,susceptible,Pod
+CC 237,Phytophthora,P. palmivora,susceptible,Pod
+CC 241,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 244,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 245,Phytophthora,P. palmivora,susceptible,Pod
+CC 246,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 249,Phytophthora,P. palmivora,susceptible,Pod
+CC 250,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 255,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 256,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 258,Phytophthora,P. palmivora,susceptible,Pod
+CC 260,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 261,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 262,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 266,Phytophthora,P. palmivora,susceptible,Pod
+CC 30,Phytophthora,P. palmivora,susceptible,Pod
+CC 34,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 35,Phytophthora,P. palmivora,susceptible,Pod
+CC 37,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 39,Phytophthora,P. palmivora,susceptible,Pod
+CC 41,Phytophthora,P. palmivora,susceptible,Pod
+CC 42,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 44,Phytophthora,P. palmivora,susceptible,Pod
+CC 46,Phytophthora,P. palmivora,susceptible,Pod
+CC 48,Phytophthora,P. palmivora,susceptible,Pod
+CC 49,Phytophthora,P. palmivora,susceptible,Pod
+CC 52,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 54,Phytophthora,P. palmivora,susceptible,Pod
+CC 69,Phytophthora,P. palmivora,moderately susceptible,Pod
+CC 71,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 74,Phytophthora,P. palmivora,susceptible,Pod
+CC 79,Phytophthora,P. palmivora,moderate resistance,Pod
+CC 9,Phytophthora,P. palmivora,susceptible,Pod
+CC 99,Phytophthora,P. palmivora,susceptible,Pod
+COMUM TIPICO,Phytophthora,P. palmivora,susceptible,Pod
+EEG 25,Phytophthora,P. palmivora,susceptible,Pod
+EET 12 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 156 [ECU],Phytophthora,P. palmivora,moderate resistance,Pod
+EET 162 [ECU],Phytophthora,P. palmivora,moderate resistance,Pod
+EET 164 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 183 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 19 [ECU],Phytophthora,P. palmivora,moderate resistance,Pod
+EET 250 [ECU],Phytophthora,P. palmivora,moderate resistance,Pod
+EET 338 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 353 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 376 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 390 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 397 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 400 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 48 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 53 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 64 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 67 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 75 [ECU],Phytophthora,P. palmivora,susceptible,Pod
+EET 80 [ECU],Phytophthora,P. palmivora,moderate resistance,Pod
+EET 95 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+EET 96 [ECU],Phytophthora,P. palmivora,moderately susceptible,Pod
+IMC 67,Phytophthora,P. palmivora,susceptible,Pod
+IMC 97,Phytophthora,P. palmivora,susceptible,Pod
+MA 12 [BRA],Phytophthora,P. palmivora,susceptible,Pod
+MATINA,Phytophthora,P. palmivora,susceptible,Pod
+MEXICO 1,Phytophthora,P. palmivora,moderate resistance,Pod
+MEXICO 1,Phytophthora,P. palmivora,susceptible,Pod
+MEXICO 3,Phytophthora,P. palmivora,susceptible,Pod
+MEXICO 4,Phytophthora,P. palmivora,susceptible,Pod
+MT 1 {HND],Phytophthora,P. palmivora,moderately susceptible,Pod
+NA 34,Phytophthora,P. palmivora,susceptible,Pod
+P 43 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+PA 121 [PER],Phytophthora,P. palmivora,susceptible,Pod
+PA 150 [PER],Phytophthora,P. palmivora,susceptible,Pod
+PA 16 [PER],Phytophthora,P. palmivora,susceptible,Pod
+PA 169 [PER],Phytophthora,P. palmivora,moderately susceptible,Pod
+PA 19 [PER],Phytophthora,P. palmivora,moderately susceptible,Pod
+PARA [BRA],Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 100,Phytophthora,P. palmivora,moderate resistance,Pod
+PMCT 5,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 56,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 58,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 59,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 60,Phytophthora,P. palmivora,moderate resistance,Pod
+PMCT 62,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 64,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 66,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 68,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 69,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 70,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 75,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 82,Phytophthora,P. palmivora,susceptible,Pod
+PMCT 95,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 96,Phytophthora,P. palmivora,moderately susceptible,Pod
+PMCT 97,Phytophthora,P. palmivora,susceptible,Pod
+POUND 12,Phytophthora,P. palmivora,susceptible,Pod
+POUND 7,Phytophthora,P. palmivora,resistant,Pod
+RB 29 [BRA],Phytophthora,P. palmivora,moderate resistance,Pod
+RB 41 [BRA],Phytophthora,P. palmivora,moderate resistance,Pod
+RB 43 [BRA],Phytophthora,P. palmivora,moderately susceptible,Pod
+RB 46 [BRA],Phytophthora,P. palmivora,resistant,Pod
+RB 49 [BRA],Phytophthora,P. palmivora,susceptible,Pod
+RIM 100 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+RIM 101 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+RIM 105 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+RIM 106 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+RIM 113 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+RIM 34 [MEX],Phytophthora,P. palmivora,moderately susceptible,Pod
+RIM 52 [MEX],Phytophthora,P. palmivora,susceptible,Pod
+SC 13 [COL],Phytophthora,P. palmivora,susceptible,Pod
+SC 24 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SC 49 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SC 5 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SGU 2,Phytophthora,P. palmivora,susceptible,Pod
+SGU 20,Phytophthora,P. palmivora,susceptible,Pod
+SGU 50,Phytophthora,P. palmivora,susceptible,Pod
+SGU 67,Phytophthora,P. palmivora,susceptible,Pod
+SGU 75,Phytophthora,P. palmivora,susceptible,Pod
+SGU 84,Phytophthora,P. palmivora,susceptible,Pod
+SGU 88,Phytophthora,P. palmivora,susceptible,Pod
+SGU 89,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 163,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 169,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 244,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 325,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 339,Phytophthora,P. palmivora,moderately susceptible,Pod
+SIAL 407,Phytophthora,P. palmivora,moderately susceptible,Pod
+SIAL 70,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 8,Phytophthora,P. palmivora,susceptible,Pod
+SIAL 93,Phytophthora,P. palmivora,moderately susceptible,Pod
+SIC 2,Phytophthora,P. palmivora,susceptible,Pod
+SIC 256,Phytophthora,P. palmivora,susceptible,Pod
+SIC 329,Phytophthora,P. palmivora,moderately susceptible,Pod
+SIC 433,Phytophthora,P. palmivora,moderately susceptible,Pod
+SIC 6,Phytophthora,P. palmivora,susceptible,Pod
+SIC 802,Phytophthora,P. palmivora,susceptible,Pod
+SPA 10 [COL],Phytophthora,P. palmivora,susceptible,Pod
+SPA 11 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SPA 17 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SPA 5 [COL],Phytophthora,P. palmivora,moderately susceptible,Pod
+SPA 9 [COL],Phytophthora,P. palmivora,moderate resistance,Pod
+TSA 644,Phytophthora,P. palmivora,susceptible,Pod
+TSAN 792,Phytophthora,P. palmivora,susceptible,Pod
+TSH 1112,Phytophthora,P. palmivora,susceptible,Pod
+UF 12,Phytophthora,P. palmivora,susceptible,Pod
+UF 20,Phytophthora,P. palmivora,susceptible,Pod
+UF 221,Phytophthora,P. palmivora,susceptible,Pod
+UF 36,Phytophthora,P. palmivora,moderate resistance,Pod
+UF 4,Phytophthora,P. palmivora,susceptible,Pod
+UF 602,Phytophthora,P. palmivora,moderately susceptible,Pod
+UF 650,Phytophthora,P. palmivora,susceptible,Pod
+UF 672,Phytophthora,P. palmivora,susceptible,Pod
+UF 676,Phytophthora,P. palmivora,susceptible,Pod
+UF 704,Phytophthora,P. palmivora,moderately susceptible,Pod
+UF 706,Phytophthora,P. palmivora,moderately susceptible,Pod
+UF 712,Phytophthora,P. palmivora,susceptible,Pod
+UF 714,Phytophthora,P. palmivora,moderately susceptible,Pod
+UF 715,Phytophthora,P. palmivora,moderately susceptible,Pod

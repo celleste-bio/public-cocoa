@@ -1,0 +1,18 @@
+# data clean_up configurations as prep for the models
+
+id_columns_new_name:
+    - "clone_name"
+    - "refcode"
+
+missing_threshold: 70
+
+target_column: "Total wet weight"
+
+target_column_new_name: "bean_total_wet_weight"
+
+columns_to_drop: "fruit_info"
+
+columns_cotyledon:
+  - "bean_cotyledon_dry_weight"
+  - "bean_cotyledon_length"
+  - "bean_cotyledon_width"

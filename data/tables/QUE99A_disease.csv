@@ -1,0 +1,27 @@
+Clone name,Pathogen,Reaction
+AGU 17 [CHA],WBMON,susceptible
+AMAZ 1,WBMON,susceptible
+AMAZ 10,WBMON,moderate resistance
+AMAZ 9,WBMON,moderate resistance
+BOB 3 [CHA],WBMON,moderately susceptible
+BOB 8 [CHA],WBMON,susceptible
+COCA 3023 [CHA],WBMON,resistant
+COCA 3335 [CHA],WBMON,moderately susceptible
+COCA 3338 [CHA],WBMON,intermediate
+CUR 15 [CHA],WBMON,resistant
+CUR 3 [CHA],WBMON,moderately susceptible
+NAPO 1 [CHA],WBMON,moderate resistance
+NAPO 18 [CHA],WBMON,intermediate
+NAPO 25 [CHA],WBMON,intermediate
+NAPO 3 [CHA],WBMON,susceptible
+NAPO 30 [CHA],WBMON,moderately susceptible
+NAPO 41 [CHA],WBMON,susceptible
+SAN MIGUEL 8 [CHA],WBMON,moderately susceptible
+SAN MIGUEL 9 [CHA],WBMON,intermediate
+TAP 1 [CHA],WBMON,susceptible
+TAP 2 [CHA],WBMON,moderately susceptible
+TAP 7 [CHA],WBMON,susceptible
+TIPUTINI 1 [CHA],WBMON,susceptible
+TIPUTINI 2 [CHA],WBMON,resistant
+TIPUTINI 4 [CHA],WBMON,intermediate
+UNAP 1 [CHA],WBMON,susceptible

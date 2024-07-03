@@ -1,0 +1,511 @@
+Clone name,Shape,Colour,Notes
+AMANAVEN [CRI],amelonado,green,-
+APA 4,amelonado,green,-
+APA 5,amelonado,green,-
+BE 10,amelonado,green,-
+BE 2,calabacillo,green,-
+BE 3,amelonado,green,-
+BE 4,amelonado,red,-
+BE 5,amelonado,green,-
+BE 8,amelonado,green,-
+BS 2,angoleta,green,-
+C SUL 3,amelonado,green,-
+C SUL 7,amelonado,intense green,-
+CAAG,amelonado,green,-
+CACAO ENANO,amelonado,green,-
+CARMELO 1-59 [MEX],amelonado,green,-
+CAS 1,amelonado,green,-
+CAS 3,amelonado,green,-
+CATIE 1000,amelonado,green,-
+CATONGO,calabacillo,green,-
+CC 10,angoleta,intense green,-
+CC 100,amelonado,green,-
+CC 103,amelonado,green,-
+CC 106,amelonado,intense green,-
+CC 107,amelonado,intense green,-
+CC 120,-,green,-
+CC 121,amelonado,green,-
+CC 124,amelonado,red,-
+CC 132,amelonado,green,-
+CC 137,amelonado,green,-
+CC 138,amelonado,intense green,-
+CC 139,amelonado,green,-
+CC 143,amelonado,green,-
+CC 144,amelonado,green,-
+CC 152,amelonado,intense green,-
+CC 158,amelonado,green,-
+CC 169,amelonado,green,-
+CC 17,angoleta,intense green,-
+CC 173,amelonado,green,-
+CC 18,amelonado,intense green,-
+CC 182,cundeamor,intense green,-
+CC 200,amelonado,green,-
+CC 201,amelonado,green,-
+CC 210,amelonado,green,-
+CC 211,amelonado,intense green,-
+CC 212,amelonado,green,-
+CC 213,amelonado,intense green,-
+CC 214,amelonado,green,-
+CC 215,amelonado,green,-
+CC 220,amelonado,green,-
+CC 221,amelonado,green,-
+CC 222,amelonado,intense green,-
+CC 223,amelonado,red,-
+CC 224,amelonado,green,-
+CC 225,amelonado,intense green,-
+CC 226,amelonado,green,-
+CC 228,amelonado,intense green,-
+CC 231,amelonado,intense green,-
+CC 232,amelonado,green,-
+CC 234,amelonado,green,-
+CC 235,amelonado,red,-
+CC 236,angoleta,intense green,-
+CC 237,amelonado,green,-
+CC 240,angoleta,green,-
+CC 241,amelonado,intense green,-
+CC 243,amelonado,red,-
+CC 244,amelonado,green,-
+CC 245,angoleta,green,-
+CC 246,angoleta,green,-
+CC 249,amelonado,green,-
+CC 250,amelonado,green,-
+CC 251,amelonado,intense green,-
+CC 252,amelonado,red,-
+CC 253,amelonado,red,-
+CC 254,angoleta,red,-
+CC 255,angoleta,intense green,-
+CC 256,amelonado,intense green,-
+CC 257,amelonado,intense green,-
+CC 258,amelonado,green,-
+CC 259,amelonado,green,-
+CC 260,amelonado,green,-
+CC 261,amelonado,green,-
+CC 262,amelonado,green,-
+CC 263,amelonado,green,-
+CC 265,angoleta,green,-
+CC 266,amelonado,red,-
+MATINA 1 /6,amelonado,green,-
+CC 27,amelonado,green,-
+CC 30,amelonado,red,-
+CC 33,amelonado,green,-
+CC 34,amelonado,green,-
+CC 35,angoleta,green,-
+CC 37,amelonado,red,-
+CC 38,amelonado,green,-
+CC 39,amelonado,green,-
+CC 40,amelonado,green,-
+CC 41,amelonado,green,-
+CC 42,amelonado,green,-
+CC 43,cundeamor,intense green,-
+CC 44,amelonado,green,-
+CC 45,amelonado,red,-
+CC 46,amelonado,green,-
+CC 47,amelonado,green,-
+CC 48,amelonado,green,-
+CC 49,amelonado,green,-
+CC 52,amelonado,red,-
+CC 54,amelonado,green,-
+CC 67,amelonado,green,-
+CC 69,angoleta,red,-
+CC 71,cundeamor,green,-
+CC 74,amelonado,red,-
+CC 79,amelonado,green,-
+CC 83,amelonado,green,-
+CC 9,amelonado,green,-
+CC 99,cundeamor,intense green,-
+CHU 120 [VEN],angoleta,red,-
+CHU 24 [VEN],angoleta,red,-
+CNS 22 [VEN],cundeamor,green,-
+CNS 23 [VEN],angoleta,green,-
+COCA 3312 [CHA],amelonado,green,-
+CRIOLLO [CRI],amelonado,green,-
+CRIOLLO 1 [CRI],cundeamor,green,-
+CRIOLLO 10 [CRI],amelonado,green,-
+CRIOLLO 11 [CRI],angoleta,light green,-
+CRIOLLO 12 [CRI],angoleta,light green,-
+CRIOLLO 13 [CRI],angoleta,light green,-
+CRIOLLO 14 [CRI],angoleta,green,-
+CRIOLLO 15 [CRI],amelonado,intense green,-
+CRIOLLO 17 [CRI],cundeamor,intense green,-
+CRIOLLO 18 [CRI],angoleta,green,-
+CRIOLLO 19 [CRI],angoleta,light green,-
+CRIOLLO 2 [CRI],cundeamor,green,-
+CRIOLLO 20 [CRI],angoleta,light green,-
+CRIOLLO 21 [CRI],angoleta,green,-
+CRIOLLO 216 [CRI],angoleta,green,-
+CRIOLLO 22 [CRI],angoleta,light green,-
+CRIOLLO 23 [CRI],angoleta,light green,-
+CRIOLLO 24 [CRI],angoleta,light green,-
+CRIOLLO 25 [CRI],angoleta,light green,-
+CRIOLLO 26 [CRI],amelonado,green,-
+CRIOLLO 27 [CRI],cundeamor,light green,-
+CRIOLLO 28 [CRI],amelonado,green,-
+CRIOLLO 29 [CRI],angoleta,green,-
+CRIOLLO 3 [CRI],amelonado,green,-
+CRIOLLO 33 [CRI],cundeamor,intense green,-
+CRIOLLO 34 [CRI],amelonado,intense green,-
+CRIOLLO 35 [CRI],cundeamor,green,-
+CRIOLLO 36 [CRI],cundeamor,green,-
+CRIOLLO 37 [CRI],angoleta,red,-
+CRIOLLO 38 [CRI],amelonado,green,-
+CRIOLLO 39 [CRI],angoleta,green,-
+CRIOLLO 4 [CRI],angoleta,light green,-
+CRIOLLO 40 [CRI],angoleta,intense green,-
+CRIOLLO 41 [CRI],angoleta,green,-
+CRIOLLO 42 [CRI],amelonado,green,-
+CRIOLLO 43 [CRI],angoleta,green,-
+CRIOLLO 44 [CRI],angoleta,red,-
+CRIOLLO 45 [CRI],amelonado,green,-
+CRIOLLO 46 [CRI],angoleta,green,-
+CRIOLLO 47 [CRI],angoleta,red,-
+CRIOLLO 48 [CRI],amelonado,green,-
+CRIOLLO 49 [CRI],amelonado,green,-
+CRIOLLO 5 [CRI],angoleta,green,-
+CRIOLLO 50 [CRI],amelonado,green,-
+CRIOLLO 51 [CRI],amelonado,green,-
+CRIOLLO 52 [CRI],angoleta,green,-
+CRIOLLO 53 [CRI],cundeamor,intense green,-
+CRIOLLO 55 [CRI],angoleta,light green,-
+CRIOLLO 56 [CRI],angoleta,light green,-
+CRIOLLO 58 [CRI],angoleta,intense green,-
+CRIOLLO 59 [CRI],amelonado,green,-
+CRIOLLO 6 [CRI],angoleta,light green,-
+CRIOLLO 60 [CRI],angoleta,green,-
+CRIOLLO 61 [CRI],angoleta,red,-
+CRIOLLO 62 [CRI],angoleta,red,-
+CRIOLLO 63 [CRI],angoleta,red,-
+CRIOLLO 64 [CRI],angoleta,intense green,-
+CRIOLLO 65 [CRI],angoleta,red,-
+CRIOLLO 66 [CRI],cundeamor,green,-
+CRIOLLO 67 [CRI],cundeamor,green,-
+CRIOLLO 7 [CRI],angoleta,green,-
+CRIOLLO 8 [CRI],angoleta,green,-
+CU 1,calabacillo,green,-
+CU 1,amelonado,green,-
+CU 2,amelonado,green,-
+CU 3,calabacillo,green,-
+DIAMANTES 800,cundeamor,red,-
+DR 1,amelonado,red,-
+DR 38,amelonado,red,-
+EEG 25,amelonado,green,-
+EEG 27,amelonado,green,-
+EEG 29,amelonado,green,-
+EEG 48,amelonado,green,-
+EEG 64,amelonado,green,-
+EEG 65,amelonado,green,-
+EET 12 [ECU],cundeamor,green,-
+EET 156 [ECU],amelonado,red,-
+EET 162 [ECU],amelonado,green,-
+EET 164 [ECU],amelonado,green,-
+EET 183 [ECU],amelonado,green,-
+EET 19 [ECU],amelonado,red,-
+EET 228 [ECU],angoleta,green,-
+EET 250 [ECU],amelonado,intense green,-
+EET 262 [ECU],amelonado,red,-
+EET 338 [ECU],amelonado,red,-
+EET 353 [ECU],amelonado,green,-
+EET 364 [ECU],angoleta,green,-
+EET 376 [ECU],amelonado,intense green,-
+EET 377 [ECU],amelonado,green,-
+EET 390 [ECU],amelonado,intense green,-
+EET 397 [ECU],angoleta,green,-
+EET 399 [ECU],cundeamor,green,-
+EET 400 [ECU],angoleta,green,-
+EET 41 [ECU],amelonado,green,-
+EET 45 [ECU],amelonado,intense green,-
+EET 48 [ECU],amelonado,green,-
+EET 53 [ECU],amelonado,green,-
+EET 59 [ECU],amelonado,green,-
+EET 62 [ECU],amelonado,green,-
+EET 64 [ECU],amelonado,green,-
+EET 67 [ECU],amelonado,green,-
+EET 75 [ECU],amelonado,red,-
+EET 94 [ECU],amelonado,green,-
+EET 95 [ECU],amelonado,green,-
+EET 96 [ECU],amelonado,green,-
+G 23 [GET],amelonado,green,-
+G 8 [GET],amelonado,red,-
+GA 11 [HAI],amelonado,red,-
+GC 29 [UNK],amelonado,green,-
+GC 7 [SUR],amelonado,green,-
+GS 16,amelonado,green,-
+GS 17,amelonado,green,-
+GS 36,angoleta,red,-
+GS 50,amelonado,red,-
+GS 7,amelonado,red,-
+GS 78,amelonado,green,-
+ICS 1,amelonado,red,-
+ICS 100,amelonado,green,-
+ICS 117,amelonado,red,-
+ICS 133,amelonado,green,-
+ICS 134,amelonado,green,-
+ICS 135,angoleta,green,-
+ICS 137,angoleta,red,-
+ICS 138,cundeamor,green,-
+ICS 16,amelonado,red,-
+ICS 29,angoleta,red,-
+ICS 32,amelonado,green,-
+ICS 39,angoleta,green,-
+ICS 40,amelonado,green,-
+ICS 43,amelonado,red,-
+ICS 44,amelonado,red,-
+ICS 45,amelonado,green,-
+ICS 46,calabacillo,green,-
+ICS 47,amelonado,green,-
+ICS 53,amelonado,red,-
+ICS 6,amelonado,intense green,-
+ICS 60,amelonado,intense green,-
+ICS 61,amelonado,green,-
+ICS 8,angoleta,green,-
+ICS 84,amelonado,green,-
+ICS 89,amelonado,green,-
+ICS 91,angoleta,red,-
+ICS 95,amelonado,red,-
+ICS 98,amelonado,intense green,-
+IMC 60,amelonado,green,-
+IMC 67,amelonado,green,-
+IMC 9,amelonado,green,-
+IQ 1 [BRA],amelonado,intense green,-
+JACA,amelonado,green,-
+LA ESMIDA AMARILLO,amelonado,green,-
+La Esmida Roja,pentagona,red,-
+LAFI 1,amelonado,green,-
+LARANJA,calabacillo,green,-
+LF 1,amelonado,green,-
+LF 2,amelonado,intense green,-
+LF 3,amelonado,red,-
+MA 12 [BRA],amelonado,green,-
+MA 13 [BRA],cundeamor,green,-
+MEXICO 1,amelonado,green,-
+MEXICO 10,amelonado,green,-
+MEXICO 11,amelonado,green,-
+MEXICO 12,amelonado,green,-
+MEXICO 14,amelonado,green,-
+MEXICO 19,amelonado,green,-
+MEXICO 2,amelonado,green,-
+MEXICO 3,amelonado,green,-
+MEXICO 4,amelonado,green,-
+MEXICO 5,amelonado,green,-
+MEXICO 7,amelonado,green,-
+ML PEPINO,amelonado,green,-
+MOCORONGO,amelonado,green,-
+MT 1 {HND],amelonado,intense green,-
+MUTACION UPALA,amelonado,green,-
+NA 34,amelonado,green,-
+NAL 1,amelonado,green,"Accessions A1, A2, A4, A5, A6, A7, A8, A10 and A11."
+NAL 1,amelonado,red,"Accessions A3, A9 and A12."
+NAL 2,amelonado,red,"Accessions A13, A26 and A29."
+NAL 2,amelonado,green,"Accessions A14 - A18, A21 - A25, A27, A28 and A30."
+NAL 2,amelonado,intense green,Accessions A19 and A20.
+NAL 3,amelonado,green,"Accessions A31 - A33, and A35 - A43."
+NAL 3,angoleta,green,Accession A34.
+NAL 4,amelonado,green,"Accessions A44, A45, A47, A48, A51 - A53, A55 - A57, and A59."
+NAL 4,amelonado,red,"Accessions A46, A49, A50, and A54."
+NAL 4,cundeamor,green,Accession A58.
+OC 61 [VEN],amelonado,green,-
+OC 77 [VEN],amelonado,red,-
+P 10 [MEX],angoleta,green,-
+P 11 [MEX],amelonado,green,-
+P 12 [MEX],amelonado,green,-
+P 15 [MEX],amelonado,green,-
+P 16 [MEX],amelonado,green,-
+P 19 [MEX],amelonado,green,-
+P 20 [MEX],amelonado,green,-
+P 22 [MEX],cundeamor,green,-
+P 23 [MEX],cundeamor,green,-
+P 43 [MEX],cundeamor,red,-
+P 8 [MEX],amelonado,red,-
+PA 121 [PER],amelonado,green,-
+PA 13 [PER],amelonado,green,-
+PA 150 [PER],amelonado,green,-
+PA 16 [PER],amelonado,green,-
+PA 169 [PER],amelonado,green,-
+PA 19 [PER],amelonado,green,-
+PA 81 [PER],amelonado,intense green,-
+PAPAYO,cundeamor,intense green,-
+PENTAGONA 1 [CR2],cundeamor,green,-
+PENTAGONA 1 [CRI],pentagona,green,-
+PENTAGONA 11 [CRI],pentagona,green,-
+PENTAGONA 12 [CRI],pentagona,light green,-
+PENTAGONA 14 [CRI],pentagona,green,-
+PENTAGONA 16 [CRI],pentagona,red,-
+PENTAGONA 17 [CRI],pentagona,green,-
+PENTAGONA 18 [CRI],pentagona,red,-
+PENTAGONA 2 [CRI],pentagona,red,-
+PENTAGONA 3 [CR2],cundeamor,green,-
+PENTAGONA 4 [CRI],pentagona,green,-
+PENTAGONA 5 [CRI],pentagona,green,-
+PENTAGONA 6 [CRI],pentagona,light green,-
+PENTAGONA 7 [CRI],pentagona,green,-
+PENTAGONA 8 [CRI],pentagona,green,-
+PENTAGONA 9 [CRI],angoleta,green,-
+PMCT 1,amelonado,green,-
+PMCT 10,amelonado,green,-
+PMCT 11,amelonado,green,-
+PMCT 12,amelonado,green,-
+PMCT 13,amelonado,red,-
+PMCT 14,amelonado,green,-
+PMCT 2,amelonado,green,-
+PMCT 3,amelonado,green,-
+PMCT 4,amelonado,green,-
+PMCT 5,amelonado,green,-
+PMCT 7,amelonado,red,-
+PMCT 8,amelonado,green,-
+PMCT 9,amelonado,red,-
+PORCELANA 3,cundeamor,green,-
+POUND 12,amelonado,green,-
+POUND 7,amelonado,green,-
+PV 2 [CRI],amelonado,intense green,-
+PV 4 [CRI],amelonado,green,-
+PV 5 [CRI],angoleta,intense green,-
+PV 6 [CRI],amelonado,green,-
+PV 7 [CRI],cundeamor,red,-
+RB 29 [BRA],amelonado,green,-
+RB 37 [BRA],amelonado,green,-
+RB 39 [BRA],amelonado,green,-
+RB 41 [BRA],amelonado,green,-
+RB 43 [BRA],amelonado,green,-
+RB 46 [BRA],amelonado,green,-
+RB 47 [BRA],amelonado,green,-
+RB 49 [BRA],amelonado,green,-
+RIM 10 [MEX],cundeamor,green,-
+RIM 100 [MEX],angoleta,red,-
+RIM 101 [MEX],cundeamor,green,-
+RIM 105 [MEX],angoleta,green,-
+RIM 106 [MEX],angoleta,green,-
+RIM 107 [MEX],cundeamor,green,-
+RIM 113 [MEX],cundeamor,green,-
+RIM 117 [MEX],angoleta,red,-
+RIM 13 [MEX],cundeamor,green,-
+RIM 15 [MEX],amelonado,intense green,-
+RIM 189 [MEX],cundeamor,green,-
+RIM 19 [MEX],cundeamor,green,-
+RIM 2 [MEX],angoleta,green,-
+RIM 21 [MEX],angoleta,green,-
+RIM 23 [MEX],cundeamor,red,-
+RIM 24 [MEX],angoleta,green,-
+RIM 30 [MEX],cundeamor,green,-
+RIM 34 [MEX],amelonado,green,-
+RIM 39 [MEX],angoleta,red,-
+RIM 41 [MEX],cundeamor,green,-
+RIM 43 [MEX],cundeamor,green,-
+RIM 44 [MEX],angoleta,green,-
+RIM 48 [MEX],cundeamor,red,-
+RIM 52 [MEX],cundeamor,green,-
+RIM 56 [MEX],angoleta,green,-
+RIM 6 [MEX],angoleta,red,-
+RIM 68 [MEX],pentagona,red,-
+RIM 71 [MEX],angoleta,green,-
+RIM 75 [MEX],angoleta,green,-
+RIM 76 [MEX],amelonado,green,-
+RIM 78 [MEX],amelonado,green,-
+RIM 8 [MEX],angoleta,green,-
+RIM 88 [MEX],cundeamor,red,-
+RIM 9 [MEX],angoleta,green,-
+SC 13 [COL],amelonado,red,-
+SC 24 [COL],amelonado,green,-
+SC 49 [COL],amelonado,green,-
+SC 5 [COL],angoleta,red,-
+SC 51 [COL],amelonado,red,-
+SC 6 [COL],amelonado,red,-
+SCA 12,amelonado,green,-
+SCA 6,cundeamor,intense green,-
+SCA 9,amelonado,green,-
+SCR 3,amelonado,green,-
+SCR 4,amelonado,green,-
+SCR 5,amelonado,green,-
+SCR 5,amelonado,green,-
+SGU 3,amelonado,green,-
+SGU 4,amelonado,green,-
+SGU 60,amelonado,green,-
+SGU 63,amelonado,green,-
+SGU 71,calabacillo,green,-
+SGU 82,amelonado,green,-
+SGU 84,amelonado,intense green,-
+SGU 89,cundeamor,red,-
+SIAL 163,amelonado,green,-
+SIAL 169,amelonado,green,-
+SIAL 242,amelonado,green,-
+SIAL 244,amelonado,green,-
+SIAL 325,amelonado,green,-
+SIAL 339,calabacillo,green,-
+SIAL 407,calabacillo,green,-
+SIAL 42,amelonado,green,-
+SIAL 44,amelonado,intense green,-
+SIAL 56,amelonado,green,-
+SIAL 70,calabacillo,green,-
+SIAL 8,amelonado,green,-
+SIAL 93,amelonado,green,-
+SIAL 98,calabacillo,green,-
+SIC 1,calabacillo,green,-
+SIC 2,calabacillo,green,-
+SIC 256,amelonado,green,-
+SIC 28,amelonado,green,-
+SIC 329,calabacillo,green,-
+SIC 433,amelonado,green,-
+SIC 6,calabacillo,green,-
+SIC 7,amelonado,green,-
+SIC 802,amelonado,green,-
+SIC 806,calabacillo,green,-
+SIC 813,calabacillo,green,-
+SILECIA 5 [ECU],amelonado,green,-
+SM 2 [SAO],amelonado,red,-
+SNK 12,amelonado,red,-
+SPA 10 [COL],amelonado,green,-
+SPA 11 [COL],amelonado,green,-
+SPA 12 [COL],angoleta,green,-
+SPA 17 [COL],amelonado,green,-
+SPA 4 [COL],amelonado,green,-
+SPA 5 [COL],angoleta,green,-
+SPA 7 [COL],amelonado,green,-
+SPA 9 [COL],amelonado,green,-
+STICA 100,angoleta,green,-
+TJ 1,amelonado,green,-
+TSA 644,angoleta,green,-
+TSAN 792,amelonado,red,-
+TSAN 812,angoleta,red,-
+TSH 565,cundeamor,red,-
+UF 10,angoleta,intense green,-
+UF 11,angoleta,intense green,-
+UF 12,angoleta,intense green,-
+UF 122,angoleta,red,-
+UF 168,angoleta,intense green,-
+UF 20,angoleta,green,-
+UF 210,amelonado,green,-
+UF 221,angoleta,red,-
+UF 242,amelonado,green,-
+UF 273,amelonado,red,-
+UF 29,amelonado,green,-
+UF 296,amelonado,red,-
+UF 36,amelonado,green,-
+UF 38,amelonado,red,-
+UF 4,amelonado,green,-
+UF 601,angoleta,red,-
+UF 602,amelonado,green,-
+UF 613,amelonado,red,-
+UF 650,angoleta,red,-
+UF 654,angoleta,red,-
+UF 666,cundeamor,green,-
+UF 667,angoleta,red,-
+UF 668,angoleta,intense green,-
+UF 672,amelonado,red,-
+UF 676,angoleta,intense green,-
+UF 677,angoleta,green,-
+UF 700,amelonado,red,-
+UF 701,amelonado,red,-
+UF 703,amelonado,green,-
+UF 704,amelonado,green,-
+UF 705,amelonado,green,-
+UF 706,amelonado,green,-
+UF 707,cundeamor,intense green,-
+UF 708,amelonado,red,-
+UF 709,amelonado,red,-
+UF 710,amelonado,red,-
+UF 711,cundeamor,red,-
+UF 712,amelonado,green,-
+UF 713,amelonado,green,-
+UF 714,amelonado,red,-
+UF 715,amelonado,red,-
+UF 716,amelonado,green,-
+UF 717,amelonado,green,-
+UF 93,amelonado,red,-

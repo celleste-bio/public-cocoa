@@ -1,0 +1,261 @@
+Clone name,Pathogen,Reaction,Part
+AB 1 [BRA],Witches' Broom,resistant,Seedling
+AB 1 [BRA],Witches' Broom,intermediate,Field Reaction
+BE 3,Witches' Broom,intermediate,Field Reaction
+BE 3,Witches' Broom,susceptible,Seedling
+BE 7,Witches' Broom,resistant,Field Reaction
+BE 7,Witches' Broom,susceptible,Seedling
+C SUL 1,Witches' Broom,intermediate,Seedling
+C SUL 1,Witches' Broom,intermediate,Field Reaction
+C SUL 10,Witches' Broom,intermediate,Seedling
+C SUL 10,Witches' Broom,resistant,Field Reaction
+C SUL 2,Witches' Broom,susceptible,Seedling
+C SUL 2,Witches' Broom,resistant,Field Reaction
+C SUL 3,Witches' Broom,resistant,Field Reaction
+C SUL 3,Witches' Broom,intermediate,Seedling
+C SUL 4,Witches' Broom,susceptible,Seedling
+C SUL 4,Witches' Broom,resistant,Field Reaction
+C SUL 5,Witches' Broom,resistant,Seedling
+C SUL 5,Witches' Broom,resistant,Field Reaction
+C SUL 7,Witches' Broom,susceptible,Seedling
+C SUL 7,Witches' Broom,resistant,Field Reaction
+C SUL 8,Witches' Broom,susceptible,Field Reaction
+C SUL 8,Witches' Broom,susceptible,Seedling
+C SUL 9,Witches' Broom,susceptible,Seedling
+C SUL 9,Witches' Broom,resistant,Field Reaction
+CA 2 [BRA],Witches' Broom,resistant,Seedling
+CA 2 [BRA],Witches' Broom,intermediate,Field Reaction
+CA 3 [BRA],Witches' Broom,susceptible,Seedling
+CA 3 [BRA],Witches' Broom,susceptible,Field Reaction
+CA 4 [BRA],Witches' Broom,susceptible,Field Reaction
+CA 4 [BRA],Witches' Broom,susceptible,Seedling
+CA 6 [BRA],Witches' Broom,intermediate,Field Reaction
+CA 6 [BRA],Witches' Broom,susceptible,Seedling
+CAB 145,Witches' Broom,resistant,Seedling
+CAB 145,Witches' Broom,resistant,Field Reaction
+CAB 148,Witches' Broom,resistant,Field Reaction
+CAB 148,Witches' Broom,resistant,Seedling
+CAB 153,Witches' Broom,resistant,Seedling
+CAB 153,Witches' Broom,resistant,Field Reaction
+CAB 154,Witches' Broom,resistant,Seedling
+CAB 156,Witches' Broom,resistant,Seedling
+CAB 156,Witches' Broom,resistant,Field Reaction
+CAB 160,Witches' Broom,resistant,Seedling
+CAB 160,Witches' Broom,resistant,Field Reaction
+CAB 191,Witches' Broom,resistant,Field Reaction
+CAB 191,Witches' Broom,resistant,Seedling
+CAB 193,Witches' Broom,resistant,Field Reaction
+CAB 193,Witches' Broom,resistant,Seedling
+CAB 194,Witches' Broom,susceptible,Field Reaction
+CAB 194,Witches' Broom,resistant,Seedling
+CAB 264,Witches' Broom,susceptible,Seedling
+CAB 265,Witches' Broom,resistant,Seedling
+CAB 265,Witches' Broom,resistant,Field Reaction
+CAB 266,Witches' Broom,resistant,Field Reaction
+CAB 266,Witches' Broom,resistant,Seedling
+CAB 269,Witches' Broom,susceptible,Seedling
+CAB 269,Witches' Broom,intermediate,Field Reaction
+CAB 271,Witches' Broom,resistant,Seedling
+CAB 271,Witches' Broom,resistant,Field Reaction
+CAB 272,Witches' Broom,resistant,Seedling
+CAB 272,Witches' Broom,susceptible,Field Reaction
+CAB 273,Witches' Broom,susceptible,Seedling
+CAB 273,Witches' Broom,susceptible,Field Reaction
+CAB 274,Witches' Broom,resistant,Field Reaction
+CAB 274,Witches' Broom,resistant,Seedling
+CAB 329 /25,Witches' Broom,intermediate,Seedling
+CAB 5 /2,Witches' Broom,susceptible,Seedling
+CAB 5003 /23,Witches' Broom,resistant,Field Reaction
+CAB 5003 /23,Witches' Broom,susceptible,Seedling
+CAB 510 /20,Witches' Broom,susceptible,Seedling
+CAB 520,Witches' Broom,susceptible,Seedling
+CAB 526,Witches' Broom,intermediate,Seedling
+CAB 533,Witches' Broom,susceptible,Seedling
+CAB 5336 /16,Witches' Broom,susceptible,Seedling
+CAB 5336 /16,Witches' Broom,intermediate,Field Reaction
+CAB 5336 /19,Witches' Broom,resistant,Seedling
+CAB 557,Witches' Broom,susceptible,Seedling
+CAB 64,Witches' Broom,resistant,Field Reaction
+CAB 64,Witches' Broom,resistant,Seedling
+CAB 833,Witches' Broom,susceptible,Seedling
+CAB 844,Witches' Broom,susceptible,Seedling
+CAB 884,Witches' Broom,susceptible,Seedling
+CC 34,Witches' Broom,resistant,Seedling
+CC 34,Witches' Broom,susceptible,Field Reaction
+CC 39,Witches' Broom,susceptible,Seedling
+CC 39,Witches' Broom,intermediate,Field Reaction
+CCN 51,Witches' Broom,resistant,Seedling
+CCN 51,Witches' Broom,resistant,Field Reaction
+CEPEC 1003,Witches' Broom,susceptible,Seedling
+CEPEC 1003,Witches' Broom,resistant,Field Reaction
+CEPEC 15,Witches' Broom,resistant,Seedling
+CEPEC 15,Witches' Broom,resistant,Field Reaction
+CEPEC 18,Witches' Broom,intermediate,Field Reaction
+CEPEC 18,Witches' Broom,intermediate,Seedling
+CEPEC 21,Witches' Broom,resistant,Seedling
+CEPEC 21,Witches' Broom,resistant,Field Reaction
+CEPEC 26,Witches' Broom,intermediate,Field Reaction
+CEPEC 26,Witches' Broom,intermediate,Seedling
+CEPEC 35,Witches' Broom,susceptible,Seedling
+CEPEC 38,Witches' Broom,resistant,Field Reaction
+CEPEC 38,Witches' Broom,intermediate,Seedling
+CEPEC 50,Witches' Broom,susceptible,Seedling
+CEPEC 50,Witches' Broom,intermediate,Field Reaction
+CEPEC 504,Witches' Broom,resistant,Field Reaction
+CEPEC 504,Witches' Broom,resistant,Seedling
+CEPEC 511,Witches' Broom,susceptible,Seedling
+CEPEC 511,Witches' Broom,susceptible,Field Reaction
+CEPEC 519,Witches' Broom,resistant,Seedling
+CEPEC 519,Witches' Broom,resistant,Field Reaction
+CEPEC 538,Witches' Broom,susceptible,Field Reaction
+CEPEC 538,Witches' Broom,susceptible,Seedling
+CEPEC 550,Witches' Broom,intermediate,Seedling
+CEPEC 550,Witches' Broom,intermediate,Field Reaction
+CEPEC 74,Witches' Broom,resistant,Field Reaction
+CEPEC 74,Witches' Broom,intermediate,Seedling
+CEPEC 84,Witches' Broom,resistant,Field Reaction
+CEPEC 84,Witches' Broom,intermediate,Seedling
+CEPEC 85,Witches' Broom,intermediate,Field Reaction
+CEPEC 85,Witches' Broom,intermediate,Seedling
+CEPEC 90,Witches' Broom,resistant,Field Reaction
+CEPEC 90,Witches' Broom,resistant,Seedling
+CEPEC 92,Witches' Broom,resistant,Field Reaction
+CEPEC 92,Witches' Broom,resistant,Seedling
+CEPEC 94,Witches' Broom,susceptible,Seedling
+CEPEC 94,Witches' Broom,resistant,Field Reaction
+CHU 120 [VEN],Witches' Broom,resistant,Field Reaction
+CHU 120 [VEN],Witches' Broom,resistant,Seedling
+CJ 8 [BRA],Witches' Broom,resistant,Seedling
+CJ 8 [BRA],Witches' Broom,susceptible,Field Reaction
+EEG 13,Witches' Broom,susceptible,Field Reaction
+EEG 13,Witches' Broom,resistant,Seedling
+EEG 50,Witches' Broom,susceptible,Field Reaction
+EEG 50,Witches' Broom,susceptible,Seedling
+EEG 64,Witches' Broom,intermediate,Field Reaction
+EEG 64,Witches' Broom,resistant,Seedling
+EEG 8,Witches' Broom,susceptible,Seedling
+EEG 8,Witches' Broom,susceptible,Field Reaction
+EET 103 [ECU],Witches' Broom,susceptible,Field Reaction
+EET 103 [ECU],Witches' Broom,intermediate,Seedling
+EET 397 [ECU],Witches' Broom,resistant,Field Reaction
+EET 397 [ECU],Witches' Broom,resistant,Seedling
+EET 45 [ECU],Witches' Broom,resistant,Seedling
+EET 45 [ECU],Witches' Broom,resistant,Field Reaction
+EET 59 [ECU],Witches' Broom,resistant,Seedling
+EET 59 [ECU],Witches' Broom,susceptible,Field Reaction
+EET 62 [ECU],Witches' Broom,resistant,Field Reaction
+EET 62 [ECU],Witches' Broom,resistant,Seedling
+EET 94 [ECU],Witches' Broom,intermediate,Field Reaction
+EET 94 [ECU],Witches' Broom,intermediate,Seedling
+EET 96 [ECU],Witches' Broom,susceptible,Seedling
+EET 96 [ECU],Witches' Broom,intermediate,Field Reaction
+EQX 107 [EQX],Witches' Broom,susceptible,Seedling
+EQX 107 [EQX],Witches' Broom,resistant,Field Reaction
+IAC 1,Witches' Broom,intermediate,Seedling
+IAC 1,Witches' Broom,resistant,Field Reaction
+ICS 1,Witches' Broom,resistant,Field Reaction
+ICS 1,Witches' Broom,resistant,Seedling
+ICS 32,Witches' Broom,resistant,Field Reaction
+ICS 32,Witches' Broom,intermediate,Seedling
+ICS 55,Witches' Broom,resistant,Field Reaction
+ICS 55,Witches' Broom,susceptible,Seedling
+ICS 75,Witches' Broom,susceptible,Field Reaction
+ICS 75,Witches' Broom,resistant,Seedling
+ICS 9,Witches' Broom,susceptible,Seedling
+ICS 9,Witches' Broom,intermediate,Field Reaction
+IMC 27,Witches' Broom,resistant,Field Reaction
+IMC 27,Witches' Broom,resistant,Seedling
+MA 11 [BRA],Witches' Broom,resistant,Field Reaction
+MA 11 [BRA],Witches' Broom,resistant,Seedling
+MA 15 [BRA],Witches' Broom,resistant,Field Reaction
+MA 15 [BRA],Witches' Broom,resistant,Seedling
+NA 33,Witches' Broom,susceptible,Seedling
+NA 33,Witches' Broom,resistant,Field Reaction
+OC 66 [VEN],Witches' Broom,intermediate,Seedling
+OC 66 [VEN],Witches' Broom,resistant,Field Reaction
+OC 67 [VEN],Witches' Broom,resistant,Field Reaction
+OC 67 [VEN],Witches' Broom,resistant,Seedling
+PA 150 [PER],Witches' Broom,susceptible,Seedling
+PA 150 [PER],Witches' Broom,susceptible,Field Reaction
+PA 16 [PER],Witches' Broom,susceptible,Field Reaction
+PA 16 [PER],Witches' Broom,intermediate,Seedling
+PA 169 [PER],Witches' Broom,resistant,Field Reaction
+PA 169 [PER],Witches' Broom,intermediate,Seedling
+PA 195 [PER],Witches' Broom,resistant,Field Reaction
+PA 195 [PER],Witches' Broom,susceptible,Seedling
+PLAYA ALTA [VEN],Witches' Broom,resistant,Field Reaction
+PLAYA ALTA [VEN],Witches' Broom,intermediate,Seedling
+POUND 4 /B,Witches' Broom,susceptible,Seedling
+POUND 4 /B,Witches' Broom,resistant,Field Reaction
+POUND 7,Witches' Broom,intermediate,Seedling
+POUND 7,Witches' Broom,intermediate,Field Reaction
+PQTO 87 [VEN],Witches' Broom,susceptible,Seedling
+PQTO 87 [VEN],Witches' Broom,intermediate,Field Reaction
+RB 29 [BRA],Witches' Broom,susceptible,Field Reaction
+RB 29 [BRA],Witches' Broom,susceptible,Seedling
+RB 30 [BRA],Witches' Broom,susceptible,Seedling
+RB 30 [BRA],Witches' Broom,resistant,Field Reaction
+RB 31 [BRA],Witches' Broom,resistant,Field Reaction
+RB 31 [BRA],Witches' Broom,resistant,Seedling
+RB 32 [BRA],Witches' Broom,resistant,Seedling
+RB 32 [BRA],Witches' Broom,intermediate,Field Reaction
+RB 33 [BRA],Witches' Broom,intermediate,Seedling
+RB 33 [BRA],Witches' Broom,intermediate,Field Reaction
+RB 37 [BRA],Witches' Broom,resistant,Field Reaction
+RB 37 [BRA],Witches' Broom,susceptible,Seedling
+RB 39 [BRA],Witches' Broom,intermediate,Seedling
+RB 39 [BRA],Witches' Broom,resistant,Field Reaction
+RB 40 [BRA],Witches' Broom,susceptible,Seedling
+RB 40 [BRA],Witches' Broom,resistant,Field Reaction
+RB 45 [BRA],Witches' Broom,intermediate,Seedling
+RB 45 [BRA],Witches' Broom,intermediate,Field Reaction
+RB 48 [BRA],Witches' Broom,intermediate,Seedling
+RB 48 [BRA],Witches' Broom,intermediate,Field Reaction
+SC 5 [COL],Witches' Broom,resistant,Seedling
+SC 5 [COL],Witches' Broom,susceptible,Field Reaction
+SC 55 [COL],Witches' Broom,susceptible,Field Reaction
+SC 55 [COL],Witches' Broom,susceptible,Seedling
+SCA 12,Witches' Broom,resistant,Field Reaction
+SCA 12,Witches' Broom,resistant,Seedling
+SCA 6,Witches' Broom,resistant,Field Reaction
+SCA 6,Witches' Broom,resistant,Seedling
+SGU 26,Witches' Broom,resistant,Seedling
+SGU 26,Witches' Broom,resistant,Field Reaction
+SGU 54,Witches' Broom,intermediate,Field Reaction
+SGU 54,Witches' Broom,resistant,Seedling
+SIAL 2,Witches' Broom,susceptible,Field Reaction
+SIAL 2,Witches' Broom,susceptible,Seedling
+SIAL 407,Witches' Broom,susceptible,Seedling
+SIAL 407,Witches' Broom,susceptible,Field Reaction
+SIAL 543,Witches' Broom,resistant,Field Reaction
+SIAL 543,Witches' Broom,resistant,Seedling
+SIAL 84,Witches' Broom,susceptible,Seedling
+SIAL 84,Witches' Broom,susceptible,Field Reaction
+SIAL 93,Witches' Broom,susceptible,Field Reaction
+SIAL 93,Witches' Broom,resistant,Seedling
+SIAL 93,Witches' Broom,susceptible,Seedling
+SIAL 93,Witches' Broom,susceptible,Field Reaction
+SIC 20,Witches' Broom,intermediate,Seedling
+SIC 20,Witches' Broom,intermediate,Field Reaction
+SIC 21,Witches' Broom,susceptible,Field Reaction
+SIC 21,Witches' Broom,resistant,Seedling
+SIC 22,Witches' Broom,susceptible,Field Reaction
+SIC 22,Witches' Broom,susceptible,Seedling
+SIC 433,Witches' Broom,resistant,Seedling
+SIC 433,Witches' Broom,susceptible,Field Reaction
+SIC 47,Witches' Broom,susceptible,Seedling
+SIC 47,Witches' Broom,susceptible,Field Reaction
+SIC 662,Witches' Broom,susceptible,Seedling
+SIC 662,Witches' Broom,susceptible,Field Reaction
+SPA 17 [COL],Witches' Broom,intermediate,Seedling
+SPA 17 [COL],Witches' Broom,intermediate,Field Reaction
+SPA 7 [COL],Witches' Broom,susceptible,Seedling
+SPA 7 [COL],Witches' Broom,intermediate,Field Reaction
+TSA 654,Witches' Broom,resistant,Seedling
+TSA 654,Witches' Broom,resistant,Field Reaction
+TSH 1188,Witches' Broom,resistant,Field Reaction
+TSH 1188,Witches' Broom,susceptible,Seedling
+TSH 774,Witches' Broom,resistant,Field Reaction
+TSH 774,Witches' Broom,intermediate,Seedling
+UF 296,Witches' Broom,susceptible,Field Reaction
+UF 296,Witches' Broom,susceptible,Seedling

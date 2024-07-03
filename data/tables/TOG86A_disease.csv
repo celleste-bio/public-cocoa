@@ -1,0 +1,25 @@
+Clone name,Pathogen,Species,Reaction,Part
+C 24 [TAF],Phytophthora,P. palmivora,resistant,Pod
+CF 176,Phytophthora,P. palmivora,resistant,Pod
+CF 62,Phytophthora,P. palmivora,resistant,Pod
+ICS 100,Phytophthora,P. palmivora,intermediate,Pod
+ICS 39,Phytophthora,P. palmivora,intermediate,Pod
+ICS 40,Phytophthora,P. palmivora,intermediate,Pod
+ICS 6,Phytophthora,P. palmivora,intermediate,Pod
+ICS 60,Phytophthora,P. palmivora,intermediate,Pod
+ICS 95,Phytophthora,P. palmivora,intermediate,Pod
+IMC 60,Swollen Shoot,,resistant,
+IMC 67,Swollen Shoot,,resistant,
+IMC 76,Swollen Shoot,,resistant,
+NA 32,Phytophthora,P. palmivora,tolerant,Pod
+NA 34,Swollen Shoot,,resistant,
+PA 35 [PER],Phytophthora,P. palmivora,intermediate,Pod
+PA 7 [PER],Phytophthora,P. palmivora,intermediate,Pod
+SNK 109,Phytophthora,P. palmivora,intermediate,Pod
+SNK 12,Phytophthora,P. palmivora,intermediate,Pod
+T 60 /887 [POS],Phytophthora,P. palmivora,resistant,Pod
+T 60 /887 [POS],Swollen Shoot,,resistant,
+T 79 /501 [POS],Phytophthora,P. palmivora,intermediate,Pod
+T 85 /799 [POS],Swollen Shoot,,resistant,
+T 9 /15 [POS],Phytophthora,P. palmivora,resistant,Pod
+T 9 /15 [POS],Swollen Shoot,,resistant,

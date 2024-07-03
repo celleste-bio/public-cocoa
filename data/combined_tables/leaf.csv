@@ -1,0 +1,558 @@
+Clone name,Shape,Info,Refcode,Length,Width,Basal form,Apex form,Petiole length,L w ratio,Basal angle,Apical angle,Notes,Pulvinus present,Pulvinus length
+CA 3 [BRA],lanceolate,expedition data,SOR70A,,,,,,,,,,,
+CCN 6,elongate,,BAR99C,,,,,,,,,,,
+CATIE-R1,Elliptic,,PHI13A,319.0,107.0,Obtuse,Cuspidate,20.0,,,,,,
+CATIE-R4,Elliptic,,PHI13A,304.0,118.0,Cuneiform,Aristate,21.0,,,,,,
+CATIE-R6,Elliptic,,PHI13A,338.0,130.0,Cuneiform,Aristate,18.0,,,,,,
+CC 137,Elliptic,,PHI13A,325.0,118.0,Cuneiform,Aristate,25.0,,,,,,
+ICS 95,Elliptic,,PHI13A,344.0,134.0,Obtuse,Cuspidate,27.0,,,,,,
+PMCT 58,Elliptic,,PHI13A,380.0,125.0,Obtuse,Aristate,21.0,,,,,,
+AM 1 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+CBO 159 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CBO 176 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+CBO 177 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+CHO 163 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CHO 163 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+CHO 174 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+CHO 24 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CHO 31 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CHO 41 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CHU 2 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+CLP 170 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+CUI 32 [VEN],ovate,,REY73A,,,rounded,caudate,,,,,,,
+CUI 33 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+CUI 38 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+D 11 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+D 15 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+D 4 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+D 5 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+HAA 4 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+LC 165 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+LC 168 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+LM 169 [VEN],ovate,,REY73A,,,rounded,caudate,,,,,,,
+LMR [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+LR 5 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+LRR 3 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+LRV 1 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+LVL 2 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+M 1 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+M 2 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+O 14 [VE2],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+OC 60 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+OC 61 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+OC 73 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+OC 77 [VEN],lanceolate,,REY73A,,,obtuse,acuminate,,,,,,,
+PEN 158 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PLAYA ALTA 1 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PLAYA ALTA 2 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PLAYA ALTA 3 [VEN],elliptic,,REY73A,,,obtuse,caudate,,,,,,,
+PLAYA ALTA 4 [VEN],lanceolate,,REY73A,,,rounded,caudate,,,,,,,
+PLAYA ALTA 5 [VEN],ovate,,REY73A,,,rounded,caudate,,,,,,,
+PORCELANA 1,ovate,,REY73A,,,rounded,acuminate,,,,,,,
+PORCELANA 10,elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PORCELANA 11,elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+PORCELANA 12,elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+PORCELANA 13,elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PORCELANA 14,elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PORCELANA 15,elliptic,,REY73A,,,rounded,caudate,,,,,,,
+PORCELANA 16,elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+PORCELANA 17,elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+PORCELANA 2,ovate,,REY73A,,,,,,,,,,,
+PORCELANA 21,elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+PQTO 72 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+PQTO 87 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+SC 10 [VEN],elliptic,,REY73A,,,rounded,acuminate,,,,,,,
+SC 12 [VEN],lanceolate,,REY73A,,,rounded,caudate,,,,,,,
+SC 20 [VEN],ovate,,REY73A,,,rounded,acuminate,,,,,,,
+SC 9 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+VILL 185 [VEN],elliptic,,REY73A,,,rounded,caudate,,,,,,,
+C 4 /11 [TRI],,,MOR90B,,,,,,2.52,117.0,100.0,,,
+CC 10,,,MOR90B,,,,,,2.79,127.0,90.0,,,
+CC 41,,,MOR90B,,,,,,2.91,154.0,84.0,,,
+CC 9,,,MOR90B,,,,,,2.94,161.0,86.0,,,
+EET 103 [ECU],,,MOR90B,,,,,,2.32,143.0,100.0,,,
+EET 162 [ECU],,,MOR90B,,,,,,2.59,134.0,100.0,,,
+EET 19 [ECU],,,MOR90B,,,,,,3.04,113.0,76.0,,,
+EET 238 [ECU],,,MOR90B,,,,,,2.73,128.0,94.0,,,
+EET 433 [ECU],,,MOR90B,,,,,,2.67,161.0,92.0,,,
+EET 433 [ECU],,,MOR90B,,,,,,2.66,136.0,104.0,,,
+EET 48 [ECU],,,MOR90B,,,,,,2.99,127.0,84.0,,,
+EET 62 [ECU],,,MOR90B,,,,,,2.74,145.0,95.0,,,
+EET 95 [ECU],,,MOR90B,,,,,,2.37,143.0,96.0,,,
+EET 96 [ECU],,,MOR90B,,,,,,2.75,140.0,93.0,,,
+GS 29,,,MOR90B,,,,,,2.88,132.0,89.0,,,
+GS 36,,,MOR90B,,,,,,2.87,137.0,90.0,,,
+ICS 1,,,MOR90B,,,,,,2.53,126.0,95.0,,,
+ICS 100,,,MOR90B,,,,,,2.71,118.0,85.0,,,
+ICS 16,,,MOR90B,,,,,,2.61,135.0,92.0,,,
+ICS 55,,,MOR90B,,,,,,2.63,139.0,99.0,,,
+ICS 6,,,MOR90B,,,,,,2.72,135.0,84.0,,,
+ICS 75,,,MOR90B,,,,,,2.31,134.0,113.0,,,
+ICS 8,,,MOR90B,,,,,,3.42,142.0,79.0,,,
+ICS 89,,,MOR90B,,,,,,2.46,126.0,94.0,,,
+ICS 95,,,MOR90B,,,,,,2.57,157.0,94.0,,,
+ICS 98,,,MOR90B,,,,,,2.56,122.0,109.0,,,
+IMC 67,,,MOR90B,,,,,,3.07,153.0,76.0,,,
+OC 61 [VEN],,,MOR90B,,,,,,2.75,122.0,90.0,,,
+OC 77 [VEN],,,MOR90B,,,,,,3.54,109.0,75.0,,,
+PA 121 [PER],,,MOR90B,,,,,,3.03,155.0,79.0,,,
+POUND 12,,,MOR90B,,,,,,2.94,145.0,87.0,,,
+POUND 7,,,MOR90B,,,,,,3.01,168.0,80.0,,,
+PQTO 87 [VEN],,,MOR90B,,,,,,2.67,141.0,101.0,,,
+RIM 10 [MEX],,,MOR90B,,,,,,3.01,130.0,73.0,,,
+RIM 13 [MEX],,,MOR90B,,,,,,2.91,138.0,75.0,,,
+RIM 30 [MEX],,,MOR90B,,,,,,3.00,120.0,75.0,,,
+RIM 48 [MEX],,,MOR90B,,,,,,2.83,149.0,80.0,,,
+SC 10 [VEN],,,MOR90B,,,,,,2.46,124.0,111.0,,,
+SC 5 [COL],,,MOR90B,,,,,,-,151.0,86.0,,,
+SC 6 [COL],,,MOR90B,,,,,,-,139.0,86.0,,,
+SCA 12,,,MOR90B,,,,,,2.66,113.0,93.0,,,
+SCA 6,,,MOR90B,,,,,,3.11,132.0,85.0,,,
+SIAL 163,,,MOR90B,,,,,,2.99,155.0,85.0,,,
+SIAL 325,,,MOR90B,,,,,,2.86,139.0,86.0,,,
+SIAL 70,,,MOR90B,,,,,,2.74,146.0,95.0,,,
+SIAL 88,,,MOR90B,,,,,,2.95,136.0,91.0,,,
+SIC 801,,,MOR90B,,,,,,2.65,136.0,96.0,,,
+SIC 802,,,MOR90B,,,,,,2.74,142.0,94.0,,,
+SIC 812,,,MOR90B,,,,,,2.59,142.0,100.0,,,
+SIC 823,,,MOR90B,,,,,,2.77,138.0,93.0,,,
+SIC 831,,,MOR90B,,,,,,2.71,148.0,95.0,,,
+SILECIA 1 [ECU],,,MOR90B,,,,,,3.04,106.0,88.0,,,
+SILECIA 1 [ECU],,,MOR90B,,,,,,3.04,106.0,88.0,,,
+SILECIA 5 [ECU],,,MOR90B,,,,,,3.04,115.0,91.0,,,
+SILECIA 5 [ECU],,,MOR90B,,,,,,3.04,115.0,94.0,,,
+SPA 9 [COL],,,MOR90B,,,,,,2.79,173.0,96.0,,,
+TRONCO 1800,,,MOR90B,,,,,,3.00,130.0,82.0,,,
+TRONCO 2270,,,MOR90B,,,,,,2.77,132.0,86.0,,,
+TSA 644,,,MOR90B,,,,,,3.06,128.0,86.0,,,
+TSA 654,,,MOR90B,,,,,,3.13,171.0,83.0,,,
+TSAN 792,,,MOR90B,,,,,,3.41,106.0,79.0,,,
+TSH 565,,,MOR90B,,,,,,3.60,119.0,88.0,,,
+UF 221,,,MOR90B,,,,,,2.81,123.0,84.0,,,
+UF 29,,,MOR90B,,,,,,2.80,151.0,89.0,,,
+UF 613,,,MOR90B,,,,,,3.06,128.0,74.0,,,
+UF 650,,,MOR90B,,,,,,2.83,124.0,76.0,,,
+BAL 209,oval,,LEE93A,333.0,146.0,,,,2.28,,,Calculated ratio,,
+FP 10,elliptic,,LEE93A,-,-,,,,-,,,,,
+FP 6,elliptic,,LEE93A,-,-,,,,-,,,,,
+FP 7,elliptic,,LEE93A,-,-,,,,-,,,,,
+FP 8,elliptic/lanceolate,,LEE93A,-,-,,,,-,,,,,
+FP 9,elliptic,,LEE93A,-,-,,,,-,,,,,
+KKM 1,oblong,,LEE93A,-,-,,,,-,,,,,
+KKM 2,oblong,,LEE93A,-,-,,,,-,,,,,
+KKM 22,oblong,,LEE93A,-,-,,,,-,,,,,
+KKM 28,oblong,,LEE93A,-,-,,,,2.80,,,,,
+KKM 5,oval,,LEE93A,-,-,,,,-,,,,,
+KKM 6,oblong,,LEE93A,-,-,,,,-,,,,,
+PBC 112,oval,,LEE93A,-,-,,,,3.10,,,,,
+PBC 113,oval,,LEE93A,-,-,,,,-,,,,,
+PBC 123,oval,,LEE93A,-,-,,,,2.80,,,,,
+PBC 130,oval,,LEE93A,-,-,,,,2.80,,,,,
+PBC 131,oval,,LEE93A,-,-,,,,2.40,,,,,
+PBC 140,oval,,LEE93A,-,-,,,,2.40,,,,,
+PBC 159,oval,,LEE93A,-,-,,,,2.60,,,,,
+QH 1003,oblong,,LEE93A,255.4,98.4,,,,2.59,,,Calculated ratio,,
+QH 1176,oblong,,LEE93A,393.4,138.8,,,,2.83,,,Calculated ratio,,
+QH 12,oblong,,LEE93A,323.6,128.2,,,,2.52,,,Calculated ratio,,
+QH 1213,oblong,,LEE93A,349.2,105.8,,,,3.30,,,Calculated ratio,,
+QH 186,oblong,,LEE93A,343.8,133.2,,,,2.58,,,Calculated ratio,,
+QH 22,oblong,,LEE93A,343.8,123.8,,,,2.77,,,Calculated ratio,,
+QH 240,oblong,,LEE93A,332.0,122.0,,,,2.72,,,Calculated ratio,,
+QH 37,oblong,,LEE93A,326.6,109.6,,,,2.97,,,Calculated ratio,,
+QH 441,oblong,,LEE93A,352.2,118.4,,,,2.97,,,Calculated ratio,,
+QH 670,oblong,,LEE93A,369.6,118.2,,,,3.12,,,Calculated ratio,,
+SDS 11,oblong,,LEE93A,326.0,124.0,,,,2.62,,,Calculated ratio,,
+SDS 18,lanceolate,,LEE93A,318.0,135.0,,,,2.35,,,Calculated ratio,,
+SDS 20,lanceolate,,LEE93A,355.0,126.0,,,,2.81,,,Calculated ratio,,
+SDS 21,lanceolate,,LEE93A,359.0,132.0,,,,2.71,,,Calculated ratio,,
+SDS 36,lanceolate,,LEE93A,305.0,136.0,,,,2.24,,,Calculated ratio,,
+SDS 4,lanceolate,,LEE93A,345.0,124.0,,,,2.78,,,Calculated ratio,,
+SDS 41,lanceolate,,LEE93A,395.0,145.0,,,,2.72,,,Calculated ratio,,
+SDS 46,lanceolate,,LEE93A,320.0,123.0,,,,2.60,,,Calculated ratio,,
+SDS 52,lanceolate,,LEE93A,313.0,109.0,,,,2.87,,,Calculated ratio,,
+SDS 54,lanceolate,,LEE93A,372.0,134.0,,,,2.77,,,Calculated ratio,,
+SDS 58,lanceolate,,LEE93A,322.0,126.0,,,,2.55,,,Calculated ratio,,
+SDS 6,lanceolate,,LEE93A,347.0,136.0,,,,2.55,,,Calculated ratio,,
+SDS 74,lanceolate,,LEE93A,337.0,129.0,,,,2.61,,,Calculated ratio,,
+SDS 8,lanceolate,,LEE93A,315.0,131.0,,,,2.40,,,Calculated ratio,,
+SDS 84,lanceolate,,LEE93A,278.0,110.0,,,,2.52,,,Calculated ratio,,
+TG 266,,,LEE93A,351.0,144.0,,,,2.43,,,Calculated ratio,,
+UPC 41,oval,,LEE93A,298.3,104.6,,,,2.85,,,Calculated ratio,,
+UPC 50,oval,,LEE93A,273.4,109.4,,,,2.49,,,Calculated ratio,,
+BACAO,oval,,ICA86A,275.5,141.0,,slightly acuminate,,1.9,,,,Y,
+HUILA A,obovate,,ICA86A,276.3,99.1,,acuminate,,2.78,,,,Y,
+PENTAGONA /R,obovate,,ICA86A,226.7,88.9,,slightly acuminate,,2.55,,,,Y,
+PENTAGONA /V,obovate,,ICA86A,252.8,91.8,,acuminate,,2.75,,,,Y,
+RIO GUAPI,oblong,,ICA86A,282.0,93.4,,acuminate,,3.01,,,,Y,
+SC 1 [COL],obovate,,ICA86A,253.2,119.1,,acuminate,,2.12,,,,Y,
+SC 10 [COL],obovate,,ICA86A,305.0,98.0,,acuminate,,3.11,,,,Y,
+SC 11 [COL],obovate,,ICA86A,301.0,106.0,,acuminate,,2.8,,,,Y,
+SC 12 [COL],obovate,,ICA86A,299.9,107.8,,acuminate,,2.78,,,,Y,
+SC 13 [COL],obovate,,ICA86A,294.3,111.8,,obtuse,,2.63,,,,Y,
+SC 14 [COL],elliptic,,ICA86A,299.6,109.1,,obtuse,,2.74,,,,Y,
+SC 15 [COL],obovate,,ICA86A,343.4,124.5,,acuminate,,2.75,,,,Y,
+SC 16 [COL],obovate,,ICA86A,323.5,107.8,,acuminate,,3.0,,,,Y,
+SC 17 [COL],obovate,,ICA86A,322.7,122.3,,obtuse,,2.63,,,,Y,
+SC 18 [COL],obovate,,ICA86A,339.8,122.8,,acuminate,,2.76,,,,Y,
+SC 19 [COL],obovate,,ICA86A,306.3,108.9,,acuminate,,2.8,,,,Y,
+SC 2 [COL],obovate,,ICA86A,242.5,92.0,,acuminate,,2.63,,,,Y,
+SC 20 [COL],obovate,,ICA86A,310.0,109.9,,acuminate,,2.82,,,,Y,
+SC 21 [COL],obovate,,ICA86A,249.6,96.5,,acuminate,,2.58,,,,Y,
+SC 22 [COL],obovate,,ICA86A,265.6,93.4,,acuminate,,2.84,,,,Y,
+SC 23 [COL],obovate,,ICA86A,233.1,80.7,,acuminate,,2.88,,,,Y,
+SC 26 [COL],obovate,,ICA86A,256.7,93.1,,acuminate,,2.75,,,,Y,
+SC 27 [COL],obovate,,ICA86A,274.4,100.5,,slightly acuminate,,2.73,,,,Y,
+SC 28 [COL],obovate,,ICA86A,259.6,94.5,,acuminate,,2.74,,,,Y,
+SC 29 [COL],obovate,,ICA86A,274.2,97.4,,slightly acuminate,,2.81,,,,Y,
+SC 3 [COL],obovate,,ICA86A,289.3,102.1,,acuminate,,2.83,,,,Y,
+SC 30 [COL],obovate,,ICA86A,290.6,104.0,,acuminate,,2.79,,,,Y,
+SC 31 [COL],obovate,,ICA86A,300.7,102.3,,acuminate,,4.93,,,,Y,
+SC 32 [COL],obovate,,ICA86A,233.0,75.6,,acuminate,,3.08,,,,Y,
+SC 33 [COL],obovate,,ICA86A,290.0,102.0,,acuminate,,2.84,,,,Y,
+SC 35 [COL],obovate,,ICA86A,327.9,101.8,,acuminate,,3.22,,,,Y,
+SC 37 [COL],elliptic,,ICA86A,258.4,91.5,,acuminate,,2.82,,,,Y,
+SC 38 [COL],obovate,,ICA86A,287.7,98.8,,acuminate,,2.91,,,,Y,
+SC 4 [COL],obovate,,ICA86A,265.8,107.0,,acuminate,,2.48,,,,Y,
+SC 40 [COL],obovate,,ICA86A,294.5,101.2,,acuminate,,2.9,,,,Y,
+SC 41 [COL],obovate,,ICA86A,291.3,98.2,,slightly acuminate,,2.98,,,,Y,
+SC 42 [COL],elliptic,,ICA86A,255.6,91.5,,acuminate,,2.83,,,,Y,
+SC 43 [COL],elliptic,,ICA86A,247.6,87.2,,acuminate,,2.83,,,,Y,
+SC 44 [COL],obovate,,ICA86A,257.1,93.4,,acuminate,,2.75,,,,Y,
+SC 45 [COL],obovate,,ICA86A,255.8,95.0,,acuminate,,2.69,,,,Y,
+SC 47 [COL],obovate,,ICA86A,265.2,92.6,,acuminate,,2.86,,,,Y,
+SC 48 [COL],obovate,,ICA86A,271.4,98.2,,acuminate,,2.76,,,,Y,
+SC 49 [COL],obovate,,ICA86A,291.4,101.1,,acuminate,,2.88,,,,Y,
+SC 5 [COL],obovate,,ICA86A,297.0,100.1,,acuminate,,2.96,,,,Y,
+SC 50 [COL],obovate,,ICA86A,272.6,101.0,,acuminate,,2.69,,,,Y,
+SC 51 [COL],oval,,ICA86A,316.0,94.3,,acuminate,,3.35,,,,Y,
+SC 54 [COL],obovate,,ICA86A,261.0,100.8,,acuminate,,2.58,,,,Y,
+SC 55 [COL],lanceolate,,ICA86A,275.6,91.4,,acuminate,,3.05,,,,Y,
+SC 56 [COL],obovate,,ICA86A,259.0,79.8,,acuminate,,3.24,,,,Y,
+SC 6 [COL],obovate,,ICA86A,298.5,103.8,,acuminate/obtuse,,2.87,,,,Y,
+SC 7 [COL],obovate,,ICA86A,280.8,104.6,,acuminate,,2.68,,,,Y,
+SC 8 [COL],obovate,,ICA86A,271.7,98.4,,acuminate,,2.8,,,,Y,
+SC 9 [COL],obovate,,ICA86A,329.0,124.4,,acuminate,,2.63,,,,Y,
+SPA 10 [COL],elliptic,,ICA86A,259.5,88.6,,acuminate,,2.92,,,,Y,
+SPA 11 [COL],elliptic,,ICA86A,257.8,96.5,,acuminate,,2.67,,,,Y,
+SPA 12 [COL],obovate,,ICA86A,253.4,104.6,,acuminate,,2.42,,,,Y,
+SPA 13 [COL],obovate,,ICA86A,285.0,99.0,,acuminate,,2.87,,,,Y,
+SPA 14 [COL],obovate,,ICA86A,265.5,94.6,,acuminate,,2.8,,,,Y,
+SPA 15 [COL],obovate,,ICA86A,269.1,92.5,,acuminate,,2.9,,,,Y,
+SPA 16 [COL],obovate,,ICA86A,275.0,104.0,,acuminate,,2.6,,,,Y,
+SPA 17 [COL],obovate,,ICA86A,263.1,99.7,,acuminate,,2.63,,,,Y,
+SPA 18 [COL],obovate,,ICA86A,295.0,95.6,,acuminate,,3.08,,,,Y,
+SPA 19 [COL],lanceolate,,ICA86A,247.9,87.3,,acuminate,,2.83,,,,Y,
+SPA 2 [COL],elliptic,,ICA86A,275.2,98.2,,acuminate,,2.8,,,,Y,
+SPA 20 [COL],obovate,,ICA86A,273.4,100.8,,slightly acuminate,,2.71,,,,Y,
+SPA 22 [COL],obovate,,ICA86A,256.7,100.9,,slightly acuminate,,2.54,,,,Y,
+SPA 3 [COL],obovate,,ICA86A,257.3,94.6,,acuminate,,2.71,,,,Y,
+SPA 3 [COL],obovate,,ICA86A,265.7,101.1,,acuminate,,2.62,,,,Y,
+SPA 4 [COL],lanceolate,,ICA86A,251.6,80.0,,acuminate,,2.9,,,,Y,
+SPA 6 [COL],obovate,,ICA86A,258.7,105.8,,acuminate,,2.44,,,,Y,
+SPA 7 [COL],obovate,,ICA86A,235.1,95.5,,acuminate,,2.46,,,,Y,
+SPA 8 [COL],obovate,,ICA86A,346.8,86.8,,acuminate,,3.99,,,,Y,
+SPA 9 [COL],elliptic,,ICA86A,257.8,90.6,,acuminate,,2.84,,,,Y,
+C 4 /11 [TRI],,,ENR67C,,,,,,2.52,177.0,100.0,,,
+CC 10,,,ENR67C,,,,,,2.79,127.0,90.0,,,
+CC 41,,,ENR67C,,,,,,2.91,154.0,84.0,,,
+CC 9,,,ENR67C,,,,,,2.94,161.0,86.0,,,
+EET 103 [ECU],,,ENR67C,,,,,,2.32,143.0,100.0,,,
+EET 162 [ECU],,,ENR67C,,,,,,2.59,134.0,100.0,,,
+EET 19 [ECU],,,ENR67C,,,,,,3.04,113.0,76.0,,,
+EET 238 [ECU],,,ENR67C,,,,,,2.73,128.0,94.0,,,
+EET 374 [ECU],,,ENR67C,,,,,,3.0,130.0,82.0,,,
+EET 392 [ECU],,,ENR67C,,,,,,2.77,132.0,86.0,,,
+EET 399 [ECU],,,ENR67C,,,,,,2.66,136.0,104.0,,,
+EET 400 [ECU],,,ENR67C,,,,,,2.67,161.0,92.0,,,
+EET 48 [ECU],,,ENR67C,,,,,,2.99,127.0,84.0,,,
+EET 62 [ECU],,,ENR67C,,,,,,2.74,145.0,95.0,,,
+EET 95 [ECU],,,ENR67C,,,,,,2.37,143.0,96.0,,,
+EET 96 [ECU],,,ENR67C,,,,,,2.75,140.0,93.0,,,
+GS 29,,,ENR67C,,,,,,2.88,132.0,89.0,,,
+GS 36,,,ENR67C,,,,,,2.87,137.0,90.0,,,
+ICS 1,,,ENR67C,,,,,,2.53,126.1,95.2,,,
+ICS 100,,,ENR67C,,,,,,2.71,118.0,85.0,,,
+ICS 16,,,ENR67C,,,,,,2.61,135.0,92.0,,,
+ICS 55,,,ENR67C,,,,,,2.63,139.0,99.0,,,
+ICS 6,,,ENR67C,,,,,,2.72,135.0,84.0,,,
+ICS 75,,,ENR67C,,,,,,2.31,134.0,133.0,,,
+ICS 8,,,ENR67C,,,,,,3.42,142.0,79.0,,,
+ICS 89,,,ENR67C,,,,,,2.46,126.0,94.0,,,
+ICS 95,,,ENR67C,,,,,,2.57,157.0,94.0,,,
+ICS 98,,,ENR67C,,,,,,2.56,122.0,109.0,,,
+IMC 67,,,ENR67C,,,,,,3.07,153.0,76.0,,,
+OC 61 [VEN],,,ENR67C,,,,,,2.75,122.0,90.0,,,
+OC 77 [VEN],,,ENR67C,,,,,,3.54,109.0,75.0,,,
+PA 121 [PER],,,ENR67C,,,,,,3.03,155.0,79.0,,,
+POUND 12,,,ENR67C,,,,,,2.94,145.0,87.0,,,
+POUND 7,,,ENR67C,,,,,,3.01,168.0,80.0,,,
+PQTO 87 [VEN],,,ENR67C,,,,,,2.67,141.0,101.0,,,
+RIM 10 [MEX],,,ENR67C,,,,,,3.01,130.0,73.0,,,
+RIM 13 [MEX],,,ENR67C,,,,,,2.91,138.0,75.0,,,
+RIM 30 [MEX],,,ENR67C,,,,,,3.0,120.0,75.0,,,
+RIM 48 [MEX],,,ENR67C,,,,,,2.83,149.0,80.0,,,
+SC 10 [VEN],,,ENR67C,,,,,,2.46,124.0,111.0,,,
+SC 5 [COL],,,ENR67C,,,,,,2.78,151.0,86.0,,,
+SC 6 [COL],,,ENR67C,,,,,,2.68,139.0,86.0,,,
+SCA 12,,,ENR67C,,,,,,2.66,113.0,93.0,,,
+SCA 6,,,ENR67C,,,,,,3.11,132.0,85.0,,,
+SIAL 163,,,ENR67C,,,,,,2.99,155.0,85.0,,,
+SIAL 325,,,ENR67C,,,,,,2.86,139.0,86.0,,,
+SIAL 70,,,ENR67C,,,,,,2.74,146.0,95.0,,,
+SIAL 88,,,ENR67C,,,,,,2.95,136.0,91.0,,,
+SIC 801,,,ENR67C,,,,,,2.65,136.0,96.0,,,
+SIC 802,,,ENR67C,,,,,,2.74,142.0,94.0,,,
+SIC 812,,,ENR67C,,,,,,2.59,142.0,100.0,,,
+SIC 823,,,ENR67C,,,,,,2.77,138.0,93.0,,,
+SIC 831,,,ENR67C,,,,,,2.71,148.0,95.0,,,
+SILECIA 1 [ECU],,,ENR67C,,,,,,3.04,106.0,88.0,,,
+SILECIA 5 [ECU],,,ENR67C,,,,,,3.04,115.0,91.0,,,
+SPA 9 [COL],,,ENR67C,,,,,,2.79,173.0,96.0,,,
+TSA 644,,,ENR67C,,,,,,3.06,128.0,86.0,,,
+TSA 654,,,ENR67C,,,,,,3.13,171.0,83.0,,,
+TSAN 792,,,ENR67C,,,,,,3.41,106.0,79.0,,,
+TSH 565,,,ENR67C,,,,,,3.6,119.0,88.0,,,
+UF 221,,,ENR67C,,,,,,2.81,123.0,84.0,,,
+UF 29,,,ENR67C,,,,,,2.8,151.0,89.0,,,
+UF 613,,,ENR67C,,,,,,3.06,128.0,74.0,,,
+UF 650,,,ENR67C,,,,,,2.83,124.0,76.0,,,
+UF 667,,,ENR67C,,,,,,2.79,137.0,78.0,,,
+PBC 112,,,PRA82A,,,,,,3.1,,,,,
+PBC 123,,,PRA82A,,,,,,2.8,,,,,
+PBC 128,,,PRA82A,,,,,,2.6,,,,,
+PBC 130,,,PRA82A,,,,,,2.8,,,,,
+PBC 131,,,PRA82A,,,,,,2.4,,,,,
+PBC 137,,,PRA82A,,,,,,2.8,,,,,
+PBC 139,,,PRA82A,,,,,,2.0,,,,,
+PBC 140,,,PRA82A,,,,,,2.4,,,,,
+PBC 154,,,PRA82A,,,,,,3.1,,,,,
+PBC 159,,,PRA82A,,,,,,2.6,,,,,
+ALMEIDA,,,ICG92A,251.0,97.0,,,19.0,2.6,106.7,74.4,Data collected on 28/06/1991,,17.0
+AMAZ 12,,,ICG92A,250.0,86.0,,,11.0,2.9,106.5,60.4,Data collected on 15/10/1991,,14.0
+AMAZ 1 /5,,,ICG92A,327.0,116.0,,,25.0,3.2,114.7,60.3,Data collected on 26/04/1991,,18.0
+AMAZ 3 /2,,,ICG92A,272.0,100.0,,,25.0,2.7,115.9,69.8,Data collected on 07/03/1991,,18.0
+AMAZ 6,,,ICG92A,282.0,89.0,,,20.0,3.2,110.9,53.3,Data collected on 06/02/1991,,18.0
+B 12 /1 [POU],,,ICG92A,233.0,83.0,,,19.0,2.8,118.0,77.2,Data collected on 29/08/1991,,15.0
+B 13 /3 [POU],,,ICG92A,226.0,86.0,,,15.0,2.6,125.9,79.2,Data collected on 12/11/1991,,13.0
+B 14 /9 [POU],,,ICG92A,229.0,87.0,,,15.0,2.6,107.2,68.0,Data collected on 15/08/1991,,15.0
+B 18 /4 [POU],,,ICG92A,256.0,84.0,,,21.0,3.1,119.8,80.7,Data collected on 12/08/1991,,18.0
+B 18 /5 [POU],,,ICG92A,244.0,96.0,,,18.0,2.5,117.5,68.0,Data collected on 09/05/1991,,13.0
+B 23 /2 [POU],,,ICG92A,198.0,66.0,,,18.0,3.0,144.5,86.1,Data collected on 12/12/1991,,9.0
+B 5 /3 [POU],,,ICG92A,293.0,84.0,,,22.0,3.4,105.2,73.4,Data collected on 15/08/1991,,16.0
+B 7 /21 [POU],,,ICG92A,262.0,89.0,,,21.0,3.0,118.6,75.9,Data collected on 12/12/1991,,14.0
+B 7 /38 [POU],,,ICG92A,246.0,91.0,,,12.0,2.7,127.4,86.0,Data collected on 15/08/1991,,5.0
+B 8 /4 [POU],,,ICG92A,183.0,53.0,,,14.0,3.5,108.0,76.6,Data collected on 12/11/1991,,11.0
+CATONGO,,,ICG92A,293.0,113.0,,,19.0,2.6,105.2,69.0,Data collected on 28/06/1991,,18.0
+COCA 3343 /7 [CHA],,,ICG92A,309.0,92.0,,,16.0,3.3,142.4,53.8,Data collected on 31/05/1991,,11.0
+COCA 3348 /44 [CHA],,,ICG92A,258.0,87.0,,,20.0,3.0,103.5,65.7,Data collected on 31/05/1991,,15.0
+CRU 104,,,ICG92A,340.0,96.0,,,24.0,3.6,113.3,49.9,Data collected on 08/03/1991,,17.0
+CRUZ 7 /11,,,ICG92A,302.0,102.0,,,15.0,3.0,129.4,63.6,Data collected on 22/02/1991,,15.0
+CRUZ 7 /14,,,ICG92A,335.0,107.0,,,18.0,3.1,112.1,62.6,Data collected on 26/02/1991,,19.0
+CRUZ 7 /8,,,ICG92A,311.0,105.0,,,21.0,3.0,113.0,59.8,Data collected on 26/02/1991,,20.0
+DE 33 /B,,,ICG92A,278.0,100.0,,,24.0,2.8,144.7,59.1,Data collected on 06/03/1991,,16.0
+DE 36 /A,,,ICG92A,256.0,94.0,,,18.0,2.8,121.3,70.4,Data collected on 06/03/1991,,16.0
+DE 52 /B,,,ICG92A,286.0,98.0,,,20.0,3.0,135.8,84.6,Data collected on 05/11/1990,,16.0
+DOS HERMANOS 1,,,ICG92A,206.0,77.0,,,17.0,2.7,98.6,61.1,Data collected on 17/06/1991,,14.0
+DOS HERMANOS 2,,,ICG92A,201.0,83.0,,,18.0,2.4,103.2,67.0,Data collected on 17/06/1991,,14.0
+DR 1,,,ICG92A,261.0,97.0,,,16.0,2.7,115.9,60.4,Data collected on 19/02/1991,,12.0
+DR 2,,,ICG92A,290.0,91.0,,,23.0,3.2,109.0,64.7,Data collected on 17/09/1991,,17.0
+E 34 [ECU],,,ICG92A,260.0,106.0,,,23.0,2.4,108.4,69.3,Data collected on 21/02/1991,,16.0
+E 575 [ICT],,,ICG92A,266.0,102.0,,,22.0,2.6,110.2,73.4,Data collected on 18/07/1991,,15.0
+ECNR,,,ICG92A,261.0,87.0,,,16.0,3.0,124.5,73.7,Data collected on 09/12/1991,,8.0
+EEG 8,,,ICG92A,266.0,96.0,,,18.0,3.6,125.2,69.1,Data collected on 17/09/1991,,16.0
+EET 162 [ECU],,,ICG92A,296.0,93.0,,,8.0,3.2,98.0,67.5,Data collected on 26/09/1990,,14.0
+EET 19 [ECU],,,ICG92A,273.0,94.0,,,20.0,2.9,109.6,64.2,Data collected on 06/05/1991,,11.0
+EET 397 [ECU],,,ICG92A,296.0,105.0,,,23.0,2.8,112.8,64.2,Data collected on 23/04/1991,,15.0
+EET 48 [ECU],,,ICG92A,258.0,96.0,,,20.0,2.7,115.3,69.8,Data collected on 07/05/1991,,18.0
+EET 58 [ECU],,,ICG92A,256.0,91.0,,,17.0,2.8,132.7,87.8,Data collected on 09/12/1991,,11.0
+EET 59 [ECU],,,ICG92A,325.0,114.0,,,19.0,2.9,117.9,66.2,Data collected on 23/04/1991,,15.0
+EET 95 [ECU],,,ICG92A,258.0,100.0,,,10.0,2.6,112.0,78.1,Data collected on 26/09/1990,,17.0
+GC T 998 /60,,,ICG92A,344.0,116.0,,,24.0,3.0,94.2,56.2,Data collected on 10/12/1990,,20.0
+GC T 999 /59,,,ICG92A,324.0,109.0,,,22.0,2.9,141.4,53.2,Data collected on 28/02/1991,,18.0
+GS 10,,,ICG92A,197.0,79.0,,,16.0,2.5,108.7,74.0,Data collected on 04/06/1991,,12.0
+GS 15,,,ICG92A,290.0,97.0,,,21.0,3.0,109.8,66.1,Data collected on 10/05/1991,,13.0
+GS 26,,,ICG92A,263.0,99.0,,,10.0,2.7,121.0,87.3,Data collected on 07/02/1990,,19.0
+GS 29,,,ICG92A,282.0,102.0,,,22.0,2.8,101.4,60.5,Data collected on 08/02/1991,,16.0
+GS 36,,,ICG92A,277.0,96.0,,,20.0,2.9,111.2,61.6,Data collected on 10/05/1991,,14.0
+GS 48,,,ICG92A,280.0,101.0,,,10.0,2.8,109.0,80.2,Data collected on 18/06/1990,,16.0
+GS 50,,,ICG92A,215.0,95.0,,,13.0,2.3,142.2,88.8,Data collected on 17/09/1991,,12.0
+GS 67,,,ICG92A,288.0,98.0,,,19.0,3.0,112.3,60.6,Data collected on 04/06/1991,,18.0
+GS 71,,,ICG92A,299.0,110.0,,,20.0,2.7,134.7,80.4,Data collected on 19/12/1991,,18.0
+GS 77,,,ICG92A,278.0,90.0,,,21.0,3.1,101.3,62.5,Data collected on 20/08/1991,,17.0
+GS 78,,,ICG92A,270.0,109.0,,,22.0,2.5,114.6,78.7,Data collected on 18/12/1991,,18.0
+ICS 1,,,ICG92A,262.0,100.0,,,28.0,2.6,111.4,70.8,Data collected on 20/09/1990,,12.0
+ICS 10,,,ICG92A,304.0,108.0,,,21.0,2.8,93.1,55.5,Data collected on 23/01/1991,,16.0
+ICS 100,,,ICG92A,281.0,100.0,,,29.0,2.8,103.9,63.0,Data collected on 03/05/1991,,29.0
+ICS 14,,,ICG92A,270.0,105.0,,,22.0,2.6,121.9,96.7,Data collected on 22/10/1990,,16.0
+ICS 2,,,ICG92A,252.0,94.0,,,26.0,2.7,109.1,66.3,Data collected on 03/05/1991,,15.0
+ICS 22,,,ICG92A,237.0,95.0,,,23.0,2.5,130.1,88.8,Data collected on 10/09/1990,,17.0
+ICS 24,,,ICG92A,272.0,97.0,,,20.0,2.7,116.1,67.0,Data collected on 12/04/1991,,16.0
+ICS 29,,,ICG92A,293.0,96.0,,,12.0,3.1,92.0,68.1,Data collected on 20/09/1990,,18.0
+ICS 36,,,ICG92A,256.0,106.0,,,20.0,2.4,117.1,88.7,Data collected on 15/10/1991,,15.0
+ICS 4,,,ICG92A,281.0,103.0,,,23.0,2.7,112.4,61.1,Data collected on 28/02/1991,,15.0
+ICS 40,,,ICG92A,314.0,100.0,,,19.0,3.1,98.3,53.8,Data collected on 20/09/1990,,15.0
+ICS 41,,,ICG92A,299.0,93.0,,,23.0,3.2,83.2,70.8,Data collected on 03/05/1990,,17.0
+ICS 43,,,ICG92A,305.0,97.0,,,24.0,3.2,108.9,80.5,Data collected on 20/09/1990,,17.0
+ICS 45,,,ICG92A,264.0,96.0,,,24.0,2.8,122.5,82.5,Data collected on 10/10/1990,,19.0
+ICS 46,,,ICG92A,293.0,102.0,,,28.0,2.4,110.8,86.6,Data collected on 28/11/1990,,21.0
+ICS 47,,,ICG92A,276.0,91.0,,,11.0,3.1,107.6,72.1,Data collected on 26/09/1990,,16.0
+ICS 48,,,ICG92A,254.0,91.0,,,24.0,2.8,122.8,81.3,Data collected on 02/10/1990,,20.0
+ICS 49,,,ICG92A,255.0,94.0,,,22.0,2.7,111.0,73.5,Data collected on 21/11/1990,,17.0
+ICS 5,,,ICG92A,240.0,88.0,,,26.0,2.7,114.5,88.4,Data collected on 23/11/1990,,15.0
+ICS 6,,,ICG92A,272.0,94.0,,,25.0,2.9,104.2,77.6,Data collected on 12/11/1990,,18.0
+ICS 60,,,ICG92A,322.0,117.0,,,31.0,2.8,122.0,62.9,Data collected on 09/07/1990,,20.0
+ICS 63,,,ICG92A,263.0,106.0,,,25.0,2.5,90.6,71.6,Data collected on 31/01/1991,,17.0
+ICS 65,,,ICG92A,221.0,83.0,,,23.0,2.7,105.3,72.3,Data collected on 26/09/1990,,18.0
+ICS 68,,,ICG92A,345.0,113.0,,,26.0,3.0,115.6,85.6,Data collected on 28/11/1990,,15.0
+ICS 70,,,ICG92A,320.0,101.0,,,24.0,3.2,95.9,55.8,Data collected on 30/11/1990,,17.0
+ICS 75,,,ICG92A,258.0,108.0,,,22.0,2.4,137.0,67.4,Data collected on 30/12/1990,,17.0
+ICS 8,,,ICG92A,310.0,93.0,,,21.0,3.4,92.6,90.8,Data collected on 18/01/1991,,18.0
+ICS 83,,,ICG92A,252.0,90.0,,,11.0,2.8,95.3,73.8,Data collected on 03/05/1990,,17.0
+ICS 84,,,ICG92A,260.0,100.0,,,10.0,2.6,117.8,73.1,Data collected on 26/09/1990,,17.0
+ICS 85,,,ICG92A,323.0,112.0,,,22.0,2.7,98.4,85.7,Data collected on 21/11/1990,,15.0
+ICS 86,,,ICG92A,260.0,94.0,,,14.0,2.6,121.0,77.5,Data collected on 10/10/1990,,17.0
+ICS 90,,,ICG92A,283.0,102.0,,,18.0,2.8,121.4,82.7,Data collected on 25/07/1991,,15.0
+ICS 96,,,ICG92A,288.0,105.0,,,24.0,2.8,92.9,91.7,Data collected on 18/01/1991,,17.0
+ICS 98,,,ICG92A,196.0,79.0,,,11.0,2.5,97.7,82.0,Data collected on 26/09/1990,,14.0
+IMC 10,,,ICG92A,288.0,109.0,,,17.0,2.7,127.0,63.7,Data collected on 12/04/1991,,15.0
+IMC 103,,,ICG92A,330.0,110.0,,,17.0,3.0,151.9,54.8,Data collected on 18/03/1991,,15.0
+IMC 104,,,ICG92A,257.0,90.0,,,16.0,2.9,126.2,74.5,Data collected on 17/09/1991,,17.0
+IMC 105,,,ICG92A,296.0,102.0,,,20.0,2.9,125.7,78.1,Data collected on 10/10/1990,,15.0
+IMC 107,,,ICG92A,285.0,100.0,,,13.0,2.9,125.3,76.8,Data collected on 19/01/1990,,15.0
+IMC 12,,,ICG92A,275.0,99.0,,,14.0,2.8,141.3,57.3,Data collected on 19/03/1991,,12.0
+IMC 13,,,ICG92A,240.0,89.0,,,17.0,2.7,109.9,80.6,Data collected on 31/10/1991,,15.0
+IMC 14,,,ICG92A,277.0,99.0,,,19.0,2.8,133.2,75.8,Data collected on 16/01/1990,,14.0
+IMC 16,,,ICG92A,264.0,93.0,,,16.0,2.9,130.3,76.5,Data collected on 10/10/1990,,7.0
+IMC 2,,,ICG92A,270.0,105.0,,,21.0,2.6,143.2,59.9,Data collected on 08/02/1991,,18.0
+IMC 22,,,ICG92A,294.0,105.0,,,16.0,2.8,124.7,59.0,Data collected on 20/03/1991,,13.0
+IMC 23,,,ICG92A,244.0,87.0,,,7.0,2.8,132.5,74.3,Data collected on 16/02/1990,,16.0
+IMC 27,,,ICG92A,250.0,85.0,,,16.0,2.9,125.7,75.3,Data collected on 20/06/1990,,13.0
+IMC 3,,,ICG92A,286.0,97.0,,,12.0,3.0,122.9,72.3,Data collected on 06/02/1990,,13.0
+IMC 31,,,ICG92A,234.0,86.0,,,21.0,2.7,92.2,75.3,Data collected on 19/01/1990,,10.0
+IMC 33,,,ICG92A,282.0,97.0,,,22.0,2.9,104.2,56.0,Data collected on 13/02/1991,,2.0
+IMC 36,,,ICG92A,284.0,88.0,,,16.0,3.3,109.9,56.2,Data collected on 08/05/1991,,12.0
+IMC 38,,,ICG92A,262.0,85.0,,,17.0,3.1,104.2,75.1,Data collected on 18/01/1990,,11.0
+IMC 39,,,ICG92A,263.0,100.0,,,15.0,2.6,124.0,62.8,Data collected on 09/05/1991,,16.0
+IMC 42,,,ICG92A,280.0,106.0,,,20.0,2.7,146.4,77.5,Data collected on 28/08/1990,,11.0
+IMC 47,,,ICG92A,272.0,98.0,,,20.0,2.7,97.4,58.7,Data collected on 07/01/1991,,2.0
+IMC 49,,,ICG92A,289.0,101.0,,,21.0,2.9,106.5,58.9,Data collected on 20/03/1991,,16.0
+IMC 51,,,ICG92A,260.0,85.0,,,18.0,3.1,131.7,69.5,Data collected on 16/01/1990,,16.0
+IMC 53,,,ICG92A,292.0,102.0,,,17.0,2.8,143.3,58.7,Data collected on 02/04/1991,,15.0
+IMC 54,,,ICG92A,288.0,94.0,,,20.0,3.1,128.2,70.6,Data collected on 18/05/1990,,16.0
+IMC 55,,,ICG92A,292.0,100.0,,,21.0,2.9,130.9,70.0,Data collected on 18/05/1990,,16.0
+IMC 57,,,ICG92A,245.0,86.0,,,21.0,2.9,129.1,82.1,Data collected on 18/05/1990,,15.0
+IMC 58,,,ICG92A,319.0,112.0,,,17.0,2.9,154.8,56.6,Data collected on 28/02/1991,,15.0
+IMC 59,,,ICG92A,323.0,111.0,,,28.0,2.9,117.9,53.0,Data collected on 29/01/1991,,30.0
+IMC 6,,,ICG92A,288.0,94.0,,,19.0,3.1,122.5,68.0,Data collected on 16/03/1990,,15.0
+IMC 60,,,ICG92A,291.0,118.0,,,18.0,2.5,163.6,63.4,Data collected on 15/01/1991,,15.0
+IMC 61,,,ICG92A,305.0,107.0,,,22.0,2.9,133.1,75.6,Data collected on 29/08/1990,,17.0
+IMC 63,,,ICG92A,288.0,101.0,,,15.0,2.9,154.8,72.5,Data collected on 20/06/1990,,14.0
+IMC 65,,,ICG92A,263.0,86.0,,,19.0,3.1,114.1,75.8,Data collected on 18/01/1990,,17.0
+IMC 66,,,ICG92A,307.0,102.0,,,16.0,3.0,118.5,52.1,Data collected on 27/03/1991,,16.0
+IMC 67,,,ICG92A,300.0,91.0,,,16.0,3.3,129.1,65.9,Data collected on 20/06/1990,,15.0
+IMC 68,,,ICG92A,283.0,94.0,,,18.0,3.1,132.8,71.7,Data collected on 11/01/1990,,32.0
+IMC 71,,,ICG92A,322.0,121.0,,,20.0,2.7,135.4,80.3,Data collected on 20/09/1990,,19.0
+IMC 73,,,ICG92A,273.0,85.0,,,19.0,3.2,109.0,52.1,Data collected on 03/05/1991,,15.0
+IMC 76,,,ICG92A,285.0,96.0,,,14.0,2.8,137.6,67.5,Data collected on 23/02/1990,,11.0
+IMC 77,,,ICG92A,240.0,91.0,,,16.0,2.8,132.5,74.9,Data collected on 06/02/1990,,17.0
+IMC 78,,,ICG92A,248.0,80.0,,,18.0,3.1,123.2,73.2,Data collected on 26/01/1990,,13.0
+IMC 85,,,ICG92A,277.0,93.0,,,7.0,3.0,154.4,75.7,Data collected on 22/10/1990,,12.0
+IMC 9,,,ICG92A,285.0,106.0,,,22.0,2.7,124.2,64.7,Data collected on 09/05/1991,,19.0
+IMC 94,,,ICG92A,338.0,110.0,,,18.0,3.1,121.6,54.8,Data collected on 02/04/1991,,16.0
+IMC 96,,,ICG92A,230.0,77.0,,,8.0,2.9,139.8,64.7,Data collected on 23/02/1990,,12.0
+IMC 97,,,ICG92A,311.0,110.0,,,18.0,2.8,120.7,63.4,Data collected on 27/03/1991,,16.0
+IMC 98,,,ICG92A,225.0,84.0,,,13.0,2.7,132.1,79.6,Data collected on 02/09/1991,,14.0
+JA 5 /31 [POU],,,ICG92A,279.0,99.0,,,22.0,2.8,113.7,64.9,Data collected on 13/02/1991,,16.0
+LH 5,,,ICG92A,282.0,107.0,,,21.0,2.6,120.7,79.4,Data collected on 18/12/1991,,15.0
+LZ 13,,,ICG92A,253.0,96.0,,,17.0,2.6,105.7,68.8,Data collected on 28/06/1991,,12.0
+MAN 15 /60 [BRA],,,ICG92A,333.0,120.0,,,24.0,2.8,117.6,62.6,Data collected on 10/04/1991,,18.0
+MATINA 1 /4,,,ICG92A,298.0,104.0,,,18.0,2.9,129.7,78.3,Data collected on 12/12/1991,,16.0
+MATINA 1 /7,,,ICG92A,264.0,88.0,,,17.0,3.0,118.7,74.8,Data collected on 04/09/1991,,16.0
+MO 109,,,ICG92A,259.0,95.0,,,19.0,2.7,142.3,72.2,Data collected on 12/04/1991,,13.0
+MO 20,,,ICG92A,238.0,81.0,,,20.0,2.9,120.1,65.5,Data collected on 10/07/1991,,12.0
+MOCO 1 /12,,,ICG92A,296.0,98.0,,,20.0,3.1,105.9,60.4,Data collected on 19/02/1991,,17.0
+MOQ 2 /10,,,ICG92A,273.0,109.0,,,23.0,2.5,122.3,67.0,Data collected on 18/07/1991,,19.0
+NA 13,,,ICG92A,323.0,105.0,,,15.0,3.1,96.8,91.5,Data collected on 18/01/1991,,10.0
+NA 137,,,ICG92A,323.0,99.0,,,19.0,3.2,114.2,52.0,Data collected on 24/04/1991,,22.0
+NA 226,,,ICG92A,242.0,92.0,,,13.0,2.6,151.2,88.5,Data collected on 12/11/1991,,8.0
+NA 268,,,ICG92A,310.0,107.0,,,17.0,2.9,116.2,57.3,Data collected on 25/04/1991,,16.0
+NA 32,,,ICG92A,291.0,103.0,,,16.0,2.8,93.3,59.0,Data collected on 23/10/1991,,15.0
+NA 34,,,ICG92A,288.0,97.0,,,15.0,3.0,93.4,57.3,Data collected on 10/09/1991,,12.0
+NA 342,,,ICG92A,265.0,102.0,,,12.0,2.6,119.3,80.3,Data collected on 31/10/1991,,8.0
+NA 427,,,ICG92A,246.0,84.0,,,11.0,3.0,94.4,59.9,Data collected on 10/09/1991,,12.0
+NA 534,,,ICG92A,296.0,101.0,,,20.0,2.9,104.7,57.5,Data collected on 30/04/1991,,18.0
+NA 753,,,ICG92A,268.0,91.0,,,13.0,2.9,95.9,57.7,Data collected on 10/09/1991,,12.0
+NA 804,,,ICG92A,281.0,97.0,,,15.0,2.9,104.8,59.0,Data collected on 11/09/1991,,15.0
+NA 867,,,ICG92A,255.0,90.0,,,12.0,2.9,116.0,72.6,Data collected on 11/09/1991,,6.0
+NA 935,,,ICG92A,254.0,90.0,,,17.0,2.8,114.3,61.6,Data collected on 06/05/1991,,13.0
+NA 98,,,ICG92A,248.0,99.0,,,11.0,2.5,94.6,64.7,Data collected on 25/07/1991,,9.0
+NG 3,,,ICG92A,229.0,90.0,,,13.0,2.6,118.7,85.7,Data collected on 21/11/1991,,11.0
+PA 13 [PER],,,ICG92A,247.0,76.0,,,16.0,3.3,108.0,53.0,Data collected on 28/05/1991,,13.0
+PA 15 [PER],,,ICG92A,244.0,85.0,,,17.0,2.9,111.9,62.8,Data collected on 10/05/1991,,13.0
+PA 150 [PER],,,ICG92A,226.0,82.0,,,21.0,2.8,101.7,67.4,Data collected on 14/05/1991,,14.0
+PA 169 [PER],,,ICG92A,299.0,113.0,,,17.0,2.7,104.2,67.8,Data collected on 01/11/1991,,15.0
+PA 18 [PER],,,ICG92A,268.0,98.0,,,18.0,2.7,108.8,65.9,Data collected on 14/05/1991,,14.0
+PLAYA ALTA 2 [VEN],,,ICG92A,280.0,101.0,,,19.0,2.8,98.5,62.1,Data collected on 25/01/1991,,16.0
+POR 1 [TTO],,,ICG92A,311.0,100.0,,,19.0,3.1,101.3,54.8,Data collected on 21/02/1991,,16.0
+POUND 1 /B,,,ICG92A,268.0,96.0,,,12.0,2.8,120.0,60.7,Data collected on 26/04/1991,,13.0
+POUND 10 /B,,,ICG92A,300.0,115.0,,,13.0,2.6,133.7,63.8,Data collected on 15/03/1991,,11.0
+POUND 12 /A,,,ICG92A,252.0,90.0,,,20.0,2.8,152.1,80.2,Data collected on 17/12/1991,,13.0
+POUND 12 /B,,,ICG92A,253.0,101.0,,,22.0,2.5,112.5,63.3,Data collected on 28/05/1991,,16.0
+POUND 15 /A,,,ICG92A,266.0,101.0,,,12.0,2.6,117.0,87.8,Data collected on 20/08/1991,,6.0
+POUND 16 /B,,,ICG92A,320.0,117.0,,,16.0,2.8,119.0,58.8,Data collected on 15/03/1991,,16.0
+POUND 18,,,ICG92A,303.0,97.0,,,14.0,3.1,146.9,53.8,Data collected on 13/03/1991,,8.0
+POUND 18 /A,,,ICG92A,320.0,109.0,,,17.0,3.0,111.2,59.8,Data collected on 28/05/1991,,16.0
+POUND 2 /A,,,ICG92A,263.0,108.0,,,12.0,2.5,118.0,69.2,Data collected on 10/04/1991,,13.0
+POUND 2 /B,,,ICG92A,264.0,104.0,,,13.0,2.6,121.4,68.4,Data collected on 10/04/1991,,11.0
+POUND 25 /A,,,ICG92A,244.0,85.0,,,7.0,2.9,139.5,71.4,Data collected on 26/09/1990,,14.0
+POUND 26 /C,,,ICG92A,284.0,99.0,,,13.0,2.9,114.8,58.5,Data collected on 28/05/1991,,12.0
+POUND 27 /C,,,ICG92A,288.0,105.0,,,13.0,2.8,142.1,84.5,Data collected on 17/12/1991,,7.0
+POUND 31 /A,,,ICG92A,220.0,97.0,,,12.0,2.3,123.7,76.5,Data collected on 17/05/1991,,13.0
+POUND 31 /C,,,ICG92A,262.0,119.0,,,14.0,2.2,126.3,80.8,Data collected on 10/04/1991,,13.0
+POUND 32 /A,,,ICG92A,262.0,103.0,,,14.0,2.6,119.6,62.7,Data collected on 10/04/1991,,12.0
+POUND 4 /A,,,ICG92A,282.0,109.0,,,24.0,2.6,121.1,64.9,Data collected on 08/04/1991,,18.0
+POUND 5 /B,,,ICG92A,280.0,103.0,,,14.0,2.7,120.2,59.7,Data collected on 05/04/1991,,13.0
+POUND 5 /C,,,ICG92A,307.0,106.0,,,14.0,2.9,121.1,57.9,Data collected on 08/04/1991,,13.0
+POUND 7 /A,,,ICG92A,342.0,122.0,,,18.0,2.8,117.2,58.8,Data collected on 10/04/1991,,11.0
+POUND 7 /B,,,ICG92A,309.0,113.0,,,16.0,2.7,143.7,59.6,Data collected on 15/03/1991,,10.0
+POUND 7 /C,,,ICG92A,328.0,115.0,,,18.0,2.9,120.5,58.9,Data collected on 15/03/1991,,15.0
+POUND 8 /C,,,ICG92A,256.0,101.0,,,12.0,2.6,107.8,91.1,Data collected on 15/08/1991,,4.0
+POUND 9 /B,,,ICG92A,319.0,115.0,,,23.0,2.8,123.3,61.6,Data collected on 15/03/1991,,16.0
+RB 29 [BRA],,,ICG92A,313.0,119.0,,,22.0,2.6,107.1,73.0,Data collected on 28/06/1991,,16.0
+REDAMEL 1 /27,,,ICG92A,260.0,107.0,,,8.0,2.5,127.3,94.2,Data collected on 29/08/1990,,13.0
+REDAMEL 1 /31,,,ICG92A,284.0,106.0,,,24.0,2.7,104.8,70.8,Data collected on 11/06/1991,,17.0
+SAN MIGUEL 3161 [CHA],,,ICG92A,256.0,112.0,,,21.0,2.3,125.4,77.4,Data collected on 31/05/1991,,21.0
+SCA 10,,,ICG92A,267.0,105.0,,,11.0,2.6,143.1,64.7,Data collected on 17/05/1991,,5.0
+SCA 11,,,ICG92A,249.0,89.0,,,17.0,2.8,119.2,88.2,Data collected on 14/11/1991,,10.0
+SCA 3,,,ICG92A,191.0,71.0,,,7.0,2.7,108.0,81.5,Data collected on 19/01/1990,,13.0
+SCA 5,,,ICG92A,259.0,101.0,,,18.0,2.6,118.9,77.5,Data collected on 22/03/1991,,12.0
+SCA 6,,,ICG92A,236.0,71.0,,,18.0,3.3,96.5,72.5,Data collected on 03/01/1990,,14.0
+SCA 7,,,ICG92A,238.0,85.0,,,6.0,2.8,111.6,80.7,Data collected on 19/01/1990,,10.0
+SCA 9,,,ICG92A,289.0,107.0,,,15.0,2.7,137.1,88.5,Data collected on 18/12/1991,,11.0
+SNK 12,,,ICG92A,269.0,101.0,,,27.0,2.7,142.6,96.6,Data collected on 12/12/1991,,15.0
+SPA 10 [COL],,,ICG92A,316.0,105.0,,,16.0,3.0,114.9,59.0,Data collected on 03/04/1991,,12.0
+SPA 3 [COL],,,ICG92A,255.0,100.0,,,15.0,2.6,115.2,77.8,Data collected on 22/03/1991,,13.0
+SPA 4 [COL],,,ICG92A,229.0,82.0,,,19.0,2.8,105.3,82.4,Data collected on 10/09/1990,,13.0
+SPA 5 [COL],,,ICG92A,298.0,106.0,,,23.0,2.8,113.8,62.7,Data collected on 03/04/1991,,17.0
+SPA 7 [COL],,,ICG92A,228.0,98.0,,,19.0,2.3,111.8,71.7,Data collected on 26/06/1991,,16.0
+SPA 9 [COL],,,ICG92A,237.0,98.0,,,9.0,2.4,115.4,71.5,Data collected on 03/05/1991,,12.0
+SPEC 138 /11,,,ICG92A,279.0,85.0,,,18.0,3.3,109.9,59.4,Data collected on 28/08/1991,,15.0
+SPEC 160 /9,,,ICG92A,252.0,99.0,,,19.0,2.6,132.7,72.4,Data collected on 28/08/1991,,14.0
+SPEC 184 /15,,,ICG92A,272.0,98.0,,,18.0,2.8,126.6,83.5,Data collected on 04/09/1991,,16.0
+SPEC 189 /14,,,ICG92A,249.0,86.0,,,16.0,2.9,132.7,85.2,Data collected on 18/09/1991,,16.0
+SPEC 194 /103,,,ICG92A,290.0,118.0,,,23.0,2.5,131.8,70.0,Data collected on 17/05/1991,,15.0
+SPEC 194 /16,,,ICG92A,219.0,66.0,,,14.0,3.3,117.8,56.4,Data collected on 17/05/1991,,9.0
+SPEC 194 /48,,,ICG92A,220.0,84.0,,,21.0,2.6,119.0,92.6,Data collected on 06/01/1992,,11.0
+SPEC 41 /6-18,,,ICG92A,273.0,92.0,,,15.0,3.0,142.2,82.3,Data collected on 03/01/1992,,13.0
+SPEC 41 /6-25,,,ICG92A,255.0,89.0,,,17.0,2.9,143.2,73.2,Data collected on 27/08/1991,,13.0
+SPEC 41 /6-37,,,ICG92A,272.0,94.0,,,17.0,3.0,145.2,90.5,Data collected on 04/11/1991,,13.0
+UF 11,,,ICG92A,265.0,98.0,,,23.0,2.7,94.8,76.2,Data collected on 06/09/1991,,17.0
+UF 12,,,ICG92A,265.0,98.0,,,20.0,2.7,93.5,76.1,Data collected on 06/09/1991,,19.0
+UF 168,,,ICG92A,277.0,96.0,,,22.0,2.9,123.0,69.8,Data collected on 21/08/1991,,16.0
+UF 29,,,ICG92A,252.0,92.0,,,18.0,2.8,139.7,91.9,Data collected on 01/11/1991,,13.0
+UF 667,,,ICG92A,222.0,78.0,,,16.0,2.8,109.3,58.9,Data collected on 14/06/1991,,13.0
+UF 668,,,ICG92A,267.0,99.0,,,21.0,2.7,121.2,64.5,Data collected on 14/06/1991,,15.0
+UF 677,,,ICG92A,262.0,91.0,,,23.0,2.9,106.8,73.0,Data collected on 06/09/1991,,18.0
+VEN A 58 [ICT],,,ICG92A,309.0,117.0,,,18.0,2.7,128.6,66.6,Data collected on 04/04/1991,,16.0
+VEN B 47 [ICT],,,ICG92A,310.0,103.0,,,26.0,3.0,125.2,60.0,Data collected on 04/04/1991,,17.0
+VEN B 66 [ICT],,,ICG92A,279.0,115.0,,,21.0,2.5,107.1,83.0,Data collected on 08/04/1991,,22.0

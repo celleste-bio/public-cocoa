@@ -1,0 +1,261 @@
+Clone name,Self compatibility
+BE 2,self incompatible
+BS 2,self incompatible
+C SUL 3,self incompatible
+C SUL 7,self incompatible
+CAAG,self incompatible
+CAS 1,self incompatible
+CAS 3,self incompatible
+CATIE 1000,self compatible
+CATONGO,self compatible
+CC 10,self compatible
+CC 100,self incompatible
+CC 103,self compatible
+CC 106,self incompatible
+CC 107,self compatible
+CC 120,self incompatible
+CC 121,self compatible
+CC 124,self incompatible
+CC 132,self compatible
+CC 137,self compatible
+CC 138,self incompatible
+CC 139,self compatible
+CC 143,self compatible
+CC 144,self compatible
+CC 152,self compatible
+CC 158,self compatible
+CC 169,self compatible
+CC 17,self compatible
+CC 173,self compatible
+CC 18,self compatible
+CC 182,self incompatible
+CC 200,self compatible
+CC 201,self incompatible
+CC 210,self incompatible
+CC 211,self incompatible
+CC 212,self compatible
+CC 213,self incompatible
+CC 214,self incompatible
+CC 215,self compatible
+CC 220,self incompatible
+CC 222,self compatible
+CC 223,self compatible
+CC 224,self incompatible
+CC 225,self incompatible
+CC 226,self incompatible
+CC 228,self incompatible
+CC 231,self incompatible
+CC 232,self compatible
+CC 235,self incompatible
+CC 236,self incompatible
+CC 240,self incompatible
+CC 241,self compatible
+CC 243,self incompatible
+CC 244,self incompatible
+CC 245,self incompatible
+CC 249,self compatible
+CC 250,self compatible
+CC 251,self incompatible
+CC 252,self incompatible
+CC 253,self incompatible
+CC 256,self compatible
+CC 257,self compatible
+CC 259,self compatible
+CC 262,self compatible
+CC 265,self compatible
+CC 266,self incompatible
+MATINA 1 /6,self incompatible
+CC 27,self compatible
+CC 33,self compatible
+CC 34,self compatible
+CC 35,self compatible
+CC 37,self compatible
+CC 38,self compatible
+CC 39,self compatible
+CC 40,self compatible
+CC 41,self compatible
+CC 42,self compatible
+CC 45,self compatible
+CC 47,self compatible
+CC 48,self compatible
+CC 49,self compatible
+CC 52,self incompatible
+CC 54,self compatible
+CC 67,self incompatible
+CC 69,self incompatible
+CC 71,self compatible
+CC 74,self compatible
+CC 79,self incompatible
+CC 83,self incompatible
+CC 9,self compatible
+DIAMANTES 800,self incompatible
+EEG 25,self compatible
+EEG 27,self compatible
+EEG 29,self compatible
+EEG 65,self incompatible
+EET 156 [ECU],self incompatible
+EET 162 [ECU],self compatible
+EET 183 [ECU],self compatible
+EET 19 [ECU],self incompatible
+EET 228 [ECU],self compatible
+EET 250 [ECU],self incompatible
+EET 338 [ECU],self compatible
+EET 353 [ECU],self compatible
+EET 364 [ECU],self compatible
+EET 376 [ECU],self incompatible
+EET 377 [ECU],self incompatible
+EET 390 [ECU],self incompatible
+EET 397 [ECU],self incompatible
+EET 399 [ECU],self incompatible
+EET 400 [ECU],self incompatible
+EET 41 [ECU],self compatible
+EET 45 [ECU],self incompatible
+EET 48 [ECU],self incompatible
+EET 53 [ECU],self compatible
+EET 59 [ECU],self incompatible
+EET 62 [ECU],self incompatible
+EET 67 [ECU],self compatible
+EET 75 [ECU],self incompatible
+EET 94 [ECU],self compatible
+EET 95 [ECU],self compatible
+EET 96 [ECU],self compatible
+GA 11 [HAI],self incompatible
+GS 36,self compatible
+GS 50,self compatible
+GS 78,self compatible
+ICS 1,self compatible
+ICS 100,self incompatible
+ICS 117,self incompatible
+ICS 133,self incompatible
+ICS 137,self incompatible
+ICS 138,self incompatible
+ICS 16,self incompatible
+ICS 29,self incompatible
+ICS 32,self compatible
+ICS 39,self incompatible
+ICS 43,self compatible
+ICS 44,self compatible
+ICS 45,self compatible
+ICS 46,self compatible
+ICS 6,self compatible
+ICS 60,self incompatible
+ICS 8,self compatible
+ICS 84,self incompatible
+ICS 89,self incompatible
+ICS 95,self compatible
+IMC 60,self incompatible
+IMC 67,self incompatible
+LARANJA,self compatible
+MA 12 [BRA],self compatible
+MA 13 [BRA],self incompatible
+MOCORONGO,self incompatible
+OC 61 [VEN],self incompatible
+OC 77 [VEN],self compatible
+P 10 [MEX],self incompatible
+P 15 [MEX],self incompatible
+P 16 [MEX],self compatible
+P 19 [MEX],self incompatible
+P 20 [MEX],self incompatible
+P 8 [MEX],self incompatible
+PA 121 [PER],self compatible
+PA 19 [PER],self compatible
+PA 81 [PER],self incompatible
+PMCT 5,self compatible
+PMCT 7,self compatible
+POUND 12,self incompatible
+RB 29 [BRA],self incompatible
+RB 37 [BRA],self incompatible
+RB 41 [BRA],self incompatible
+RB 47 [BRA],self incompatible
+RIM 10 [MEX],self incompatible
+RIM 100 [MEX],self incompatible
+RIM 101 [MEX],self incompatible
+RIM 106 [MEX],self compatible
+RIM 113 [MEX],self compatible
+RIM 117 [MEX],self incompatible
+RIM 15 [MEX],self incompatible
+RIM 189 [MEX],self compatible
+RIM 19 [MEX],self incompatible
+RIM 2 [MEX],self incompatible
+RIM 21 [MEX],self incompatible
+RIM 23 [MEX],self incompatible
+RIM 41 [MEX],self incompatible
+RIM 43 [MEX],self incompatible
+RIM 48 [MEX],self incompatible
+RIM 52 [MEX],self compatible
+RIM 6 [MEX],self incompatible
+RIM 75 [MEX],self incompatible
+RIM 76 [MEX],self incompatible
+RIM 78 [MEX],self incompatible
+RIM 8 [MEX],self incompatible
+SCA 12,self incompatible
+SCA 6,self incompatible
+SCA 9,self incompatible
+SCR 4,self compatible
+SCR 5,self compatible
+SGU 3,self incompatible
+SGU 4,self compatible
+SGU 60,self incompatible
+SGU 71,self compatible
+SGU 89,self incompatible
+SIAL 325,self compatible
+SIAL 339,self compatible
+SIAL 56,self incompatible
+SIAL 8,self compatible
+SIAL 93,self compatible
+SIAL 98,self compatible
+SIC 2,self incompatible
+SIC 433,self compatible
+SIC 6,self compatible
+SIC 7,self compatible
+SIC 802,self compatible
+SIC 806,self compatible
+SIC 813,self compatible
+SILECIA 5 [ECU],self compatible
+SNK 12,self incompatible
+SPA 10 [COL],self incompatible
+SPA 11 [COL],self incompatible
+SPA 12 [COL],self incompatible
+SPA 5 [COL],self compatible
+SPA 7 [COL],self incompatible
+SPA 9 [COL],self incompatible
+STICA 100,self incompatible
+TJ 1,self compatible
+TSAN 792,self incompatible
+UF 10,self incompatible
+UF 11,self incompatible
+UF 12,self compatible
+UF 122,self compatible
+UF 168,self incompatible
+UF 20,self incompatible
+UF 210,self incompatible
+UF 221,self compatible
+UF 273,self compatible
+UF 29,self compatible
+UF 296,self incompatible
+UF 36,self compatible
+UF 4,self incompatible
+UF 601,self incompatible
+UF 602,self compatible
+UF 613,self incompatible
+UF 650,self incompatible
+UF 654,self incompatible
+UF 667,self compatible
+UF 668,self compatible
+UF 672,self incompatible
+UF 676,self compatible
+UF 677,self incompatible
+UF 700,self incompatible
+UF 701,self compatible
+UF 703,self incompatible
+UF 704,self compatible
+UF 705,self compatible
+UF 706,self compatible
+UF 707,self compatible
+UF 708,self incompatible
+UF 709,self compatible
+UF 710,self compatible
+UF 711,self incompatible
+UF 712,self incompatible
+UF 713,self compatible
+UF 717,self compatible

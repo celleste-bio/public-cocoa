@@ -1,0 +1,56 @@
+Clone name,Colour,Shape,Size,Number
+C 23 [TAF],-,-,-,48.0
+C 26 [TAF],-,-,medium,-
+GS 36,-,-,-,41.0
+ICS 1,light purple,cylindrical,medium,-
+ICS 100,light purple,cylindrical,medium,41.0
+ICS 40,-,-,large,44.0
+ICS 43,-,-,large,-
+ICS 6,light purple,oval,large,45.0
+ICS 89,dark purple,flat,small,-
+IFC 1 [CIV],dark purple,oval,medium,47.0
+IFC 5 [CIV],dark purple,oval,medium,41.0
+IMC 60,dark purple,oval,small,54.0
+IMC 67,dark purple,oval,small,55.0
+NA 32,dark purple,oval,small,57.0
+NA 33,dark purple,-,-,55.0
+NA 34,dark purple,-,-,-
+P 4 /9-J11450 [POS],dark purple,-,medium,-
+PA 150 [PER],dark purple,-,-,-
+PA 35 [PER],dark purple,-,-,53.0
+PA 56 [PER],dark purple,-,-,-
+PA 7 [PER],dark purple,-,small,54.0
+POUND 1,dark purple,-,-,-
+S 72 /J-11-4-49 [TAF],dark purple,-,medium,-
+S 84 /E-10-4-90 [TAF],dark purple,-,medium,45.0
+SCA 12,dark purple,cylindrical,small,48.0
+SCA 6,dark purple,round,small,49.0
+SILECIA 5 [ECU],dark purple,cylindrical,large,-
+SNK 10,purple,oval,medium,-
+SNK 12,purple,flat,medium,-
+SNK 48,purple,oval,large,-
+SNK 64,dark purple,flat,medium,41.0
+T 12 /5 [POS],dark purple,oval,medium,45.0
+T 20 /21 [POS],-,-,large,-
+T 60 /1174 [POS],-,-,-,46.0
+T 60 /885 [POS],-,-,-,46.0
+T 60 /887 [POS],dark purple,-,small,46.0
+T 63 /967 [POS],dark purple,oval,small,49.0
+T 63 /971 [POS],dark purple,oval,medium,48.0
+T 79 /416 [POS],dark purple,flat,small,-
+T 79 /467 [POS],dark purple,flat,small,47.0
+T 79 /501 [POS],dark purple,flat,medium,47.0
+T 85 /799 [POS],dark purple,-,medium,58.0
+T 86 /45 [POS],-,-,medium,41.0
+UF 667,light purple,oval,large,42.0
+UF 676,purple,oval,large,39.0
+UPA 134,dark purple,oval,medium,44.0
+UPA 143,dark purple,-,-,-
+UPA 337,dark purple,-,-,-
+UPA 402,dark purple,oval,medium,-
+UPA 405,dark purple,oval,medium,-
+UPA 409,dark purple,oval,medium,-
+UPA 413,dark purple,-,medium,-
+UPA 603,dark purple,-,medium,-
+UPA 710,dark purple,-,medium,-
+W 41 [POS],-,-,medium,-

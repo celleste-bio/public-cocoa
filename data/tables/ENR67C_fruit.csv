@@ -1,0 +1,68 @@
+Clone name,Shape,Ridge desc,Husk thickness,Length,Breadth,Colour,Hardness,Length breadth ratio
+C 4 /11 [TRI],amelonado,paired,13.5 mm,150.0,90.0,yellow and red / yellow and red (ridge/furrow),hard,1.69
+CC 10,angoleta,paired,14.8 mm,210.0,99.0,yellow,soft,2.09
+CC 41,amelonado,paired,16.8 mm,162.0,96.0,yellow,very hard,1.75
+CC 9,cundeamor,paired,12.7 mm,165.0,82.0,yellow,soft,1.92
+EET 103 [ECU],angoleta,paired,16.2 mm,179.0,94.0,yellow / dark yellow (ridge/furrow),very hard,1.95
+EET 156 [ECU],amelonado,-,-,-,-,-,-,-
+EET 162 [ECU],cundeamor,paired,15.3 mm,168.0,92.0,yellow and red / yellow (ridge/furrow),very hard,1.78
+EET 19 [ECU],cundeamor,paired,17.4 mm,196.0,104.0,yellow and red / yellow (ridge/furrow),soft,1.91
+EET 238 [ECU],angoleta,paired,17.3 mm,177.0,99.0,yellow and red / yellow (ridge/furrow),very hard,1.79
+EET 374 [ECU],cundeamor,paired,1.56 mm,209.0,94.0,yellow,soft,2.14
+EET 392 [ECU],angoleta,paired,14.8 mm,194.0,95.0,yellow,soft,2.04
+EET 399 [ECU],angoleta,paired,15.1 mm,213.0,93.0,yellow,very hard,2.30
+EET 400 [ECU],angoleta,paired,13.3 mm,156.0,92.0,yellow,soft,2.05
+EET 48 [ECU],cundeamor,paired,17.3 mm,180.0,96.0,yellow and red / yellow (ridge/furrow),very hard,1.82
+EET 62 [ECU],cundeamor,paired,18.3 mm,191.0,104.0,yellow and red / yellow (ridge/furrow),very hard,1.85
+EET 95 [ECU],cundeamor,paired,15.9 mm,179.0,93.0,yellow,very hard,1.79
+EET 96 [ECU],angoleta,paired,17.6 mm,188.0,100.0,yellow and red / yellow (ridge/furrow),very hard,1.82
+GS 29,angoleta,paired,12.7 mm,185.0,83.0,dark red / yellow and red (ridge/furrow),soft,2.28
+GS 36,cundeamor,paired,13.6 mm,182.0,87.0,red and yellow / yellow and red (ridge/furrow),very hard,2.20
+ICS 1,amelonado,paired,12.9 mm,176.0,86.0,red and yellow,soft,2.05
+ICS 100,angoleta,paired,12.1 mm,163.0,85.0,yellow / yellow and red (ridge/furrow),soft,2.00
+ICS 16,amelonado,paired,15.7 mm,174.0,96.0,"yellow and red / yellow, red and green (ridge/furrow)",very hard,1.78
+ICS 55,angoleta,paired,10.8 mm,142.0,75.0,red and yellow,very soft,1.90
+ICS 6,cundeamor,paired,13.4 mm,183.0,95.0,yellow / yellow and red (ridge/furrow),very hard,2.04
+ICS 75,angoleta,paired,10.8 mm,159.0,89.0,yellow and red / yellow (ridge/furrow),soft,1.82
+ICS 8,cundeamor,paired,9.2 mm,173.0,85.0,yellow / yellow and red (ridge/furrow),soft,2.16
+ICS 89,cundeamor,paired,13.0 mm,170.0,85.0,yellow and red,soft,1.98
+ICS 95,cundeamor,paired,11.9 mm,193.0,78.0,dark red and yellow / red and yellow (ridge/furrow),very soft,2.42
+ICS 98,cundeamor,paired,12.5 mm,174.0,79.0,red and yellow,soft,2.24
+IMC 67,cundeamor,paired,14.3 mm,191.0,85.0,yellow / yellow and red (ridge/furrow),very hard,2.00
+OC 61 [VEN],cundeamor,paired,14.2 mm,213.0,90.0,yellow and red / yellow (ridge/furrow),very soft,2.39
+OC 77 [VEN],cundeamor,paired,15.0 mm,199.0,87.0,yellow and red / yellow (ridge/furrow),very soft,2.31
+PA 121 [PER],cundeamor,paired,10.6 mm,143.0,81.0,yellow,very soft,1.83
+POUND 12,amelonado,paired,9.6 mm,137.0,72.0,yellow and red,very soft,1.92
+POUND 18,cundeamor,paired,12.6 mm,197.0,91.0,yellow,-,2.18
+POUND 7,amelonado,paired,12.0 mm,154.0,81.0,yellow and red,very hard,1.90
+PQTO 87 [VEN],angoleta,paired,13.0 mm,147.0,84.0,yellow and red / yellow (ridge/furrow),very hard,1.75
+RIM 10 [MEX],cundeamor,paired,15.7 mm,238.0,96.0,yellow,soft,2.48
+RIM 13 [MEX],cundeamor,paired,14.5 mm,234.0,93.0,yellow,very soft,2.54
+RIM 30 [MEX],cundeamor,paired,14.9 mm,224.0,95.0,yellow,soft,2.51
+RIM 48 [MEX],cundeamor,paired,14.6 mm,233.0,95.0,red and yellow / yellow (ridge/furrow),very soft,2.46
+SC 10 [VEN],angoleta,paired,15.4 mm,182.0,95.0,yellow,hard,1.93
+SC 5 [COL],angoleta,paired,17.3 mm,186.0,89.0,red / yellow (ridge/furrow),soft,2.08
+SC 6 [COL],angoleta,paired,14.6 mm,178.0,85.0,red / yellow and red (ridge/furrow),soft,2.14
+SCA 12,cundeamor,paired,10.1 mm,163.0,77.0,yellow / yellow and red (ridge/furrow),very soft,2.16
+SCA 6,cundeamor,paired,9.4 mm,165.0,70.0,yellow,very soft,2.52
+SIAL 163,amelonado,paired,14.6 mm,151.0,88.0,yellow,soft,1.71
+SIAL 325,amelonado,paired,14.6 mm,163.0,90.0,yellow / yellow and red (ridge/furrow),very hard,1.81
+SIAL 70,amelonado,paired,15.9 mm,159.0,99.0,yellow / yellow and red (ridge/furrow),moderate,1.62
+SIAL 88,amelonado,paired,16.1 mm,142.0,97.0,yellow,hard,1.47
+SIC 801,amelonado,paired,16.5 mm,139.0,90.0,yellow,very hard,1.55
+SIC 802,amelonado,paired,17.2 mm,144.0,93.0,yellow,hard,1.55
+SIC 812,amelonado,paired,16.8 mm,128.0,84.0,yellow,very hard,1.52
+SIC 823,amelonado,paired,13.4 mm,132.0,85.0,yellow,very hard,1.54
+SIC 831,amelonado,paired,16.3 mm,144.0,93.0,yellow,moderate,1.56
+SILECIA 1 [ECU],amelonado,paired,-,156.0,87.0,yellow,-,1.81
+SILECIA 5 [ECU],amelonado,paired,-,-,-,yellow,-,-
+SPA 9 [COL],amelonado,paired,18.1 mm,176.0,98.0,yellow,soft,1.80
+TSA 644,angoleta,paired,13.9 mm,198.0,86.0,yellow,hard,2.39
+TSA 654,angoleta,paired,9.7 mm,165.0,76.0,yellow,very soft,2.23
+TSAN 792,angoleta,paired,9.9 mm,172.0,-,yellow and red,very soft,2.13
+TSH 565,angoleta,paired,11.2 mm,199.0,79.0,yellow and red,very soft,2.47
+UF 221,angoleta,paired,13.4 mm,187.0,89.0,red / yellow (ridge/furrow),soft,2.12
+UF 29,amelonado,paired,15.8 mm,161.0,91.0,yellow,moderate,1.81
+UF 613,amelonado,single,17.1 mm,199.0,97.0,red and yellow / yellow and red (ridge/furrow),very hard,2.01
+UF 650,angoleta,paired,19.3 mm,194.0,101.0,yellow and red / yellow (ridge/furrow),soft,2.01
+UF 667,angoleta,paired,19.2 mm,198.0,102.0,red and yellow / yellow and red (ridge/furrow),very hard,2.01

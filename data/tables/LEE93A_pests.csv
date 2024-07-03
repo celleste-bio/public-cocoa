@@ -1,0 +1,18 @@
+Clone name,Pest,Reaction
+BAL 209,Cocoa Pod Borer,susceptible
+BR 25,Cocoa Pod Borer,resistant
+SDS 11,Cocoa Pod Borer,moderate resistance
+SDS 18,Cocoa Pod Borer,susceptible
+SDS 20,Cocoa Pod Borer,moderate resistance
+SDS 21,Cocoa Pod Borer,moderate resistance
+SDS 36,Cocoa Pod Borer,moderate resistance
+SDS 4,Cocoa Pod Borer,moderate resistance
+SDS 41,Cocoa Pod Borer,moderate resistance
+SDS 46,Cocoa Pod Borer,moderate resistance
+SDS 52,Cocoa Pod Borer,moderate resistance
+SDS 54,Cocoa Pod Borer,moderate resistance
+SDS 58,Cocoa Pod Borer,moderate resistance
+SDS 6,Cocoa Pod Borer,moderate resistance
+SDS 74,Cocoa Pod Borer,moderate resistance
+SDS 8,Cocoa Pod Borer,moderate resistance
+SDS 84,Cocoa Pod Borer,moderate resistance

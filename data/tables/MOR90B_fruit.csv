@@ -1,0 +1,67 @@
+Clone name,Shape,Rugosity,Ridge desc,Husk thickness,Length,Breadth,Colour,Hardness,Length breadth ratio,Notes
+C 4 /11 [TRI],amelonado,smooth,paired,13.5 mm,150.0,90.0,light red and green,moderate,1.66,accession 19
+CC 10,angoleta,intense,paired,14.8 mm,210.0,99.0,yellow,moderate,2.12,accession 58
+CC 41,angoleta,moderate,paired,16.8 mm,162.0,96.0,yellow,hard,1.68,accession 59
+CC 9,cundeamor,moderate,paired,12.7 mm,165.0,82.0,yellow,moderate,2.01,accession 57
+EET 103 [ECU],angoleta,intense,paired,16.2 mm,179.0,94.0,bright yellow / yellow (ridge/furrow),hard,1.90,accession 28
+EET 156 [ECU],amelonado,-,-,-,-,-,-,-,-,accession 65
+EET 162 [ECU],cundeamor,intense,paired,15.3 mm,168.0,92.0,yellow / light red and green (ridge/furrow),hard,1.82,accession 29
+EET 19 [ECU],cundeamor,intense,paired,17.4 mm,196.0,109.0,yellow / light red and green (ridge/furrow),moderate,1.79,accession 23
+EET 238 [ECU],angoleta,intense,paired,17.3 mm,177.0,99.0,yellow / light red and green (ridge/furrow),hard,1.78,accession 30
+EET 433 [ECU],angoleta,intense,paired,13.3 mm,156.0,92.0,yellow,moderate,1.69,accession 34
+EET 433 [ECU],angoleta,intense,paired,15.1 mm,213.0,93.0,yellow,hard,2.29,accession 33
+EET 48 [ECU],cundeamor,intense,paired,17.3 mm,180.0,96.0,yellow / light red and green (ridge/furrow),hard,1.87,accession 24
+EET 62 [ECU],cundeamor,intense,paired,18.3 mm,191.0,104.0,yellow / light red and green (ridge/furrow),hard,1.83,accession 25
+EET 95 [ECU],cundeamor,intense,paired,15.9 mm,179.0,93.0,yellow,hard,1.92,accession 26
+EET 96 [ECU],angoleta,intense,paired,17.6 mm,188.0,100.0,yellow / light red and green (ridge/furrow),hard,1.88,accession 27
+GS 29,angoleta,intense,paired,12.7 mm,185.0,83.0,light red and green / bright red and yellow (ridge/furrow),moderate,2.22,accession 17
+GS 36,cundeamor,intense,paired,13.6 mm,182.0,87.0,"light red, yellow and green / light red and green (ridge/furrow)",hard,2.09,accession 18
+ICS 1,cundeamor,moderate,paired,12.9 mm,176.0,86.0,light red and green,moderate,2.04,accession 1
+ICS 100,angoleta,moderate,paired,12.1 mm,163.0,85.0,yellow and green / yellow (ridge/furrow),moderate,1.91,accession 10
+ICS 16,amelonado,moderate,paired,15.7 mm,174.0,96.0,"light red, yellow and green / bright red and yellow (ridge/furrow)",hard,1.81,accession 4
+ICS 55,angoleta,smooth,paired,10.8 mm,142.0,75.0,light red and green,soft,1.89,accession 5
+ICS 6,cundeamor,intense,paired,13.4 mm,183.0,95.0,yellow and green / yellow (ridge/furrow),hard,1.92,accession 2
+ICS 75,angoleta,moderate,paired,10.8 mm,159.0,89.0,yellow / bright red and yellow (ridge/furrow),moderate,1.78,accession 6
+ICS 8,cundeamor,intense,paired,9.2 mm,173.0,85.0,yellow and green / yellow (ridge/furrow),moderate,2.03,accession 3
+ICS 89,angoleta,intense,paired,13.0 mm,170.0,85.0,yellow and green,moderate,2.00,accession 7
+ICS 95,cundeamor,intense,paired,11.9 mm,193.0,79.0,light red and green / yellow and green (ridge/furrow),soft,2.44,accession 8
+ICS 98,cundeamor,moderate,paired,12.5 mm,174.0,79.0,"light red, yellow and green / bright red and yellow (ridge/furrow)",moderate,2.20,accession 9
+IMC 67,cundeamor,moderate,paired,14.3 mm,191.0,85.0,yellow and green / yellow (ridge/furrow),hard,2.24,accession 13
+OC 61 [VEN],cundeamor,intense,paired,14.2 mm,213.0,90.0,yellow / light red and green (ridge/furrow),soft,2.36,accession 48
+OC 77 [VEN],angoleta,intense,paired,15.0 mm,199.0,87.0,yellow / light red and green (ridge/furrow),soft,2.28,accession 49
+PA 121 [PER],cundeamor,moderate,paired,10.6 mm,143.0,81.0,yellow,soft,1.76,accession 51
+POUND 12,cundeamor,moderate,paired,9.6 mm,137.0,72.0,yellow and green,soft,1.90,accession 15
+POUND 18,cundeamor,moderate,paired,12.6 mm,-,-,yellow,-,-,accession 64
+POUND 7,cundeamor,moderate,paired,12.0 mm,154.0,81.0,yellow and green,hard,1.90,accession 14
+PQTO 87 [VEN],angoleta,intense,paired,13.0 mm,147.0,84.0,yellow / light red and green (ridge/furrow),hard,1.75,accession 47
+RIM 10 [MEX],cundeamor,intense,paired,15.7 mm,238.0,96.0,yellow,moderate,2.47,accession 60
+RIM 13 [MEX],cundeamor,intense,paired,14.5 mm,234.0,93.0,yellow,soft,2.51,accession 61
+RIM 30 [MEX],cundeamor,intense,paired,14.9 mm,224.0,95.0,yellow,moderate,2.35,accession 62
+RIM 48 [MEX],cundeamor,intense,paired,14.6 mm,-,-,yellow / light red and green (ridge/furrow),soft,-,accession 63
+SC 10 [VEN],angoleta,intense,paired,15.4 mm,182.0,95.0,yellow,moderate,1.91,accession 46
+SC 5 [COL],angoleta,intense,paired,17.3 mm,186.0,89.0,light red,moderate,2.08,accession 35
+SC 6 [COL],angoleta,intense,paired,14.6 mm,178.0,85.0,light red and green / light red (ridge/furrow),moderate,2.09,accession 36
+SCA 12,cundeamor,moderate,paired,10.1 mm,163.0,77.0,yellow and green / yellow (ridge/furrow),soft,2.11,accession 12
+SCA 6,cundeamor,moderate,paired,9.4 mm,165.0,70.0,yellow,soft,2.35,accession 11
+SIAL 163,angoleta,smooth,paired,14.6 mm,151.0,88.0,yellow,moderate,1.71,accession 44
+SIAL 325,angoleta,smooth,paired,14.6 mm,163.0,90.0,yellow and green / yellow (ridge/furrow),hard,1.81,accession 45
+SIAL 70,amelonado,smooth,paired,15.9 mm,159.0,100.0,yellow and green / yellow (ridge/furrow),moderate,1.59,accession 42
+SIAL 88,amelonado,smooth,paired,16.1 mm,142.0,97.0,yellow,moderate,1.46,accession 43
+SIC 801,amelonado,smooth,paired,16.5 mm,139.0,90.0,yellow,hard,1.54,accession 37
+SIC 802,amelonado,smooth,paired,17.2 mm,144.0,93.0,yellow,moderate,1.54,accession 38
+SIC 812,amelonado,smooth,paired,16.8 mm,128.0,84.0,yellow,hard,1.52,accession 39
+SIC 823,amelonado,smooth,paired,13.4 mm,132.0,85.0,yellow,hard,1.55,accession 40
+SIC 831,amelonado,smooth,paired,16.3 mm,144.0,93.0,yellow,moderate,1.54,accession 41
+SILECIA 1 [ECU],amelonado,intense,paired,-,-,-,yellow,-,-,accession 66
+SILECIA 5 [ECU],amelonado,intense,paired,-,-,-,yellow,-,-,accession 67
+SPA 9 [COL],angoleta,moderate,paired,18.1 mm,176.0,98.0,yellow,moderate,1.79,accession 50
+TRONCO 1800,cundeamor,intense,paired,15.6 mm,209.0,94.0,yellow,moderate,2.22,accession 31
+TRONCO 2270,angoleta,intense,paired,14.8 mm,194.0,95.0,yellow,moderate,2.04,accession 32
+TSA 644,angoleta,intense,paired,13.9 mm,198.0,86.0,yellow,moderate,2.30,accession 20
+TSA 654,angoleta,moderate,paired,9.7 mm,165.0,76.0,yellow,soft,2.17,-
+TSAN 792,angoleta,moderate,paired,9.9 mm,172.0,80.0,light red and green,soft,2.15,accession 22
+TSH 565,angoleta,moderate,paired,11.2 mm,199.0,79.0,light red and green,soft,2.51,accession 21
+UF 221,angoleta,intense,paired,13.4 mm,187.0,89.0,yellow and green / light red (ridge/furrow),moderate,2.10,accession 53
+UF 29,cundeamor,moderate,paired,15.8 mm,161.0,90.0,yellow,soft,1.78,accession 52
+UF 613,angoleta,moderate,paired,17.1 mm,199.0,97.0,light red and green,hard,2.05,accession 54
+UF 650,angoleta,moderate,paired,19.3 mm,194.0,101.0,yellow / light red and green (ridge/furrow),moderate,1.92,accession 55

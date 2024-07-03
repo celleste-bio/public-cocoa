@@ -1,0 +1,303 @@
+Clone name,Pathogen,Reaction,Part
+AM 1 /60 [POU],Witches' Broom,resistant,Field Reaction
+AM 1 /69 [POU],Witches' Broom,resistant,Field Reaction
+AM 1 /85 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /12 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /38 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /45 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /5 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /64 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /65 [POU],Witches' Broom,resistant,Field Reaction
+AM 2 /91 [POU],Witches' Broom,resistant,Field Reaction
+AMAZ 12,Phytophthora,resistant,
+AMAZ 12,Witches' Broom,resistant,Field Reaction
+AMAZ 1 /5,Witches' Broom,resistant,Field Reaction
+AMAZ 6,Phytophthora,resistant,
+AMAZ 6,Witches' Broom,resistant,Field Reaction
+B 17 /15 [POU],Witches' Broom,resistant,Field Reaction
+B 17 /33 [POU],Witches' Broom,resistant,Field Reaction
+B 17 /5 [POU],Witches' Broom,resistant,Field Reaction
+B 18 /1 [POU],Witches' Broom,resistant,Field Reaction
+B 18 /5 [POU],Witches' Broom,resistant,Field Reaction
+B 22 /7 [POU],Witches' Broom,resistant,Field Reaction
+B 23 /2 [POU],Witches' Broom,resistant,Field Reaction
+B 23 /6 [POU],Witches' Broom,resistant,Field Reaction
+B 23 /9 [POU],Witches' Broom,resistant,Field Reaction
+B 5 /3 [POU],Phytophthora,resistant,
+B 5 /3 [POU],Witches' Broom,resistant,Field Reaction
+B 5 /7 [POU],Witches' Broom,resistant,Field Reaction
+B 6 /29 [POU],Witches' Broom,resistant,Field Reaction
+B 8 /4 [POU],Witches' Broom,resistant,Field Reaction
+CC 10,Vascular Streak Dieback,susceptible,
+CC 11,Vascular Streak Dieback,resistant,
+CC 60,Vascular Streak Dieback,susceptible,
+CL 10 /15,Witches' Broom,resistant,Field Reaction
+CL 27 /79,Witches' Broom,resistant,Field Reaction
+CLM 113,Witches' Broom,resistant,Field Reaction
+CLM 19,Witches' Broom,resistant,Field Reaction
+CLM 83,Witches' Broom,resistant,Field Reaction
+CLM 96,Witches' Broom,resistant,Field Reaction
+CRU 156 (MIS_TTOICGT_GU 175 /P),Witches' Broom,resistant,Field Reaction
+DR 1,Vascular Streak Dieback,resistant,
+EET 162 [ECU],Phytophthora,resistant,
+EET 162 [ECU],Witches' Broom,resistant,Field Reaction
+EET 272 [ECU],Phytophthora,resistant,
+EET 272 [ECU],Witches' Broom,resistant,Field Reaction
+EET 272 [ECU],Ceratosystis,resistant,
+EET 272 [ECU],Vascular Streak Dieback,susceptible,
+EET 338 [ECU],Witches' Broom,resistant,Field Reaction
+EET 58 [ECU],Witches' Broom,susceptible,Field Reaction
+EET 59 [ECU],Phytophthora,resistant,
+EET 59 [ECU],Witches' Broom,susceptible,Field Reaction
+GS 10,Witches' Broom,resistant,Field Reaction
+GS 67,Witches' Broom,susceptible,Field Reaction
+GS 77,Witches' Broom,susceptible,Field Reaction
+ICS 10,Phytophthora,resistant,
+ICS 10,Witches' Broom,susceptible,Field Reaction
+ICS 18,Phytophthora,resistant,
+ICS 18,Witches' Broom,susceptible,Field Reaction
+ICS 25,Phytophthora,resistant,
+ICS 25,Witches' Broom,susceptible,Field Reaction
+ICS 32,Phytophthora,resistant,
+ICS 32,Witches' Broom,resistant,Field Reaction
+ICS 40,Phytophthora,resistant,
+ICS 40,Witches' Broom,resistant,Field Reaction
+ICS 45,Phytophthora,resistant,
+ICS 45,Witches' Broom,resistant,Field Reaction
+ICS 46,Phytophthora,resistant,
+ICS 46,Witches' Broom,susceptible,Field Reaction
+ICS 47,Phytophthora,resistant,
+ICS 47,Witches' Broom,susceptible,Field Reaction
+ICS 49,Phytophthora,resistant,
+ICS 49,Witches' Broom,susceptible,Field Reaction
+ICS 63,Phytophthora,resistant,
+ICS 63,Witches' Broom,resistant,Field Reaction
+ICS 76,Phytophthora,resistant,
+ICS 76,Witches' Broom,resistant,Field Reaction
+ICS 8,Phytophthora,resistant,
+ICS 8,Witches' Broom,susceptible,Field Reaction
+ICS 86,Phytophthora,resistant,
+ICS 89,Phytophthora,resistant,
+ICS 89,Witches' Broom,susceptible,Field Reaction
+ICS 93,Phytophthora,resistant,
+ICS 93,Witches' Broom,susceptible,Field Reaction
+ICS 94,Phytophthora,resistant,
+ICS 94,Witches' Broom,susceptible,Field Reaction
+ICS 95,Phytophthora,resistant,
+IMC 103,Phytophthora,resistant,
+IMC 103,Witches' Broom,resistant,Field Reaction
+IMC 105,Phytophthora,resistant,
+IMC 107,Phytophthora,resistant,
+IMC 107,Witches' Broom,resistant,Field Reaction
+IMC 16,Phytophthora,resistant,
+IMC 16,Witches' Broom,resistant,Field Reaction
+IMC 27,Phytophthora,resistant,
+IMC 27,Witches' Broom,resistant,Field Reaction
+IMC 27,Ceratosystis,resistant,
+IMC 38,Phytophthora,resistant,
+IMC 39,Phytophthora,resistant,
+IMC 39,Witches' Broom,resistant,Field Reaction
+IMC 41,Phytophthora,resistant,
+IMC 41,Witches' Broom,susceptible,Field Reaction
+IMC 47,Witches' Broom,resistant,Field Reaction
+IMC 47,Vascular Streak Dieback,susceptible,
+IMC 54,Phytophthora,resistant,
+IMC 65,Phytophthora,resistant,
+IMC 65,Witches' Broom,resistant,Field Reaction
+IMC 78,Phytophthora,resistant,
+IMC 78,Witches' Broom,resistant,Field Reaction
+IMC 94,Phytophthora,resistant,
+JA 1 /10 [POU],Witches' Broom,resistant,Field Reaction
+JA 1 /20 [POU],Witches' Broom,resistant,Field Reaction
+JA 1 /21 [POU],Witches' Broom,resistant,Field Reaction
+JA 10 /52 [POU],Witches' Broom,resistant,Field Reaction
+JA 2 /8 [POU],Witches' Broom,resistant,Field Reaction
+JA 3 /20 [POU],Witches' Broom,resistant,Field Reaction
+JA 4 /7 [POU],Witches' Broom,resistant,Field Reaction
+JA 5 /12 [POU],Witches' Broom,resistant,Field Reaction
+JA 5 /41 [POU],Witches' Broom,resistant,Field Reaction
+JA 5 /8 [POU],Witches' Broom,resistant,Field Reaction
+JA 8 /16 [POU],Witches' Broom,resistant,Field Reaction
+JA 8 /24 [POU],Witches' Broom,resistant,Field Reaction
+JA 9 /14 [POU],Witches' Broom,resistant,Field Reaction
+LCT EEN 15 /S-3,Phytophthora,resistant,
+LCT EEN 15 /S-3,Witches' Broom,resistant,Field Reaction
+LCT EEN 280,Phytophthora,resistant,
+LCT EEN 280,Witches' Broom,resistant,Field Reaction
+LP 1 /10 [POU],Witches' Broom,resistant,Field Reaction
+LP 1 /37 [POU],Witches' Broom,resistant,Field Reaction
+LP 1 /4 [POU],Witches' Broom,resistant,Field Reaction
+LP 1 /44 [POU],Witches' Broom,resistant,Field Reaction
+LP 1 /45 [POU],Witches' Broom,resistant,Field Reaction
+LP 1 /46 [POU],Witches' Broom,resistant,Field Reaction
+LP 3 /5 [POU],Witches' Broom,resistant,Field Reaction
+LP 4 /18 [POU],Witches' Broom,resistant,Field Reaction
+LP 4 /24 [POU],Witches' Broom,resistant,Field Reaction
+LP 4 /32 [POU],Witches' Broom,resistant,Field Reaction
+LP 5 /8 [POU],Witches' Broom,resistant,Field Reaction
+LV 56 [POU],Witches' Broom,resistant,Field Reaction
+LV 6 [POU],Witches' Broom,resistant,Field Reaction
+LX 16,Witches' Broom,resistant,Field Reaction
+LX 20,Witches' Broom,resistant,Field Reaction
+LX 25,Witches' Broom,resistant,Field Reaction
+LX 48,Witches' Broom,resistant,Field Reaction
+LZ 8,Witches' Broom,resistant,Field Reaction
+MO 109,Witches' Broom,resistant,Field Reaction
+MO 76,Witches' Broom,resistant,Field Reaction
+MOQ 1 /16,Witches' Broom,resistant,Field Reaction
+MOQ 1 /21,Witches' Broom,resistant,Field Reaction
+MOQ 2 /16,Witches' Broom,resistant,Field Reaction
+MOQ 2 /7,Witches' Broom,resistant,Field Reaction
+MOQ 2 /8,Witches' Broom,resistant,Field Reaction
+MOQ 4 /20,Witches' Broom,resistant,Field Reaction
+MOQ 4 /23,Witches' Broom,resistant,Field Reaction
+MOQ 4 /25,Witches' Broom,resistant,Field Reaction
+MOQ 4 /4,Witches' Broom,resistant,Field Reaction
+MOQ 5 /34,Witches' Broom,resistant,Field Reaction
+MOQ 5 /4,Witches' Broom,resistant,Field Reaction
+MOQ 5 /5,Witches' Broom,resistant,Field Reaction
+MOQ 6 /11,Witches' Broom,resistant,Field Reaction
+MOQ 6 /46,Witches' Broom,resistant,Field Reaction
+MOQ 6 /55,Witches' Broom,resistant,Field Reaction
+MOQ 6 /67,Witches' Broom,resistant,Field Reaction
+MOQ 6 /92,Witches' Broom,resistant,Field Reaction
+NA 104,Witches' Broom,resistant,Field Reaction
+NA 112,Witches' Broom,resistant,Field Reaction
+NA 13,Vascular Streak Dieback,susceptible,
+NA 137,Phytophthora,resistant,
+NA 137,Witches' Broom,resistant,Field Reaction
+NA 141,Witches' Broom,resistant,Field Reaction
+NA 144,Witches' Broom,resistant,Field Reaction
+NA 159,Witches' Broom,resistant,Field Reaction
+NA 170,Witches' Broom,resistant,Field Reaction
+NA 176,Witches' Broom,resistant,Field Reaction
+NA 183,Witches' Broom,resistant,Field Reaction
+NA 187,Witches' Broom,resistant,Field Reaction
+NA 191,Witches' Broom,susceptible,Field Reaction
+NA 226,Witches' Broom,resistant,Field Reaction
+NA 227,Witches' Broom,resistant,Field Reaction
+NA 228,Witches' Broom,resistant,Field Reaction
+NA 230,Witches' Broom,resistant,Field Reaction
+NA 26,Phytophthora,resistant,
+NA 26,Witches' Broom,resistant,Field Reaction
+NA 26,Vascular Streak Dieback,susceptible,
+NA 268,Witches' Broom,resistant,Field Reaction
+NA 319,Witches' Broom,resistant,Field Reaction
+NA 32,Witches' Broom,susceptible,Field Reaction
+NA 32,Vascular Streak Dieback,susceptible,
+NA 337,Witches' Broom,resistant,Field Reaction
+NA 39,Witches' Broom,resistant,Field Reaction
+NA 409,Witches' Broom,resistant,Field Reaction
+NA 43,Witches' Broom,resistant,Field Reaction
+NA 432,Witches' Broom,resistant,Field Reaction
+NA 46,Witches' Broom,susceptible,Field Reaction
+NA 504,Witches' Broom,resistant,Field Reaction
+NA 58,Witches' Broom,susceptible,Field Reaction
+NA 672,Witches' Broom,resistant,Field Reaction
+NA 693,Witches' Broom,resistant,Field Reaction
+NA 694,Witches' Broom,resistant,Field Reaction
+NA 70,Phytophthora,resistant,
+NA 70,Witches' Broom,resistant,Field Reaction
+NA 713,Witches' Broom,resistant,Field Reaction
+NA 739,Witches' Broom,resistant,Field Reaction
+NA 74,Witches' Broom,resistant,Field Reaction
+NA 746,Witches' Broom,resistant,Field Reaction
+NA 750,Witches' Broom,resistant,Field Reaction
+NA 753,Witches' Broom,resistant,Field Reaction
+NA 758,Witches' Broom,resistant,Field Reaction
+NA 773,Witches' Broom,resistant,Field Reaction
+NA 794,Witches' Broom,resistant,Field Reaction
+NA 8,Witches' Broom,resistant,Field Reaction
+NA 804,Witches' Broom,resistant,Field Reaction
+NA 824,Witches' Broom,resistant,Field Reaction
+PA 107 [PER],Vascular Streak Dieback,resistant,
+PA 121 [PER],Phytophthora,resistant,
+PA 121 [PER],Witches' Broom,resistant,Field Reaction
+PA 121 [PER],Ceratosystis,resistant,
+PA 121 [PER],Vascular Streak Dieback,susceptible,
+PA 135 [PER],Witches' Broom,resistant,Field Reaction
+PA 137 [PER],Witches' Broom,resistant,Field Reaction
+PA 141 [PER],Phytophthora,resistant,
+PA 141 [PER],Witches' Broom,resistant,Field Reaction
+PA 156 [PER],Witches' Broom,resistant,Field Reaction
+PA 156 [PER],Vascular Streak Dieback,susceptible,
+PA 171 [PER],Witches' Broom,resistant,Field Reaction
+PA 171 [PER],Vascular Streak Dieback,susceptible,
+PA 175 [PER],Vascular Streak Dieback,susceptible,
+PA 191 [PER],Vascular Streak Dieback,resistant,
+PA 195 [PER],Vascular Streak Dieback,susceptible,
+PA 202 [PER],Witches' Broom,resistant,Field Reaction
+PA 296 [PER],Witches' Broom,resistant,Field Reaction
+PA 3 [PER],Witches' Broom,susceptible,Field Reaction
+PA 300 [PER],Vascular Streak Dieback,resistant,
+PA 303 [PER],Witches' Broom,resistant,Field Reaction
+PA 303 [PER],Ceratosystis,resistant,
+PA 34 [PER],Witches' Broom,susceptible,Field Reaction
+PA 4 [PER],Witches' Broom,resistant,Field Reaction
+PA 46 [PER],Phytophthora,resistant,
+PA 46 [PER],Witches' Broom,resistant,Field Reaction
+PA 48 [PER],Witches' Broom,resistant,Field Reaction
+PA 67 [PER],Witches' Broom,resistant,Field Reaction
+PA 88 [PER],Vascular Streak Dieback,resistant,
+PLAYA ALTA 2 [VEN],Witches' Broom,resistant,Field Reaction
+POUND 10 /B,Witches' Broom,resistant,Field Reaction
+POUND 10 /C,Witches' Broom,resistant,Field Reaction
+POUND 12 /B,Ceratosystis,resistant,
+POUND 16 /B,Phytophthora,resistant,
+POUND 16 /B,Witches' Broom,resistant,Field Reaction
+POUND 16 /B,Ceratosystis,resistant,
+POUND 18,Phytophthora,resistant,
+POUND 18,Witches' Broom,resistant,Field Reaction
+POUND 25 /A,Phytophthora,resistant,
+POUND 25 /A,Witches' Broom,resistant,Field Reaction
+POUND 25 /A,Ceratosystis,resistant,
+POUND 26 /C,Witches' Broom,resistant,Field Reaction
+POUND 31 /A,Witches' Broom,resistant,Field Reaction
+POUND 32 /A,Witches' Broom,resistant,Field Reaction
+RIM 10 [MEX],Ceratosystis,resistant,
+RIM 13 [MEX],Ceratosystis,resistant,
+RIM 48 [MEX],Ceratosystis,resistant,
+RIM 76 [MEX],Vascular Streak Dieback,resistant,
+SC 19 [COL],Ceratosystis,resistant,
+SC 6 [COL],Witches' Broom,resistant,Field Reaction
+SCA 11,Phytophthora,resistant,
+SCA 11,Witches' Broom,resistant,Field Reaction
+SCA 17,Witches' Broom,resistant,Field Reaction
+SCA 5,Witches' Broom,resistant,Field Reaction
+SCA 6,Phytophthora,resistant,
+SCA 6,Witches' Broom,resistant,Field Reaction
+SCA 6,Ceratosystis,resistant,
+SLA 30,Witches' Broom,resistant,Field Reaction
+SLA 64,Witches' Broom,resistant,Field Reaction
+SLA 74,Witches' Broom,resistant,Field Reaction
+SLC 4,Witches' Broom,resistant,Field Reaction
+SM 10 [POU],Witches' Broom,resistant,Field Reaction
+SNK 12,Phytophthora,resistant,
+SNK 12,Witches' Broom,resistant,Field Reaction
+SPA 10 [COL],Phytophthora,resistant,
+SPA 10 [COL],Witches' Broom,resistant,Field Reaction
+SPA 18 [COL],Witches' Broom,resistant,Field Reaction
+SPA 4 [COL],Phytophthora,resistant,
+SPA 4 [COL],Witches' Broom,resistant,Field Reaction
+SPA 7 [COL],Phytophthora,resistant,
+SPA 7 [COL],Witches' Broom,susceptible,Field Reaction
+SPA 9 [COL],Phytophthora,resistant,
+SPA 9 [COL],Witches' Broom,resistant,Field Reaction
+SPEC 160 /9,Witches' Broom,resistant,Field Reaction
+SPEC 185 /4,Witches' Broom,resistant,Field Reaction
+SPEC 194 /103,Phytophthora,resistant,
+SPEC 194 /103,Witches' Broom,susceptible,Field Reaction
+SPEC 194 /109,Phytophthora,resistant,
+SPEC 194 /109,Witches' Broom,resistant,Field Reaction
+SPEC 194 /16,Witches' Broom,resistant,Field Reaction
+SPEC 194 /62,Phytophthora,resistant,
+SPEC 194 /62,Witches' Broom,susceptible,Field Reaction
+UF 12,Phytophthora,resistant,
+UF 12,Witches' Broom,susceptible,Field Reaction
+UF 29,Witches' Broom,susceptible,Field Reaction
+UF 29,Ceratosystis,resistant,
+UF 29,Vascular Streak Dieback,susceptible,
+UF 667,Witches' Broom,resistant,Field Reaction
+UF 667,Vascular Streak Dieback,resistant,
+UF 668,Witches' Broom,resistant,Field Reaction
+UF 705,Witches' Broom,resistant,Field Reaction

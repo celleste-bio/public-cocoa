@@ -1,0 +1,99 @@
+Clone name,Accession,Number,Length,Width,Thickness,Dry weight,Info
+ARF 22,-,42.0,-,-,-,1.31,
+ARF 22 x ARF 37,tree number 11,43.0,22.0,7.0,11.0,1.0,tree number 11
+ARF 22 x ARF 6,tree number 12,37.0,22.0,10.0,12.0,1.6,tree number 12
+ARF 22 x UF 273,tree number 13,34.0,20.0,10.0,10.0,1.2,tree number 13
+ARF 22 x UF 273,tree number 26,31.0,-,-,-,1.0,tree number 26
+ARF 37,-,41.0,-,-,-,0.74,
+ARF 6,-,36.0,-,-,-,1.19,
+CATIE-R1,-,29.0,25.0,9.0,12.0,1.34,
+CATIE-R2,-,34.0,28.0,9.0,12.0,1.31,
+CATIE-R3,-,32.0,-,-,-,1.36,
+CATIE-R4,-,35.0,25.0,10.0,13.0,1.48,
+CATIE-R5,-,36.0,25.0,10.0,13.0,1.63,
+CATIE-R6,-,31.0,26.0,9.0,12.0,1.37,
+CATIE-R7,-,37.0,-,-,-,1.45,
+CATIE 1000 x CC 137,tree number 23,36.0,22.0,8.0,12.0,1.3,tree number 23
+CC 137,-,27.0,26.0,9.0,13.0,1.71,
+CC 137 x UF 273,tree number 20,35.0,27.0,10.0,13.0,1.6,tree number 20
+CC 137 x UF 273,tree number 30,30.0,25.0,8.0,11.0,1.6,tree number 30
+CC 137 x ICS 6,tree number 30,35.0,22.0,8.0,11.0,1.1,tree number 30
+CC 137 x SCA 6,tree number 32,38.0,23.0,9.0,13.0,1.4,tree number 32
+CC 137 x SCA 6,tree number 4,29.0,22.0,8.0,11.0,0.9,tree number 4
+CC 252,-,28.0,-,-,-,1.54,
+CC 252 x SCA 6,tree number 27,35.0,-,-,-,1.1,tree number 27
+CC 252 x SCA 6,tree number 28,32.0,22.0,7.0,11.0,0.9,tree number 28
+CC 252 x UF 273,tree number 7,29.0,22.0,7.0,10.0,0.6,tree number 7
+CC 252 x UF 273,tree number 31,30.0,21.0,9.0,12.0,0.7,tree number 31
+CCN 51,-,31.0,28.0,11.0,14.0,2.14,
+CCN 51 x PA 169 [PER],tree number 9,22.0,-,-,-,1.3,tree number 9
+EET 183 [ECU],-,30.0,19.0,7.0,10.0,1.18,
+EET 75 [ECU] x CC 252,tree number 31,34.0,21.0,8.0,11.0,1.3,tree number 31
+EET 75 [ECU] x CC 137,tree number 2,33.0,20.0,8.0,11.0,1.1,tree number 2
+EET 75 [ECU] x CC 137,tree number 25,34.0,20.0,9.0,12.0,1.3,tree number 25
+EET 75 [ECU] x CC 137,tree number 30,28.0,-,-,-,1.1,tree number 30
+EET 75 [ECU] x CATIE 1000,tree number 18,37.0,-,-,-,1.0,tree number 18
+EET 75 [ECU] x CATIE 1000,tree number 20,41.0,21.0,8.0,11.0,1.0,tree number 20
+EET 75 [ECU] x CATIE 1000,tree number 24,30.0,23.0,7.0,11.0,1.2,tree number 24
+EET 75 [ECU] x CATIE 1000,tree number 28,35.0,20.0,8.0,11.0,1.1,tree number 28
+EET 75 [ECU] x CATIE 1000,tree number 30,36.0,22.0,7.0,11.0,1.0,tree number 30
+GU 133 /N,-,33.0,-,-,-,0.92,
+ICS 43,-,32.0,23.0,9.0,12.0,1.23,
+ICS 95,-,33.0,21.0,9.0,11.0,1.19,
+ICS 95 x UF 273,tree number 21,32.0,23.0,9.0,12.0,1.4,tree number 21
+ICS 95 x UF 273,tree number 27,35.0,22.0,10.0,12.0,1.5,tree number 27
+ICS 95 x UF 712,tree number 29,40.0,24.0,10.0,12.0,1.6,tree number 29
+ICS 95 x POUND 7,tree number 29,40.0,23.0,8.0,13.0,1.3,tree number 29
+IMC 60,-,46.0,-,-,-,1.17,
+PA 169 [PER],-,35.0,22.0,10.0,12.0,1.28,
+PA 169 [PER] x ARF 6,tree number 11,38.0,24.0,10.0,13.0,1.7,tree number 11
+PA 169 [PER] x ARF 22,tree number 5,21.0,-,-,-,1.4,tree number 5
+PA 169 [PER] x ARF 22,tree number 10,27.0,-,-,-,1.3,tree number 10
+PA 169 [PER] x ARF 22,tree number 14,36.0,22.0,10.0,12.0,1.2,tree number 14
+PA 169 [PER] x ARF 22,tree number 23,30.0,23.0,11.0,11.0,1.4,tree number 23
+PA 169 [PER] x ARF 22,tree number 30,35.0,-,-,-,0.9,tree number 30
+PA 169 [PER] x ARF 37,tree number 8,36.0,23.0,7.0,11.0,1.2,tree number 8
+PMCT 58,-,35.0,23.0,8.0,11.0,1.19,
+POUND 7,-,40.0,22.0,7.0,11.0,1.23,
+SCA 6 x UF 712,tree number 20,38.0,21.0,9.0,11.0,1.2,tree number 20
+SCA 6,-,37.0,-,-,-,0.58,
+SGU 84,-,34.0,-,-,-,0.87,
+UF 273,-,25.0,25.0,7.0,10.0,1.32,
+UF 273 x CC 137,tree number 1,33.0,22.0,8.0,11.0,1.4,tree number 1
+UF 273 x CC 137,tree number 5,33.0,23.0,9.0,12.0,1.3,tree number 5
+UF 273 x CATIE 1000,tree number 31,36.0,24.0,8.0,12.0,1.2,tree number 31
+UF 273 x POUND 7,tree number 4,35.0,21.0,8.0,11.0,1.2,tree number 4
+UF 273 x POUND 7,tree number 5,34.0,23.0,8.0,11.0,1.3,tree number 5
+UF 273 x POUND 7,tree number 20,37.0,25.0,9.0,13.0,1.6,tree number 20
+UF 273 x Tree81,tree number 4,41.0,23.0,9.0,12.0,1.4,tree number 4
+UF 273 x Tree81,tree number 32,37.0,24.0,8.0,14.0,1.6,tree number 32
+UF 273 x CATIE 1000,tree number 26,41.0,21.0,10.0,10.0,1.1,tree number 26
+UF 273 x POUND 7,tree number 6,34.0,22.0,8.0,11.0,1.3,tree number 6
+UF 273 x CC 137,tree number 4,33.0,22.0,8.0,11.0,1.3,tree number 4
+UF 273 x CC 137,tree number 9,28.0,22.0,8.0,12.0,1.2,tree number 9
+UF 273 x CC 137,tree number 21,33.0,22.0,9.0,11.0,1.7,tree number 21
+UF 273 x CATIE 1000,tree number 29,30.0,-,-,-,1.2,tree number 29
+UF 273 x CCN 51,tree number 13,24.0,22.0,8.0,11.0,1.7,tree number 13
+UF 273 x SCA 6,tree number 19,33.0,23.0,8.0,12.0,1.2,tree number 19
+UF 273 x CC 137,tree number 2,32.0,20.0,8.0,11.0,1.2,tree number 2
+UF 273 x SCA 6,tree number 22,38.0,22.0,8.0,11.0,1.3,tree number 22
+UF 712,-,25.0,23.0,9.0,11.0,1.16,
+UF 712 x CC 137,tree number 3,30.0,24.0,9.0,14.0,1.5,tree number 3
+UF 712 x CC 137,tree number 5,39.0,24.0,8.0,13.0,1.4,tree number 5
+UF 712 x CC 137,tree number 21,36.0,24.0,9.0,13.0,1.5,tree number 21
+UF 712 x CC 137,tree number 27,34.0,22.0,9.0,12.0,1.5,tree number 27
+UF 712 x CC 137,tree number 30,35.0,22.0,10.0,10.0,1.4,tree number 30
+UF 712 x CC 124,tree number 23,36.0,25.0,10.0,14.0,1.5,tree number 23
+UF 712 x CC 124,tree number 24,36.0,25.0,10.0,14.0,1.3,tree number 24
+UF 712 x CC 124,tree number 30,34.0,25.0,10.0,13.0,1.3,tree number 30
+UF 712 x CC 124,tree number 31,36.0,24.0,9.0,12.0,1.1,tree number 31
+UF 712 x CATIE 1000,tree number 7,38.0,23.0,9.0,13.0,1.4,tree number 7
+UF 712 x Tree81,tree number 22,39.0,27.0,8.0,14.0,1.9,tree number 22
+UF 712 x Tree81,tree number 24,35.0,21.0,8.0,11.0,1.4,tree number 24
+UF 712 x ARF 37,tree number 12,42.0,23.0,9.0,11.0,1.2,tree number 12
+UF 712 x ARF 37,tree number 26,32.0,23.0,9.0,12.0,1.4,tree number 26
+UF 712 x ARF 37,tree number 28,42.0,22.0,10.0,10.0,1.2,tree number 28
+UF 712 x ARF 37,tree number 31,45.0,23.0,10.0,12.0,1.5,tree number 31
+UF 712 x ARF 37,tree number 32,51.0,22.0,10.0,12.0,1.4,tree number 32
+UF 712 x ICS 43,tree number 30,38.0,24.0,10.0,13.0,1.6,tree number 30
+UF 712 x P 23 [MEX],tree number 15,31.0,20.0,8.0,11.0,1.1,tree number 15

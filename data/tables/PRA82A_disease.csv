@@ -1,0 +1,30 @@
+Clone name,Pathogen,Reaction
+PBC 112,Vascular Streak Dieback,intermediate
+PBC 112,Phytophthora,intermediate
+PBC 112,Canker,resistant
+PBC 123,Vascular Streak Dieback,resistant
+PBC 123,Phytophthora,intermediate
+PBC 123,Canker,intermediate
+PBC 128,Vascular Streak Dieback,intermediate
+PBC 128,Phytophthora,resistant
+PBC 128,Canker,resistant
+PBC 130,Vascular Streak Dieback,intermediate
+PBC 130,Phytophthora,intermediate
+PBC 131,Vascular Streak Dieback,susceptible
+PBC 131,Phytophthora,resistant
+PBC 131,Canker,resistant
+PBC 137,Vascular Streak Dieback,resistant
+PBC 137,Phytophthora,resistant
+PBC 137,Canker,resistant
+PBC 139,Vascular Streak Dieback,intermediate
+PBC 139,Phytophthora,intermediate
+PBC 139,Canker,resistant
+PBC 140,Vascular Streak Dieback,intermediate
+PBC 140,Phytophthora,intermediate
+PBC 140,Canker,resistant
+PBC 154,Vascular Streak Dieback,resistant
+PBC 154,Phytophthora,resistant
+PBC 154,Canker,resistant
+PBC 159,Vascular Streak Dieback,resistant
+PBC 159,Phytophthora,resistant
+PBC 159,Canker,resistant

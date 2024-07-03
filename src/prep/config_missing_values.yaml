@@ -1,0 +1,125 @@
+
+methods: 
+  - "KM"
+  - "ME"
+  - "NO"
+
+Outliers:
+  - "WO"
+  - "O"
+
+Hierarchical_tree_clusters: 
+  - 0
+  - 2
+  - 4
+  - 8
+
+columns_cotyledon:
+  - "bean_cotyledon_dry_weight"
+  - "bean_cotyledon_length"
+  - "bean_cotyledon_width"
+
+frequency: 
+  - 80
+  - 75
+
+file_names_75:
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_KM'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_ME'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_O_NO'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_KM'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_ME'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+  - '75_WO_NO'
+
+file_names_80:
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_KM'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_ME'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_O_NO'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_KM'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_ME'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+  - '80_WO_NO'
+
