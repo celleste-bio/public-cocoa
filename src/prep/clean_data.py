@@ -8,7 +8,8 @@ import sqlite3 as sqlite
 import pandas as pd
 import numpy as np
 import yaml
-
+sys.path.append("/home/public-cocoa/src/prep")
+from dummies_order import dummies_order
 sys.path.append("/home/public-cocoa/src/")
 from path_utils import go_back_dir
 from utils import read_yaml
@@ -56,6 +57,20 @@ def drop_columns_from_df(df, columns_to_drop):
     
     return df
 
+def clean_test_data(df):
+    script_path = os.path.realpath(__file__)
+    script_dir = go_back_dir(script_path, 0)
+    config_path = os.path.join(script_dir, "config_cleanning.yaml")
+    config = read_yaml(config_path)
+
+    data = df.copy()
+    data = replace_dash_with_nan(data)
+    target_column = [col for col in data.columns if col_name_template(config["target_column"]) in col][0]
+    data = data.dropna(subset=[target_column])
+    id_columns = config['id_columns_new_name']
+    data = drop_columns_from_df(data, id_columns)
+    data=convert_to_float(data)
+    return data
 
 def clean_data(data):
     # script_path="/home/public-cocoa/src/prep/clean_data.py"
@@ -73,6 +88,8 @@ def clean_data(data):
     data = drop_columns_from_df(data, id_columns)
     #data = drop_columns_from_df(data,target_column)
     data=convert_to_float(data)
+
+
     return data
     # df.info()
     #connection.close()

@@ -2,6 +2,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import pandas as pd
+import joblib
 import numpy as np
 
 def convert_to_float(df):
@@ -91,6 +92,6 @@ def clustering_and_replace_missing_values(df,k):
                 df_reset.loc[index, col] = cluster_frequent_val
 
     # Map the updated values back to the original dataframe's index
-    df.update(df_reset)
+    #df.update(df_reset)
 
-    return df
+    return df_reset

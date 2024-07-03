@@ -53,39 +53,6 @@ def drop_columns_from_df(df, columns_to_drop):
     df.drop(columns=columns_to_drop, axis=1, inplace=True)
     return df
 
-def prep_data(data,method,outliers,Hierarchical_tree_clusters,C_OR_WC):
-    # script_path="/home/public-cocoa/src/prep/main.py"
-    script_path = os.path.realpath(__file__)
-    script_dir = go_back_dir(script_path, 0)
-    config_path = os.path.join(script_dir, "config_main.yaml")
-    config = read_yaml(config_path)
-    cleaned_data = data.copy()
-    cleaned_data=clean_data(data)
-
-
-    if method == "KM":
-        filled_df = clustering_and_replace_missing_values(cleaned_data, 3)
-    elif method == "ME":
-            filled_df = fill_missing_values_median_and_mode(cleaned_data)
-    elif method == "NO":
-            filled_df = Normal_and_Frequent_Function(cleaned_data)
-    
-    if C_OR_WC.lower() in ['wc']:
-        filled_df = drop_columns_from_df(filled_df, config["columns_cotyledon"])
-
-    if outliers==True:
-         filled_df = IQR_outliers(filled_df)
-
-    df_dummies = dummies_order(filled_df)
-    df_dummies.columns = df_dummies.columns.str.replace('<=', 'lte', regex=False)
-    df_dummies.columns = df_dummies.columns.str.replace('>', 'gt', regex=False)
-
-    df_dummies = hirrarcial_tree(df_dummies, Hierarchical_tree_clusters)
-
-    return df_dummies
-
-
-
 
 
 
@@ -102,10 +69,10 @@ def main_prep():
     #the data is clean without duplication and without null in target column
 
     all_dfs=fill_missing_values(cleaned_data)
-#    for name, df in all_dfs.items():
-#       df_dummies = dummies_order(df)
-#       all_dfs[name] = df_dummies
-    
+    #for name, df in all_dfs.items():
+    #   df_dummies = dummies_order(df)
+    #   all_dfs[name] = df_dummies
+
     # Create the output directory if it doesn't exist
     output_dir = config["save_praped_data"]
     os.makedirs(output_dir, exist_ok=True)
