@@ -1,0 +1,48 @@
+Clone name,Shape,Length,Width,L w ratio,Notes
+BAL 209,oval,333.0,146.0,2.28,Calculated ratio
+FP 10,elliptic,-,-,-,
+FP 6,elliptic,-,-,-,
+FP 7,elliptic,-,-,-,
+FP 8,elliptic/lanceolate,-,-,-,
+FP 9,elliptic,-,-,-,
+KKM 1,oblong,-,-,-,
+KKM 2,oblong,-,-,-,
+KKM 22,oblong,-,-,-,
+KKM 28,oblong,-,-,2.80,
+KKM 5,oval,-,-,-,
+KKM 6,oblong,-,-,-,
+PBC 112,oval,-,-,3.10,
+PBC 113,oval,-,-,-,
+PBC 123,oval,-,-,2.80,
+PBC 130,oval,-,-,2.80,
+PBC 131,oval,-,-,2.40,
+PBC 140,oval,-,-,2.40,
+PBC 159,oval,-,-,2.60,
+QH 1003,oblong,255.4,98.4,2.59,Calculated ratio
+QH 1176,oblong,393.4,138.8,2.83,Calculated ratio
+QH 12,oblong,323.6,128.2,2.52,Calculated ratio
+QH 1213,oblong,349.2,105.8,3.30,Calculated ratio
+QH 186,oblong,343.8,133.2,2.58,Calculated ratio
+QH 22,oblong,343.8,123.8,2.77,Calculated ratio
+QH 240,oblong,332.0,122.0,2.72,Calculated ratio
+QH 37,oblong,326.6,109.6,2.97,Calculated ratio
+QH 441,oblong,352.2,118.4,2.97,Calculated ratio
+QH 670,oblong,369.6,118.2,3.12,Calculated ratio
+SDS 11,oblong,326.0,124.0,2.62,Calculated ratio
+SDS 18,lanceolate,318.0,135.0,2.35,Calculated ratio
+SDS 20,lanceolate,355.0,126.0,2.81,Calculated ratio
+SDS 21,lanceolate,359.0,132.0,2.71,Calculated ratio
+SDS 36,lanceolate,305.0,136.0,2.24,Calculated ratio
+SDS 4,lanceolate,345.0,124.0,2.78,Calculated ratio
+SDS 41,lanceolate,395.0,145.0,2.72,Calculated ratio
+SDS 46,lanceolate,320.0,123.0,2.60,Calculated ratio
+SDS 52,lanceolate,313.0,109.0,2.87,Calculated ratio
+SDS 54,lanceolate,372.0,134.0,2.77,Calculated ratio
+SDS 58,lanceolate,322.0,126.0,2.55,Calculated ratio
+SDS 6,lanceolate,347.0,136.0,2.55,Calculated ratio
+SDS 74,lanceolate,337.0,129.0,2.61,Calculated ratio
+SDS 8,lanceolate,315.0,131.0,2.40,Calculated ratio
+SDS 84,lanceolate,278.0,110.0,2.52,Calculated ratio
+TG 266,,351.0,144.0,2.43,Calculated ratio
+UPC 41,oval,298.3,104.6,2.85,Calculated ratio
+UPC 50,oval,273.4,109.4,2.49,Calculated ratio

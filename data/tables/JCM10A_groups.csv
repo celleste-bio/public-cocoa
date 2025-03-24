@@ -1,0 +1,894 @@
+Clone name,Plant,NCS,Population,Coeff cl,Subcluster,Coeff scl
+AGU 17 [CHA],-,1,Curaray,0.931,Coca R - Napo R,0.626
+AGU 22 [CHA],-,1,Curaray,0.86,Coca R - Napo R,0.536
+AGU 31 [CHA],-,1,Curaray,0.964,Curaray R - Napo R,0.690
+AGU 5 [CHA],-,1,Curaray,0.991,Coca R - Napo R,0.985
+AGU 8 [CHA],-,1,Curaray,0.558,n-a,-
+AM 1 /57 [POU],-,1,Iquitos,0.996,IMC I,0.998
+AMAZ 1 /5,-,2,Iquitos,0.751,Amazonas,0.942
+AMAZ 10,-,2,Iquitos,0.73,Amazonas,0.994
+AMAZ 11,-,2,Iquitos,0.567,n-a,-
+AMAZ 12,-,1,Iquitos,0.682,n-a,-
+AMAZ 13,-,2,Iquitos,0.735,all,0.966
+AMAZ 14,-,2,Iquitos,0.77,all,0.990
+AMAZ 14,-,2,Iquitos,0.8,Amazonas,0.989
+AMAZ 15 /15,-,1,Iquitos,0.818,Amazonas,0.888
+AMAZ 2,-,2,Iquitos,0.725,all,0.997
+AMAZ 4,-,1,Iquitos,0.756,Amazonas,0.879
+AMAZ 5 /2,-,2,Iquitos,0.777,Amazonas,0.998
+AMAZ 9,-,3,Iquitos,0.495,n-a,-
+AMELONADO 1 [MAY],-,2,Amelonado,0.987,Amelonado Type I,0.996
+AMELONADO 2 [MAY],-,2,Amelonado,0.997,Amelonado Type I,0.976
+B 3 [BLZ],-,1,Criollo,0.997,Lacandona,0.478
+B 48 [BLZ],-,1,Criollo,0.992,Belize,0.953
+Borne 7-A-2,-,2,Guiana,0.991,Camopi R - Euleupousing R,0.703
+Borne 7-A-6,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.685
+Borne 7-B-2,-,2,Guiana,0.997,Camopi R,0.558
+Borne 7-B-3,-,2,Guiana,0.994,Camopi R - Euleupousing R,0.960
+Borne 7-B-4,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.982
+Borne 7-B-5,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.508
+BE 10,1,2,Amelonado,0.703,Amelonado Type III,0.890
+BE 2,1,2,Amelonado,0.521,n-a,-
+BE 3,6,2,Amelonado,0.646,n-a,-
+BE 4,3,2,Amelonado,0.827,Amelonado Type III,0.879
+BE 5,2,2,Amelonado,0.976,Amelonado Type II,0.453
+BE 7,7,2,Amelonado,0.971,Amelonado Type I,0.664
+BE 8,2,3,Amelonado,0.281,n-a,-
+BE 9,1,1,Maranon,0.639,n-a,-
+BEN 1 [VEN],-,1,Criollo,0.996,Santa Marta,0.730
+BEN 5 [VEN],-,1,Criollo,0.998,Santa Marta,0.950
+BOB 8 [CHA],2,2,Nacional,0.551,n-a,-
+C SUL 1,2,1,Iquitos,0.536,n-a,-
+C SUL 10,1,1,Iquitos,0.528,n-a,-
+C SUL 5,1,3,Purus,0.521,n-a,-
+C SUL 9,2,3,Purus,0.453,n-a,-
+CA S 5,-,1,Criollo,0.998,Lacandona,0.795
+CAB 122,2,1,Purus,0.996,Caete R - Purus R,0.985
+CAB 123,2,1,Purus,0.987,Caete R - Purus R,0.989
+CAB 124,3,1,Purus,0.99,Caete R - Purus R,0.992
+CAB 126,2,2,Maranon,0.495,n-a,-
+CAB 127,2,1,Purus,0.996,Caete R - Purus R,0.990
+CAB 128,4,1,Purus,0.996,Caete R - Purus R,0.990
+CAB 130,2,1,Purus,0.99,Caete R - Purus R,0.991
+CAB 131,2,1,Purus,0.989,Caete R - Purus R,0.983
+CAB 132,1,1,Purus,0.996,Caete R - Purus R,0.977
+CAB 145,1,1,Purus,0.993,Acre R,0.946
+CAB 146,2,1,Purus,0.996,Acre R,0.994
+CAB 147,1,1,Purus,0.988,Acre R,0.946
+CAB 148,2,1,Purus,0.977,Acre R,0.993
+CAB 149,2,1,Purus,0.991,Acre R,0.990
+CAB 150,4,1,Purus,0.915,Acre R,0.993
+CAB 151,6,1,Purus,0.986,Acre R,0.873
+CAB 152,3,1,Purus,0.99,Acre R,0.990
+CAB 153,2,1,Purus,0.993,Acre R,0.996
+CAB 154,4,1,Purus,0.99,Acre R,0.816
+CAB 155,4,1,Purus,0.971,Acre R,0.976
+CAB 156,7,1,Purus,0.993,Acre R,0.895
+CAB 16,2,2,Amelonado,0.871,Amelonado Type III,0.575
+CAB 17,4,1,Maranon,0.574,n-a,-
+CAB 18,3,1,Maranon,0.59,n-a,-
+CAB 181,1,2,Purus,0.465,n-a,-
+CAB 182,4,2,Purus,0.532,n-a,-
+CAB 183,1,2,Contamana,0.818,Embira R,0.994
+CAB 184,5,2,Contamana,0.726,Embira R,0.993
+CAB 185,2,2,Contamana,0.703,Embira R,0.994
+CAB 186,2,2,Contamana,0.775,Embira R,0.997
+CAB 187,1,2,Contamana,0.745,Embira R,0.996
+CAB 188,4,2,Contamana,0.729,Embira R,0.989
+CAB 19,4,1,Maranon,0.655,n-a,-
+CAB 190,5,2,Contamana,0.693,n-a,-
+CAB 191,5,1,Purus,0.927,Purus R,0.959
+CAB 193,4,1,Purus,0.924,Purus R,0.936
+CAB 194,1,1,Purus,0.985,Purus R,0.710
+CAB 195,2,1,Purus,0.76,Purus R,0.961
+CAB 196,4,1,Purus,0.992,Purus R,0.884
+CAB 197,3,1,Purus,0.986,Purus R,0.971
+CAB 198,4,1,Purus,0.988,Purus R,0.613
+CAB 20,3,2,Amelonado,0.587,n-a,-
+CAB 200,1,1,Purus,0.737,all,0.557
+CAB 21,3,1,Maranon,0.47,n-a,-
+CAB 211,1,1,Purus,0.981,Caete R - Purus R,0.619
+CAB 213,4,1,Purus,0.989,Acre R,0.692
+CAB 219,3,2,Maranon,0.984,Ji - Parana R,0.890
+CAB 22,2,1,Maranon,0.604,n-a,-
+CAB 221,1,2,Maranon,0.982,Ji - Parana R,0.958
+CAB 224,2,2,Maranon,0.791,Ji - Parana R,0.702
+CAB 23,1,1,Maranon,0.516,n-a,-
+CAB 232,7,2,Maranon,0.997,Ji - Parana R,0.989
+CAB 233,1,2,Maranon,0.997,Ji - Parana R,0.989
+CAB 234,4,2,Maranon,0.992,Ji - Parana R,0.992
+CAB 236,6,2,Purus,0.57,n-a,-
+CAB 24,3,2,Amelonado,0.51,n-a,-
+CAB 244,9,2,Maranon,0.995,Ji - Parana R,0.997
+CAB 25,2,1,Maranon,0.507,n-a,-
+CAB 251,1,2,Maranon,0.993,Ji - Parana R,0.918
+CAB 253,9,2,Maranon,0.996,Ji - Parana R,0.994
+CAB 321,1,2,Iquitos,0.7,Middle Solimoes R,0.992
+CAB 322,1,2,Iquitos,0.717,Middle Solimoes R,0.995
+CAB 323,3,2,Iquitos,0.677,n-a,-
+CAB 324,4,2,Iquitos,0.529,n-a,-
+CAB 326,4,2,Iquitos,0.483,n-a,-
+CAB 327,3,2,Iquitos,0.684,n-a,-
+CAB 328,10,2,Iquitos,0.672,n-a,-
+CAB 329,4,2,Iquitos,0.709,Middle Solimoes R,0.997
+CAB 330,9,2,Iquitos,0.674,n-a,-
+CAB 331,4,2,Iquitos,0.782,Middle Solimoes R,0.995
+CAB 334,4,3,Purus,0.803,Upper Solimoes R - Ica R,0.814
+CAB 335,6,2,Amelonado,0.557,n-a,-
+CAB 336,3,3,Purus,0.77,Upper Solimoes R - Ica R,0.956
+CAB 339,1,3,Purus,0.831,Upper Solimoes R - Ica R,0.970
+CAB 340,2,2,Purus,0.826,Upper Solimoes R - Ica R,0.992
+CAB 341,2,3,Purus,0.819,Upper Solimoes R - Ica R,0.985
+CAB 342,1,2,Purus,0.823,Upper Solimoes R - Ica R,0.997
+CAB 343,3,3,Purus,0.83,Upper Solimoes R - Ica R,0.950
+CAB 344,1,2,Purus,0.644,n-a,-
+CAB 345,2,2,Purus,0.622,n-a,-
+CAB 349,3,1,Iquitos,0.509,n-a,-
+CAB 352,1,1,Iquitos,0.698,IMC I,0.531
+CAB 353,2,1,Iquitos,0.509,n-a,-
+CAB 355,2,3,Purus,0.886,all,0.995
+CAB 356,2,2,Amelonado,0.529,n-a,-
+CAB 357,3,3,Purus,0.825,all,0.955
+CAB 359,3,1,Iquitos,0.543,n-a,-
+CAB 36,3,2,Amelonado,0.807,Amelonado Type III,0.977
+CAB 360,1,3,Purus,0.855,Upper Solimoes R - Ica R,0.529
+CAB 362,5,3,Purus,0.884,Upper Solimoes R - Ica R,0.521
+CAB 363,4,3,Purus,0.821,Upper Solimoes R - Ica R,0.500
+CAB 364,2,2,Purus,0.814,Upper Solimoes R - Ica R,0.811
+CAB 365,4,2,Purus,0.728,Upper Solimoes R - Ica R,0.984
+CAB 366,1,2,Amelonado,0.511,n-a,-
+CAB 367,3,1,Iquitos,0.511,n-a,-
+CAB 368,1,2,Purus,0.784,Upper Solimoes R - Ica R,0.975
+CAB 369,3,2,Purus,0.807,Upper Solimoes R - Ica R,0.974
+CAB 39,9,2,Amelonado,0.994,Amelonado Type III,0.564
+CAB 422,2,2,Maranon,0.978,Ji - Parana R,0.995
+CAB 440,1,2,Maranon,0.983,Ji - Parana R,0.995
+CAB 445,2,2,Maranon,0.995,Ji - Parana R,0.992
+CAB 448,1,2,Maranon,0.99,Ji - Parana R,0.997
+CAB 450,1,2,Maranon,0.944,Ji - Parana R,0.992
+CAB 452,3,2,Maranon,0.923,Ji - Parana R,0.990
+CAB 458,1,2,Maranon,0.996,Ji - Parana R,0.996
+CAB 459,1,2,Maranon,0.879,Ji - Parana R,0.991
+CAB 466,3,2,Maranon,0.985,Ji - Parana R,0.993
+CAB 467,3,2,Maranon,0.995,Ji - Parana R,0.994
+CAB 475,3,2,Purus,0.605,n-a,-
+CAB 478,1,2,Amelonado,0.507,n-a,-
+CAB 481,2,2,Purus,0.612,n-a,-
+CAB 484,1,2,Purus,0.592,n-a,-
+CAB 487,2,2,Purus,0.701,all,0.987
+CAB 488,4,2,Purus,0.678,n-a,-
+CAB 493,3,2,Purus,0.659,n-a,-
+CAB 495,1,2,Purus,0.626,n-a,-
+CAB 496,2,2,Purus,0.465,n-a,-
+CAB 514,1,2,Purus,0.486,n-a,-
+CAB 516,3,2,Iquitos,0.527,n-a,-
+CAB 517,2,2,Iquitos,0.73,Middle Solimoes R,0.996
+CAB 518,1,2,Iquitos,0.727,Middle Solimoes R,0.998
+CAB 519,3,2,Iquitos,0.653,n-a,-
+CAB 521,2,2,Iquitos,0.697,Middle Solimoes R,0.995
+CAB 527,1,2,Iquitos,0.657,n-a,-
+CAB 529,3,2,Iquitos,0.693,n-a,-
+CAB 531,2,2,Iquitos,0.453,n-a,-
+CAB 532,5,2,Iquitos,0.572,n-a,-
+CAB 6,3,1,Maranon,0.508,n-a,-
+CAB 63,1,1,Purus,0.951,Caete R - Purus R,0.937
+CAB 64,1,1,Purus,0.992,Caete R - Purus R,0.993
+CAB 66,1,3,Iquitos,0.326,n-a,-
+CAB 67,2,1,Purus,0.981,Caete R - Purus R,0.978
+CAB 68,3,1,Purus,0.994,Caete R - Purus R,0.896
+CAB 69,2,1,Purus,0.995,Caete R - Purus R,0.984
+CAB 70,2,1,Purus,0.996,Caete R - Purus R,0.985
+CAB 71,3,1,Purus,0.994,Caete R - Purus R,0.986
+CAB 72,2,1,Purus,0.995,Caete R - Purus R,0.936
+CAB 728,3,2,Amelonado,0.992,Uatama R,0.998
+CAB 729,2,2,Amelonado,0.994,Uatama R,0.998
+CAB 730,1,2,Amelonado,0.993,Uatama R,0.998
+CAB 731,1,2,Amelonado,0.993,Uatama R,0.998
+CAB 732,1,2,Amelonado,0.994,Uatama R,0.998
+CAB 733,2,2,Amelonado,0.989,Uatama R,0.998
+CAB 734,1,2,Amelonado,0.993,Uatama R,0.998
+CAB 735,5,2,Amelonado,0.948,Uatama R,0.998
+CAB 745,2,2,Maranon,0.993,Ji - Parana R,0.996
+CAB 749,1,2,Maranon,0.994,Ji - Parana R,0.996
+CAB 754,1,2,Maranon,0.993,Ji - Parana R,0.997
+CAB 756,1,2,Maranon,0.994,Ji - Parana R,0.996
+CAB 757,1,2,Maranon,0.997,Ji - Parana R,0.998
+CAB 758,1,2,Maranon,0.996,Ji - Parana R,0.996
+CAB 76,3,1,Purus,0.995,Caete R - Purus R,0.995
+CAB 763,1,2,Maranon,0.925,Ji - Parana R,0.873
+CAB 764,2,2,Maranon,0.946,Ji - Parana R,0.993
+CAB 77,5,1,Purus,0.995,Caete R - Purus R,0.995
+CAB 771,3,2,Maranon,0.996,Ji - Parana R,0.992
+CAB 772,1,2,Maranon,0.995,Ji - Parana R,0.997
+CAB 775,1,2,Maranon,0.996,Ji - Parana R,0.998
+CAB 776,1,2,Maranon,0.993,Ji - Parana R,0.998
+CAB 777,2,2,Maranon,0.996,Ji - Parana R,0.997
+CAB 779,1,2,Maranon,0.996,Ji - Parana R,0.997
+CAB 78,1,1,Purus,0.994,Caete R - Purus R,0.880
+CAB 782,1,2,Maranon,0.992,Ji - Parana R,0.993
+CAB 783,1,2,Maranon,0.996,Ji - Parana R,0.997
+CAB 79,5,1,Purus,0.995,Caete R - Purus R,0.993
+CAB 80,3,1,Purus,0.992,Caete R - Purus R,0.980
+MATINA 1 /6,-,2,Amelonado,0.956,Amelonado Type III,0.756
+CHA 13 [MEX],-,1,Criollo,0.998,Lacandona,0.926
+CHA 18 [MEX],-,1,Criollo,0.997,Belize,0.782
+CHA 20 [MEX],-,1,Criollo,0.998,Lacandona,0.984
+CHA 5 [MEX],-,1,Criollo,0.997,Lacandona,0.986
+CJ 10 [BRA],3,2,Amelonado,0.57,n-a,-
+CJ 11 [BRA],5,2,Amelonado,0.551,n-a,-
+CJ 2 [BRA],4,2,Guiana,0.51,n-a,-
+CJ 3 [BRA],1,2,Amelonado,0.536,n-a,-
+CJ 4 [BRA],6,2,Guiana,0.543,n-a,-
+CJ 5 [BRA],7,2,Amelonado,0.502,n-a,-
+CJ 6 [BRA],1,2,Amelonado,0.533,n-a,-
+CJ 8 [BRA],3,2,Guiana,0.6,n-a,-
+CJ 9 [BRA],1,2,Amelonado,0.61,n-a,-
+COCA 3023 [CHA],-,1,Curaray,0.996,Coca R - Napo R,0.984
+COCA 3328 [CHA],-,1,Curaray,0.982,Coca R - Napo R,0.970
+COCA 3335 [CHA],-,1,Curaray,0.998,Coca R - Napo R,0.994
+COCA 3338 [CHA],-,1,Curaray,0.987,Coca R - Napo R,0.975
+COCA 3370 /5 [CHA],-,1,Iquitos,0.451,n-a,-
+COL 10 [COL],-,1,Criollo,0.998,Santa Marta,0.981
+COL 11 [COL],-,1,Criollo,0.998,Santa Marta,0.992
+COL 2 [COL],-,1,Criollo,0.997,Santa Marta,0.985
+COL 3 [COL],-,1,Criollo,0.998,Santa Marta,0.988
+COL 4 [COL],-,1,Criollo,0.998,Santa Marta,0.589
+COL 5 [COL],-,1,Criollo,0.998,Santa Marta,0.587
+COL 8 [COL],-,1,Criollo,0.998,Santa Marta,0.989
+CRIOLLO 13 [CRI],-,1,Criollo,0.998,all,0.975
+CUR 3 [CHA],-,2,Curaray,0.432,n-a,-
+CUR 6 [CHA],-,1,Curaray,0.718,Curaray R - Napo R,0.650
+EBC 114,-,3,Purus,0.805,all,0.996
+EBC 121,-,2,Purus,0.609,n-a,-
+EBC 122,-,2,Purus,0.629,n-a,-
+EBC 126,-,2,Nacional,0.406,n-a,-
+EBC 136,-,2,Purus,0.744,all,0.621
+EBC 138,-,2,Purus,0.659,n-a,-
+EBC 142,-,2,Purus,0.441,n-a,-
+EBC 148,-,2,Purus,0.549,n-a,-
+EEG 29,-,2,Amelonado,0.997,Amelonado Type II,0.992
+EEG 65,-,2,Amelonado,0.997,Amelonado Type II,0.976
+ELP 15,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.986
+ELP 16 A,-,2,Guiana,0.998,Camopi R - Euleupousing R,0.992
+ELP 18 A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.988
+ELP 20 A,-,2,Guiana,0.996,Camopi R - Euleupousing R,0.979
+ELP 28 A,-,2,Guiana,0.613,n-a,-
+ELP 32 A,-,2,Guiana,0.565,n-a,-
+ELP 34 A,-,2,Amelonado,0.727,Amelonado Type III,0.964
+ELP 35 A,-,2,Amelonado,0.509,n-a,-
+ELP 37 A,-,2,Amelonado,0.517,n-a,-
+ELP 5,-,2,Guiana,0.998,Camopi R - Euleupousing R,0.788
+ELP 7 A,-,2,Guiana,0.998,Camopi R - Euleupousing R,0.992
+ELP 9 A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.986
+FSC 13,-,2,Amelonado,0.996,Amelonado Type II,0.671
+FSC 3,-,2,Amelonado,0.997,Amelonado Type I,0.981
+GU 116 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.958
+GU 124 /A,-,2,Guiana,0.995,Camopi R - Euleupousing R,0.989
+GU 134 /B,-,2,Guiana,0.984,Camopi R - Euleupousing R,0.922
+GU 138 A,-,2,Guiana,0.996,Camopi R - Euleupousing R,0.989
+GU 139 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.992
+GU 143 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.770
+GU 155 A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.939
+GU 156 B,-,2,Guiana,0.995,Camopi R - Euleupousing R,0.856
+GU 174 A,-,2,Guiana,0.997,Camopi R,0.948
+GU 199 A,-,2,Guiana,0.998,Camopi R,0.981
+GU 214 /A,-,2,Guiana,0.997,Camopi R,0.950
+GU 216 A,-,2,Guiana,0.998,Camopi R,0.938
+GU 218 /A,-,2,Guiana,0.998,Camopi R,0.957
+GU 227 A,-,2,Guiana,0.997,Camopi R,0.980
+GU 230 /A,-,2,Guiana,0.998,Camopi R,0.990
+GU 254 /A,-,2,Guiana,0.998,Camopi R - Euleupousing R,0.991
+GU 274 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.985
+GU 285 /A,-,2,Guiana,0.996,Camopi R - Euleupousing R,0.986
+GU 292 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.659
+GU 295 A,-,2,Guiana,0.998,Camopi R - Euleupousing R,0.509
+GU 297 B,-,2,Guiana,0.993,Camopi R,0.942
+GU 308 /A,-,2,Guiana,0.997,Camopi R,0.967
+GU 315 /A,-,2,Guiana,0.997,Camopi R - Euleupousing R,0.528
+GU 323 /A,-,2,Guiana,0.997,Camopi R,0.990
+GU 326 /A,-,2,Guiana,0.997,Camopi R,0.507
+GU 331 /A,-,2,Guiana,0.994,Camopi R,0.548
+IMC 10,-,1,Iquitos,0.996,IMC I,0.998
+IMC 103,-,1,Iquitos,0.913,IMC II,0.979
+IMC 104,-,1,Iquitos,0.766,IMC II,0.997
+IMC 105,-,1,Iquitos,0.837,IMC II,0.979
+IMC 107,-,1,Iquitos,0.996,IMC I,0.997
+IMC 11,-,1,Iquitos,0.996,IMC I,0.997
+IMC 12,-,1,Iquitos,0.996,IMC I,0.996
+IMC 13,-,1,Iquitos,0.996,IMC I,0.997
+IMC 16,-,1,Iquitos,0.996,IMC I,0.995
+IMC 18,-,1,Iquitos,0.992,IMC I,0.997
+IMC 2,-,1,Iquitos,0.883,IMC II,0.725
+IMC 20,-,1,Iquitos,0.996,IMC I,0.997
+IMC 23,-,1,Iquitos,0.996,IMC I,0.996
+IMC 27,-,1,Iquitos,0.996,IMC I,0.996
+IMC 3,-,1,Iquitos,0.825,IMC II,0.988
+IMC 30,-,1,Iquitos,0.994,IMC I,0.990
+IMC 31,-,1,Iquitos,0.996,IMC I,0.994
+IMC 33,-,1,Iquitos,0.996,IMC I,0.998
+IMC 36,-,1,Iquitos,0.399,n-a,-
+IMC 36,-,1,Iquitos,0.996,IMC I,0.998
+IMC 38,-,1,Iquitos,0.994,IMC I,0.997
+IMC 39,-,1,Iquitos,0.995,IMC I,0.997
+IMC 41,-,1,Iquitos,0.914,IMC II,0.997
+IMC 42,-,1,Iquitos,0.995,IMC I,0.964
+IMC 44,-,1,Iquitos,0.996,IMC I,0.995
+IMC 47,-,1,Iquitos,0.991,IMC I,0.986
+IMC 48,-,1,Iquitos,0.994,IMC I,0.991
+IMC 49,-,1,Iquitos,0.904,IMC II,0.996
+IMC 5,-,1,Iquitos,0.974,IMC I,0.983
+IMC 50,-,1,Iquitos,0.992,IMC I,0.992
+IMC 51,-,1,Iquitos,0.806,IMC II,0.997
+IMC 53,-,1,Iquitos,0.989,IMC I,0.996
+IMC 55,-,1,Iquitos,0.996,IMC I,0.995
+IMC 58,-,1,Iquitos,0.996,IMC I,0.997
+IMC 59,-,1,Iquitos,0.996,IMC I,0.996
+IMC 6,-,1,Iquitos,0.996,IMC I,0.995
+IMC 60,-,1,Iquitos,0.996,IMC I,0.997
+IMC 61,-,1,Iquitos,0.793,IMC II,0.959
+IMC 63,-,1,Iquitos,0.994,IMC I,0.997
+IMC 65,-,1,Iquitos,0.995,IMC I,0.992
+IMC 66,-,1,Iquitos,0.915,IMC II,0.996
+IMC 68,-,1,Iquitos,0.996,IMC I,0.997
+IMC 71,-,1,Iquitos,0.996,IMC I,0.997
+IMC 73,-,1,Iquitos,0.836,IMC II,0.995
+IMC 76,-,1,Iquitos,0.996,IMC I,0.990
+IMC 77,-,1,Iquitos,0.996,IMC I,0.998
+IMC 78,-,1,Iquitos,0.996,IMC I,0.995
+IMC 83,-,1,Iquitos,0.996,IMC I,0.995
+IMC 85,-,1,Iquitos,0.996,IMC I,0.997
+IMC 9,-,1,Iquitos,0.855,IMC II,0.882
+IMC 94,-,1,Iquitos,0.974,IMC II,0.923
+IMC 96,-,1,Iquitos,0.996,IMC I,0.992
+IMC 98,-,1,Iquitos,0.996,IMC I,0.997
+KER 1-L,-,2,Guiana,0.829,Kerindioutou R,0.544
+KER 11-1-L,-,2,Guiana,0.994,Kerindioutou R,0.989
+KER 11-2-L,-,2,Guiana,0.997,Kerindioutou R,0.996
+KER 11-3-L,-,2,Guiana,0.997,Kerindioutou R,0.993
+KER 2-L,-,2,Guiana,0.997,Kerindioutou R,0.996
+KER 3,-,2,Guiana,0.997,Kerindioutou R,0.996
+KER 5,-,2,Guiana,0.973,Kerindioutou R,0.966
+KER 6,-,2,Guiana,0.665,n-a,-
+KER 7,-,2,Guiana,0.998,Kerindioutou R,0.996
+KER 8-L,-,2,Guiana,0.997,Kerindioutou R,0.996
+KER 9,-,2,Guiana,0.996,Kerindioutou R,0.992
+LAN 21,-,1,Criollo,0.998,Lacadona,0.932
+LAN 22,-,1,Criollo,0.998,Lacadona,0.968
+LAN 23,-,1,Criollo,0.994,Lacadona,0.719
+LAN 26,-,1,Criollo,0.995,Lacadona,0.915
+LAN 27,-,1,Criollo,0.998,Lacadona,0.985
+LAN 28,-,1,Criollo,0.998,Lacadona,0.991
+LAN 29,-,1,Criollo,0.998,Lacadona,0.990
+LAN 30,-,1,Criollo,0.998,Lacadona,0.992
+LCT EEN 107,-,1,Curaray,0.653,n-a,-
+LCT EEN 108,-,1,Curaray,0.693,n-a,-
+LCT EEN 120,-,1,Curaray,0.881,Coca R - Napo R,0.538
+LCT EEN 121,-,1,Curaray,0.739,Curaray R - Napo R,0.656
+LCT EEN 121,-,1,Curaray,0.872,Bobonaza R,0.947
+LCT EEN 122,-,1,Curaray,0.874,Bobonaza R,0.985
+LCT EEN 123,-,1,Curaray,0.892,Bobonaza R,0.953
+LCT EEN 124,-,1,Curaray,0.942,Bobonaza R,0.968
+LCT EEN 125,-,1,Curaray,0.921,Bobonaza R,0.938
+LCT EEN 133,-,1,Curaray,0.987,Coca R - Napo R,0.835
+LCT EEN 134,-,2,Curaray,0.481,n-a,-
+LCT EEN 137,-,1,Curaray,0.998,Coca R - Napo R,0.994
+LCT EEN 141,-,1,Curaray,0.998,Coca R - Napo R,0.989
+LCT EEN 142,-,1,Curaray,0.899,Coca R - Napo R,0.728
+LCT EEN 144,-,1,Curaray,0.996,Coca R - Napo R,0.992
+LCT EEN 146,-,3,Amelonado,0.433,n-a,-
+LCT EEN 151,-,1,Curaray,0.558,n-a,-
+LCT EEN 152,-,1,Curaray,0.561,n-a,-
+LCT EEN 154,-,1,Curaray,0.716,Curaray R - Napo R,0.989
+LCT EEN 156,-,1,Curaray,0.873,Curaray R - Napo R,0.959
+LCT EEN 162 /S-1010,-,1,Iquitos,0.541,n-a,-
+LCT EEN 163 /A,-,1,Curaray,0.947,Coca R - Napo R,0.563
+LCT EEN 180,-,1,Curaray,0.794,Curaray R - Napo R,0.735
+LCT EEN 188,-,2,Curaray,0.461,n-a,-
+LCT EEN 189,-,2,Curaray,0.455,n-a,-
+LCT EEN 193,-,2,Curaray,0.477,n-a,-
+LCT EEN 195,-,2,Curaray,0.432,n-a,-
+LCT EEN 2,-,1,Curaray,0.996,Coca R - Napo R,0.924
+LCT EEN 219,-,1,Curaray,0.997,Coca R - Napo R,0.903
+LCT EEN 223,-,1,Curaray,0.998,Coca R - Napo R,0.890
+LCT EEN 227,-,1,Curaray,0.349,n-a,-
+LCT EEN 23,-,1,Curaray,0.785,Curaray R - Napo R,0.991
+LCT EEN 232,-,1,Curaray,0.997,Coca R - Napo R,0.805
+LCT EEN 234,-,1,Curaray,0.996,Coca R - Napo R,0.948
+LCT EEN 237,-,1,Curaray,0.995,Coca R - Napo R,0.977
+LCT EEN 241,-,1,Curaray,0.754,Upano R,0.431
+LCT EEN 249,-,1,Curaray,0.631,n-a,-
+LCT EEN 250,-,1,Contamana,0.28,n-a,-
+LCT EEN 253,-,1,Curaray,0.688,n-a,-
+LCT EEN 254,-,1,Curaray,0.812,Curaray R - Napo R,0.523
+LCT EEN 255,-,1,Curaray,0.718,Curaray R - Napo R,0.821
+LCT EEN 257,-,1,Curaray,0.813,Curaray R - Napo R,0.611
+LCT EEN 258,-,1,Curaray,0.741,Curaray R - Napo R,0.655
+LCT EEN 259,-,1,Curaray,0.732,Curaray R - Napo R,0.739
+LCT EEN 26,-,2,Amelonado,0.352,n-a,-
+LCT EEN 261 /S-4,-,1,Curaray,0.993,Upano R,0.865
+LCT EEN 264,-,1,Curaray,0.8,Curaray R - Napo R,0.680
+LCT EEN 278,-,1,Iquitos,0.385,n-a,-
+LCT EEN 278,-,1,Curaray,0.736,Curaray R - Napo R,0.659
+LCT EEN 281,-,1,Curaray,0.849,Bobonaza R,0.455
+LCT EEN 30,-,1,Curaray,0.798,Curaray R - Napo R,0.980
+LCT EEN 300,-,1,Curaray,0.992,Upano R,0.987
+LCT EEN 302,-,3,Amelonado,0.471,n-a,-
+LCT EEN 31,-,1,Curaray,0.762,Curaray R - Napo R,0.990
+LCT EEN 312,-,2,Nacional,0.269,n-a,-
+LCT EEN 312,-,1,Curaray,0.996,Upano R,0.985
+LCT EEN 32,-,1,Curaray,0.792,Curaray R - Napo R,0.991
+LCT EEN 325,-,1,Curaray,0.668,n-a,-
+LCT EEN 326,-,3,Iquitos,0.356,n-a,-
+LCT EEN 327,-,1,Curaray,0.989,Coca R - Napo R,0.986
+LCT EEN 329,-,1,Curaray,0.739,Upano R,0.933
+LCT EEN 33,-,1,Curaray,0.832,Curaray R - Napo R,0.954
+LCT EEN 333,-,1,Curaray,0.991,Upano R,0.979
+LCT EEN 334,-,1,Curaray,0.995,Upano R,0.967
+LCT EEN 347,-,1,Curaray,0.972,Upano R,0.986
+LCT EEN 36,-,1,Curaray,0.696,Curaray R - Napo R,0.984
+LCT EEN 362,-,3,Purus,0.606,n-a,-
+LCT EEN 364,-,3,Purus,0.474,n-a,-
+LCT EEN 366,-,3,Purus,0.605,n-a,-
+LCT EEN 367,-,3,Purus,0.622,n-a,-
+LCT EEN 368,-,3,Purus,0.549,n-a,-
+LCT EEN 369,-,3,Purus,0.441,n-a,-
+LCT EEN 37,-,1,Curaray,0.626,n-a,-
+LCT EEN 370,-,3,Purus,0.613,n-a,-
+LCT EEN 371,-,3,Purus,0.492,n-a,-
+LCT EEN 373,-,1,Curaray,0.859,Curaray R - Napo R,0.558
+LCT EEN 374,-,1,Curaray,0.997,Coca R - Napo R,0.821
+LCT EEN 376,-,1,Curaray,0.996,Coca R - Napo R,0.754
+LCT EEN 38,-,1,Curaray,0.679,n-a,-
+LCT EEN 386,-,1,Curaray,0.997,Upano R,0.505
+LCT EEN 389,-,1,Curaray,0.993,Upano R,0.380
+LCT EEN 390,-,1,Curaray,0.996,Upano R,0.483
+LCT EEN 395,-,1,Curaray,0.706,Curaray R - Napo R,0.990
+LCT EEN 399,-,1,Curaray,0.761,Curaray R - Napo R,0.959
+LCT EEN 401,-,2,Curaray,0.473,n-a,-
+LCT EEN 403,-,2,Curaray,0.418,n-a,-
+LCT EEN 406,-,4,Purus,0.386,n-a,-
+LCT EEN 408,-,4,Purus,0.39,n-a,-
+LCT EEN 409,-,4,Purus,0.382,n-a,-
+LCT EEN 411,-,3,Purus,0.49,n-a,-
+LCT EEN 412,-,4,Purus,0.408,n-a,-
+LCT EEN 413,-,4,Purus,0.39,n-a,-
+LCT EEN 414,-,3,Purus,0.597,n-a,-
+LCT EEN 415,-,4,Purus,0.41,n-a,-
+LCT EEN 421,-,1,Curaray,0.995,Upano R,0.992
+LCT EEN 427,-,1,Curaray,0.856,Upano R,0.917
+LCT EEN 429,-,1,Curaray,0.842,Upano R,0.797
+LCT EEN 432,-,1,Curaray,0.964,Upano R,0.993
+LCT EEN 434,-,1,Curaray,0.977,Upano R,0.989
+LCT EEN 46,-,4,Nacional,0.429,n-a,-
+LCT EEN 47,-,1,Curaray,0.988,Coca R - Napo R,0.851
+LCT EEN 49,-,1,Curaray,0.995,Coca R - Napo R,0.917
+LCT EEN 52,-,1,Curaray,0.989,Coca R - Napo R,0.903
+LCT EEN 57,-,2,Iquitos,0.255,n-a,-
+LCT EEN 57,-,1,Curaray,0.992,Coca R - Napo R,0.823
+LCT EEN 60,-,1,Curaray,0.535,n-a,-
+LCT EEN 63,-,1,Curaray,0.998,Coca R - Napo R,0.991
+LCT EEN 65,-,1,Curaray,0.998,Coca R - Napo R,0.989
+LCT EEN 73,-,1,Iquitos,0.516,n-a,-
+LCT EEN 73,-,2,Nacional,0.776,all,0.744
+LCT EEN 74,-,2,Nacional,0.705,all,0.865
+LCT EEN 80,-,1,Curaray,0.604,n-a,-
+LCT EEN 81,-,2,Nacional,0.604,n-a,-
+LCT EEN 87,-,1,Curaray,0.989,Upano R,0.973
+LCT EEN 91,-,2,Nacional,0.937,all,0.583
+LCT EEN 94,-,1,Curaray,0.547,n-a,-
+LIB 1,-,1,Criollo,0.998,Belize,0.934
+LIB 2,-,1,Criollo,0.995,Belize,0.960
+MA 11 [BRA],2,3,Amelonado,0.499,n-a,-
+MA 12 [BRA],3,2,Amelonado,0.465,n-a,-
+MA 13 [BRA],9,3,Amelonado,0.563,n-a,-
+MA 14 [BRA],9,2,Amelonado,0.333,n-a,-
+MA 15 [BRA],21,3,Amelonado,0.351,n-a,-
+MO 118,-,2,Nacional,0.996,Morona,0.995
+MO 121,-,2,Nacional,0.971,Morona,0.995
+MO 122,-,2,Nacional,0.961,all,0.547
+MO 125,-,2,Nacional,0.991,Morona,0.991
+MO 14,-,2,Nacional,0.995,Morona,0.996
+MO 20,-,2,Nacional,0.983,Morona,0.919
+MO 76,-,2,Nacional,0.917,all,0.709
+MO 80,-,2,Nacional,0.991,Morona,0.844
+MO 84,-,2,Nacional,0.925,Morona,0.686
+MO 90,-,2,Nacional,0.996,Morona,0.995
+MO 94,-,2,Nacional,0.989,all,0.803
+MO 96,-,2,Nacional,0.992,Morona,0.993
+MO 99,-,2,Nacional,0.995,Morona,0.996
+NA 1,-,1,Nanay,0.571,n-a,-
+NA 1 /19,-,1,Nanay,0.609,n-a,-
+NA 106,-,1,Nanay,0.998,Nanay I,0.625
+NA 110,-,1,Nanay,0.608,n-a,-
+NA 111,-,1,Nanay,0.604,n-a,-
+NA 118,-,1,Nanay,0.998,Nanay III,0.992
+NA 12,-,1,Nanay,0.57,n-a,-
+NA 127,-,1,Nanay,0.998,Nanay III,0.992
+NA 129,-,1,Nanay,0.998,Nanay I,0.992
+NA 13,-,1,Nanay,0.583,n-a,-
+NA 14,-,1,Nanay,0.573,n-a,-
+NA 141,-,1,Nanay,0.755,Nanay II,0.989
+NA 149,-,1,Nanay,0.882,all,0.555
+NA 154,-,1,Nanay,0.913,Nanay III,0.545
+NA 155,-,1,Nanay,0.846,all,0.589
+NA 156,-,1,Nanay,0.996,Nanay III,0.989
+NA 157,-,1,Nanay,0.997,Nanay I,0.510
+NA 16,-,1,Nanay,0.624,n-a,-
+NA 168,-,1,Nanay,0.807,all,0.485
+NA 170,-,1,Nanay,0.521,n-a,-
+NA 178,-,1,Nanay,0.998,Nanay I,0.992
+NA 181,-,1,Nanay,0.728,all,0.991
+NA 183,-,1,Nanay,0.786,all,0.983
+NA 184,-,1,Nanay,0.998,Nanay I,0.992
+NA 186,-,1,Nanay,0.997,Nanay I,0.588
+NA 187,-,1,Nanay,0.738,Nanay II,0.989
+NA 189,-,1,Nanay,0.766,Nanay II,0.991
+NA 191,-,1,Nanay,0.981,Nanay III,0.536
+NA 194,-,1,Nanay,0.998,Nanay III,0.994
+NA 204,-,1,Nanay,0.997,Nanay I,0.994
+NA 206,-,1,Nanay,0.636,n-a,-
+NA 217,-,1,Nanay,0.998,Nanay I,0.991
+NA 226,-,1,Nanay,0.787,Nanay II,0.501
+NA 227,-,1,Nanay,0.67,n-a,-
+NA 228,-,1,Nanay,0.997,Nanay I,0.970
+NA 229,-,1,Nanay,0.574,n-a,-
+NA 232,-,1,Nanay,0.998,Nanay I,0.658
+NA 235,-,1,Nanay,0.789,Nanay II,0.987
+NA 241,-,1,Nanay,0.814,Nanay II,0.954
+NA 244,-,1,Nanay,0.775,Nanay II,0.955
+NA 246,-,1,Nanay,0.805,all,0.661
+NA 249,-,1,Nanay,0.998,Nanay III,0.989
+NA 251,-,1,Contamana,0.853,Nanay VII,0.998
+NA 254,-,1,Nanay,0.997,Nanay I,0.975
+NA 256,-,2,Iquitos,0.644,n-a,-
+NA 258,-,1,Nanay,0.603,n-a,-
+NA 26,-,1,Nanay,0.552,n-a,-
+NA 268,-,2,Iquitos,0.43,n-a,-
+NA 279,-,1,Nanay,0.997,Nanay III,0.843
+NA 280,-,1,Nanay,0.998,Nanay I,0.993
+NA 283,-,1,Nanay,0.998,Nanay I,0.950
+NA 286,-,1,Nanay,0.998,Nanay I,0.520
+NA 289,-,1,Nanay,0.998,Nanay I,0.991
+NA 3,-,1,Nanay,0.602,n-a,-
+NA 30,-,1,Nanay,0.998,Nanay III,0.994
+NA 311,-,1,Nanay,0.998,Nanay III,0.970
+NA 32,-,2,Iquitos,0.507,n-a,-
+NA 322,-,1,Nanay,0.998,Nanay I,0.991
+NA 326,-,1,Nanay,0.998,Nanay III,0.587
+NA 327,-,1,Nanay,0.868,Nanay I,0.559
+NA 329,-,1,Nanay,0.998,Nanay I,0.994
+NA 33,-,1,Nanay,0.617,n-a,-
+NA 331,-,1,Nanay,0.998,Nanay I,0.992
+NA 335,-,1,Nanay,0.998,Nanay III,0.963
+NA 337,-,1,Nanay,0.819,Nanay II,0.656
+NA 34,-,2,Iquitos,0.52,n-a,-
+NA 342,-,1,Nanay,0.993,Nanay III,0.572
+NA 35,-,1,Nanay,0.785,all,0.518
+NA 359,-,1,Nanay,0.982,Nanay III,0.515
+NA 370,-,1,Nanay,0.993,Nanay III,0.550
+NA 39,-,1,Iquitos,0.485,n-a,-
+NA 399,-,1,Nanay,0.997,all,0.925
+NA 40,-,1,Nanay,0.998,Nanay III,0.630
+NA 406,-,1,Nanay,0.626,n-a,-
+NA 409,-,1,Iquitos,0.521,n-a,-
+NA 427,-,1,Nanay,0.998,Nanay I,0.983
+NA 43,-,1,Nanay,0.96,Nanay III,0.766
+NA 432,-,1,Nanay,0.84,all,0.631
+NA 435,-,1,Nanay,0.998,Nanay I,0.992
+NA 45,-,1,Nanay,0.951,Nanay III,0.497
+NA 46,-,1,Nanay,0.959,Nanay III,0.495
+NA 47,-,1,Contamana,0.817,Nanay VII,0.999
+NA 504,-,1,Nanay,0.998,Nanay I,0.992
+NA 507,-,1,Nanay,0.998,Nanay I,0.510
+NA 519,-,1,Nanay,0.995,Nanay III,0.502
+NA 528,-,1,Nanay,0.625,n-a,-
+NA 58,-,1,Nanay,0.777,all,0.956
+NA 61,-,1,Nanay,0.554,n-a,-
+NA 62,-,1,Nanay,0.578,n-a,-
+NA 66,-,1,Nanay,0.569,n-a,-
+NA 670,-,1,Nanay,0.781,all,0.601
+NA 672,-,1,Nanay,0.998,Nanay I,0.993
+NA 674,-,1,Nanay,0.997,Nanay III,0.978
+NA 675,-,1,Nanay,0.998,Nanay I,0.991
+NA 678,-,1,Nanay,0.998,Nanay III,0.993
+NA 68,-,1,Iquitos,0.638,n-a,-
+NA 685,-,1,Nanay,0.993,Nanay III,0.973
+NA 687,-,1,Nanay,0.996,Nanay I,0.981
+NA 689,-,1,Nanay,0.998,Nanay I,0.989
+NA 69,-,1,Contamana,0.76,Nanay VII,0.998
+NA 694,-,1,Contamana,0.875,Nanay VII,0.999
+NA 695,-,1,Contamana,0.831,Nanay VII,0.999
+NA 697,-,1,Nanay,0.998,Nanay III,0.599
+NA 699,-,1,Nanay,0.75,all,0.649
+NA 70,-,1,Nanay,0.664,n-a,-
+NA 702,-,1,Nanay,0.976,Nanay III,0.855
+NA 705,-,1,Nanay,0.998,Nanay I,0.524
+NA 708,-,1,Nanay,0.998,Nanay III,0.992
+NA 710,-,1,Nanay,0.997,Nanay I,0.527
+NA 711,-,1,Contamana,0.86,Nanay VII,0.978
+NA 712,-,2,Nacional,0.383,n-a,-
+NA 713,-,1,Contamana,0.546,n-a,-
+NA 715,-,1,Nanay,0.993,Nanay III,0.551
+NA 718,-,1,Nanay,0.998,Nanay III,0.991
+NA 719,-,1,Nanay,0.997,all,0.974
+NA 720,-,1,Nanay,0.833,all,0.523
+NA 728,-,1,Nanay,0.998,Nanay III,0.983
+NA 730,-,1,Nanay,0.998,Nanay I,0.992
+NA 732,-,1,Nanay,0.998,Nanay III,0.501
+NA 739,-,1,Contamana,0.882,Nanay VII,0.999
+NA 74,-,1,Nanay,0.764,Nanay II,0.966
+NA 746,-,1,Nanay,0.932,all,0.602
+NA 747,-,1,Contamana,0.836,Nanay VII,0.993
+NA 753,-,1,Nanay,0.711,all,0.991
+NA 756,-,1,Nanay,0.993,Nanay III,0.983
+NA 763,-,1,Nanay,0.882,Nanay III,0.482
+NA 766,-,1,Nanay,0.998,Nanay I,0.991
+NA 768,-,1,Nanay,0.535,n-a,-
+NA 770,-,1,Nanay,0.998,Nanay I,0.991
+NA 771,-,1,Nanay,0.975,Nanay III,0.952
+NA 773,-,1,Nanay,0.998,Nanay I,0.994
+NA 79,-,1,Nanay,0.754,Nanay II,0.588
+NA 796,-,1,Nanay,0.846,all,0.654
+NA 8,-,1,Nanay,0.585,n-a,-
+NA 802,-,1,Nanay,0.997,Nanay I,0.989
+NA 804,-,1,Nanay,0.887,all,0.501
+NA 807,-,1,Nanay,0.621,n-a,-
+NA 824,-,1,Nanay,0.836,all,0.579
+NA 831,-,1,Nanay,0.602,n-a,-
+NA 84,-,1,Nanay,0.992,Nanay I,0.542
+NA 841,-,1,Nanay,0.79,all,0.698
+NA 847,-,1,Nanay,0.802,Nanay II,0.962
+NA 860,-,1,Nanay,0.983,Nanay I,0.953
+NA 867,-,1,Nanay,0.953,all,0.988
+NA 87,-,1,Nanay,0.554,n-a,-
+NA 877,-,1,Nanay,0.998,Nanay I,0.990
+NA 888,-,1,Nanay,0.954,all,0.984
+NA 90,-,1,Nanay,0.997,Nanay I,0.506
+NA 92,-,1,Nanay,0.977,Nanay III,0.959
+NA 929,-,1,Nanay,0.997,Nanay I,0.991
+NA 937,-,1,Nanay,0.997,Nanay III,0.499
+NA 95,-,1,Nanay,0.76,Nanay II,0.572
+NA 950,-,1,Nanay,0.683,n-a,-
+NA 98,-,1,Nanay,0.842,all,0.652
+NAPO 1 [CHA],-,1,Curaray,0.644,n-a,-
+NAPO 19 [CHA],-,1,Curaray,0.997,Coca R - Napo R,0.811
+NAPO 24 [CHA],-,1,Curaray,0.997,Coca R - Napo R,0.982
+NAPO 25 [CHA],-,1,Curaray,0.994,Coca R - Napo R,0.858
+NAPO 3 [CHA],-,1,Curaray,0.647,n-a,-
+NAPO 30 [CHA],-,1,Curaray,0.846,Coca R - Napo R,0.566
+NAPO 41 [CHA],1,1,Curaray,0.992,Coca R - Napo R,0.981
+OYA 2 A,-,2,Amelonado,0.633,n-a,-
+OYA 4,-,2,Amelonado,0.583,n-a,-
+PA 1 [PER],-,1,Maranon,0.437,n-a,-
+PA 105 [PER],-,1,Maranon,0.989,Parinari I,0.994
+PA 107 [PER],-,1,Maranon,0.942,Parinari III,0.918
+PA 115 [PER],-,1,Maranon,0.994,Parinari I,0.994
+PA 118 [PER],-,1,Maranon,0.971,Parinari IV,0.993
+PA 12 [PER],-,1,Maranon,0.965,Parinari IV,0.943
+PA 120 [PER],-,1,Maranon,0.995,Parinari I,0.993
+PA 121 [PER],-,1,Maranon,0.996,Parinari I,0.985
+PA 123 [PER],-,1,Maranon,0.994,Parinari I,0.554
+PA 125 [PER],-,1,Maranon,0.953,Parinari III,0.896
+PA 126 [PER],-,1,Maranon,0.968,Parinari IV,0.619
+PA 128 [PER],-,1,Maranon,0.981,Parinari II,0.596
+PA 13 [PER],-,1,Maranon,0.911,Parinari III,0.936
+PA 134 [PER],-,1,Maranon,0.988,Parinari IV,0.987
+PA 135 [PER],-,1,Maranon,0.986,Parinari IV,0.991
+PA 136 [PER],-,1,Maranon,0.993,Parinari I,0.514
+PA 137 [PER],-,1,Maranon,0.995,Parinari I,0.994
+PA 139 [PER],-,1,Maranon,0.992,Parinari IV,0.985
+PA 140 [PER],-,1,Maranon,0.996,Parinari I,0.995
+PA 141 [PER],-,1,Maranon,0.993,Parinari IV,0.553
+PA 149 [PER],-,1,Maranon,0.887,Parinari I,0.987
+PA 15 [PER],-,1,Maranon,0.98,Parinari IV,0.951
+PA 150 [PER],-,1,Maranon,0.981,Parinari IV,0.787
+PA 151 [PER],-,1,Maranon,0.994,Parinari II,0.608
+PA 157 [PER],-,1,Maranon,0.968,Parinari IV,0.710
+PA 16 [PER],-,1,Maranon,0.884,Parinari III,0.626
+PA 165 [PER],-,1,Maranon,0.994,Parinari I,0.901
+PA 168 [PER],-,1,Maranon,0.993,Parinari I,0.631
+PA 169 [PER],-,1,Maranon,0.992,Parinari IV,0.921
+PA 171 [PER],-,1,Maranon,0.991,Parinari IV,0.911
+PA 173 [PER],-,1,Maranon,0.939,Parinari IV,0.989
+PA 175 [PER],-,1,Maranon,0.912,Parinari II,0.798
+PA 176 [PER],-,1,Maranon,0.992,Parinari I,0.941
+PA 179 [PER],-,1,Maranon,0.994,Parinari IV,0.945
+PA 18 [PER],-,1,Maranon,0.969,Parinari III,0.956
+PA 184 [PER],-,1,Maranon,0.976,Parinari IV,0.656
+PA 185 [PER],-,1,Maranon,0.981,Parinari IV,0.991
+PA 186 [PER],-,1,Maranon,0.99,Parinari II,0.442
+PA 187 [PER],-,1,Maranon,0.57,n-a,-
+PA 188 [PER],-,1,Maranon,0.894,Parinari IV,0.665
+PA 189 [PER],-,1,Maranon,0.989,Parinari II,0.564
+PA 191 [PER],-,1,Maranon,0.992,Parinari IV,0.582
+PA 194 [PER],-,1,Maranon,0.733,Parinari III,0.913
+PA 195 [PER],-,1,Maranon,0.979,Parinari I,0.842
+PA 196 [PER],-,1,Maranon,0.929,Parinari IV,0.731
+PA 2 [PER],-,1,Maranon,0.881,Parinari III,0.659
+PA 20 [PER],-,1,Maranon,0.987,Parinari IV,0.859
+PA 200 [PER],-,1,Maranon,0.973,Parinari IV,0.987
+PA 202 [PER],-,1,Maranon,0.933,Parinari IV,0.707
+PA 203 [PER],-,1,Maranon,0.994,Parinari I,0.982
+PA 207 [PER],-,1,Maranon,0.994,Parinari IV,0.922
+PA 211 [PER],-,1,Maranon,0.95,Parinari I,0.986
+PA 218 [PER],-,1,Maranon,0.892,Parinari III,0.809
+PA 24 [PER],-,1,Maranon,0.982,Parinari IV,0.810
+PA 271 [PER],-,1,Maranon,0.994,Parinari I,0.976
+PA 272 [PER],-,1,Maranon,0.769,Parinari III,0.986
+PA 279 [PER],-,1,Maranon,0.995,Parinari I,0.990
+PA 289 [PER],-,1,Maranon,0.868,Parinari I,0.959
+PA 29 [PER],-,1,Maranon,0.93,Parinari IV,0.897
+PA 293 [PER],-,1,Maranon,0.956,Parinari IV,0.757
+PA 294 [PER],-,1,Maranon,0.991,Parinari II,0.846
+PA 296 [PER],-,1,Maranon,0.963,Parinari IV,0.722
+PA 297 [PER],-,1,Maranon,0.994,Parinari I,0.992
+PA 299 [PER],-,1,Maranon,0.994,Parinari I,0.991
+PA 3 [PER],-,1,Maranon,0.872,Parinari IV,0.648
+PA 30 [PER],-,1,Maranon,0.961,Parinari II,0.590
+PA 300 [PER],-,1,Maranon,0.985,Parinari II,0.543
+PA 301 [PER],-,1,Maranon,0.989,Parinari I,0.994
+PA 303 [PER],-,1,Maranon,0.995,Parinari I,0.993
+PA 310 [PER],-,1,Maranon,0.957,Parinari II,0.524
+PA 312 [PER],-,1,Maranon,0.866,Parinari III,0.921
+PA 32 [PER],-,1,Maranon,0.988,Parinari II,0.893
+PA 39 [PER],-,1,Maranon,0.941,Parinari IV,0.697
+PA 4 [PER],-,1,Maranon,0.994,Parinari I,0.378
+PA 41 [PER],-,1,Maranon,0.991,Parinari I,0.582
+PA 45 [PER],-,1,Maranon,0.982,Parinari I,0.549
+PA 46 [PER],-,1,Maranon,0.973,Parinari II,0.666
+PA 49 [PER],-,1,Maranon,0.965,Parinari I,0.541
+PA 51 [PER],-,1,Maranon,0.994,Parinari IV,0.860
+PA 52 [PER],-,1,Maranon,0.993,Parinari II,0.986
+PA 53 [PER],-,1,Maranon,0.981,Parinari II,0.969
+PA 56 [PER],-,1,Maranon,0.994,Parinari I,0.994
+PA 61 [PER],-,1,Maranon,0.953,Parinari III,0.850
+PA 63 [PER],-,1,Maranon,0.973,Parinari IV,0.637
+PA 65 [PER],-,1,Maranon,0.777,Parinari III,0.965
+PA 67 [PER],-,1,Maranon,0.744,Parinari III,0.979
+PA 70 [PER],-,1,Maranon,0.993,Parinari I,0.588
+PA 71 [PER],-,1,Maranon,0.995,Parinari I,0.681
+PA 72 [PER],-,1,Maranon,0.898,Parinari II,0.868
+PA 73 [PER],-,1,Maranon,0.996,Parinari I,0.976
+PA 82 [PER],-,1,Maranon,0.992,Parinari IV,0.955
+PA 84 [PER],-,1,Maranon,0.994,Parinari IV,0.575
+PA 88 [PER],-,1,Maranon,0.962,Parinari IV,0.941
+PA 90 [PER],-,1,Maranon,0.977,Parinari IV,0.721
+PA 95 [PER],-,1,Maranon,0.965,Parinari II,0.979
+PA 98 [PER],-,1,Maranon,0.935,Parinari I,0.436
+PER 2,-,1,Criollo,0.998,n-a,0.925
+PINA 1,-,2,Guiana,0.768,all,0.970
+POUND 1 /B,-,1,Nanay,0.992,Nanay I,0.984
+POUND 10 /B,-,1,Nanay,0.994,Nanay III,0.788
+POUND 12 /A,-,2,Iquitos,0.645,n-a,-
+POUND 14 /A,-,2,Iquitos,0.627,n-a,-
+POUND 15 /A,-,1,Nanay,0.998,Nanay I,0.588
+POUND 16 /B,-,1,Nanay,0.651,n-a,-
+POUND 2 /A,-,1,Nanay,0.998,Nanay I,0.993
+POUND 2 /B,-,1,Nanay,0.995,Nanay I,0.986
+POUND 21 /B,-,2,Iquitos,0.668,n-a,-
+POUND 25 /C,-,1,Nanay,0.995,all,0.489
+POUND 26 /C,-,1,Nanay,0.967,Nanay III,0.464
+POUND 26 /C,-,1,Nanay,0.998,Nanay I,0.516
+POUND 27 /C,-,1,Maranon,0.673,n-a,-
+POUND 31 /C,-,1,Contamana,0.987,Scavina,0.793
+POUND 32 /A,-,1,Nanay,0.997,Nanay I,0.993
+POUND 5 /C,-,1,Nanay,0.993,Nanay III,0.578
+POUND 7 /C,-,1,Nanay,0.545,n-a,-
+POUND 8 /C,-,1,Nanay,0.998,Nanay I,0.992
+POUND 9 /A,-,1,Nanay,0.996,Nanay III,0.663
+RANCHITO 1,-,1,Criollo,0.998,Lacandona,0.990
+RB 33 [BRA],1,1,Purus,0.995,Acre R,0.985
+RB 37 [BRA],2,1,Purus,0.99,Acre R,0.980
+RB 38 [BRA],6,1,Purus,0.994,Acre R,0.993
+RB 39 [BRA],1,1,Purus,0.994,Acre R,0.993
+RB 40 [BRA],-,1,Purus,0.993,Acre R,0.984
+RB 41 [BRA],1,1,Purus,0.996,Acre R,0.726
+RB 42 [BRA],5,1,Purus,0.995,Acre R,0.997
+RB 45 [BRA],1,1,Purus,0.993,Acre R,0.784
+RB 46 [BRA],4,1,Purus,0.996,Acre R,0.897
+RB 47 [BRA],3,1,Purus,0.994,Acre R,0.963
+RB 48 [BRA],1,1,Purus,0.996,Acre R,0.988
+SAN MIGUEL 8 [CHA],-,1,Curaray,0.658,n-a,-
+SAN MIGUEL 9 [CHA],-,1,Curaray,0.54,n-a,-
+SAUCITO 1,-,1,Criollo,0.997,Lacandona,0.988
+SCA 11,-,1,Contamana,0.994,Scavina,0.992
+SCA 12,-,1,Contamana,0.996,Scavina,0.995
+SCA 19,-,1,Contamana,0.996,Scavina,0.998
+SCA 3,-,1,Contamana,0.997,Scavina,0.997
+SCA 5,-,1,Contamana,0.996,Scavina,0.997
+SCA 6,2,1,Contamana,0.997,Scavina,0.997
+SCA 7,-,1,Contamana,0.996,Scavina,0.998
+SCA 8,-,1,Contamana,0.997,Scavina,0.994
+SCA 9,-,1,Contamana,0.991,Scavina,0.969
+SIAL 169,-,2,Amelonado,0.997,Amelonado Type II,0.993
+SIAL 20,-,2,Amelonado,0.996,Amelonado Type II,0.972
+SIAL 283,-,2,Amelonado,0.997,Amelonado Type II,0.979
+SIAL 325,-,2,Amelonado,0.997,Amelonado Type I,0.782
+SIAL 407,-,2,Amelonado,0.997,Amelonado Type I,0.968
+SIAL 505,-,2,Amelonado,0.997,Amelonado Type II,0.991
+SIAL 512,-,2,Amelonado,0.996,Amelonado Type I,0.585
+SIAL 543,-,2,Amelonado,0.997,Amelonado Type II,0.996
+SIAL 70,-,2,Amelonado,0.997,Amelonado Type I,0.769
+SIAL 84,-,2,Amelonado,0.997,Amelonado Type II,0.962
+SIAL 88,-,2,Amelonado,0.998,Amelonado Type II,0.939
+SIC 19,-,2,Amelonado,0.997,Amelonado Type II,0.912
+SIC 2,-,2,Amelonado,0.997,Amelonado Type I,0.774
+SIC 23,-,2,Amelonado,0.997,Amelonado Type II,0.728
+SIC 328,-,2,Amelonado,0.997,Amelonado Type II,0.994
+SIC 662,-,2,Amelonado,0.997,Amelonado Type I,0.825
+SIC 801,-,2,Amelonado,0.997,Amelonado Type I,0.995
+SIC 802,-,2,Amelonado,0.997,Amelonado Type I,0.996
+SIC 806,-,2,Amelonado,0.993,Amelonado Type I,0.993
+SIC 961,-,2,Amelonado,0.996,Amelonado Type I,0.992
+SILECIA 1 [ECU],-,1,Curaray,0.811,Curaray R - Napo R,0.652
+SILECIA 5 [ECU],-,1,Curaray,0.394,n-a,-
+SJU 1,-,1,Criollo,0.993,n-a,0.953
+SJU 3,-,1,Criollo,0.998,n-a,0.781
+SJU 6,-,1,Criollo,0.996,n-a,0.983
+SPEC 41 /6-18,-,3,Amelonado,0.584,n-a,-
+SPEC 54 /1,-,3,Iquitos,0.549,n-a,-
+STA MARIA 2,-,1,Criollo,0.998,Lacandona,0.980
+TAP 1 [CHA],-,2,Nacional,0.498,n-a,-
+TAP 2 [CHA],-,1,Contamana,0.527,n-a,-
+TAP 2 [CHA],-,2,Nacional,0.603,n-a,-
+TAP 3 [CHA],-,1,Contamana,0.522,n-a,-
+TAP 5 [CHA],-,2,Nacional,0.674,n-a,-
+TAP 7 [CHA],-,2,Nacional,0.667,n-a,-
+TAP 8 [CHA],-,2,Nacional,0.661,n-a,-
+TC 1,-,1,Criollo,0.996,n-a,0.992
+TC 3,-,1,Criollo,0.995,n-a,0.990
+TC 9,-,1,Criollo,0.996,n-a,0.992
+THCA,-,1,Criollo,0.996,Lacandona,0.927
+TIPUTINI 1 [CHA],-,1,Curaray,0.561,n-a,-
+TIPUTINI 4 [CHA],-,1,Curaray,0.785,Curaray R - Napo R,0.705
+TIPUTINI 6 [CHA],-,1,Curaray,0.675,n-a,-
+U 1 [PER],-,1,Contamana,0.995,Scavina,0.935
+U 10 [PER],-,2,Iquitos,0.301,n-a,-
+U 11 [PER],-,1,Contamana,0.996,Scavina,0.994
+U 12 [PER],-,1,Contamana,0.38,n-a,-
+U 15 [PER],-,1,Contamana,0.973,all,0.536
+U 19 [PER],-,1,Contamana,0.914,Scavina,0.513
+U 2 [PER],-,2,Contamana,0.509,n-a,-
+U 20 [PER],-,1,Contamana,0.981,all,0.688
+U 21 [PER],-,1,Contamana,0.51,n-a,-
+U 22 [PER],-,2,Nacional,0.594,n-a,-
+U 24 [PER],-,1,Contamana,0.909,all,0.665
+U 26 [PER],-,2,Nacional,0.634,n-a,-
+U 28 [PER],-,1,Contamana,0.986,all,0.802
+U 3 [PER],-,1,Contamana,0.996,Scavina,0.990
+U 30 [PER],-,3,Iquitos,0.44,n-a,-
+U 31 [PER],-,1,Contamana,0.789,all,0.522
+U 32 [PER],-,2,Nacional,0.57,n-a,-
+U 35 [PER],-,1,Contamana,0.996,Scavina,0.996
+U 36 [PER],-,1,Contamana,0.994,Scavina,0.836
+U 37 [PER],-,1,Contamana,0.995,Scavina,0.945
+U 38 [PER],-,1,Contamana,0.843,all,0.994
+U 39 [PER],-,1,Contamana,0.988,Scavina,0.982
+U 4 [PER],-,1,Contamana,0.996,Scavina,0.993
+U 41 [PER],-,1,Contamana,0.988,Scavina,0.779
+U 43 [PER],-,2,Contamana,0.991,Vilcanota,0.998
+U 45 [PER],-,2,Contamana,0.992,Scavina,0.529
+U 47 [PER],-,2,Contamana,0.955,Vilcanota,0.997
+U 48 [PER],-,1,Contamana,0.996,Scavina,0.993
+U 49 [PER],-,1,Contamana,0.997,Scavina,0.997
+U 5 [PER],-,1,Contamana,0.993,Scavina,0.660
+U 51 [PER],-,1,Contamana,0.996,Scavina,0.994
+U 54 [PER],-,1,Contamana,0.99,Scavina,0.921
+U 55 [PER],-,1,Contamana,0.996,Scavina,0.992
+U 56 [PER],-,2,Contamana,0.987,Vilcanota,0.999
+U 57 [PER],-,1,Contamana,0.968,Scavina,0.796
+U 58 [PER],-,2,Contamana,0.704,all,0.996
+U 59 [PER],-,2,Contamana,0.744,all,0.997
+U 6 [PER],-,1,Contamana,0.997,Scavina,0.997
+U 66 [PER],-,2,Contamana,0.989,Vilcanota,0.989
+U 68 [PER],-,1,Contamana,0.549,n-a,-
+U 69 [PER],-,2,Contamana,0.95,Vilcanota,0.998
+U 7 [PER],-,2,Contamana,0.939,Vilcanota,0.997
+U 70 [PER],-,2,Contamana,0.995,Vilcanota,0.999
+U 9 [PER],-,1,Nanay,0.468,n-a,-
+VILLANO 2 [CHA],3,1,Curaray,0.888,Curaray R - Napo R,0.547
+YAL 1 A,-,2,Amelonado,0.681,n-a,-
+YAL 3,-,2,Guiana,0.583,n-a,-
+YAL 5 A,-,2,Amelonado,0.498,n-a,-
+YAL 6 A,-,2,Guiana,0.616,n-a,-
+YAL 7 A,-,2,Amelonado,0.641,n-a,-

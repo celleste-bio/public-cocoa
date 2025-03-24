@@ -1,0 +1,68 @@
+Clone name,Colour,Shape,Number,Length,Width,Thickness,Dry weight
+BAL 209,dark purple,round,37.7,20.7,12.9,8.0,1.11
+BR 25,dark purple,round,40.0,22.0,15.0,10.0,-
+FP 10,dark purple,elongate,41.6,-,-,-,1.00
+FP 6,dark purple,elongate,27.6,-,-,-,1.14
+FP 7,dark purple,elongate,36.7,-,-,-,1.05
+FP 8,dark purple,-,45.0,-,-,-,1.06
+FP 9,dark purple,elongate,34.7,24.5,-,-,1.18
+KKM 1,light purple,flat,54.1,-,-,-,1.06
+KKM 15,-,-,52.3,-,-,-,1.00
+KKM 17,-,-,50.3,-,-,-,1.07
+KKM 19,-,-,47.2,-,-,-,1.18
+KKM 2,light purple,elongate,45.1,-,-,-,1.10
+KKM 22,red purple,-,38.2,-,-,-,1.09
+KKM 25,-,-,25.9,-,-,-,1.30
+KKM 26,-,-,32.0,-,-,-,1.15
+KKM 27,-,-,42.0,-,-,-,1.18
+KKM 28,greyish pink,-,38.7,-,-,-,1.09
+KKM 3,-,-,44.2,-,-,-,1.00
+KKM 4,-,-,37.8,-,-,-,1.06
+KKM 5,purple,flat,43.0,-,-,-,1.07
+KKM 6,light purple,flat,32.0,-,-,-,1.30
+PBC 112,dark purple,elongate,38.0,-,-,-,1.01
+PBC 113,light purple,elongate,44.0,-,-,-,1.15
+PBC 123,dark purple,elongate,42.0,-,-,-,1.04
+PBC 130,dark purple,flat,36.0,-,-,-,1.28
+PBC 131,dark purple,elongate,42.0,-,-,-,1.28
+PBC 140,dark purple,round,33.0,-,-,-,1.26
+PBC 159,dark purple,elongate,47.0,-,-,-,1.22
+PBC 179,light purple,elongate,38.0,-,-,-,1.26
+QH 1003,light purple,elongate,39.3,25.6,13.1,10.0,1.32
+QH 1176,light purple,flat,41.3,23.4,13.5,6.8,1.04
+QH 12,light purple,elongate,38.1,20.6,12.1,7.5,0.97
+QH 1213,dark purple,flat,42.5,23.1,12.7,6.7,1.14
+QH 186,dark purple,elongate,44.9,21.7,11.2,7.1,0.97
+QH 22,dark purple,flat,40.4,24.7,13.7,5.8,1.13
+QH 240,dark purple,elongate,41.1,21.5,11.8,8.8,1.00
+QH 37,dark purple,flat,36.8,27.3,14.2,8.2,1.50
+QH 441,dark purple,elongate,38.1,19.9,11.8,7.6,1.00
+QH 670,light purple,flat,40.4,23.7,14.6,6.7,1.17
+SDS 11,dark purple,elongate,37.0,86.0,12.0,7.0,0.93
+SDS 18,dark purple,elongate,40.0,28.0,16.0,11.0,1.27
+SDS 20,dark purple,elongate,41.0,25.0,16.0,7.0,1.06
+SDS 21,dark purple,elongate,36.0,26.0,15.0,8.5,0.94
+SDS 36,dark purple,elongate,40.0,24.0,13.0,9.0,0.94
+SDS 4,light purple,elongate,41.0,19.0,11.0,10.0,0.99
+SDS 41,dark purple,elongate,38.0,26.0,15.0,7.5,1.02
+SDS 46,dark purple,round,39.0,24.0,14.0,8.0,1.00
+SDS 52,dark purple,flat,38.0,28.0,16.0,8.0,1.03
+SDS 54,dark purple,elongate,38.0,25.0,18.0,9.0,0.91
+SDS 58,light purple,elongate,39.0,25.0,15.0,7.5,1.08
+SDS 6,dark purple,elongate,37.0,23.0,13.0,8.0,1.02
+SDS 74,dark purple,elongate,40.0,21.0,14.0,8.0,1.07
+SDS 8,dark purple,elongate,38.0,25.0,17.0,8.0,0.97
+SDS 84,light purple,elongate,36.0,27.0,17.0,9.0,1.12
+TG 135,light purple,round,32.4,-,-,-,1.19
+TG 137 /A,light purple,flat,37.0,-,-,-,1.50
+TG 137 /B,dark purple,round,38.8,-,-,-,1.39
+TG 148,light purple,round,36.0,-,-,-,1.62
+TG 157,light purple,flat,44.6,-,-,-,1.72
+TG 240,dark purple,elongate,36.4,-,-,-,0.89
+TG 250,light purple,round,37.3,-,-,-,0.94
+TG 266,light purple,flat,39.0,-,-,-,1.66
+TG 446,-,round,30.8,-,-,-,1.43
+TG 78,light purple,round,42.5,-,-,-,0.98
+TGC,light purple,flat,43.4,-,-,-,1.05
+UPC 41,light purple,elongate,39.7,26.2,14.1,8.7,1.20
+UPC 50,light purple,elongate,30.6,24.6,14.6,9.8,1.30

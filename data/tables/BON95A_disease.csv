@@ -1,0 +1,9 @@
+Clone name,Pathogen,Reaction
+ICS 95 x NA 33,Vascular Streak Dieback,tolerant
+IMC 67 x SCA 9,Vascular Streak Dieback,tolerant
+PA 138 [PER] x SCA 9,Vascular Streak Dieback,tolerant
+PA 156 [PER] x IMC 67,Vascular Streak Dieback,moderately susceptible
+PA 156 [PER] x SCA 9,Vascular Streak Dieback,tolerant
+PA 7 [PER] x NA 32,Vascular Streak Dieback,susceptible
+SCA 12 x PA 135 [PER],Vascular Streak Dieback,tolerant
+UIT 1 x NA 33,Vascular Streak Dieback,moderately susceptible

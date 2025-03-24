@@ -1,0 +1,41 @@
+Clone name,Tissue,Mean cd,Accumulation,Refcode
+AGU 3339 /12 [CHA],bean,0.43,low,LEW18A
+AM 1 /54 [POU],leaf,1.12,low,LEW18A
+AM 2 /18 [POU],leaf,4.84,high,LEW18A
+AM 2 /61 [POU],bean,1.85,high,LEW18A
+AMAZ 3 /2,leaf,4.11,high,LEW18A
+AMAZ 3 /2,bean,1.81,high,LEW18A
+B 5 /3 [POU],leaf,1.13,low,LEW18A
+B 5 /3 [POU],bean,0.58,low,LEW18A
+CL 10 /3,leaf,0.97,low,LEW18A
+CL 27 /50,leaf,0.96,low,LEW18A
+CL 27 /50,bean,0.38,low,LEW18A
+CLM 116,leaf,5.24,high,LEW18A
+CLM 116,bean,1.72,high,LEW18A
+CRU 72,leaf,3.99,high,LEW18A
+CRU 72,bean,1.81,high,LEW18A
+ICS 1,bean,0.42,low,LEW18A
+ICS 6,leaf,0.98,low,LEW18A
+ICS 86,leaf,1.04,low,LEW18A
+IMC 105,bean,1.89,high,LEW18A
+IMC 67,leaf,1.02,low,LEW18A
+JA 4 /17 [POU],leaf,4.38,high,LEW18A
+JA 4 /17 [POU],bean,2.01,high,LEW18A
+JA 5 /39 [POU],bean,0.32,low,LEW18A
+LP 3 /4 [POU],leaf,1.12,low,LEW18A
+LP 4 /21 [POU],bean,2.06,high,LEW18A
+LV 20 [POU],bean,0.5,low,LEW18A
+LZ 13,bean,0.47,low,LEW18A
+NA 312,leaf,4.62,high,LEW18A
+NA 34,leaf,4.96,high,LEW18A
+PA 120 [PER],leaf,0.95,low,LEW18A
+PA 125 [PER],leaf,4.07,high,LEW18A
+PA 132 [PER],bean,2.16,high,LEW18A
+PA 218 [PER],bean,0.39,low,LEW18A
+REDAMEL 1 /30,leaf,0.77,low,LEW18A
+REDAMEL 1 /30,bean,0.17,low,LEW18A
+SCA 3,bean,1.96,high,LEW18A
+SCA 5,bean,2.08,high,LEW18A
+SLA 30,leaf,4.25,high,LEW18A
+SLC 19,bean,0.51,low,LEW18A
+SP 1 [VEN],leaf,4.25,high,LEW18A

@@ -1,0 +1,25 @@
+Clone name,Pathogen,Reaction
+CAP 34,Frosty Pod,moderate resistance
+CAP 34,Witches' Broom,susceptible
+CAP 34,Phytophthora,susceptible
+CAP 34,Ceratosystis,resistant
+CAP 34,Rosellinia,susceptible
+ICS 1,Frosty Pod,moderately susceptible
+ICS 1,Witches' Broom,moderately susceptible
+ICS 1,Phytophthora,susceptible
+ICS 1,Ceratosystis,moderately susceptible
+ICS 1,Rosellinia,susceptible
+ICS 95,Frosty Pod,resistant
+ICS 95,Witches' Broom,tolerant
+ICS 95,Phytophthora,susceptible
+ICS 95,Ceratosystis,susceptible
+ICS 95,Rosellinia,susceptible
+SC 37 [COL],Frosty Pod,resistant
+SC 37 [COL],Witches' Broom,resistant
+SC 37 [COL],Phytophthora,resistant
+SC 37 [COL],Ceratosystis,resistant
+TSH 565,Frosty Pod,susceptible
+TSH 565,Witches' Broom,tolerant
+TSH 565,Phytophthora,susceptible
+TSH 565,Ceratosystis,tolerant
+TSH 565,Rosellinia,susceptible

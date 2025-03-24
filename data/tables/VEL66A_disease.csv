@@ -1,0 +1,51 @@
+Clone name,Pathogen,Reaction,Part
+BE 1,Witches' Broom,Occasional,Expedition data
+BE 10,Witches' Broom,Occasional,Expedition data
+BE 2,Witches' Broom,Absent,Expedition data
+BE 5,Witches' Broom,Occasional,Expedition data
+BE 6,Witches' Broom,Occasional,Expedition data
+BE 7,Witches' Broom,Occasional,Expedition data
+BE 8,Witches' Broom,Occasional,Expedition data
+BE 9,Witches' Broom,Occasional,Expedition data
+CS 25,Witches' Broom,Absent,Expedition data
+CS 26,Witches' Broom,Absent,Expedition data
+CS 27,Witches' Broom,Absent,Expedition data
+CS 28,Witches' Broom,Absent,Expedition data
+MA 11 [BRA],Witches' Broom,Present,Expedition data
+MA 12 [BRA],Witches' Broom,Occasional,Expedition data
+MA 13 [BRA],Witches' Broom,Absent,Expedition data
+MA 14 [BRA],Witches' Broom,Occasional,Expedition data
+MA 15 [BRA],Witches' Broom,Present,Expedition data
+MA 16 [BRA],Witches' Broom,Present,Expedition data
+OB 51 [BRA],Witches' Broom,Absent,Expedition data
+OB 52 [BRA],Witches' Broom,Present,Expedition data
+OB 53 [BRA],Witches' Broom,Absent,Expedition data
+OB 54 [BRA],Witches' Broom,Absent,Expedition data
+OB 55 [BRA],Witches' Broom,Present,Expedition data
+RB 29 [BRA],Witches' Broom,Absent,Expedition data
+RB 30 [BRA],Witches' Broom,Absent,Expedition data
+RB 31 [BRA],Witches' Broom,Absent,Expedition data
+RB 32 [BRA],Witches' Broom,Present,Expedition data
+RB 33 [BRA],Witches' Broom,Present,Expedition data
+RB 34 [BRA],Witches' Broom,Absent,Expedition data
+RB 35 [BRA],Witches' Broom,Present,Expedition data
+RB 36 [BRA],Witches' Broom,Absent,Expedition data
+RB 37 [BRA],Witches' Broom,Present,Expedition data
+RB 38 [BRA],Witches' Broom,Absent,Expedition data
+RB 39 [BRA],Witches' Broom,Absent,Expedition data
+RB 40 [BRA],Witches' Broom,Absent,Expedition data
+RB 41 [BRA],Witches' Broom,Absent,Expedition data
+RB 42 [BRA],Witches' Broom,Present,Expedition data
+RB 43 [BRA],Witches' Broom,Absent,Expedition data
+RB 44 [BRA],Witches' Broom,Absent,Expedition data
+RB 45 [BRA],Witches' Broom,Absent,Expedition data
+RB 46 [BRA],Witches' Broom,Absent,Expedition data
+RB 47 [BRA],Witches' Broom,Absent,Expedition data
+RB 48 [BRA],Witches' Broom,Present,Expedition data
+RB 49 [BRA],Witches' Broom,Present,Expedition data
+RB 50 [BRA],Witches' Broom,Absent,Expedition data
+SC 17 [BRA],Witches' Broom,Occasional,Expedition data
+SC 18 [BRA],Witches' Broom,Absent,Expedition data
+SC 22 [BRA],Witches' Broom,Absent,Expedition data
+SC 23 [BRA],Witches' Broom,Absent,Expedition data
+SC 24 [BRA],Witches' Broom,Absent,Expedition data

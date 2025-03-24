@@ -1,0 +1,14 @@
+Clone name,Pathogen,Reaction
+EET 103 [ECU],Witches' Broom,susceptible
+EET 103 [ECU],Frosty Pod,moderately susceptible
+ICS 95,Witches' Broom,moderately susceptible
+ICS 95,Ceratosystis,susceptible
+ICS 95,Frosty Pod,tolerant
+EET 19 [ECU],Ceratosystis,susceptible
+EET 19 [ECU],Frosty Pod,moderately susceptible
+EET 95 [ECU],Witches' Broom,susceptible
+EET 95 [ECU],Ceratosystis,tolerant
+EET 95 [ECU],Frosty Pod,moderately susceptible
+EET 96 [ECU],Witches' Broom,tolerant
+EET 96 [ECU],Ceratosystis,tolerant
+EET 96 [ECU],Frosty Pod,susceptible

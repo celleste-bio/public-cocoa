@@ -1,0 +1,53 @@
+Clone name,Length,Breadth,Weight,Length breadth ratio,Notes
+AMAZ 15 /15,156.1,76.4,382.2,2.00,20 pods sampled
+AMAZ 2 /1,140.8,88.6,460.9,1.60,18 pods sampled
+APA 4,154.8,88.9,548.0,1.70,10 pods sampled
+BE 10,172.7,-,490.4,-,19 pods sampled
+CAS 1,171.3,84.2,543.2,2.00,19 pods sampled
+CATONGO,146.5,75.2,467.0,1.90,22 pods sampled
+CC 10,189.2,87.5,570.6,2.20,25 pods sampled
+CC 11,166.2,86.5,531.8,1.90,24 pods sampled
+CC 17,-,-,614.2,-,14 pods sampled
+CC 34,184.7,93.5,631.9,2.00,6 pods sampled
+CC 37,-,-,355.6,-,6 pods sampled
+CC 38,165.0,93.0,573.5,1.80,10 pods sampled
+CC 40,143.9,87.1,480.0,1.70,11 pods sampled
+CC 41,149.6,83.0,429.0,1.80,21 pods sampled
+CC 54,-,-,453.2,-,7 pods sampled
+CC 60,-,-,448.9,-,11 pods sampled
+CC 67,-,-,478.1,-,9 pods sampled
+CC 71,-,-,462.5,-,5 pods sampled
+CC 80,169.8,91.7,554.0,1.85,3 pods sampled
+CC 9,164.3,89.2,486.6,1.80,23 pods sampled
+EET 103 [ECU],160.3,82.3,463.4,1.90,24 pods sampled
+EET 134 [ECU],133.8,79.3,344.7,1.70,21 pods sampled
+EET 236 [ECU],190.7,85.3,547.6,2.20,20 pods sampled
+EET 283 [ECU],-,-,381.8,-,15 pods sampled
+EET 308 [ECU],191.3,93.2,654.2,2.10,23 pods sampled
+EET 376 [ECU],164.5,80.9,444.1,2.00,20 pods sampled
+EET 377 [ECU],197.6,78.9,456.1,2.50,31 pods sampled
+EET 390 [ECU],162.0,84.1,489.4,1.90,20 pods sampled
+EET 397 [ECU],173.0,81.1,460.0,2.10,23 pods sampled
+EET 399 [ECU],182.0,83.8,522.8,2.20,27 pods sampled
+EET 75 [ECU],177.2,90.8,531.4,2.00,21 pods sampled
+GA 11 [HAI],166.7,83.0,555.5,2.00,23 pods sampled
+GA 57 [MAY],162.0,83.4,473.2,1.90,13 pods sampled
+ICS 1,181.7,85.8,579.1,2.10,23 pods sampled
+ICS 100,179.7,81.3,631.5,2.20,28 pods sampled
+ICS 45,156.7,80.3,425.0,2.00,28 pods sampled
+ICS 46,165.7,82.8,498.5,2.00,22 pods sampled
+ICS 88,169.7,88.1,616.3,1.90,19 pods sampled
+IMC 105,176.3,85.1,507.5,2.10,24 pods sampled
+IMC 14,188.5,88.4,600.3,2.10,37 pods sampled
+IMC 23,179.6,91.5,649.4,2.00,18 pods sampled
+IMC 53,173.7,90.2,500.6,1.90,35 pods sampled
+IMC 67,191.7,95.8,755.1,2.00,28 pods sampled
+IMC 85,189.4,91.7,647.1,2.10,37 pods sampled
+LT 224,156.2,88.4,493.0,1.80,12 pods sampled
+MATINA 1 /9,136.1,82.3,434.1,1.70,22 pods sampled
+MO 81,176.5,89.4,511.2,2.00,29 pods sampled
+MO 98,146.1,85.3,464.1,1.70,4 pods sampled
+MOQ 4 /17,206.0,81.4,525.1,2.50,22 pods sampled
+POUND 12,155.9,85.1,513.6,1.80,38 pods sampled
+POUND 4,156.0,77.3,418.3,2.00,32 pods sampled
+POUND 7,167.9,82.1,499.3,2.00,27 pods sampled

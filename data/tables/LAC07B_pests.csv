@@ -1,0 +1,17 @@
+Clone name,Pest,Reaction
+GU 125 /K,Mirids,susceptible
+GU 158 /G,Mirids,susceptible
+GU 183 /G,Mirids,very resistant
+GU 183 /K,Mirids,very resistant
+GU 191 /B,Mirids,very resistant
+GU 207 /G,Mirids,very resistant
+GU 207 /K,Mirids,very resistant
+GU 226 R,Mirids,very resistant
+GU 265 /K,Mirids,very resistant
+GU 275 /A,Mirids,very resistant
+GU 277 /G,Mirids,very resistant
+GU 298 /B,Mirids,very resistant
+GU 322 /B,Mirids,very resistant
+GU 333 K,Mirids,very resistant
+GU 337 /F,Mirids,very resistant
+GU 343 /F,Mirids,very resistant

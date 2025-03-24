@@ -1,0 +1,181 @@
+Clone name,Pathogen,Reaction
+AM 1 /60 [POU],Witches' Broom,tolerant
+AM 1 /65 [POU],Witches' Broom,tolerant
+AM 1 /69 [POU],Witches' Broom,tolerant
+AM 1 /85 [POU],Witches' Broom,tolerant
+AM 2 /12 [POU],Witches' Broom,tolerant
+AM 2 /38 [POU],Witches' Broom,tolerant
+AM 2 /42 [POU],Witches' Broom,tolerant
+AM 2 /45 [POU],Witches' Broom,tolerant
+AM 2 /5 [POU],Witches' Broom,tolerant
+AM 2 /64 [POU],Witches' Broom,tolerant
+AM 2 /65 [POU],Witches' Broom,tolerant
+AM 2 /91 [POU],Witches' Broom,tolerant
+AS 20 [ECU],Witches' Broom,tolerant
+AS 4 [ECU],Witches' Broom,tolerant
+B 10 /2 [POU],Witches' Broom,tolerant
+B 10 /32 [POU],Witches' Broom,tolerant
+B 14 /17 [POU],Witches' Broom,tolerant
+B 17 /15 [POU],Witches' Broom,tolerant
+B 17 /33 [POU],Witches' Broom,tolerant
+B 18 /1 [POU],Witches' Broom,tolerant
+B 18 /5 [POU],Witches' Broom,tolerant
+B 22 /17 [POU],Witches' Broom,tolerant
+B 23 /1 [POU],Witches' Broom,tolerant
+B 23 /2 [POU],Witches' Broom,tolerant
+B 23 /6 [POU],Witches' Broom,tolerant
+B 23 /9 [POU],Witches' Broom,tolerant
+B 6 /29 [POU],Witches' Broom,tolerant
+B 7 /14 [POU],Witches' Broom,tolerant
+B 8 /4 [POU],Witches' Broom,tolerant
+CL 10 /10,Witches' Broom,tolerant
+CL 10 /32,Witches' Broom,tolerant
+CL 13 /17,Witches' Broom,tolerant
+CL 19 /27,Witches' Broom,tolerant
+CL 19 /48,Witches' Broom,tolerant
+CL 27 /116,Witches' Broom,tolerant
+CL 27 /79,Witches' Broom,tolerant
+CL 27 /95,Witches' Broom,tolerant
+CL 9 /16,Witches' Broom,tolerant
+CL 9 /17,Witches' Broom,tolerant
+CL 9 /2,Witches' Broom,tolerant
+CLM 108,Witches' Broom,tolerant
+CLM 113,Witches' Broom,tolerant
+CLM 70,Witches' Broom,tolerant
+CLM 83,Witches' Broom,tolerant
+CLM 96,Witches' Broom,tolerant
+IMC 103,Witches' Broom,tolerant
+IMC 104,Witches' Broom,tolerant
+IMC 3,Witches' Broom,tolerant
+IMC 42,Witches' Broom,tolerant
+IMC 5,Witches' Broom,tolerant
+IMC 53,Witches' Broom,tolerant
+IMC 60,Witches' Broom,tolerant
+IMC 68,Witches' Broom,tolerant
+IMC 73,Witches' Broom,tolerant
+IMC 76,Witches' Broom,tolerant
+JA 1 /10 [POU],Witches' Broom,tolerant
+JA 1 /20 [POU],Witches' Broom,tolerant
+JA 1 /21 [POU],Witches' Broom,tolerant
+JA 10 /12 [POU],Witches' Broom,tolerant
+JA 10 /32 [POU],Witches' Broom,tolerant
+JA 2 /8 [POU],Witches' Broom,tolerant
+JA 3 /20 [POU],Witches' Broom,tolerant
+JA 4 /7 [POU],Witches' Broom,tolerant
+JA 5 /12 [POU],Witches' Broom,tolerant
+JA 5 /41 [POU],Witches' Broom,tolerant
+JA 5 /8 [POU],Witches' Broom,tolerant
+JA 6 /2 [POU],Witches' Broom,tolerant
+JA 8 /14 [POU],Witches' Broom,tolerant
+JA 8 /16 [POU],Witches' Broom,tolerant
+JA 8 /24 [POU],Witches' Broom,tolerant
+JA 8 /4 [POU],Witches' Broom,tolerant
+JA 9 /20 [POU],Witches' Broom,tolerant
+LP 1 /10 [POU],Witches' Broom,tolerant
+LP 1 /28 [POU],Witches' Broom,tolerant
+LP 1 /37 [POU],Witches' Broom,tolerant
+LP 1 /4 [POU],Witches' Broom,tolerant
+LP 1 /44 [POU],Witches' Broom,tolerant
+LP 1 /46 [POU],Witches' Broom,tolerant
+LP 1 /61 [POU],Witches' Broom,tolerant
+LP 3 /5 [POU],Witches' Broom,tolerant
+LP 4 /18 [POU],Witches' Broom,tolerant
+LP 4 /24 [POU],Witches' Broom,tolerant
+LP 4 /32 [POU],Witches' Broom,tolerant
+LP 5 /8 [POU],Witches' Broom,tolerant
+LP 6 /1 [POU],Witches' Broom,tolerant
+LP 6 /16 [POU],Witches' Broom,tolerant
+LV 6 [POU],Witches' Broom,tolerant
+LX 16,Witches' Broom,tolerant
+LX 25,Witches' Broom,tolerant
+LX 48,Witches' Broom,tolerant
+LX 5,Witches' Broom,tolerant
+LZ 2,Witches' Broom,tolerant
+LZ 8,Witches' Broom,tolerant
+LZ 9,Witches' Broom,tolerant
+MO 76,Witches' Broom,tolerant
+MO 81,Witches' Broom,tolerant
+MO 94,Witches' Broom,tolerant
+MOQ 1 /15,Witches' Broom,tolerant
+MOQ 1 /16,Witches' Broom,tolerant
+MOQ 1 /21,Witches' Broom,tolerant
+MOQ 2 /7,Witches' Broom,tolerant
+MOQ 2 /8,Witches' Broom,tolerant
+MOQ 3 /22,Witches' Broom,tolerant
+MOQ 4 /10,Witches' Broom,tolerant
+MOQ 4 /23,Witches' Broom,tolerant
+MOQ 4 /25,Witches' Broom,tolerant
+MOQ 4 /25,Witches' Broom,tolerant
+MOQ 4 /4,Witches' Broom,tolerant
+MOQ 5 /24,Witches' Broom,tolerant
+MOQ 5 /34,Witches' Broom,tolerant
+MOQ 5 /5,Witches' Broom,tolerant
+MOQ 6 /108,Witches' Broom,tolerant
+MOQ 6 /11,Witches' Broom,tolerant
+MOQ 6 /46,Witches' Broom,tolerant
+MOQ 6 /5,Witches' Broom,tolerant
+MOQ 6 /55,Witches' Broom,tolerant
+MOQ 6 /68,Witches' Broom,tolerant
+MOQ 6 /92,Witches' Broom,tolerant
+NA 1 /19,Witches' Broom,tolerant
+NA 112,Witches' Broom,tolerant
+NA 141,Witches' Broom,tolerant
+NA 144,Witches' Broom,tolerant
+NA 15,Witches' Broom,tolerant
+NA 159,Witches' Broom,tolerant
+NA 162,Witches' Broom,tolerant
+NA 183,Witches' Broom,tolerant
+NA 201,Witches' Broom,tolerant
+NA 227,Witches' Broom,tolerant
+NA 228,Witches' Broom,tolerant
+NA 258,Witches' Broom,tolerant
+NA 337,Witches' Broom,tolerant
+NA 359,Witches' Broom,tolerant
+NA 39,Witches' Broom,tolerant
+NA 409,Witches' Broom,tolerant
+NA 43,Witches' Broom,tolerant
+NA 432,Witches' Broom,tolerant
+NA 504,Witches' Broom,tolerant
+NA 528,Witches' Broom,tolerant
+NA 672,Witches' Broom,tolerant
+NA 672,Witches' Broom,tolerant
+NA 675,Witches' Broom,tolerant
+NA 693,Witches' Broom,tolerant
+NA 694,Witches' Broom,tolerant
+NA 713,Witches' Broom,tolerant
+NA 716,Witches' Broom,tolerant
+NA 729,Witches' Broom,tolerant
+NA 739,Witches' Broom,tolerant
+NA 74,Witches' Broom,tolerant
+NA 746,Witches' Broom,tolerant
+NA 747,Witches' Broom,tolerant
+NA 750,Witches' Broom,tolerant
+NA 758,Witches' Broom,tolerant
+NA 773,Witches' Broom,tolerant
+NA 776,Witches' Broom,tolerant
+NA 788,Witches' Broom,tolerant
+NA 804,Witches' Broom,tolerant
+NA 824,Witches' Broom,tolerant
+NA 903,Witches' Broom,tolerant
+NA 961,Witches' Broom,tolerant
+PA 13 [PER],Witches' Broom,tolerant
+PA 135 [PER],Witches' Broom,tolerant
+PA 137 [PER],Witches' Broom,tolerant
+PA 156 [PER],Witches' Broom,tolerant
+PA 171 [PER],Witches' Broom,tolerant
+PA 202 [PER],Witches' Broom,tolerant
+PA 296 [PER],Witches' Broom,tolerant
+PA 303 [PER],Witches' Broom,tolerant
+PA 4 [PER],Witches' Broom,tolerant
+PA 46 [PER],Witches' Broom,tolerant
+PA 48 [PER],Witches' Broom,tolerant
+PA 61 [PER],Witches' Broom,tolerant
+SCA 12,Witches' Broom,tolerant
+SCA 17,Witches' Broom,tolerant
+SJ 2 /4 [POU],Witches' Broom,tolerant
+SLA 30,Witches' Broom,tolerant
+SLA 64,Witches' Broom,tolerant
+SLA 74,Witches' Broom,tolerant
+SLC 17,Witches' Broom,tolerant
+SLC 23,Witches' Broom,tolerant
+SM 10 [POU],Witches' Broom,tolerant

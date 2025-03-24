@@ -1,0 +1,51 @@
+Clone name,Pathogen,Reaction
+AC T 1 /5 [TTO],Ceratosystis,resistant
+AC T 1 /7 [TTO],Ceratosystis,moderate resistance
+AC T 1 /9 [TTO],Ceratosystis,resistant
+AC T 2 /1 [TTO],Ceratosystis,moderate resistance
+AX 3 /16,Ceratosystis,moderate resistance
+AX 3 /25,Ceratosystis,resistant
+AX 3 /27,Ceratosystis,moderate resistance
+C 70 /P-12 [TRI],Ceratosystis,moderate resistance
+C 83 /P-105 [TRI],Ceratosystis,resistant
+C 83 /P-14 [TRI],Ceratosystis,moderate resistance
+C 87 /137 [TRI],Ceratosystis,resistant
+C 87 /P-146 [TRI],Ceratosystis,resistant
+C 87 /P-39 [TRI],Ceratosystis,moderate resistance
+C 88 /P-111 [TRI],Ceratosystis,resistant
+C 88 /P-130 [TRI],Ceratosystis,moderate resistance
+C 88 /P-46 [TRI],Ceratosystis,moderate resistance
+C 88 /P-71 [TRI],Ceratosystis,moderate resistance
+C 90 /P-62 [TRI],Ceratosystis,resistant
+C 90 /P-7 [TRI],Ceratosystis,moderate resistance
+C 91 /P-64 [TRI],Ceratosystis,resistant
+C 94 /P-25 [TRI],Ceratosystis,resistant
+C 94 /P-35 [TRI],Ceratosystis,resistant
+C 94 /P-48 [TRI],Ceratosystis,resistant
+DE 52 /B,Ceratosystis,resistant
+EET 399 [ECU],Ceratosystis,resistant
+ICS 15,Ceratosystis,moderate resistance
+IMC 11,Ceratosystis,resistant
+IMC 27,Ceratosystis,resistant
+IMC 31,Ceratosystis,resistant
+IMC 53,Ceratosystis,resistant
+IMC 60,Ceratosystis,resistant
+IMC 67,Ceratosystis,resistant
+IMC 76,Ceratosystis,resistant
+PA 12 [PER],Ceratosystis,resistant
+PA 303 [PER],Ceratosystis,resistant
+POUND 11 /A,Ceratosystis,resistant
+POUND 12 /A,Ceratosystis,resistant
+POUND 12 /B,Ceratosystis,resistant
+POUND 14 /A,Ceratosystis,resistant
+POUND 16 /A,Ceratosystis,resistant
+POUND 16 /A,Ceratosystis,moderate resistance
+POUND 16 /B,Ceratosystis,resistant
+POUND 18 /A,Ceratosystis,resistant
+POUND 18 /B,Ceratosystis,resistant
+POUND 19 /A,Ceratosystis,resistant
+POUND 19 /B,Ceratosystis,resistant
+POUND 24 /B,Ceratosystis,resistant
+POUND 25 /A,Ceratosystis,resistant
+POUND 30 /B,Ceratosystis,resistant
+SCA 12,Ceratosystis,resistant

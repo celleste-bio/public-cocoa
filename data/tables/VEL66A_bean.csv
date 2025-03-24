@@ -1,0 +1,23 @@
+Clone name,Colour,Shape,Size,Info
+BE 10,purple,round,medium,expedition data
+BE 2,purple,-,small,expedition data
+BE 5,purple,-,medium,expedition data
+BE 6,purple,flat,medium,expedition data
+BE 7,purple,round,medium,expedition data
+BE 8,purple,-,medium,expedition data
+BE 9,purple,round,medium,expedition data
+CS 25,purple,-,medium,expedition data
+MA 11 [BRA],purple,oval,medium,expedition data
+MA 12 [BRA],purple,cylindrical,medium,expedition data
+MA 13 [BRA],purple,flat,medium,expedition data
+MA 14 [BRA],purple,cylindrical,medium,expedition data
+MA 15 [BRA],purple,cylindrical,medium,expedition data
+MA 16 [BRA],dark purple,cylindrical,small,expedition data
+OB 51 [BRA],purple,cylindrical,medium,expedition data
+OB 52 [BRA],purple,cylindrical,medium,expedition data
+OB 53 [BRA],light purple,cylindrical,medium,expedition data
+OB 54 [BRA],light purple,-,medium,expedition data
+RB 35 [BRA],-,cylindrical,small,expedition data
+RB 46 [BRA],light purple,oval,medium,expedition data
+RB 47 [BRA],purple,cylindrical,medium,expedition data
+RB 50 [BRA],purple,flat,small,expedition data

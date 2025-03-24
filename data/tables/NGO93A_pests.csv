@@ -1,0 +1,41 @@
+Clone name,Pest,Reaction
+A 13 /D-56 [CIV],Mirids,high damage
+A1 180 /2 [CIV],Mirids,low damage
+A1 214 /9 [CIV],Mirids,moderate damage
+ACU 85,Mirids,high damage
+B 11 /B-263 [CIV],Mirids,moderate damage
+B 9 /5 [CIV],Mirids,moderate damage
+B 9 /8 [CIV],Mirids,moderate damage
+GS 29,Mirids,high damage
+GS 36,Mirids,moderate damage
+GW 1,Mirids,high damage
+ICS 100,Mirids,high damage
+ICS 39,Mirids,high damage
+ICS 89,Mirids,moderate damage
+ICS 95,Mirids,moderate damage
+IFC 2 [CIV],Mirids,low damage
+IFC 25 [CIV],Mirids,moderate damage
+IFC 27 [CIV],Mirids,moderate damage
+IFC 320 [CIV],Mirids,moderate damage
+IFC 406 [CIV],Mirids,moderate damage
+IFC 413 [CIV],Mirids,low damage
+IFC 414 [CIV],Mirids,moderate damage
+IFC 5 [CIV],Mirids,high damage
+IFC 6 [CIV],Mirids,moderate damage
+NA 32,Mirids,moderate damage
+PA 150 [PER],Mirids,moderate damage
+PA 7 [PER],Mirids,moderate damage
+POUND 7,Mirids,moderate damage
+SCA 6,Mirids,moderate damage
+SF 13,Mirids,moderate damage
+SNK 109,Mirids,high damage
+SNK 12,Mirids,high damage
+T 16 /613 [POS],Mirids,moderate damage
+T 60 /887 [POS],Mirids,moderate damage
+T 63 /967 [POS],Mirids,moderate damage
+T 79 /501 [POS],Mirids,moderate damage
+UF 667,Mirids,high damage
+UPA 401,Mirids,low damage
+UPA 402,Mirids,moderate damage
+UPA 413,Mirids,low damage
+WA 40 [DR],Mirids,moderate damage

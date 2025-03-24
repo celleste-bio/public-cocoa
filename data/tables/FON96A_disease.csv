@@ -1,0 +1,180 @@
+Clone name,Pathogen,Reaction
+BE 3,Witches' Broom,intermediate
+BE 4,Witches' Broom,intermediate
+C SUL 1,Witches' Broom,intermediate
+CA 1 [BRA],Witches' Broom,intermediate
+CAB 102,Witches' Broom,intermediate
+CAB 105,Witches' Broom,tolerant
+CAB 11,Witches' Broom,intermediate
+CAB 111,Witches' Broom,intermediate
+CAB 115,Witches' Broom,intermediate
+CAB 116,Witches' Broom,intermediate
+CAB 12,Witches' Broom,intermediate
+CAB 121,Witches' Broom,intermediate
+CAB 123,Witches' Broom,intermediate
+CAB 124,Witches' Broom,tolerant
+CAB 127,Witches' Broom,intermediate
+CAB 128,Witches' Broom,intermediate
+CAB 130,Witches' Broom,tolerant
+CAB 131,Witches' Broom,intermediate
+CAB 132,Witches' Broom,intermediate
+CAB 136,Witches' Broom,intermediate
+CAB 137,Witches' Broom,intermediate
+CAB 139,Witches' Broom,intermediate
+CAB 140,Witches' Broom,intermediate
+CAB 145,Witches' Broom,intermediate
+CAB 146,Witches' Broom,intermediate
+CAB 147,Witches' Broom,intermediate
+CAB 148,Witches' Broom,intermediate
+CAB 15,Witches' Broom,intermediate
+CAB 150,Witches' Broom,intermediate
+CAB 151,Witches' Broom,intermediate
+CAB 153,Witches' Broom,intermediate
+CAB 155,Witches' Broom,intermediate
+CAB 156,Witches' Broom,tolerant
+CAB 157,Witches' Broom,intermediate
+CAB 158,Witches' Broom,tolerant
+CAB 159,Witches' Broom,intermediate
+CAB 160,Witches' Broom,intermediate
+CAB 161,Witches' Broom,intermediate
+CAB 164,Witches' Broom,intermediate
+CAB 165,Witches' Broom,tolerant
+CAB 169,Witches' Broom,tolerant
+CAB 177,Witches' Broom,intermediate
+CAB 178,Witches' Broom,intermediate
+CAB 179,Witches' Broom,intermediate
+CAB 180,Witches' Broom,intermediate
+CAB 181,Witches' Broom,intermediate
+CAB 182,Witches' Broom,intermediate
+CAB 186,Witches' Broom,intermediate
+CAB 188,Witches' Broom,intermediate
+CAB 191,Witches' Broom,intermediate
+CAB 195,Witches' Broom,tolerant
+CAB 196,Witches' Broom,tolerant
+CAB 197,Witches' Broom,tolerant
+CAB 198,Witches' Broom,intermediate
+CAB 208,Witches' Broom,intermediate
+CAB 211,Witches' Broom,tolerant
+CAB 212,Witches' Broom,tolerant
+CAB 213,Witches' Broom,intermediate
+CAB 214,Witches' Broom,tolerant
+CAB 217,Witches' Broom,intermediate
+CAB 219,Witches' Broom,intermediate
+CAB 221,Witches' Broom,intermediate
+CAB 232,Witches' Broom,intermediate
+CAB 233,Witches' Broom,intermediate
+CAB 234,Witches' Broom,intermediate
+CAB 236,Witches' Broom,intermediate
+CAB 244,Witches' Broom,tolerant
+CAB 247,Witches' Broom,intermediate
+CAB 253,Witches' Broom,intermediate
+CAB 255,Witches' Broom,tolerant
+CAB 258,Witches' Broom,intermediate
+CAB 260,Witches' Broom,tolerant
+CAB 261,Witches' Broom,intermediate
+CAB 265,Witches' Broom,intermediate
+CAB 267,Witches' Broom,intermediate
+CAB 269,Witches' Broom,intermediate
+CAB 270,Witches' Broom,tolerant
+CAB 275,Witches' Broom,intermediate
+CAB 284,Witches' Broom,intermediate
+CAB 289,Witches' Broom,intermediate
+CAB 290,Witches' Broom,intermediate
+CAB 292,Witches' Broom,intermediate
+CAB 294,Witches' Broom,intermediate
+CAB 295,Witches' Broom,intermediate
+CAB 299,Witches' Broom,intermediate
+CAB 301,Witches' Broom,intermediate
+CAB 307,Witches' Broom,intermediate
+CAB 309,Witches' Broom,intermediate
+CAB 310,Witches' Broom,intermediate
+CAB 312,Witches' Broom,intermediate
+CAB 313,Witches' Broom,tolerant
+CAB 324,Witches' Broom,tolerant
+CAB 325,Witches' Broom,intermediate
+CAB 332,Witches' Broom,tolerant
+CAB 334,Witches' Broom,intermediate
+CAB 336,Witches' Broom,intermediate
+CAB 339,Witches' Broom,intermediate
+CAB 340,Witches' Broom,intermediate
+CAB 341,Witches' Broom,tolerant
+CAB 342,Witches' Broom,tolerant
+CAB 343,Witches' Broom,intermediate
+CAB 35,Witches' Broom,intermediate
+CAB 353,Witches' Broom,intermediate
+CAB 354,Witches' Broom,intermediate
+CAB 355,Witches' Broom,intermediate
+CAB 36,Witches' Broom,intermediate
+CAB 360,Witches' Broom,intermediate
+CAB 365,Witches' Broom,tolerant
+CAB 366,Witches' Broom,intermediate
+CAB 367,Witches' Broom,intermediate
+CAB 368,Witches' Broom,intermediate
+CAB 370,Witches' Broom,intermediate
+CAB 376,Witches' Broom,intermediate
+CAB 380,Witches' Broom,intermediate
+CAB 383,Witches' Broom,intermediate
+CAB 388,Witches' Broom,intermediate
+CAB 392,Witches' Broom,intermediate
+CAB 394,Witches' Broom,tolerant
+CAB 396,Witches' Broom,intermediate
+CAB 40,Witches' Broom,intermediate
+CAB 406,Witches' Broom,intermediate
+CAB 415,Witches' Broom,intermediate
+CAB 47,Witches' Broom,intermediate
+CAB 486,Witches' Broom,intermediate
+CAB 492,Witches' Broom,intermediate
+CAB 500,Witches' Broom,intermediate
+CAB 501,Witches' Broom,intermediate
+CAB 502,Witches' Broom,intermediate
+CAB 51,Witches' Broom,intermediate
+CAB 516,Witches' Broom,intermediate
+CAB 518,Witches' Broom,tolerant
+CAB 53,Witches' Broom,intermediate
+CAB 531,Witches' Broom,intermediate
+CAB 61,Witches' Broom,intermediate
+CAB 64,Witches' Broom,intermediate
+CAB 65,Witches' Broom,intermediate
+CAB 66,Witches' Broom,intermediate
+CAB 67,Witches' Broom,intermediate
+CAB 68,Witches' Broom,intermediate
+CAB 69,Witches' Broom,intermediate
+CAB 715,Witches' Broom,intermediate
+CAB 72,Witches' Broom,intermediate
+CAB 724,Witches' Broom,intermediate
+CAB 8,Witches' Broom,intermediate
+CAB 89,Witches' Broom,intermediate
+CAB 90,Witches' Broom,intermediate
+CAB 94,Witches' Broom,intermediate
+CC 41,Witches' Broom,tolerant
+CC 67,Witches' Broom,intermediate
+CJ 2 [BRA],Witches' Broom,intermediate
+CJ 4 [BRA],Witches' Broom,intermediate
+CJ 5 [BRA],Witches' Broom,intermediate
+CJ 6 [BRA],Witches' Broom,intermediate
+CJ 9 [BRA],Witches' Broom,intermediate
+EEG 65,Witches' Broom,intermediate
+EET 228 [ECU],Witches' Broom,intermediate
+EET 399 [ECU],Witches' Broom,tolerant
+EET 400 [ECU],Witches' Broom,intermediate
+ICS 45,Witches' Broom,intermediate
+ICS 89,Witches' Broom,intermediate
+PA 121 [PER],Witches' Broom,intermediate
+RB 31 [BRA],Witches' Broom,intermediate
+RB 36 [BRA],Witches' Broom,tolerant
+RB 37 [BRA],Witches' Broom,intermediate
+RB 40 [BRA],Witches' Broom,intermediate
+RB 45 [BRA],Witches' Broom,intermediate
+RB 48 [BRA],Witches' Broom,intermediate
+SA 11 [BRA],Witches' Broom,intermediate
+SA 22 [BRA],Witches' Broom,intermediate
+SA 24 [BRA],Witches' Broom,intermediate
+SA 38 [BRA],Witches' Broom,intermediate
+SA 40 [BRA],Witches' Broom,intermediate
+SA 44 [BRA],Witches' Broom,tolerant
+SA 5 [BRA],Witches' Broom,intermediate
+SA 9 [BRA],Witches' Broom,intermediate
+SCA 6,Witches' Broom,intermediate
+TSA 654,Witches' Broom,intermediate
+TSH 1188,Witches' Broom,intermediate
+UF 705,Witches' Broom,intermediate

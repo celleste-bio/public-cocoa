@@ -1,0 +1,38 @@
+Clone name,Shape,Rugosity,Ridge desc,Husk thickness,Size,Colour
+BE 10,amelonado,smooth,equidistant,thin,large,green - white
+BE 2,amelonado,moderate,paired,medium,medium,green - white
+BE 5,amelonado,moderate,paired,thick,large,green
+BE 6,amelonado,smooth,equidistant,thin,small,green - white
+BE 7,amelonado,moderate,equidistant,thick,large,green - white
+BE 8,amelonado,smooth,equidistant,thin,medium,green - white
+BE 9,cundeamor,smooth,equidistant,thin,large,green - white
+CS 25,amelonado,moderate,paired,thin,medium,green
+CS 26,amelonado,smooth,paired,thin,small,green
+CS 27,amelonado,smooth,paired,medium,medium,green
+CS 28,amelonado,-,paired,-,large,-
+MA 11 [BRA],amelonado,moderate,paired,thin,medium,green
+MA 12 [BRA],amelonado,smooth,paired,medium,large,green - white
+MA 13 [BRA],amelonado,moderate,paired,thin,medium,green - white
+MA 14 [BRA],amelonado,moderate,equidistant,medium,medium,green - white
+MA 15 [BRA],angoleta,moderate,paired,thin,large,green - white
+MA 16 [BRA],cundeamor,moderate,paired,thin,medium,green - white
+OB 51 [BRA],amelonado,smooth,equidistant,medium,medium,white
+OB 52 [BRA],amelonado,smooth,equidistant,medium,medium,green - white
+OB 53 [BRA],amelonado,smooth,equidistant,medium,medium,white
+OB 54 [BRA],amelonado,smooth,equidistant,medium,small,green - white
+OB 55 [BRA],amelonado,-,-,-,small,-
+RB 32 [BRA],amelonado,moderate,paired,thin,-,green - white
+RB 35 [BRA],amelonado,moderate,paired,thin,-,green - white
+RB 36 [BRA],amelonado,-,-,thin,large,-
+RB 37 [BRA],amelonado,-,-,-,medium,-
+RB 38 [BRA],amelonado,-,-,-,large,-
+RB 39 [BRA],amelonado,smooth,equidistant,thin,-,-
+RB 40 [BRA],amelonado,smooth,paired,thin,medium,green
+RB 41 [BRA],amelonado,-,-,-,small,-
+RB 42 [BRA],amelonado,-,-,-,medium,-
+RB 43 [BRA],amelonado,-,-,-,small,-
+RB 46 [BRA],amelonado,moderate,paired,medium,medium,green
+RB 47 [BRA],amelonado,moderate,paired,thin,medium,green - white
+RB 49 [BRA],amelonado,-,-,thin,small,-
+RB 50 [BRA],angoleta,smooth,equidistant,medium,medium,green - white
+SC 18 [BRA],amelonado,-,-,-,-,-

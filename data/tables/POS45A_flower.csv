@@ -1,0 +1,19 @@
+Clone name,Self compatibility
+E 1 [ECU],self incompatible
+E 2 [ECU],self incompatible
+E 222 [ECU],self incompatible
+E 223 [ECU],self incompatible
+E 224 [ECU],self incompatible
+E 5 [ECU],self incompatible
+IMC 46,self incompatible
+IMC 47,self incompatible
+IMC 60,self incompatible
+IMC 76,self incompatible
+NA 31,self incompatible
+NA 32,self incompatible
+NA 33,self incompatible
+NA 34,self incompatible
+PA 35 [PER],self incompatible
+PA 4 [PER],self incompatible
+PA 5 [PER],self incompatible
+PA 7 [PER],self incompatible

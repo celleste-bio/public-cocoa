@@ -1,0 +1,14 @@
+SampleName,Clone name,Data type,Run,Experiment,BioSample,SampleSource,Notes
+CCN51,CCN 51,transcriptomic,SRR17587548 NCBI ENA,SRX13756429,SAMN23610948,"USDA-ARS, Beltsville, USA",Control
+CCN51,CCN 51,transcriptomic,SRR17587547 NCBI ENA,SRX13756430,SAMN23610949,"USDA-ARS, Beltsville, USA",Control
+CCN51,CCN 51,transcriptomic,SRR17587546 NCBI ENA,SRX13756431,SAMN23610950,"USDA-ARS, Beltsville, USA",Control
+CCN51,CCN 51,transcriptomic,SRR17587545 NCBI ENA,SRX13756432,SAMN23610951,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)
+CCN51,CCN 51,transcriptomic,SRR17587555 NCBI ENA,SRX13756422,SAMN23610952,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)
+CCN51,CCN 51,transcriptomic,SRR17587554 NCBI ENA,SRX13756423,SAMN23610953,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)
+ICS1,ICS 1,transcriptomic,SRR17587553 NCBI ENA,SRX13756424,SAMN23610954,"USDA-ARS, Beltsville, USA",Control
+Pound7,POUND 7,transcriptomic,SRR17587557 NCBI ENA,SRX13756420,SAMN23610942,"USDA-ARS, Beltsville, USA",Control
+Pound7,POUND 7,transcriptomic,SRR17587556 NCBI ENA,SRX13756421,SAMN23610943,"USDA-ARS, Beltsville, USA",Control
+Pound7,POUND 7,transcriptomic,SRR17587552 NCBI ENA,SRX13756425,SAMN23610944,"USDA-ARS, Beltsville, USA",Control
+Pound7,POUND 7,transcriptomic,SRR17587550 NCBI ENA,SRX13756427,SAMN23610946,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)
+Pound7,POUND 7,transcriptomic,SRR17587549 NCBI ENA,SRX13756428,SAMN23610947,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)
+Pound7,POUND 7,transcriptomic,SRR17587551 NCBI ENA,SRX13756426,SAMN23610945,"USDA-ARS, Beltsville, USA",Treated (inoculated with Black Pod)

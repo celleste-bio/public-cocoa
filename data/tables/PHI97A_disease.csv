@@ -1,0 +1,278 @@
+Clone name,Pathogen,Reaction,Infection,Notes
+ARF 42,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.6
+BE 10,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+BE 2,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+BE 3,Frosty Pod,susceptible,92.0,External Severety = 2.4 and Internal Severety = 4.2
+BE 4,Frosty Pod,susceptible,85.0,External Severety = 4.1 and Internal Severety = 4.4
+BE 5,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.7
+BS 2,Frosty Pod,susceptible,94.0,External Severety = 4.7 and Internal Severety = 4.7
+C SUL 3,Frosty Pod,susceptible,94.0,External Severety = 5.0 and Internal Severety = 5.0
+CAAG,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.9
+CACAO ENANO,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 5.0
+CAS 3,Frosty Pod,moderately susceptible,100.0,External Severety = 2.5 and Internal Severety = 3.4
+CATIE 1000,Frosty Pod,susceptible,87.0,External Severety = 4.6 and Internal Severety = 4.8
+CATONGO,Frosty Pod,susceptible,93.0,External Severety = 3.0 and Internal Severety = 4.0
+CATONGO /BLANCO,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.9
+CC 10,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.3
+CC 100,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.1
+CC 103,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.5
+CC 107,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+CC 121,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.8
+CC 132,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.9
+CC 139,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 5.0
+CC 143,Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+CC 152,Frosty Pod,susceptible,96.0,External Severety = 4.5 and Internal Severety = 4.8
+CC 158,Frosty Pod,susceptible,98.0,External Severety = 3.9 and Internal Severety = 4.6
+CC 169,Frosty Pod,susceptible,81.0,External Severety = 4.2 and Internal Severety = 4.2
+CC 17,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.8
+CC 18,Frosty Pod,susceptible,83.0,External Severety = 3.1 and Internal Severety = 3.9
+CC 182,Frosty Pod,susceptible,100.0,External Severety = 3.5 and Internal Severety = 3.9
+CC 200,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.8
+CC 201,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.6
+CC 210,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 4.8
+CC 212,Frosty Pod,moderately susceptible,100.0,External Severety = 3.0 and Internal Severety = 3.3
+CC 213,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 5.0
+CC 214,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.3
+CC 215,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.8
+CC 221,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.8
+CC 222,Frosty Pod,susceptible,88.0,External Severety = 3.3 and Internal Severety = 4.2
+CC 223,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+CC 224,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.8
+CC 225,Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 4.5
+CC 226,Frosty Pod,susceptible,89.0,External Severety = 2.7 and Internal Severety = 4.0
+CC 228,Frosty Pod,susceptible,68.0,External Severety = 4.0 and Internal Severety = 4.8
+CC 231,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.5
+CC 232,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 3.9
+CC 234,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.5
+CC 235,Frosty Pod,susceptible,95.0,External Severety = 3.4 and Internal Severety = 4.5
+CC 236,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.5
+CC 237,Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+CC 241,Frosty Pod,susceptible,92.0,External Severety = 4.2 and Internal Severety = 4.7
+CC 244,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.5
+CC 245,Frosty Pod,susceptible,92.0,External Severety = 3.6 and Internal Severety = 4.4
+CC 246,Frosty Pod,susceptible,98.0,External Severety = 2.7 and Internal Severety = 4.0
+CC 249,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 4.8
+CC 250,Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 3.8
+CC 251,Frosty Pod,susceptible,88.0,External Severety = 3.7 and Internal Severety = 4.2
+CC 253,Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 4.6
+CC 255,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.2
+CC 258,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.6
+CC 259,Frosty Pod,susceptible,100.0,External Severety = 3.1 and Internal Severety = 4.1
+CC 260,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.7
+CC 261,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.7
+CC 262,Frosty Pod,susceptible,100.0,External Severety = 3.1 and Internal Severety = 5.0
+CC 265,Frosty Pod,susceptible,73.0,External Severety = 3.3 and Internal Severety = 4.1
+CC 30,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.8
+CC 34,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.5
+CC 35,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 5.0
+CC 37,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 5.0
+CC 38,Frosty Pod,susceptible,94.0,External Severety = 3.2 and Internal Severety = 4.2
+CC 39,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 5.0
+CC 40,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.8
+CC 41,Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+CC 43,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.6
+CC 44,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.4
+CC 45,Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 4.6
+CC 46,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 5.0
+CC 47,Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 4.6
+CC 48,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+CC 49,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.7
+CC 52,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.5
+CC 54,Frosty Pod,susceptible,100.0,External Severety = 2.9 and Internal Severety = 4.3
+CC 67,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.2
+CC 69,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.6
+CC 71,Frosty Pod,susceptible,100.0,External Severety = 3.2 and Internal Severety = 4.2
+CC 74,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.7
+CC 79,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+CC 83,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.2
+CC 9,Frosty Pod,susceptible,93.0,External Severety = 2.8 and Internal Severety = 4.7
+CC 99,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.6
+CNS 22 [VEN],Frosty Pod,susceptible,92.0,External Severety = 4.4 and Internal Severety = 4.4
+COMUM TIPICO,Frosty Pod,susceptible,100.0,External Severety = 3.4 and Internal Severety = 4.5
+CU 1 /3,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+CU 1 /5,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+CU 1 /7,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+CU 3 /2,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 5.0
+DIAMANTES 800,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.8
+EEG 27,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.7
+EEG 29,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+EEG 48,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.4
+EEG 64,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.6
+EET 12 [ECU],Frosty Pod,susceptible,100.0,External Severety = 3.4 and Internal Severety = 5.0
+EET 162 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.6
+EET 164 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+EET 19 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+EET 338 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.4
+EET 353 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+EET 364 [ECU],Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.7
+EET 376 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.9
+EET 390 [ECU],Frosty Pod,susceptible,92.0,External Severety = 2.6 and Internal Severety = 4.2
+EET 400 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 5.0
+EET 41 [ECU],Frosty Pod,susceptible,96.0,External Severety = 3.7 and Internal Severety = 3.9
+EET 45 [ECU],Frosty Pod,susceptible,92.0,External Severety = 3.0 and Internal Severety = 4.0
+EET 48 [ECU],Frosty Pod,susceptible,92.0,External Severety = 3.9 and Internal Severety = 4.8
+EET 53 [ECU],Frosty Pod,moderately susceptible,100.0,External Severety = 2.8 and Internal Severety = 3.4
+EET 62 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.6
+EET 67 [ECU],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.9
+EET 75 [ECU],Frosty Pod,moderately susceptible,94.0,External Severety = 2.4 and Internal Severety = 2.7
+EET 94 [ECU],Frosty Pod,susceptible,88.0,External Severety = 3.7 and Internal Severety = 4.4
+EET 95 [ECU],Frosty Pod,moderately susceptible,93.0,External Severety = 3.0 and Internal Severety = 3.4
+EET 96 [ECU],Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 4.0
+GA 11 [HAI],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+GC 7 [SUR],Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.8
+GS 17,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+GS 36,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.5
+GS 50,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.5
+GS 78,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+ICS 117,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+ICS 133,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.7
+ICS 134,Frosty Pod,susceptible,100.0,External Severety = 5.8 and Internal Severety = 4.3
+ICS 135,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.2
+ICS 137,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.4
+ICS 29,Frosty Pod,susceptible,93.0,External Severety = 3.7 and Internal Severety = 4.2
+ICS 32,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.6
+ICS 44,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.8
+ICS 95,Frosty Pod,moderate resistance,86.0,External Severety = 2.0 and Internal Severety = 2.2
+IMC 67,Frosty Pod,susceptible,100.0,External Severety = 3.4 and Internal Severety = 4.4
+IQ 1 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.8
+JACA,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.5
+LA ESMIDA AMARILLO,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+LF 2,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.7
+MA 12 [BRA],Frosty Pod,susceptible,98.0,External Severety = 2.6 and Internal Severety = 4.0
+MA 13 [BRA],Frosty Pod,susceptible,87.0,External Severety = 3.4 and Internal Severety = 4.2
+MAT X PENTAGONA,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.7
+MATINA,Frosty Pod,susceptible,100.0,External Severety = 3.5 and Internal Severety = 4.1
+MEXICO 10,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.8
+MEXICO 12,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 5.0
+MOCORONGO,Frosty Pod,susceptible,100.0,External Severety = 3.5 and Internal Severety = 5.0
+MUTACION UPALA,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+NA 34,Frosty Pod,susceptible,98.0,External Severety = 3.2 and Internal Severety = 4.4
+OC 77 [VEN],Frosty Pod,susceptible,96.0,External Severety = 4.1 and Internal Severety = 4.3
+P 10 [MEX],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+P 19 [MEX],Frosty Pod,susceptible,100.0,External Severety = 3.2 and Internal Severety = 4.4
+P 20 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.9
+P 22 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.6
+P 43 [MEX],Frosty Pod,susceptible,97.0,External Severety = 4.3 and Internal Severety = 4.1
+P 8 [MEX],Frosty Pod,susceptible,87.0,External Severety = 3.7 and Internal Severety = 4.1
+PA 121 [PER],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.8
+PA 13 [PER],Frosty Pod,susceptible,92.0,External Severety = 3.8 and Internal Severety = 4.0
+PA 16 [PER],Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 3.9
+PA 19 [PER],Frosty Pod,susceptible,88.0,External Severety = 2.6 and Internal Severety = 3.8
+PARA [BRA],Frosty Pod,susceptible,79.0,External Severety = 2.6 and Internal Severety = 3.8
+PENTAGONA 3 [CRI],Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+PMCT 57,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.6
+PMCT 58,Frosty Pod,moderately susceptible,100.0,External Severety = 3.2 and Internal Severety = 3.4
+PMCT 59,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+PMCT 60,Frosty Pod,moderately susceptible,100.0,External Severety = 2.7 and Internal Severety = 3.2
+PMCT 61,Frosty Pod,susceptible,100.0,External Severety = 4.9 and Internal Severety = 5.0
+PMCT 62,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.9
+PMCT 63,Frosty Pod,susceptible,100.0,External Severety = 3.2 and Internal Severety = 4.0
+PMCT 64,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.6
+PMCT 65,Frosty Pod,susceptible,100.0,External Severety = 3.1 and Internal Severety = 4.3
+PMCT 66,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.6
+PMCT 67,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.7
+PMCT 69,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 5.0
+POUND 7,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 5.0
+PV 4 /2 [CRI],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+RB 29 [BRA],Frosty Pod,susceptible,90.0,External Severety = 4.0 and Internal Severety = 5.0
+RB 37 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.4
+RB 41 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.7
+RB 43 [BRA],Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 3.9
+RB 46 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 5.0
+RB 47 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+RB 49 [BRA],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.6
+RIM 10 [MEX],Frosty Pod,susceptible,98.0,External Severety = 4.5 and Internal Severety = 4.4
+RIM 100 [MEX],Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.1
+RIM 101 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+RIM 105 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+RIM 106 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.7
+RIM 113 [MEX],Frosty Pod,susceptible,94.0,External Severety = 3.8 and Internal Severety = 4.1
+RIM 13 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.5
+RIM 15 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.6
+RIM 189 [MEX],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+RIM 19 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.7
+RIM 2 [MEX],Frosty Pod,susceptible,90.0,External Severety = 4.4 and Internal Severety = 4.5
+RIM 21 [MEX],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+RIM 23 [MEX],Frosty Pod,susceptible,92.0,External Severety = 3.8 and Internal Severety = 4.1
+RIM 34 [MEX],Frosty Pod,susceptible,92.0,External Severety = 4.2 and Internal Severety = 4.0
+RIM 43 [MEX],Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.0
+RIM 44 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.7
+RIM 48 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+RIM 52 [MEX],Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.6
+RIM 6 [MEX],Frosty Pod,susceptible,97.0,External Severety = 4.4 and Internal Severety = 4.5
+RIM 78 [MEX],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+RIM 8 [MEX],Frosty Pod,susceptible,96.0,External Severety = 4.3 and Internal Severety = 4.2
+RIM 88 [MEX],Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SC 5 [COL],Frosty Pod,susceptible,80.0,External Severety = 3.0 and Internal Severety = 3.9
+SCA 6,Frosty Pod,susceptible,87.0,External Severety = 3.7 and Internal Severety = 4.6
+SCA 9,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.7
+SCR 2,Frosty Pod,susceptible,100.0,External Severety = 2.6 and Internal Severety = 4.0
+SCR 4,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.6
+SCR 5,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.4
+SGU,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.3
+SGU 2,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SGU 20,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.6
+SGU 3,Frosty Pod,susceptible,87.0,External Severety = 2.8 and Internal Severety = 3.8
+SGU 4,Frosty Pod,susceptible,95.0,External Severety = 4.4 and Internal Severety = 4.4
+SGU 53,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SGU 60,Frosty Pod,susceptible,97.0,External Severety = 3.7 and Internal Severety = 4.2
+SGU 63,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.7
+SGU 67,Frosty Pod,susceptible,100.0,External Severety = 4.1 and Internal Severety = 4.7
+SGU 69,Frosty Pod,susceptible,100.0,External Severety = 2.4 and Internal Severety = 4.2
+SGU 72,Frosty Pod,susceptible,90.0,External Severety = 4.7 and Internal Severety = 5.0
+SGU 73,Frosty Pod,susceptible,88.0,External Severety = 4.3 and Internal Severety = 4.2
+SGU 74,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SGU 82,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 4.1
+SGU 83,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+SGU 86,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.4
+SGU 88,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.3
+SGU 89,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SIAL 163,Frosty Pod,susceptible,71.0,External Severety = 4.4 and Internal Severety = 4.6
+SIAL 169,Frosty Pod,susceptible,100.0,External Severety = 4.7 and Internal Severety = 4.8
+SIAL 325,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 5.0
+SIAL 339,Frosty Pod,susceptible,86.0,External Severety = 4.0 and Internal Severety = 4.3
+SIAL 407,Frosty Pod,susceptible,86.0,External Severety = 4.0 and Internal Severety = 4.5
+SIAL 56,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+SIAL 70,Frosty Pod,susceptible,100.0,External Severety = 4.4 and Internal Severety = 4.4
+SIAL 8,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.2
+SIAL 93,Frosty Pod,susceptible,84.0,External Severety = 3.6 and Internal Severety = 4.0
+SIAL 98,Frosty Pod,susceptible,100.0,External Severety = 3.8 and Internal Severety = 4.3
+SIC 1,Frosty Pod,moderately susceptible,100.0,External Severety = 2.1 and Internal Severety = 2.9
+SIC 2,Frosty Pod,moderately susceptible,100.0,External Severety = 3.0 and Internal Severety = 3.5
+SIC 256,Frosty Pod,susceptible,100.0,External Severety = 4.5 and Internal Severety = 4.9
+SIC 329,Frosty Pod,susceptible,96.0,External Severety = 4.0 and Internal Severety = 4.5
+SIC 433,Frosty Pod,susceptible,100.0,External Severety = 3.7 and Internal Severety = 4.2
+SIC 6,Frosty Pod,susceptible,97.0,External Severety = 4.9 and Internal Severety = 5.0
+SIC 7,Frosty Pod,moderately susceptible,100.0,External Severety = 2.9 and Internal Severety = 3.7
+SIC 802,Frosty Pod,susceptible,100.0,External Severety = 3.1 and Internal Severety = 3.8
+SIC 806,Frosty Pod,susceptible,92.0,External Severety = 3.9 and Internal Severety = 4.4
+SILECIA 5 [ECU],Frosty Pod,susceptible,97.0,External Severety = 4.5 and Internal Severety = 4.7
+SPA 17 [COL],Frosty Pod,moderately susceptible,100.0,External Severety = 3.0 and Internal Severety = 3.4
+SPA 5 [COL],Frosty Pod,susceptible,98.0,External Severety = 3.5 and Internal Severety = 4.6
+SPA 9 [COL],Frosty Pod,susceptible,100.0,External Severety = 3.1 and Internal Severety = 4.1
+TJ 1,Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 4.1
+TSA 644,Frosty Pod,susceptible,100.0,External Severety = 5.0 and Internal Severety = 5.0
+TSAN 812,Frosty Pod,moderately susceptible,100.0,External Severety = 2.7 and Internal Severety = 3.1
+UF 12,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 5.0
+UF 122,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.8
+UF 168,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.3
+UF 20,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.6
+UF 210,Frosty Pod,susceptible,100.0,External Severety = 4.8 and Internal Severety = 5.0
+UF 221,Frosty Pod,susceptible,95.0,External Severety = 2.9 and Internal Severety = 4.4
+UF 242,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 5.0
+UF 273,Frosty Pod,resistant,39.0,External Severety = 0.6 and Internal Severety = 0.5
+UF 296,Frosty Pod,susceptible,96.0,External Severety = 3.2 and Internal Severety = 3.8
+UF 36,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.7
+UF 4,Frosty Pod,susceptible,98.0,External Severety = 2.5 and Internal Severety = 4.6
+UF 601,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.2
+UF 602,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 4.5
+UF 700,Frosty Pod,susceptible,96.0,External Severety = 3.2 and Internal Severety = 3.8
+UF 704,Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 4.5
+UF 705,Frosty Pod,susceptible,100.0,External Severety = 4.6 and Internal Severety = 5.0
+UF 706,Frosty Pod,susceptible,100.0,External Severety = 4.2 and Internal Severety = 5.0
+UF 707,Frosty Pod,susceptible,95.0,External Severety = 3.8 and Internal Severety = 4.1
+UF 708,Frosty Pod,susceptible,100.0,External Severety = 3.9 and Internal Severety = 4.2
+UF 714,Frosty Pod,susceptible,100.0,External Severety = 3.2 and Internal Severety = 4.4
+UF 715,Frosty Pod,susceptible,100.0,External Severety = 3.6 and Internal Severety = 4.7
+UF 717,Frosty Pod,susceptible,100.0,External Severety = 4.3 and Internal Severety = 4.7
+UF 93,Frosty Pod,susceptible,100.0,External Severety = 4.0 and Internal Severety = 4.5

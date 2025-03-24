@@ -1,0 +1,61 @@
+Clone name,Shape,Rugosity,Husk thickness,Size
+AM 1 [VEN],amelonado,smooth,medium,medium
+CBO 159 [VEN],angoleta,moderate,-,large
+CBO 176 [VEN],angoleta,intense,medium,medium
+CBO 177 [VEN],amelonado,smooth,medium,medium
+CHO 163 [VEN],angoleta,moderate,thick,medium
+CHO 163 [VEN],cundeamor,intense,thin,medium
+CHO 174 [VEN],angoleta,smooth,medium,medium
+CHO 24 [VEN],cundeamor,intense,medium,large
+CHO 31 [VEN],cundeamor,moderate,medium,large
+CHO 41 [VEN],angoleta,intense,medium,medium
+CHU 2 [VEN],angoleta,intense,thin,medium
+CLP 170 [VEN],angoleta,moderate,medium,medium
+CUI 32 [VEN],angoleta,moderate,medium,medium
+CUI 33 [VEN],angoleta,moderate,thick,large
+CUI 38 [VEN],angoleta,moderate,-,-
+D 11 [VEN],cundeamor,moderate,thin,large
+D 15 [VEN],angoleta,moderate,thin,medium
+D 4 [VEN],cundeamor,intense,medium,medium
+D 5 [VEN],cundeamor,moderate,thin,medium
+HAA 4 [VEN],cundeamor,moderate,medium,large
+LC 165 [VEN],angoleta,moderate,thin,medium
+LC 168 [VEN],cundeamor,moderate,medium,medium
+LM 169 [VEN],cundeamor,moderate,medium,medium
+LMR [VEN],angoleta,moderate,medium,large
+LR 5 [VEN],angoleta,intense,medium,large
+LRR 3 [VEN],angoleta,intense,thick,large
+LRV 1 [VEN],cundeamor,intense,medium,large
+LVL 2 [VEN],angoleta,smooth,medium,medium
+M 1 [VEN],angoleta,moderate,medium,medium
+M 2 [VEN],cundeamor,moderate,thin,medium
+O 14 [VE2],cundeamor,moderate,medium,large
+OC 60 [VEN],cundeamor,moderate,thin,medium
+OC 61 [VEN],cundeamor,moderate,medium,medium
+OC 73 [VEN],cundeamor,intense,thin,medium
+OC 77 [VEN],angoleta,intense,medium,large
+PEN 158 [VEN],cundeamor,intense,medium,medium
+PLAYA ALTA 1 [VEN],cundeamor,moderate,medium,medium
+PLAYA ALTA 2 [VEN],cundeamor,moderate,thin,medium
+PLAYA ALTA 3 [VEN],cundeamor,moderate,thin,medium
+PLAYA ALTA 4 [VEN],cundeamor,moderate,thin,medium
+PLAYA ALTA 5 [VEN],cundeamor,moderate,thin,large
+PORCELANA 1,angoleta,smooth,thin,medium
+PORCELANA 10,angoleta,smooth,medium,small
+PORCELANA 11,angoleta,smooth,medium,small
+PORCELANA 12,angoleta,smooth,medium,medium
+PORCELANA 13,angoleta,smooth,medium,medium
+PORCELANA 14,angoleta,smooth,medium,medium
+PORCELANA 15,angoleta,smooth,medium,medium
+PORCELANA 16,angoleta,smooth,thin,small
+PORCELANA 17,angoleta,smooth,medium,small
+PORCELANA 2,amelonado,smooth,medium,large
+PORCELANA 21,angoleta,moderate,medium,medium
+PORCELANA 3,angoleta,smooth,thin,small
+PQTO 72 [VEN],cundeamor,moderate,medium,medium
+PQTO 87 [VEN],angoleta,moderate,thin,small
+SC 10 [VEN],amelonado,smooth,medium,large
+SC 12 [VEN],cundeamor,moderate,medium,large
+SC 20 [VEN],cundeamor,moderate,thick,small
+SC 9 [VEN],cundeamor,moderate,thin,medium
+VILL 185 [VEN],angoleta,smooth,thin,medium

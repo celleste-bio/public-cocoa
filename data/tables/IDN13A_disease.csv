@@ -1,0 +1,43 @@
+Clone name,Pathogen,Reaction
+DR 1,Phytophthora,susceptible
+DR 1,Vascular Streak Dieback,susceptible
+DR 2,Phytophthora,susceptible
+DR 2,Vascular Streak Dieback,susceptible
+DR 38,Phytophthora,susceptible
+DR 38,Vascular Streak Dieback,susceptible
+DRC 16,Phytophthora,resistant
+DRC 16,Vascular Streak Dieback,susceptible
+GC7 [IDN],Phytophthora,susceptible
+GC7 [IDN],Vascular Streak Dieback,susceptible
+ICCRI 03,Phytophthora,resistant
+ICCRI 03,Vascular Streak Dieback,moderate resistance
+ICCRI 04,Phytophthora,resistant
+ICCRI 04,Vascular Streak Dieback,moderately susceptible
+ICCRI 05,Vascular Streak Dieback,resistant
+ICCRI 07,Phytophthora,moderate resistance
+ICCRI 07,Vascular Streak Dieback,moderate resistance
+ICCRI 09,Phytophthora,resistant
+ICCRI 09,Vascular Streak Dieback,resistant
+ICCRI 01,Phytophthora,resistant
+ICCRI 01,Vascular Streak Dieback,moderate resistance
+ICCRI 02,Phytophthora,resistant
+ICS 13,Phytophthora,intermediate
+ICS 13,Vascular Streak Dieback,susceptible
+ICS 60,Phytophthora,intermediate
+ICS 60,Vascular Streak Dieback,susceptible
+MCC 01,Phytophthora,moderate resistance
+MCC 01,Vascular Streak Dieback,moderate resistance
+MCC 02,Phytophthora,resistant
+MCC 02,Vascular Streak Dieback,resistant
+RCC 70,Phytophthora,intermediate
+RCC 70,Vascular Streak Dieback,susceptible
+SCA 6,Phytophthora,resistant
+SCA 6,Vascular Streak Dieback,resistant
+Sulawesi 01,Phytophthora,moderately susceptible
+Sulawesi 01,Vascular Streak Dieback,resistant
+Sulawesi 02,Phytophthora,resistant
+Sulawesi 02,Vascular Streak Dieback,intermediate
+Sulawesi 03,Phytophthora,intermediate
+Sulawesi 03,Vascular Streak Dieback,intermediate
+TSH 858,Phytophthora,intermediate
+TSH 858,Vascular Streak Dieback,susceptible

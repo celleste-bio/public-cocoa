@@ -1,0 +1,14 @@
+Clone name,Pest,Reaction
+BR 25,Cocoa Pod Borer,moderate resistance
+DR 1,Cocoa Pod Borer,moderate resistance
+ICS 40,Cocoa Pod Borer,moderate resistance
+K 1 [PHL],Cocoa Pod Borer,moderate resistance
+K 2 [PHL],Cocoa Pod Borer,moderate resistance
+K 9 [PHL],Cocoa Pod Borer,moderately susceptible
+P7 [PHL],Cocoa Pod Borer,moderate resistance
+PBC 123,Cocoa Pod Borer,moderately susceptible
+S 5 [TAF],Cocoa Pod Borer,moderately susceptible
+UF 18,Cocoa Pod Borer,susceptible
+UIT 1,Cocoa Pod Borer,moderate resistance
+USM CH 1,Cocoa Pod Borer,moderately susceptible
+USM CH 2,Cocoa Pod Borer,moderately susceptible

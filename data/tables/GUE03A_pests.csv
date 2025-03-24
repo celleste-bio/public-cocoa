@@ -1,0 +1,133 @@
+Clone name,Pest,Reaction
+VENC 20 [FRA],Mirids,resistant
+VENC 4 /11 [FRA],Mirids,susceptible
+VENC 4 /15 [FRA],Mirids,resistant
+VENC 4 /4 [FRA],Mirids,susceptible
+VENC 4 /5 [FRA],Mirids,resistant
+A 12 G25 [CIV],Mirids,susceptible
+A 13 /G-44 [CIV],Mirids,susceptible
+ACU 85,Mirids,resistant
+AMAZ 15 /15,Mirids,resistant
+B 12 /B-183 [CIV],Mirids,resistant
+BE 3,Mirids,resistant
+CF 176,Mirids,resistant
+CF 62,Mirids,resistant
+DL E 31,Mirids,resistant
+DLOC 61,Mirids,resistant
+IFC 1213 [CIV],Mirids,susceptible
+G 8 [GET],Mirids,resistant
+GU 147 /A,Mirids,susceptible
+GU 154 /B,Mirids,susceptible
+GU 158 /G,Mirids,susceptible
+GU 177 /K,Mirids,resistant
+GU 183 /G,Mirids,resistant
+GU 183 /K,Mirids,resistant
+GU 191 /B,Mirids,resistant
+GU 207,Mirids,resistant
+GU 207 /G,Mirids,resistant
+GU 226 J,Mirids,resistant
+GU 226 R,Mirids,resistant
+GU 255 /K,Mirids,susceptible
+GU 265 /K,Mirids,resistant
+GU 275 /A,Mirids,resistant
+GU 277 /G,Mirids,resistant
+GU 298 /B,Mirids,resistant
+GU 318 /K,Mirids,resistant
+GU 322 /B,Mirids,resistant
+GU 333 K,Mirids,resistant
+GU 343 /F,Mirids,resistant
+GU 346 R,Mirids,resistant
+GU 351 /F,Mirids,resistant
+ICS 1,Mirids,resistant
+ICS 100,Mirids,susceptible
+ICS 39,Mirids,resistant
+ICS 40,Mirids,resistant
+ICS 46,Mirids,resistant
+ICS 53,Mirids,resistant
+ICS 6,Mirids,resistant
+ICS 61,Mirids,resistant
+ICS 9,Mirids,resistant
+ICS /X,Mirids,susceptible
+IFC 1028 [CIV],Mirids,resistant
+IFC 1029 [CIV],Mirids,susceptible
+IFC 1031 [CIV],Mirids,resistant
+IFC 1034 [CIV],Mirids,susceptible
+IFC 1040 [CIV],Mirids,resistant
+IFC 1041 [CIV],Mirids,resistant
+IFC 1042 [CIV],Mirids,resistant
+IFC 1045 [CIV],Mirids,resistant
+IFC 1058 [CIV],Mirids,resistant
+IFC 1059 [CIV],Mirids,resistant
+IFC 1060 [CIV],Mirids,resistant
+IFC 1061 [CIV],Mirids,resistant
+IFC 1062 [CIV],Mirids,resistant
+IFC 1063 [CIV],Mirids,resistant
+IFC 1200 [CIV],Mirids,resistant
+IFC 1201 [CIV],Mirids,resistant
+IFC 1203 [CIV],Mirids,resistant
+IFC 1204 [CIV],Mirids,resistant
+IFC 1205 [CIV],Mirids,resistant
+IFC 1207 [CIV],Mirids,resistant
+IFC 2 [CIV],Mirids,resistant
+IFC 21 [CIV],Mirids,susceptible
+IFC 22 [CIV],Mirids,susceptible
+IFC 23 [CIV],Mirids,susceptible
+IFC 24 [CIV],Mirids,susceptible
+IFC 362 [CIV],Mirids,susceptible
+IFC 367 [CIV],Mirids,susceptible
+IFC 368 [CIV],Mirids,susceptible
+IFC 372 [CIV],Mirids,susceptible
+IFC 415 [CIV],Mirids,resistant
+IFC 422 [CIV],Mirids,resistant
+IFC 678 [CIV],Mirids,resistant
+IFC 679 [CIV],Mirids,resistant
+IFC 682 [CIV],Mirids,resistant
+IFC 683 [CIV],Mirids,resistant
+IFC 687 [CIV],Mirids,resistant
+IFC 698 [CIV],Mirids,resistant
+IFC 738 [CIV],Mirids,resistant
+IMC 6,Mirids,resistant
+K 5 [CIV],Mirids,resistant
+MO 81,Mirids,resistant
+MO 9,Mirids,resistant
+NA 2,Mirids,resistant
+NA 27,Mirids,resistant
+NA 32,Mirids,resistant
+POUND 19,Mirids,susceptible
+POUND 19 /A,Mirids,resistant
+P 4 /9-J11450 [POS],Mirids,resistant
+PA 120 [PER],Mirids,resistant
+PA 150 [PER],Mirids,resistant
+PA 35 [PER],Mirids,susceptible
+PM 117 [CIV],Mirids,susceptible
+PM 86 [CIV],Mirids,resistant
+POC,Mirids,susceptible
+PORCELANA,Mirids,resistant
+SF 122,Mirids,resistant
+SF 201,Mirids,resistant
+SF 22,Mirids,susceptible
+SF 23,Mirids,susceptible
+SF 52,Mirids,susceptible
+SF 53,Mirids,susceptible
+SF 61,Mirids,susceptible
+SF 92,Mirids,resistant
+SIC 5,Mirids,resistant
+SIC 864,Mirids,resistant
+SM 3 [SAO],Mirids,resistant
+SPEC 138 /8,Mirids,resistant
+SPEC 185 /4,Mirids,resistant
+SPEC 54 /2,Mirids,resistant
+UPA 101,Mirids,resistant
+UPA 106,Mirids,resistant
+UPA 205,Mirids,resistant
+UPA 216,Mirids,resistant
+UPA 218,Mirids,resistant
+UPA 402,Mirids,resistant
+UPA 403,Mirids,resistant
+UPA 404,Mirids,resistant
+UPA 410,Mirids,resistant
+UPA 608,Mirids,resistant
+UPA 614,Mirids,resistant
+UPA 615,Mirids,resistant
+UPA 705,Mirids,susceptible
+UPA 719,Mirids,resistant

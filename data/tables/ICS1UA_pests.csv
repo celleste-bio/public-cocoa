@@ -1,0 +1,15 @@
+Clone name,Pest,Reaction
+ICS 1,Thrips,very high damage
+ICS 1,Cocoa Beetle,low damage
+ICS 25,Cocoa Beetle,low damage
+ICS 39,Thrips,no damage
+ICS 44,Cocoa Beetle,low damage
+ICS 45,Cocoa Beetle,low damage
+ICS 6,Cocoa Beetle,low damage
+ICS 6,Thrips,low damage
+ICS 60,Cocoa Beetle,low damage
+ICS 8,Cocoa Beetle,low damage
+ICS 8,Thrips,moderate damage
+ICS 9,Cocoa Beetle,low damage
+ICS 9,Thrips,moderate damage
+ICS 95,Thrips,moderate damage

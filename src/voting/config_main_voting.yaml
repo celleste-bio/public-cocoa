@@ -1,0 +1,77 @@
+data_directory: /home/public-cocoa/data/data_prep/80_WO_KM_8_WC.csv
+test20_directory: /home/public-cocoa/data/data_prep/20_test.csv
+test25_directory: /home/public-cocoa/data/data_prep/25_test.csv
+save_praped_data: /home/public-cocoa/data/joblib
+load_voting_regressor: /home/public-cocoa/data/joblib/voting_regressor_model.pkl
+load_scalar: /home/public-cocoa/data/joblib/min_max_scaler.pkl
+target: bean_total_wet_weight
+RandomForestRegressor:
+  bootstrap: false
+  max_depth: 20
+  max_features: sqrt
+  min_samples_leaf: 1
+  min_samples_split: 2
+  n_estimators: 200
+HuberRegressor:
+  alpha: 0.1
+  epsilon: 1.35
+  max_iter: 500
+MLPRegressor:
+  activation: tanh
+  alpha: 0.0001
+  hidden_layer_sizes: [25, 25]
+  learning_rate: invscaling
+  solver: lbfgs
+DecisionTreeRegressor:
+  max_depth: 7
+  min_samples_leaf: 4
+  min_samples_split: 5
+GradientBoostingRegressor:
+  learning_rate: 0.1
+  max_depth: 5
+  max_features: sqrt
+  n_estimators: 300
+  subsample: 1.0
+XGBRegressor:
+  colsample_bytree: 0.75
+  learning_rate: 0.1
+  max_depth: 7
+  n_estimators: 100
+  subsample: 0.75
+LGBMRegressor:
+  colsample_bytree: 0.75
+  learning_rate: 0.1
+  n_estimators: 100
+  num_leaves: 10
+  subsample: 0.5
+CatBoostRegressor:
+  depth: 7
+  iterations: 200
+  l2_leaf_reg: 3
+  learning_rate: 0.1
+SVR:
+  C: 10.0
+  epsilon: 0.5
+  gamma: scale
+  kernel: linear
+VotingRegressor:
+  estimators:
+    - rf
+    - huber
+    - mlp
+    - dt
+    - gbr
+    - xgb
+    - lgb
+    - cat
+    - svr
+  weights:
+    - 0.1167
+    - 0.0833
+    - 0.0833
+    - 0.1167
+    - 0.1167
+    - 0.1333
+    - 0.1333
+    - 0.1333
+    - 0.0833

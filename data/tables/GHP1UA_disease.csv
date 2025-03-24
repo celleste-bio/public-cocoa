@@ -1,0 +1,43 @@
+Clone name,Pathogen,Reaction
+PBC 113,Vascular Streak Dieback,intermediate
+PBC 113,Phytophthora,intermediate
+PBC 113,Canker,intermediate
+PBC 123,Vascular Streak Dieback,resistant
+PBC 123,Phytophthora,intermediate
+PBC 123,Canker,intermediate
+PBC 130,Vascular Streak Dieback,moderately susceptible
+PBC 130,Phytophthora,moderately susceptible
+PBC 130,Canker,intermediate
+PBC 140,Vascular Streak Dieback,intermediate
+PBC 140,Phytophthora,moderate resistance
+PBC 140,Canker,moderate resistance
+PBC 159,Vascular Streak Dieback,intermediate
+PBC 159,Phytophthora,resistant
+PBC 159,Canker,moderate resistance
+PBC 179,Vascular Streak Dieback,moderate resistance
+PBC 179,Phytophthora,moderate resistance
+PBC 179,Canker,resistant
+PBC 207,Vascular Streak Dieback,intermediate
+PBC 207,Phytophthora,intermediate
+PBC 207,Canker,intermediate
+PBC 208,Vascular Streak Dieback,intermediate
+PBC 208,Phytophthora,intermediate
+PBC 208,Canker,intermediate
+PBC 211,Vascular Streak Dieback,moderate resistance
+PBC 211,Phytophthora,moderate resistance
+PBC 211,Canker,moderate resistance
+PBC 221,Vascular Streak Dieback,moderate resistance
+PBC 221,Phytophthora,resistant
+PBC 221,Canker,moderate resistance
+PBC 223,Vascular Streak Dieback,moderate resistance
+PBC 223,Phytophthora,resistant
+PBC 223,Canker,moderate resistance
+PBC 230,Vascular Streak Dieback,moderate resistance
+PBC 230,Phytophthora,resistant
+PBC 230,Canker,moderate resistance
+PBC 236,Vascular Streak Dieback,moderate resistance
+PBC 236,Phytophthora,moderate resistance
+PBC 236,Canker,moderate resistance
+PBC 247,Vascular Streak Dieback,intermediate
+PBC 247,Phytophthora,moderate resistance
+PBC 247,Canker,moderate resistance

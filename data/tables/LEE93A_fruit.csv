@@ -1,0 +1,63 @@
+Clone name,Basal constriction,Apex form,Rugosity,Furrow depth,Husk thickness,Length,Breadth,Colour,Length breadth ratio
+BAL 209,slight,obtuse,moderate,intermediate,12.95 mm (10.5 - 15.4),177.8,75.4,greenish yellow / yellow (ridge/furrow),2.35
+BR 25,absent,attenuate,smooth,shallow,18.5 mm (22 - 15),150.0,100.0,light red,1.50
+FP 10,slight,acute,moderate,intermediate,16 mm (14 - 18),180.0,93.0,yellow,1.93
+FP 6,absent,acute,smooth,shallow,14.5 mm (13 - 16),208.0,91.0,orange / yellowish orange (ridge/furrow),2.28
+FP 7,moderate,acute,smooth,shallow,13.5 mm (12 - 15),176.0,82.0,orange,2.14
+FP 8,slight,attenuate,intense,deep,17 mm (19 - 15),193.0,80.0,yellow,2.41
+FP 9,moderate,attenuate,intense,shallow,13 mm (12 - 14),187.0,88.0,yellow,2.12
+KKM 1,-,-,moderate,-,-,-,-,yellow,-
+KKM 17,-,-,moderate,-,-,-,-,-,-
+KKM 19,-,-,moderate,-,-,-,-,-,-
+KKM 2,-,-,intense,-,-,-,-,dark purple / green (ridge/furrow),-
+KKM 22,-,-,smooth,-,16 mm (15 - 17),-,-,yellow,1.80
+KKM 25,-,-,moderate,-,-,-,-,-,-
+KKM 28,-,-,moderate,-,13.5 mm (12 - 15),-,-,yellow and red / yellow (ridge/furrow),1.90
+KKM 5,-,-,smooth,-,-,-,-,-,-
+KKM 6,-,-,intense,-,-,-,-,purple / light green (ridge/furrow),-
+PBC 112,slight,rounded,moderate,intermediate,-,-,-,yellow,-
+PBC 113,moderate,rounded,smooth,shallow,-,-,-,-,-
+PBC 123,moderate,obtuse,smooth,shallow,-,-,-,yellowish red / reddish yellow (ridge/furrow),-
+PBC 130,moderate,attenuate,moderate,intermediate,-,-,-,yellow,-
+PBC 131,slight,acute,moderate,intermediate,-,-,-,yellow,-
+PBC 140,moderate,rounded,smooth,shallow,-,-,-,yellow,-
+PBC 159,slight,acute,moderate,intermediate,-,-,-,dark yellow / light yellow (ridge/furrow),-
+PBC 179,slight,rounded,moderate,shallow,-,-,-,yellow,-
+QH 1003,slight,acute,moderate,intermediate,13.4 mm (11.07 - 15.73),230.8,81.2,yellow,2.84
+QH 1176,slight,acute,moderate,deep,10.645 mm (7.9 - 13.39),186.4,80.4,yellow,2.31
+QH 12,moderate,acute,moderate,deep,10.37 mm (7.34 - 13.4),200.2,70.0,yellow,2.86
+QH 1213,slight,attenuate,moderate,intermediate,10.5 mm (8.5 - 12.5),165.5,80.7,yellow,2.05
+QH 186,slight,acute,moderate,deep,10.155 mm (7.49 - 12.82),214.8,77.1,yellow,2.78
+QH 22,slight,acute,moderate,intermediate,11.275 mm (9.13 - 13.42),156.4,83.7,yellow,1.86
+QH 240,slight,acute,moderate,deep,13.285 mm (10.56 - 16.01),204.1,86.1,yellow,2.37
+QH 37,slight,acute,moderate,intermediate,12.405 mm (10.65 - 14.16),185.8,88.0,yellow,2.11
+QH 441,slight,acute,moderate,deep,9.775 mm (7.07 - 12.48),184.5,73.8,yellow,2.50
+QH 670,slight,acute,moderate,intermediate,8.89 mm (6.03 - 11.75),159.3,72.5,yellow,2.19
+SDS 11,moderate,attenuate,moderate,intermediate,15.5 mm (11 - 20),168.0,81.0,yellow,2.07
+SDS 18,slight,acute,moderate,intermediate,14.5 mm (12 - 17),250.0,88.0,yellow,2.84
+SDS 20,slight,acute,intense,intermediate,11.5 mm (9 - 14),170.0,75.0,yellow,2.26
+SDS 21,absent,obtuse,moderate,intermediate,16 mm (12 - 20),150.0,87.0,yellow,1.72
+SDS 36,moderate,attenuate,moderate,intermediate,8.5 mm (6 - 11),170.0,77.0,yellow,2.20
+SDS 4,slight,acute,intense,intermediate,10 mm (9 - 11),166.0,73.0,yellow,2.27
+SDS 41,slight,rounded,moderate,shallow,16 mm (14 - 18),175.0,88.0,yellow,1.98
+SDS 46,absent,rounded,smooth,intermediate,14 mm (13 - 15),130.0,81.0,yellow,1.60
+SDS 52,slight,obtuse,moderate,shallow,16 mm (14 - 18),165.0,76.0,yellow,2.17
+SDS 54,absent,rounded,intense,shallow,11.5 mm (10 - 13),130.0,70.0,yellow,1.85
+SDS 58,absent,obtuse,smooth,shallow,13.5 mm (12 - 15),149.0,90.0,yellow,1.65
+SDS 6,slight,attenuate,moderate,intermediate,11.5 mm (8 - 15),176.0,79.0,yellow,2.22
+SDS 74,slight,acute,moderate,intermediate,12.5 mm (10 - 15),173.0,92.0,yellow,1.88
+SDS 8,moderate,obtuse,moderate,intermediate,12 mm (9 - 15),170.0,75.0,yellow,2.26
+SDS 84,slight,obtuse,moderate,shallow,15 mm (13 - 17),160.0,95.0,yellow,1.68
+TG 135,slight,mammillate,smooth,shallow,7.5 mm (5.71 - 9.29),133.5,73.4,yellow,1.81
+TG 137 /A,slight,attenuate,moderate,deep,8.575 mm (6.29 - 10.86),163.3,82.7,yellow,1.97
+TG 137 /B,slight,attenuate,moderate,intermediate,8.085 mm (6 - 10.17),156.3,75.7,yellow,2.06
+TG 148,moderate,acute,moderate,intermediate,7.75 mm (5.5 - 10),176.7,77.5,yellow,2.28
+TG 157,slight,mammillate,moderate,intermediate,8.41 mm (6.27 - 10.55),165.7,88.7,yellow,1.86
+TG 240,slight,acute,moderate,intermediate,11.385 mm (9.12 - 13.65),152.1,69.1,orange,2.20
+TG 250,absent,obtuse,moderate,intermediate,9.9 mm (7.53 - 12.27),131.9,78.9,yellow,1.67
+TG 266,slight,obtuse,moderate,intermediate,6.72 mm (4.96 - 8.48),155.7,75.5,yellow,2.06
+TG 446,slight,mammillate,smooth,shallow,6.3 mm (4.6 - 8),136.4,66.6,yellow,2.04
+TG 78,moderate,acute,moderate,deep,9.215 mm (6.14 - 12.29),132.0,70.7,yellow,1.86
+TGC,slight,mammillate,smooth,shallow,7.37 mm (5.67 - 9.07),170.3,70.7,yellow,2.40
+UPC 41,slight,obtuse,moderate,intermediate,8.2 mm (5.7 - 10.7),160.2,74.3,yellow,2.15
+UPC 50,slight,attenuate,moderate,intermediate,10.95 mm (9 - 12.9),156.4,78.1,yellow,2.00

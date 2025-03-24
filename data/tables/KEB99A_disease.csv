@@ -1,0 +1,53 @@
+Clone name,Pathogen,Species,Reaction,Part
+ACU 85,Phytophthora,P. palmivora,moderately susceptible,Leaf
+AMAZ 1 /5,Phytophthora,P. palmivora,moderate resistance,Leaf
+CC 10,Phytophthora,P. palmivora,moderately susceptible,Leaf
+CD 8 /6,Phytophthora,P. palmivora,susceptible,Leaf
+EQX 94 [EQX],Phytophthora,P. palmivora,resistant,Leaf
+G 8 [GET],Phytophthora,P. palmivora,moderate resistance,Leaf
+GS 29,Phytophthora,P. palmivora,susceptible,Leaf
+ICS 39,Phytophthora,P. palmivora,moderately susceptible,Leaf
+ICS 6,Phytophthora,P. palmivora,susceptible,Leaf
+ICS 60,Phytophthora,P. palmivora,moderate resistance,Leaf
+ICS 84,Phytophthora,P. palmivora,resistant,Leaf
+ICS 89,Phytophthora,P. palmivora,susceptible,Leaf
+ICS 95,Phytophthora,P. palmivora,moderate resistance,Leaf
+IFC 1 [CIV],Phytophthora,P. palmivora,moderately susceptible,Leaf
+IFC 11 [CIV],Phytophthora,P. palmivora,moderate resistance,Leaf
+IFC 14 [CIV],Phytophthora,P. palmivora,moderately susceptible,Leaf
+IFC 29 [CIV],Phytophthora,P. palmivora,moderately susceptible,Leaf
+IFC 303 [CIV],Phytophthora,P. palmivora,susceptible,Leaf
+IFC 304 [CIV],Phytophthora,P. palmivora,susceptible,Leaf
+IFC 371 [CIV],Phytophthora,P. palmivora,moderate resistance,Leaf
+IFC 5 [CIV],Phytophthora,P. palmivora,susceptible,Leaf
+IFC 6 [CIV],Phytophthora,P. palmivora,moderately susceptible,Leaf
+IFC 8 [CIV],Phytophthora,P. palmivora,moderate resistance,Leaf
+IMC 57,Phytophthora,P. palmivora,resistant,Leaf
+IMC 6,Phytophthora,P. palmivora,susceptible,Leaf
+IMC 67,Phytophthora,P. palmivora,moderately susceptible,Leaf
+IMC 78,Phytophthora,P. palmivora,susceptible,Leaf
+LF 1,Phytophthora,P. palmivora,moderately susceptible,Leaf
+MATINA 1 /9,Phytophthora,P. palmivora,moderately susceptible,Leaf
+MO 81,Phytophthora,P. palmivora,moderately susceptible,Leaf
+MO 98,Phytophthora,P. palmivora,resistant,Leaf
+N 38 [T38],Phytophthora,P. palmivora,moderately susceptible,Leaf
+NA 32,Phytophthora,P. palmivora,susceptible,Leaf
+PA 150 [PER],Phytophthora,P. palmivora,resistant,Leaf
+PA 4 [PER],Phytophthora,P. palmivora,moderately susceptible,Leaf
+POR 1 [TTO],Phytophthora,P. palmivora,moderately susceptible,Leaf
+POUND 19 /A,Phytophthora,P. palmivora,resistant,Leaf
+POUND 7,Phytophthora,P. palmivora,resistant,Leaf
+RIM 15 [MEX],Phytophthora,P. palmivora,susceptible,Leaf
+SCA 6,Phytophthora,P. palmivora,resistant,Leaf
+SNK 12,Phytophthora,P. palmivora,susceptible,Leaf
+SPEC 160 /9,Phytophthora,P. palmivora,moderate resistance,Leaf
+T 60 /887 [POS],Phytophthora,P. palmivora,moderate resistance,Leaf
+T 79 /501 [POS],Phytophthora,P. palmivora,resistant,Leaf
+UF 676,Phytophthora,P. palmivora,susceptible,Leaf
+UPA 134,Phytophthora,P. palmivora,susceptible,Leaf
+UPA 401,Phytophthora,P. palmivora,susceptible,Leaf
+UPA 409,Phytophthora,P. palmivora,susceptible,Leaf
+UPA 413,Phytophthora,P. palmivora,susceptible,Leaf
+VENC 4 /11 [FRA],Phytophthora,P. palmivora,moderate resistance,Leaf
+W 41 [POS],Phytophthora,P. palmivora,moderately susceptible,Leaf
+WA 40 [DR],Phytophthora,P. palmivora,moderately susceptible,Leaf

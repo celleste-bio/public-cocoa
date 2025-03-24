@@ -1,0 +1,74 @@
+Clone name,Shape,Length,Width,L w ratio,Apex form,Pulvinus present
+BACAO,oval,275.5,141.0,1.9,slightly acuminate,Y
+HUILA A,obovate,276.3,99.1,2.78,acuminate,Y
+PENTAGONA /R,obovate,226.7,88.9,2.55,slightly acuminate,Y
+PENTAGONA /V,obovate,252.8,91.8,2.75,acuminate,Y
+RIO GUAPI,oblong,282.0,93.4,3.01,acuminate,Y
+SC 1 [COL],obovate,253.2,119.1,2.12,acuminate,Y
+SC 10 [COL],obovate,305.0,98.0,3.11,acuminate,Y
+SC 11 [COL],obovate,301.0,106.0,2.8,acuminate,Y
+SC 12 [COL],obovate,299.9,107.8,2.78,acuminate,Y
+SC 13 [COL],obovate,294.3,111.8,2.63,obtuse,Y
+SC 14 [COL],elliptic,299.6,109.1,2.74,obtuse,Y
+SC 15 [COL],obovate,343.4,124.5,2.75,acuminate,Y
+SC 16 [COL],obovate,323.5,107.8,3.0,acuminate,Y
+SC 17 [COL],obovate,322.7,122.3,2.63,obtuse,Y
+SC 18 [COL],obovate,339.8,122.8,2.76,acuminate,Y
+SC 19 [COL],obovate,306.3,108.9,2.8,acuminate,Y
+SC 2 [COL],obovate,242.5,92.0,2.63,acuminate,Y
+SC 20 [COL],obovate,310.0,109.9,2.82,acuminate,Y
+SC 21 [COL],obovate,249.6,96.5,2.58,acuminate,Y
+SC 22 [COL],obovate,265.6,93.4,2.84,acuminate,Y
+SC 23 [COL],obovate,233.1,80.7,2.88,acuminate,Y
+SC 26 [COL],obovate,256.7,93.1,2.75,acuminate,Y
+SC 27 [COL],obovate,274.4,100.5,2.73,slightly acuminate,Y
+SC 28 [COL],obovate,259.6,94.5,2.74,acuminate,Y
+SC 29 [COL],obovate,274.2,97.4,2.81,slightly acuminate,Y
+SC 3 [COL],obovate,289.3,102.1,2.83,acuminate,Y
+SC 30 [COL],obovate,290.6,104.0,2.79,acuminate,Y
+SC 31 [COL],obovate,300.7,102.3,4.93,acuminate,Y
+SC 32 [COL],obovate,233.0,75.6,3.08,acuminate,Y
+SC 33 [COL],obovate,290.0,102.0,2.84,acuminate,Y
+SC 35 [COL],obovate,327.9,101.8,3.22,acuminate,Y
+SC 37 [COL],elliptic,258.4,91.5,2.82,acuminate,Y
+SC 38 [COL],obovate,287.7,98.8,2.91,acuminate,Y
+SC 4 [COL],obovate,265.8,107.0,2.48,acuminate,Y
+SC 40 [COL],obovate,294.5,101.2,2.9,acuminate,Y
+SC 41 [COL],obovate,291.3,98.2,2.98,slightly acuminate,Y
+SC 42 [COL],elliptic,255.6,91.5,2.83,acuminate,Y
+SC 43 [COL],elliptic,247.6,87.2,2.83,acuminate,Y
+SC 44 [COL],obovate,257.1,93.4,2.75,acuminate,Y
+SC 45 [COL],obovate,255.8,95.0,2.69,acuminate,Y
+SC 47 [COL],obovate,265.2,92.6,2.86,acuminate,Y
+SC 48 [COL],obovate,271.4,98.2,2.76,acuminate,Y
+SC 49 [COL],obovate,291.4,101.1,2.88,acuminate,Y
+SC 5 [COL],obovate,297.0,100.1,2.96,acuminate,Y
+SC 50 [COL],obovate,272.6,101.0,2.69,acuminate,Y
+SC 51 [COL],oval,316.0,94.3,3.35,acuminate,Y
+SC 54 [COL],obovate,261.0,100.8,2.58,acuminate,Y
+SC 55 [COL],lanceolate,275.6,91.4,3.05,acuminate,Y
+SC 56 [COL],obovate,259.0,79.8,3.24,acuminate,Y
+SC 6 [COL],obovate,298.5,103.8,2.87,acuminate/obtuse,Y
+SC 7 [COL],obovate,280.8,104.6,2.68,acuminate,Y
+SC 8 [COL],obovate,271.7,98.4,2.8,acuminate,Y
+SC 9 [COL],obovate,329.0,124.4,2.63,acuminate,Y
+SPA 10 [COL],elliptic,259.5,88.6,2.92,acuminate,Y
+SPA 11 [COL],elliptic,257.8,96.5,2.67,acuminate,Y
+SPA 12 [COL],obovate,253.4,104.6,2.42,acuminate,Y
+SPA 13 [COL],obovate,285.0,99.0,2.87,acuminate,Y
+SPA 14 [COL],obovate,265.5,94.6,2.8,acuminate,Y
+SPA 15 [COL],obovate,269.1,92.5,2.9,acuminate,Y
+SPA 16 [COL],obovate,275.0,104.0,2.6,acuminate,Y
+SPA 17 [COL],obovate,263.1,99.7,2.63,acuminate,Y
+SPA 18 [COL],obovate,295.0,95.6,3.08,acuminate,Y
+SPA 19 [COL],lanceolate,247.9,87.3,2.83,acuminate,Y
+SPA 2 [COL],elliptic,275.2,98.2,2.8,acuminate,Y
+SPA 20 [COL],obovate,273.4,100.8,2.71,slightly acuminate,Y
+SPA 22 [COL],obovate,256.7,100.9,2.54,slightly acuminate,Y
+SPA 3 [COL],obovate,257.3,94.6,2.71,acuminate,Y
+SPA 3 [COL],obovate,265.7,101.1,2.62,acuminate,Y
+SPA 4 [COL],lanceolate,251.6,80.0,2.9,acuminate,Y
+SPA 6 [COL],obovate,258.7,105.8,2.44,acuminate,Y
+SPA 7 [COL],obovate,235.1,95.5,2.46,acuminate,Y
+SPA 8 [COL],obovate,346.8,86.8,3.99,acuminate,Y
+SPA 9 [COL],elliptic,257.8,90.6,2.84,acuminate,Y

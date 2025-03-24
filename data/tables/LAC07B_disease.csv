@@ -1,0 +1,38 @@
+Clone name,Pathogen,Species,Reaction,Info,Part,Notes
+GU 123 /C,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 123 /V,Phytophthora,P. palmivora,resistant,Described as Very Resistant. Strain TRI 1,Leaf Disc Test,Population Tanpok
+GU 125 /C,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 133 /C,Phytophthora,P. palmivora,resistant,Described as Very Resistant,Leaf Disc Test,Population Camopi 7
+GU 134 /B,Phytophthora,P. palmivora,resistant,Strain NS 607,Leaf Disc Test,-
+GU 151 /F,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 168 /H,Witches' Broom,-,susceptible,-,Twigs and/or pods (Field Reaction),-
+GU 171 /C,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 175 /P,Phytophthora,P. palmivora,moderate resistance,-,Leaf Disc Test,-
+GU 175 /V,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 183 /G,Phytophthora,P. palmivora,resistant,-,Leaf Disc Test,-
+GU 195 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 195 /V,Phytophthora,P. palmivora,resistant,Strain TRI 1,Leaf Disc Test,Population Camopi 9
+GU 207 /H,Phytophthora,P. palmivora,resistant,Described as Very Resistant,Leaf Disc Test,Population Camopi 12
+GU 219 /F,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 221 /C,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 221 /H,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 226 /V,Phytophthora,P. palmivora,resistant,Strain TRI 1,Leaf Disc Test,Population Camopi 3
+GU 241 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 241 /V,Phytophthora,P. palmivora,resistant,Strain TRI 1,Leaf Disc Test,Population Camopi 3
+GU 254 /A,Phytophthora,P. palmivora,resistant,Strain NS 607,Leaf Disc Test,-
+GU 259 /C,Witches' Broom,-,susceptible,-,Twigs and/or pods (Field Reaction),-
+GU 261 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 263 /V,Phytophthora,P. palmivora,resistant,-,Leaf Disc Test,Population Camopi 1
+GU 265 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 269 /V,Phytophthora,P. palmivora,resistant,Strain TRI 1,Leaf Disc Test,Population Camopi 1
+GU 277 /G,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 286 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 296 /H,Witches' Broom,-,susceptible,-,Twigs and/or pods (Field Reaction),-
+GU 300 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 305 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 307 /F,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 307 /V,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 310 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 335 /P,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-
+GU 341 /H,Witches' Broom,-,susceptible,-,Twigs and/or pods (Field Reaction),-
+GU 353 /L,Witches' Broom,-,resistant,-,Twigs and/or pods (Field Reaction),-

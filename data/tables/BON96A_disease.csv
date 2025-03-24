@@ -1,0 +1,97 @@
+Clone name,Pathogen,Species,Reaction
+BAL 209,Vascular Streak Dieback,S1,susceptible
+BAL 209,Vascular Streak Dieback,S3,susceptible
+BAL 209,Vascular Streak Dieback,S4,susceptible
+BAL 209,Vascular Streak Dieback,S5,susceptible
+BAL 209,Vascular Streak Dieback,S6,susceptible
+BAL 209,Vascular Streak Dieback,S7,intermediate
+BAL 209,Vascular Streak Dieback,S8,intermediate
+BAL 209,Vascular Streak Dieback,S10,susceptible
+BAL 209,Vascular Streak Dieback,S11,susceptible
+BAL 209,Vascular Streak Dieback,S12,susceptible
+BR 25,Vascular Streak Dieback,S1,intermediate
+BR 25,Vascular Streak Dieback,S3,intermediate
+BR 25,Vascular Streak Dieback,S6,intermediate
+BR 25,Vascular Streak Dieback,S7,intermediate
+BR 25,Vascular Streak Dieback,S10,intermediate
+BR 25,Vascular Streak Dieback,S11,susceptible
+BR 25,Vascular Streak Dieback,S12,moderately susceptible
+DESA 1,Vascular Streak Dieback,S1,intermediate
+DESA 1,Vascular Streak Dieback,S3,moderate resistance
+DESA 1,Vascular Streak Dieback,S4,moderately susceptible
+DESA 1,Vascular Streak Dieback,S5,moderate resistance
+DESA 1,Vascular Streak Dieback,S6,moderately susceptible
+DESA 1,Vascular Streak Dieback,S7,resistant
+DESA 1,Vascular Streak Dieback,S8,moderate resistance
+DESA 1,Vascular Streak Dieback,S9,moderate resistance
+DESA 1,Vascular Streak Dieback,S10,moderately susceptible
+DESA 1,Vascular Streak Dieback,S11,resistant
+DESA 1,Vascular Streak Dieback,S12,moderate resistance
+DESA 2,Vascular Streak Dieback,S6,moderate resistance
+DESA 2,Vascular Streak Dieback,S8,moderate resistance
+DESA 2,Vascular Streak Dieback,S10,moderate resistance
+DESA 2,Vascular Streak Dieback,S12,moderate resistance
+ICS 95,Vascular Streak Dieback,S1,intermediate
+ICS 95,Vascular Streak Dieback,S3,moderate resistance
+ICS 95,Vascular Streak Dieback,S4,moderately susceptible
+ICS 95,Vascular Streak Dieback,S5,moderate resistance
+ICS 95,Vascular Streak Dieback,S6,intermediate
+ICS 95,Vascular Streak Dieback,S7,resistant
+ICS 95,Vascular Streak Dieback,S8,intermediate
+ICS 95,Vascular Streak Dieback,S9,intermediate
+ICS 95,Vascular Streak Dieback,S10,moderately susceptible
+ICS 95,Vascular Streak Dieback,S12,intermediate
+K 20 [KER],Vascular Streak Dieback,S1,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S3,resistant
+K 20 [KER],Vascular Streak Dieback,S4,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S5,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S6,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S7,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S8,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S9,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S10,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S11,moderate resistance
+K 20 [KER],Vascular Streak Dieback,S12,moderate resistance
+NA 32,Vascular Streak Dieback,S1,intermediate
+NA 32,Vascular Streak Dieback,S3,moderate resistance
+NA 32,Vascular Streak Dieback,S4,intermediate
+NA 32,Vascular Streak Dieback,S5,intermediate
+NA 32,Vascular Streak Dieback,S6,intermediate
+NA 32,Vascular Streak Dieback,S7,moderate resistance
+NA 32,Vascular Streak Dieback,S8,intermediate
+NA 32,Vascular Streak Dieback,S9,intermediate
+NA 32,Vascular Streak Dieback,S10,susceptible
+NA 32,Vascular Streak Dieback,S11,intermediate
+NA 32,Vascular Streak Dieback,S12,susceptible
+NA 33,Vascular Streak Dieback,S1,resistant
+NA 33,Vascular Streak Dieback,S3,resistant
+NA 33,Vascular Streak Dieback,S4,moderate resistance
+NA 33,Vascular Streak Dieback,S5,moderate resistance
+NA 33,Vascular Streak Dieback,S6,moderate resistance
+NA 33,Vascular Streak Dieback,S7,moderate resistance
+NA 33,Vascular Streak Dieback,S8,moderate resistance
+NA 33,Vascular Streak Dieback,S10,moderate resistance
+NA 33,Vascular Streak Dieback,S11,moderate resistance
+NA 33,Vascular Streak Dieback,S12,moderate resistance
+PA 7 [PER],Vascular Streak Dieback,S4,moderate resistance
+PA 7 [PER],Vascular Streak Dieback,S6,moderately susceptible
+PA 7 [PER],Vascular Streak Dieback,S10,moderately susceptible
+PA 7 [PER],Vascular Streak Dieback,S11,moderate resistance
+PA 7 [PER],Vascular Streak Dieback,S12,moderately susceptible
+PBC 123,Vascular Streak Dieback,S1,intermediate
+PBC 123,Vascular Streak Dieback,S4,moderate resistance
+PBC 123,Vascular Streak Dieback,S6,intermediate
+PBC 123,Vascular Streak Dieback,S9,moderate resistance
+PBC 123,Vascular Streak Dieback,S11,moderate resistance
+PBC 123,Vascular Streak Dieback,S12,intermediate
+RP 3,Vascular Streak Dieback,S1,moderate resistance
+RP 3,Vascular Streak Dieback,S3,moderate resistance
+RP 3,Vascular Streak Dieback,S4,moderate resistance
+RP 3,Vascular Streak Dieback,S5,moderate resistance
+RP 3,Vascular Streak Dieback,S6,intermediate
+RP 3,Vascular Streak Dieback,S7,moderate resistance
+RP 3,Vascular Streak Dieback,S8,moderate resistance
+RP 3,Vascular Streak Dieback,S9,susceptible
+RP 3,Vascular Streak Dieback,S10,moderately susceptible
+RP 3,Vascular Streak Dieback,S11,moderate resistance
+RP 3,Vascular Streak Dieback,S12,moderate resistance

@@ -1,0 +1,86 @@
+Clone name,Accession,Self compatibility
+ARF 22,-,self incompatible
+ARF 22 x ARF 37,tree number 11,self compatible
+ARF 22 x ARF 6,tree number 12,self incompatible
+ARF 22 x UF 273,tree number 13,self compatible
+ARF 37,-,self compatible
+ARF 6,-,self compatible
+CATIE-R1,-,self compatible
+CATIE-R2,-,self compatible
+CATIE-R3,-,self compatible
+CATIE-R4,-,self incompatible
+CATIE-R5,-,self compatible
+CATIE-R6,-,self incompatible
+CATIE-R7,-,self compatible
+CATIE 1000 x CC 137,tree number 23,self compatible
+CC 137,-,self compatible
+CC 137 x UF 273,tree number 20,self compatible
+CC 137 x UF 273,tree number 30,self compatible
+CC 137 x SCA 6,tree number 32,self incompatible
+CC 252,-,self incompatible
+CC 252 x SCA 6,tree number 27,self incompatible
+CC 252 x SCA 6,tree number 28,self incompatible
+CCN 51,-,self compatible
+CCN 51 x PA 169 [PER],tree number 9,self compatible
+EET 183 [ECU],-,self compatible
+EET 75 [ECU] x CC 252,tree number 31,self compatible
+EET 75 [ECU] x CC 137,tree number 2,self incompatible
+EET 75 [ECU] x CC 137,tree number 25,self compatible
+EET 75 [ECU] x CATIE 1000,tree number 18,self incompatible
+EET 75 [ECU] x CATIE 1000,tree number 20,self compatible
+EET 75 [ECU] x CATIE 1000,tree number 24,self compatible
+GU 133 /N,-,self compatible
+ICS 43,-,self compatible
+ICS 95,-,self compatible
+ICS 95 x UF 273,tree number 21,self compatible
+ICS 95 x UF 273,tree number 27,self incompatible
+ICS 95 x UF 712,tree number 29,self compatible
+ICS 95 x POUND 7,tree number 29,self compatible
+IMC 60,-,self incompatible
+PA 169 [PER],-,self incompatible
+PA 169 [PER] x ARF 6,tree number 11,self incompatible
+PA 169 [PER] x ARF 22,tree number 5,self compatible
+PA 169 [PER] x ARF 22,tree number 10,self compatible
+PA 169 [PER] x ARF 22,tree number 14,self compatible
+PA 169 [PER] x ARF 22,tree number 30,self compatible
+PA 169 [PER] x ARF 37,tree number 8,self compatible
+PMCT 58,-,self incompatible
+POUND 7,-,self incompatible
+SCA 6 x UF 712,tree number 20,self incompatible
+SCA 6,-,self incompatible
+SGU 84,-,self incompatible
+UF 273,-,self compatible
+UF 273 x CC 137,tree number 1,self compatible
+UF 273 x CC 137,tree number 5,self compatible
+UF 273 x CATIE 1000,tree number 31,self incompatible
+UF 273 x POUND 7,tree number 4,self compatible
+UF 273 x POUND 7,tree number 5,self compatible
+UF 273 x POUND 7,tree number 20,self compatible
+UF 273 x Tree81,tree number 4,self compatible
+UF 273 x Tree81,tree number 32,self compatible
+UF 273 x CC 137,tree number 4,self compatible
+UF 273 x CC 137,tree number 9,self compatible
+UF 273 x CC 137,tree number 21,self compatible
+UF 273 x CATIE 1000,tree number 29,self incompatible
+UF 273 x CCN 51,tree number 13,self compatible
+UF 273 x SCA 6,tree number 19,self incompatible
+UF 712,-,self compatible
+UF 712 x CC 137,tree number 3,self compatible
+UF 712 x CC 137,tree number 5,self compatible
+UF 712 x CC 137,tree number 21,self compatible
+UF 712 x CC 137,tree number 27,self compatible
+UF 712 x CC 137,tree number 30,self incompatible
+UF 712 x CC 124,tree number 23,self compatible
+UF 712 x CC 124,tree number 24,self compatible
+UF 712 x CC 124,tree number 30,self incompatible
+UF 712 x CC 124,tree number 31,self incompatible
+UF 712 x CATIE 1000,tree number 7,self incompatible
+UF 712 x Tree81,tree number 22,self incompatible
+UF 712 x Tree81,tree number 24,self compatible
+UF 712 x ARF 37,tree number 12,self compatible
+UF 712 x ARF 37,tree number 26,self compatible
+UF 712 x ARF 37,tree number 28,self incompatible
+UF 712 x ARF 37,tree number 31,self incompatible
+UF 712 x ARF 37,tree number 32,self incompatible
+UF 712 x ICS 43,tree number 30,self compatible
+UF 712 x P 23 [MEX],tree number 15,self compatible

@@ -1,0 +1,78 @@
+Clone name,Fat,Info
+ARF 22 x ARF 37,56.0,tree number 11
+ARF 22,58.0,-
+ARF 22 x ARF 6,56.0,tree number 12
+ARF 22 x UF 273,58.0,tree number 13
+ARF 37,53.0,-
+ARF 6,52.0,-
+CATIE-R1,56.0,-
+CATIE-R2,55.0,-
+CATIE-R3,56.0,-
+CATIE-R4,61.0,-
+CATIE-R5,61.0,-
+CATIE-R6,57.0,-
+CATIE-R7,50.0,-
+CATIE 1000 x CC 137,56.0,tree number 23
+CC 137 x SCA 6,54.0,tree number 32
+CC 137 x ICS 6,52.0,tree number 30
+CC 137,56.0,-
+CC 252 x SCA 6,56.0,tree number 28
+CC 252 x SCA 6,57.0,tree number 27
+CC 252,56.0,-
+CCN 51,56.0,-
+EET 183 [ECU],56.0,-
+EET 75 [ECU] x CATIE 1000,55.0,tree number 24
+EET 75 [ECU] x CATIE 1000,54.0,tree number 20
+EET 75 [ECU] x CC 137,55.0,tree number 25
+EET 75 [ECU] x CC 252,54.0,tree number 31
+EET 75 [ECU] x CATIE 1000,57.0,tree number 30
+GU 133 /N,57.0,-
+ICS 43,54.0,-
+ICS 95 x POUND 7,58.0,tree number 29
+ICS 95 x UF 273,57.0,tree number 27
+ICS 95 x UF 273,54.0,tree number 21
+ICS 95,55.0,-
+IMC 60,56.0,-
+PA 169 [PER],61.0,-
+PA 169 [PER] x ARF 6,57.0,tree number 11
+PA 169 [PER] x ARF 22,55.0,tree number 10
+PA 169 [PER] x ARF 22,57.0,tree number 14
+PA 169 [PER] x ARF 22,56.0,tree number 23
+PA 169 [PER] x ARF 37,62.0,tree number 8
+PMCT 58,59.0,-
+POUND 7,60.0,-
+SGU 84,53.0,-
+UF 273 x Tree81,55.0,tree number 32
+UF 273 x Tree81,57.0,tree number 4
+UF 273 x POUND 7,51.0,tree number 20
+UF 273 x POUND 7,54.0,tree number 5
+UF 273 x POUND 7,57.0,tree number 4
+UF 273 x CATIE 1000,60.0,tree number 31
+UF 273 x CC 137,53.0,tree number 5
+UF 273 x CC 137,54.0,tree number 1
+UF 273,52.0,-
+UF 273 x POUND 7,56.0,tree number 6
+UF 273 x SCA 6,53.0,tree number 19
+UF 273 x CCN 51,51.0,tree number 13
+UF 273 x CC 137,54.0,tree number 9
+UF 273 x CC 137,54.0,tree number 4
+UF 273 x CC 137,50.0,tree number 2
+UF 273 x SCA 6,56.0,tree number 22
+UF 712 x Tree81,54.0,tree number 22
+UF 712 x CATIE 1000,55.0,tree number 7
+UF 712 x CC 124,55.0,tree number 30
+UF 712 x CC 124,53.0,tree number 24
+UF 712 x CC 124,56.0,tree number 23
+UF 712 x CC 137,52.0,tree number 30
+UF 712 x CC 137,55.0,tree number 27
+UF 712 x CC 137,50.0,tree number 21
+UF 712 x CC 137,56.0,tree number 5
+UF 712 x CC 137,55.0,tree number 3
+UF 712,55.0,-
+UF 712 x ARF 37,58.0,tree number 12
+UF 712 x ARF 37,59.0,tree number 26
+UF 712 x ARF 37,57.0,tree number 28
+UF 712 x ARF 37,57.0,tree number 31
+UF 712 x ARF 37,56.0,tree number 32
+UF 712 x ICS 43,55.0,tree number 30
+UF 712 x P 23 [MEX],56.0,tree number 15

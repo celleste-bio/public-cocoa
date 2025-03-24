@@ -1,0 +1,398 @@
+Clone name,Self compatibility
+AC T 1 /5 [TTO],self compatible
+AC T 1 /9 [TTO],self compatible
+AC T 2 /11 [TTO],self compatible
+AC T 2 /13 [TTO],self compatible
+ALMEIDA [SEM],self compatible
+AX 122 /10,self incompatible
+AX 122 /13,self incompatible
+AX 122 /17,self incompatible
+AX 122 /173,self incompatible
+AX 122 /18,self incompatible
+AX 122 /180,self incompatible
+AX 122 /198,self incompatible
+AX 122 /2,self incompatible
+AX 122 /203,self incompatible
+AX 122 /207,self incompatible
+AX 122 /21,self incompatible
+AX 122 /210,self incompatible
+AX 122 /24,self incompatible
+AX 122 /28,self incompatible
+AX 122 /32,self incompatible
+AX 122 /41,self incompatible
+AX 122 /45,self incompatible
+AX 122 /53,self incompatible
+AX 122 /57,self incompatible
+AX 122 /59,self incompatible
+AX 122 /61,self incompatible
+AX 122 /72,self incompatible
+AX 122 /75,self incompatible
+AX 122 /78,self incompatible
+AX 122 /79,self incompatible
+AX 122 /80,self incompatible
+AX 122 /81,self incompatible
+AX 122 /84,self incompatible
+AX 122 /85,self incompatible
+AX 122 /90,self incompatible
+AX 122 /91,self incompatible
+AX 122 /97,self incompatible
+AX 122 /99,self incompatible
+AX 127 /21,self compatible
+AX 127 /8,self compatible
+AX 131 /10,self compatible
+AX 131 /15,self compatible
+AX 131 /26,self compatible
+AX 131 /31,self compatible
+AX 131 /35,self compatible
+AX 132 /23,self compatible
+AX 132 /5,self compatible
+AX 3 /32,self compatible
+AX 3 /7,self compatible
+AX 37 /1,self incompatible
+AX 38 /1,self incompatible
+AX 38 /74,self incompatible
+AX 38 /92,self incompatible
+AX 40 /20,self incompatible
+AX 46 /72,self incompatible
+AX 48 /94,self incompatible
+AX 49 /36,self incompatible
+AX 49 /38,self incompatible
+AX 49 /48,self compatible
+AX 51 /44,self incompatible
+AX 57 /63,self incompatible
+AX 63 /11,self compatible
+AX 63 /15,self incompatible
+AX 63 /2,self compatible
+B 23 /1 [POU],self compatible
+C 151 /112 [TRI],self incompatible
+C 151 /36 [TRI],self incompatible
+C 151 /44 [TRI],self compatible
+C 151 /50 [TRI],self incompatible
+C 151 /60 [TRI],self incompatible
+C 151 /61 [TRI],self compatible
+C 151 /69 [TRI],self compatible
+C 151 /78 [TRI],self compatible
+C 154 /20 [TRI],self incompatible
+C 24 /28 [TRI],self compatible
+C 24 /93 [TRI],self compatible
+C 25 /1 [TRI],self compatible
+C 25 /147 [TRI],self compatible
+C 25 /181 [TRI],self compatible
+C 25 /197 [TRI],self compatible
+C 25 /221 [TRI],self compatible
+C 25 /250 [TRI],self compatible
+C 3 /15 [TRI],self compatible
+C 3 /23 [TRI],self compatible
+C 3 /28 [TRI],self compatible
+C 3 /29 [TRI],self compatible
+C 3 /4 [TRI],self incompatible
+C 32 /10 [TRI],self incompatible
+C 32 /101 [TRI],self incompatible
+C 32 /158 [TRI],self incompatible
+C 32 /168 [TRI],self incompatible
+C 32 /196 [TRI],self incompatible
+C 32 /22 [TRI],self incompatible
+C 33 /103 [TRI],self incompatible
+C 33 /128 [TRI],self incompatible
+C 33 /157 [TRI],self incompatible
+C 33 /172 [TRI],self incompatible
+C 33 /18 [TRI],self incompatible
+C 33 /183 [TRI],self incompatible
+C 33 /200 [TRI],self incompatible
+C 33 /34 [TRI],self incompatible
+C 33 /38 [TRI],self incompatible
+C 33 /52 [TRI],self incompatible
+C 33 /56 [TRI],self incompatible
+C 33 /9 [TRI],self incompatible
+C 34 /102 [TRI],self incompatible
+C 34 /103 [TRI],self incompatible
+C 34 /104 [TRI],self incompatible
+C 34 /105 [TRI],self incompatible
+C 34 /106 [TRI],self incompatible
+C 34 /113 [TRI],self incompatible
+C 34 /145 [TRI],self incompatible
+C 34 /150 [TRI],self incompatible
+C 34 /155 [TRI],self incompatible
+C 34 /176 [TRI],self incompatible
+C 34 /190 [TRI],self incompatible
+C 34 /193 [TRI],self incompatible
+C 34 /196 [TRI],self incompatible
+C 34 /212 [TRI],self incompatible
+C 34 /226 [TRI],self incompatible
+C 34 /228 [TRI],self incompatible
+C 34 /231 [TRI],self incompatible
+C 34 /234 [TRI],self incompatible
+C 34 /235 [TRI],self incompatible
+C 34 /237 [TRI],self incompatible
+C 34 /3 [TRI],self incompatible
+C 34 /37 [TRI],self incompatible
+C 34 /41 [TRI],self incompatible
+C 34 /5 [TRI],self incompatible
+C 34 /56 [TRI],self incompatible
+C 34 /95 [TRI],self incompatible
+C 35 /104 [TRI],self incompatible
+C 35 /105 [TRI],self incompatible
+C 35 /106 [TRI],self incompatible
+C 35 /135 [TRI],self incompatible
+C 35 /139 [TRI],self incompatible
+C 35 /142 [TRI],self incompatible
+C 35 /144 [TRI],self incompatible
+C 35 /150 [TRI],self incompatible
+C 35 /155 [TRI],self incompatible
+C 35 /163 [TRI],self incompatible
+C 35 /165 [TRI],self incompatible
+C 35 /176 [TRI],self incompatible
+C 35 /178 [TRI],self incompatible
+C 35 /188 [TRI],self incompatible
+C 35 /37 [TRI],self incompatible
+C 35 /68 [TRI],self incompatible
+C 35 /94 [TRI],self incompatible
+C 37 /106 [TRI],self incompatible
+C 37 /21 [TRI],self incompatible
+C 4 /216 [TRI],self compatible
+C 4 /258 [TRI],self compatible
+C 4 /278 [TRI],self compatible
+C 7 /11 [TRI],self compatible
+C 7 /2 [TRI],self compatible
+C 7 /27 [TRI],self compatible
+C 7 /32 [TRI],self compatible
+C 7 /42 [TRI],self compatible
+C 83 /109 [TRI],self compatible
+C 83 /28 [TRI],self compatible
+C 83 /3 [TRI],self compatible
+C 87 /56 [TRI],self incompatible
+C 90 /10 [TRI],self compatible
+C 90 /18 [TRI],self compatible
+C 90 /20 [TRI],self compatible
+C 90 /43 [TRI],self compatible
+C 90 /50 [TRI],self compatible
+C 90 /56 [TRI],self compatible
+C 92 /17 [TRI],self compatible
+C 92 /18 [TRI],self compatible
+C 92 /26 [TRI],self compatible
+C 92 /9 [TRI],self compatible
+C 93 /15 [TRI],self compatible
+C 93 /27 [TRI],self compatible
+C 93 /30 [TRI],self compatible
+C 93 /34 [TRI],self compatible
+C 93 /37 [TRI],self compatible
+C 93 /44 [TRI],self compatible
+C 93 /46 [TRI],self compatible
+C 93 /47 [TRI],self compatible
+C 94 /25 [TRI],self compatible
+C 94 /8 [TRI],self compatible
+C 96 /63 [TRI],self compatible
+C 98 /14 [TRI],self compatible
+C 98 /8 [TRI],self compatible
+CATONGO,self compatible
+DR 1,self incompatible
+DR 2,self compatible
+DR 38,self compatible
+E 15 [ECU],self compatible
+E 34 [ECU],self compatible
+E 41 [ECU],self compatible
+ECNR,self incompatible
+EET 162 [ECU],self incompatible
+EET 19 [ECU],self compatible
+EET 397 [ECU],self incompatible
+EET 399 [ECU],self incompatible
+EET 48 [ECU],self compatible
+GS 10,self compatible
+GS 17,self incompatible
+GS 19,self incompatible
+GS 29,self incompatible
+GS 32,self incompatible
+GS 36,self incompatible
+GS 5,self compatible
+GS 77,self incompatible
+ICS 1,self compatible
+ICS 10,self compatible
+ICS 100,self incompatible
+ICS 11,self incompatible
+ICS 111,self compatible
+ICS 12,self incompatible
+ICS 13,self incompatible
+ICS 14,self compatible
+ICS 15,self incompatible
+ICS 16,self incompatible
+ICS 17,self incompatible
+ICS 19,self incompatible
+ICS 2,self incompatible
+ICS 20,self incompatible
+ICS 21,self incompatible
+ICS 22,self incompatible
+ICS 23,self compatible
+ICS 24,self compatible
+ICS 25,self compatible
+ICS 26,self incompatible
+ICS 27,self compatible
+ICS 28,self compatible
+ICS 29,self incompatible
+ICS 3,self incompatible
+ICS 30,self incompatible
+ICS 31,self compatible
+ICS 32,self incompatible
+ICS 33,self compatible
+ICS 34,self incompatible
+ICS 35,self incompatible
+ICS 36,self compatible
+ICS 37,self incompatible
+ICS 38,self incompatible
+ICS 39,self incompatible
+ICS 4,self incompatible
+ICS 40,self incompatible
+ICS 41,self incompatible
+ICS 42,self incompatible
+ICS 43,self incompatible
+ICS 44,self compatible
+ICS 45,self compatible
+ICS 46,self incompatible
+ICS 47,self incompatible
+ICS 5,self incompatible
+ICS 50,self incompatible
+ICS 51,self incompatible
+ICS 52,self incompatible
+ICS 53,self incompatible
+ICS 55,self compatible
+ICS 56,self incompatible
+ICS 57,self incompatible
+ICS 58,self incompatible
+ICS 59,self incompatible
+ICS 6,self compatible
+ICS 60,self incompatible
+ICS 61,self incompatible
+ICS 62,self compatible
+ICS 63,self incompatible
+ICS 64,self incompatible
+ICS 65,self compatible
+ICS 67,self incompatible
+ICS 68,self compatible
+ICS 69,self compatible
+ICS 7,self compatible
+ICS 71,self incompatible
+ICS 72,self incompatible
+ICS 73,self compatible
+ICS 74,self incompatible
+ICS 75,self incompatible
+ICS 76,self compatible
+ICS 77,self incompatible
+ICS 78,self incompatible
+ICS 79,self compatible
+ICS 8,self compatible
+ICS 81,self incompatible
+ICS 83,self incompatible
+ICS 84,self incompatible
+ICS 85,self compatible
+ICS 86,self incompatible
+ICS 87,self incompatible
+ICS 88,self compatible
+ICS 89,self incompatible
+ICS 9,self compatible
+ICS 90,self incompatible
+ICS 91,self compatible
+ICS 92,self incompatible
+ICS 95,self compatible
+ICS 96,self incompatible
+ICS 97,self incompatible
+ICS 98,self compatible
+ICS 99,self incompatible
+IMC 67,self incompatible
+JA 4 /22 [POU],self compatible
+JA 5 /46 [POU],self compatible
+LAFI 7,self incompatible
+M 137 [ICT],self compatible
+M 252 [ICT],self incompatible
+M 253 [ICT],self incompatible
+M 8 [SUR],self compatible
+MATINA 2 /14,self compatible
+MOQ 1 /22,self incompatible
+MX 16 /18 [TTO],self compatible
+MX 16 /2 [TTO],self compatible
+MX 16 /41 [TTO],self compatible
+MX 16 /47 [TTO],self compatible
+MX 16 /48 [TTO],self compatible
+MX 16 /49 [TTO],self compatible
+MX 16 /52 [TTO],self compatible
+MX 16 /58 [TTO],self compatible
+MX 58 /35 [TTO],self incompatible
+MX 70 /26 [TTO],self incompatible
+MXC 67,self compatible
+NA 277,self incompatible
+NA 32,self incompatible
+NA 33,self incompatible
+NA 34,self incompatible
+NA 387,self incompatible
+PA 30 [PER],self incompatible
+PIMENTA,self incompatible
+PLAYA ALTA 1 [VEN],self incompatible
+PLAYA ALTA 2 [VEN],self incompatible
+PLAYA ALTA 4 [VEN],self incompatible
+POUND 1,self incompatible
+POUND 10,self incompatible
+POUND 11,self incompatible
+POUND 12,self incompatible
+POUND 13,self incompatible
+POUND 14,self incompatible
+POUND 15,self incompatible
+POUND 16,self incompatible
+POUND 17,self incompatible
+POUND 18,self incompatible
+POUND 19,self incompatible
+POUND 2,self incompatible
+POUND 20,self incompatible
+POUND 21,self incompatible
+POUND 24,self incompatible
+POUND 25,self incompatible
+POUND 26,self incompatible
+POUND 27,self incompatible
+POUND 28,self incompatible
+POUND 29,self incompatible
+POUND 3,self incompatible
+POUND 30,self incompatible
+POUND 31,self incompatible
+POUND 32,self compatible
+POUND 4,self incompatible
+POUND 5,self incompatible
+POUND 7,self incompatible
+POUND 8,self incompatible
+POUND 9,self compatible
+REDAMEL 1 /22,self compatible
+REDAMEL 1 /27,self compatible
+REDAMEL 1 /31,self compatible
+RUY,self compatible
+SCA 10,self incompatible
+SCA 11,self incompatible
+SCA 12,self incompatible
+SCA 17,self incompatible
+SCA 19,self incompatible
+SCA 23,self incompatible
+SCA 24,self incompatible
+SCA 27,self incompatible
+SCA 3,self incompatible
+SCA 5,self incompatible
+SCA 6,self incompatible
+SCA 7,self incompatible
+SCA 8,self incompatible
+SCA 9,self incompatible
+SIC 28,self compatible
+SPEC 138 /10,self compatible
+SPEC 161 /3,self incompatible
+SPEC 161 /7,self compatible
+SPEC 194 /75,self compatible
+SPEC 194 /80,self incompatible
+SPEC 195 /7,self compatible
+SPEC 41 /11,self compatible
+SPEC 41 /2,self compatible
+SPEC 41 /6,self compatible
+SPEC 41 /9,self compatible
+SPEC 54 /1,self compatible
+SPEC 54 /2,self compatible
+STAHEL,self incompatible
+TSA 644,self incompatible
+UF 11,self incompatible
+UF 12,self incompatible
+UF 29,self compatible
+VEN B 56 [ICT],self compatible
+VEN B 87 [ICT],self compatible
+VEN B 93 [ICT],self compatible
+VEN B 99 [ICT],self compatible

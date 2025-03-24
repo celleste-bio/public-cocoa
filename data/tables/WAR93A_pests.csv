@@ -1,0 +1,11 @@
+Clone name,Pest,Species,Reaction
+AMAZ 12,Squirrels,Sciurus granatensis,susceptible
+ICS 1,Squirrels,Sciurus granatensis,resistant
+ICS 68,Squirrels,Sciurus granatensis,susceptible
+ICS 95,Squirrels,Sciurus granatensis,moderate resistance
+IMC 27,Squirrels,Sciurus granatensis,moderate resistance
+IMC 6,Squirrels,Sciurus granatensis,very resistant
+IMC 67,Squirrels,Sciurus granatensis,susceptible
+PA 169 [PER],Squirrels,Sciurus granatensis,susceptible
+PA 46 [PER],Squirrels,Sciurus granatensis,moderate resistance
+SCA 6,Squirrels,Sciurus granatensis,very susceptible

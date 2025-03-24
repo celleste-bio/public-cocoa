@@ -1,0 +1,11 @@
+output_directory: "/home/public-cocoa/data/model_results"
+data_directory: '/home/public-cocoa/data/data_prep'
+target: "bean_total_wet_weight"
+test_data_20 : "/home/public-cocoa/data/data_prep/20_test.csv"
+test_data_25 : "/home/public-cocoa/data/data_prep/25_test.csv"
+train_data_80: "/home/public-cocoa/data/data_prep/80_WO_KM_8_WC.csv"
+columns_cotyledon:
+  - "bean_cotyledon_dry_weight"
+  - "bean_cotyledon_length"
+  - "bean_cotyledon_width"
+

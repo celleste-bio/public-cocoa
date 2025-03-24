@@ -1,0 +1,26 @@
+Clone name,Pathogen,Reaction
+BR 25,Phytophthora,moderate resistance
+BR 25,Witches' Broom,moderate resistance
+DR 1,Phytophthora,moderate resistance
+DR 1,Witches' Broom,moderate resistance
+ICS 40,Phytophthora,moderate resistance
+ICS 40,Witches' Broom,moderate resistance
+K 1 [PHL],Phytophthora,moderately susceptible
+K 1 [PHL],Witches' Broom,moderate resistance
+K 2 [PHL],Witches' Broom,moderate resistance
+K 9 [PHL],Phytophthora,moderate resistance
+K 9 [PHL],Witches' Broom,moderate resistance
+P7 [PHL],Phytophthora,moderate resistance
+P7 [PHL],Witches' Broom,moderate resistance
+PBC 123,Phytophthora,tolerant
+PBC 123,Witches' Broom,resistant
+S 5 [TAF],Phytophthora,moderate resistance
+S 5 [TAF],Witches' Broom,moderately susceptible
+UF 18,Phytophthora,tolerant
+UF 18,Witches' Broom,moderate resistance
+UIT 1,Phytophthora,moderate resistance
+UIT 1,Witches' Broom,moderate resistance
+USM CH 1,Phytophthora,tolerant
+USM CH 1,Witches' Broom,resistant
+USM CH 2,Phytophthora,tolerant
+USM CH 2,Witches' Broom,moderate resistance

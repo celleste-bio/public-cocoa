@@ -1,0 +1,34 @@
+Clone name,Pathogen,Reaction,Part
+BE 4,Witches' Broom,resistant,Field Reaction
+C SUL 3,Phytophthora,resistant,
+C SUL 3,Witches' Broom,resistant,Field Reaction
+C SUL 7,Phytophthora,resistant,
+C SUL 7,Witches' Broom,resistant,Field Reaction
+CA 5 [BRA],Phytophthora,resistant,
+CA 5 [BRA],Witches' Broom,resistant,Field Reaction
+CAB 5003,Phytophthora,resistant,
+CAB 5003,Witches' Broom,resistant,Field Reaction
+CCN 10,Witches' Broom,resistant,Field Reaction
+CCN 34,Witches' Broom,resistant,Field Reaction
+CCN 51,Witches' Broom,resistant,Field Reaction
+CEPEC 86,Witches' Broom,resistant,Field Reaction
+CEPEC 89,Phytophthora,resistant,
+CEPEC 89,Witches' Broom,resistant,Field Reaction
+CEPEC 90,Witches' Broom,resistant,Field Reaction
+CHU 120 [VEN],Witches' Broom,resistant,Field Reaction
+IMC 76,Phytophthora,resistant,
+IMC 76,Witches' Broom,resistant,Field Reaction
+MA 16 [BRA],Witches' Broom,resistant,Field Reaction
+MOQ 2 /16,Witches' Broom,resistant,Field Reaction
+NA 33,Phytophthora,resistant,
+NA 33,Witches' Broom,resistant,Field Reaction
+OC 67 [VEN],Witches' Broom,resistant,Field Reaction
+POUND 4 /B,Phytophthora,resistant,
+POUND 4 /B,Witches' Broom,resistant,Field Reaction
+RB 36 [BRA],Phytophthora,resistant,
+RB 36 [BRA],Witches' Broom,resistant,Field Reaction
+RB 39 [BRA],Witches' Broom,resistant,Field Reaction
+SCA 12,Phytophthora,resistant,
+SCA 12,Witches' Broom,resistant,Field Reaction
+SCA 6,Witches' Broom,resistant,Field Reaction
+SGU 26,Witches' Broom,resistant,Field Reaction

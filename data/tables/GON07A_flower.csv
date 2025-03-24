@@ -1,0 +1,21 @@
+Clone name,Self compatibility
+EET 103 [ECU],self incompatible
+EET 400 [ECU],self incompatible
+GS 36,self incompatible
+ICS 1,self incompatible
+ICS 8,self compatible
+ICS 95,self compatible
+ML 102,self incompatible
+ML 106,self incompatible
+ML 107,self incompatible
+ML 64,self incompatible
+ML 67,self incompatible
+ML 73,self compatible
+SIAL 325,self compatible
+SIAL 98,self compatible
+SIC 1,self compatible
+SNK 12,self incompatible
+SPA 9 [COL],self incompatible
+UF 168,self incompatible
+UF 221,self compatible
+UF 668,self incompatible
